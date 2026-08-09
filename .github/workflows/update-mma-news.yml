@@ -64,7 +64,7 @@ jobs:
 
           echo "Copying built site..."
           rm -rf "$TMP_DIR"/*
-          cp -R website/dist/. "$TMP_DIR/"
+          cp -R website/dist/fightonomics/. "$TMP_DIR/"
 
           cd "$TMP_DIR"
           git add --all
