@@ -44,8 +44,8 @@ jobs:
         working-directory: ./website
 
       - name: Generate page templates
-       run: node scripts/generate-mma-news-page.js
-       working-directory: ./website
+        run: node scripts/generate-mma-news-page.js
+        working-directory: ./website
 
       - name: Deploy to fightonomics GitHub Pages
         env:
