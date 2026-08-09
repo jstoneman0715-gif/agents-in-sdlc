@@ -65,6 +65,9 @@ jobs:
           echo "Copying built site..."
           rm -rf "$TMP_DIR"/*
           cp -R website/dist/. "$TMP_DIR/"
+          
+          # Remove the nested fightonomics directory since base path is handled via repo structure
+          rm -rf "$TMP_DIR/fightonomics" || true
 
           cd "$TMP_DIR"
           git add --all
