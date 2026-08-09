@@ -255,24 +255,24 @@ const heroImages = pageData.heroImages || { fighters: [], analytics: null };
 
     </div>
 
-    {articles.length > 0 ? (
+    {articles.length > 0 && (
       <div class="articles">
         {articles.map((article) => (
           <article>
             <div class="article-image">
-              {article.image && article.image.trim() !== '' ? (
+              {article.image && article.image.trim() !== '' && (
                 <img 
                   src={article.image} 
                   alt={article.title}
                   loading="lazy"
                   onerror="this.style.display='none'"
                 />
-              ) : null}
-              {!article.image || article.image.trim() === '' ? (
+              )}
+              {(!article.image || article.image.trim() === '') && (
                 <div style="width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; font-size: 2em;">
                   👤
                 </div>
-              ) : null}
+              )}
             </div>
             <div class="article-content">
               <div class="article-source">{article.source}</div>
@@ -286,8 +286,7 @@ const heroImages = pageData.heroImages || { fighters: [], analytics: null };
           </article>
         ))}
       </div>
-    ) : (
-      <div class="empty">
+    )}
         <h2>No articles available yet</h2>
         <p>Check back soon for fighter profiles and career analysis</p>
       </div>

@@ -42,6 +42,10 @@ let newsData = {
   articles: [],
 };
 
+let analysisData = {
+  analyses: [],
+};
+
 try {
   if (fs.existsSync(dataPath)) {
     const rawData = fs.readFileSync(dataPath, 'utf-8');
@@ -51,8 +55,19 @@ try {
   console.error('Error loading MMA news data:', error);
 }
 
-const articles = newsData.articles || [];
-const lastUpdated = new Date(newsData.lastUpdated);
+// Try to load analyzed data
+try {
+  const analysisPath = path.join(rootDir, 'src', 'data', 'mma-analysis.json');
+  if (fs.existsSync(analysisPath)) {
+    const rawAnalysis = fs.readFileSync(analysisPath, 'utf-8');
+    analysisData = JSON.parse(rawAnalysis);
+  }
+} catch (error) {
+  console.error('Error loading analysis data:', error);
+}
+
+// Use analyzed data if available, otherwise fall back to raw articles
+const displayData = analysisData.analyses.length > 0 ? analysisData.analyses : newsData.articles;
 
 // Generate HTML
 const html = `<!DOCTYPE html>
@@ -372,9 +387,12 @@ const html = `<!DOCTYPE html>
         <p style="color: #aaa;">Breaking MMA news and event coverage</p>
       </div>
 
-      ${articles.length > 0 ? `
+      ${displayData.length > 0 ? `
         <div class="news-grid">
-          ${articles.map((article) => `
+          ${displayData.map((item) => {
+            const article = item.originalArticle || item;
+            const take = item.ourTake || '';
+            return `
             <div class="news-card">
               <div class="news-image">
                 ${article.image ? `
@@ -386,19 +404,23 @@ const html = `<!DOCTYPE html>
               <div class="news-content">
                 <div class="news-source">${article.source}</div>
                 <h2 class="news-title">${article.title}</h2>
+                <div style="background: rgba(255, 107, 53, 0.1); padding: 1rem; border-radius: 8px; margin: 1rem 0; border-left: 3px solid #ff6b35;">
+                  <div style="font-size: 0.85em; color: #ff6b35; font-weight: 700; margin-bottom: 0.5rem;">⚡ FIGHTONOMICS TAKE:</div>
+                  <p class="news-description" style="color: #ddd; font-style: italic; margin: 0;">${take}</p>
+                </div>
                 <p class="news-description">${article.description || 'Read the full story'}</p>
                 <div class="news-footer">
                   <span class="news-date">${new Date(article.publishedAt).toLocaleDateString()}</span>
-                  <a href="${article.url}" target="_blank" rel="noopener noreferrer" class="read-more">Read →</a>
+                  <a href="${article.url}" target="_blank" rel="noopener noreferrer" class="read-more">Read Full Article →</a>
                 </div>
               </div>
             </div>
-          `).join('')}
+          `}).join('')}
         </div>
       ` : `
         <div class="empty-state">
           <h2>No articles available yet</h2>
-          <p>Check back soon for the latest MMA news</p>
+          <p>Check back soon for the latest MMA news and analysis</p>
         </div>
       `}
     </div>
