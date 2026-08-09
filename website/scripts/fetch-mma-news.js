@@ -2,6 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 
+// MMA News Fetcher - v2.1 (fixed extractFighterKeywords)
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const dataFile = path.join(__dirname, '../src/data/mma-news.json');
 
