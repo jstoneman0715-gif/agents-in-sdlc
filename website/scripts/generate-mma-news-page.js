@@ -46,6 +46,10 @@ let analysisData = {
   analyses: [],
 };
 
+let eventsData = {
+  articles: [],
+};
+
 try {
   if (fs.existsSync(dataPath)) {
     const rawData = fs.readFileSync(dataPath, 'utf-8');
@@ -64,6 +68,17 @@ try {
   }
 } catch (error) {
   console.error('Error loading analysis data:', error);
+}
+
+// Try to load events data
+try {
+  const eventsPath = path.join(rootDir, 'src', 'data', 'upcoming-events.json');
+  if (fs.existsSync(eventsPath)) {
+    const rawEvents = fs.readFileSync(eventsPath, 'utf-8');
+    eventsData = JSON.parse(rawEvents);
+  }
+} catch (error) {
+  console.error('Error loading events data:', error);
 }
 
 // Use analyzed data if available, otherwise fall back to raw articles
@@ -381,6 +396,33 @@ const html = `<!DOCTYPE html>
         <a href="/fightonomics/projected-matchups/" class="pillar-link">Projected Matchups</a>
         <a href="/fightonomics/upcoming-events/" class="pillar-link">Upcoming Events</a>
       </div>
+
+      ${eventsData.articles && eventsData.articles.length > 0 ? `
+      <div style="text-align: center; margin: 3rem 0 2rem 0; padding-bottom: 2rem; border-bottom: 1px solid #333;">
+        <h2 style="font-size: clamp(1.3rem, 3vw, 1.7rem); color: #ff6b35; margin-bottom: 0.5rem;">📅 Most Recent Events</h2>
+        <p style="color: #aaa;">Upcoming UFC and MMA events</p>
+      </div>
+
+      <div class="news-grid">
+        ${eventsData.articles.slice(0, 3).map((event) => `
+        <div class="news-card">
+          <div class="news-image">
+            ${event.image ? `
+              <img src="${event.image}" alt="${event.title}" />
+            ` : `
+              🎫
+            `}
+          </div>
+          <div class="news-content">
+            <div class="news-source">${event.source || 'UFC/MMA Event'}</div>
+            <div class="news-title">${event.title}</div>
+            <div class="news-description">${event.description || 'Upcoming MMA event'}</div>
+            <a href="${event.url}" target="_blank" class="read-more">View Event</a>
+          </div>
+        </div>
+        `).join('')}
+      </div>
+      ` : ''}
 
       <div style="text-align: center; margin-bottom: 2rem; padding-bottom: 2rem; border-bottom: 1px solid #333;">
         <h2 style="font-size: clamp(1.3rem, 3vw, 1.7rem); color: #ff6b35; margin-bottom: 0.5rem;">Latest News</h2>
