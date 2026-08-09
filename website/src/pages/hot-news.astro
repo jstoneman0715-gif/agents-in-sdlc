@@ -2,23 +2,23 @@
 import fs from 'fs';
 import path from 'path';
 
-let newsData = {
+let pageData = {
   lastUpdated: new Date().toISOString(),
   articles: [],
 };
 
 try {
-  const dataPath = path.resolve('./src/data/mma-news.json');
+  const dataPath = path.resolve('./src/data/hot-news.json');
   if (fs.existsSync(dataPath)) {
     const rawData = fs.readFileSync(dataPath, 'utf-8');
-    newsData = JSON.parse(rawData);
+    pageData = JSON.parse(rawData);
   }
 } catch (error) {
-  console.error('Error loading MMA news data:', error);
+  console.error('Error loading data:', error);
 }
 
-const articles = newsData.articles || [];
-const recentCard = articles.length > 0 ? articles[0] : null;
+const articles = pageData.articles || [];
+const heroImages = pageData.heroImages || { fighters: [], analytics: null };
 ---
 
 <!DOCTYPE html>
@@ -26,7 +26,7 @@ const recentCard = articles.length > 0 ? articles[0] : null;
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Fightonomics | MMA News</title>
+  <title>Hot News This Week | Fightonomics</title>
   <style>
     * {
       margin: 0;
@@ -56,7 +56,7 @@ const recentCard = articles.length > 0 ? articles[0] : null;
 
     h1 {
       font-size: 3em;
-      margin-bottom: 8px;
+      margin-bottom: 12px;
       color: #ff6b35;
       text-transform: uppercase;
       letter-spacing: 2px;
@@ -65,98 +65,59 @@ const recentCard = articles.length > 0 ? articles[0] : null;
     .tagline {
       font-size: 1.1em;
       color: #aaa;
-      margin-bottom: 25px;
-      font-weight: 400;
+      margin-bottom: 20px;
     }
 
-    .bio-section {
-      background: linear-gradient(135deg, #1a1a1a 0%, #2a2a2a 100%);
-      border: 1px solid #333;
-      border-radius: 8px;
-      padding: 30px;
-      margin-bottom: 40px;
-      max-width: 900px;
-      margin-left: auto;
-      margin-right: auto;
-    }
-
-    .bio-title {
+    .back-link {
       color: #ff6b35;
-      font-size: 1.2em;
-      margin-bottom: 12px;
-      font-weight: 600;
-    }
-
-    .bio-text {
-      color: #ccc;
-      font-size: 0.95em;
-      line-height: 1.7;
-    }
-
-    .pillar-nav {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-      gap: 15px;
-      margin-bottom: 50px;
-      max-width: 1000px;
-      margin-left: auto;
-      margin-right: auto;
-    }
-
-    .pillar-link {
-      background: linear-gradient(135deg, #ff6b35 0%, #ff8555 100%);
-      color: #000;
-      padding: 18px 20px;
-      border-radius: 6px;
       text-decoration: none;
-      text-align: center;
-      font-weight: 600;
       font-size: 0.95em;
-      transition: all 0.3s ease;
-      border: 2px solid transparent;
+      margin-top: 15px;
+      display: inline-block;
     }
 
-    .pillar-link:hover {
-      transform: translateY(-2px);
-      box-shadow: 0 8px 20px rgba(255, 107, 53, 0.3);
+    .back-link:hover {
+      text-decoration: underline;
     }
 
-    .featured-card {
-      background: linear-gradient(135deg, #1a1a1a 0%, #2a2a2a 100%);
-      border: 1px solid #ff6b35;
+    .hero-section {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+      margin-bottom: 50px;
+      padding-bottom: 30px;
+      border-bottom: 2px solid #333;
+    }
+
+    .hero-image {
+      width: 100%;
+      height: 250px;
       border-radius: 8px;
-      padding: 25px;
-      margin-top: 20px;
-      max-width: 800px;
-      margin-left: auto;
-      margin-right: auto;
+      overflow: hidden;
+      border: 2px solid #ff6b35;
     }
 
-    .featured-card h3 {
+    .hero-image img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .hero-label {
       color: #ff6b35;
-      font-size: 0.9em;
+      font-size: 0.85em;
       text-transform: uppercase;
       letter-spacing: 1px;
-      margin-bottom: 12px;
-    }
-
-    .featured-card h2 {
-      font-size: 1.5em;
-      color: #fff;
-      margin-bottom: 15px;
-      line-height: 1.3;
-    }
-
-    .featured-card p {
-      color: #ccc;
-      font-size: 0.95em;
-      line-height: 1.6;
+      margin-top: 8px;
+      text-align: center;
+      font-weight: 600;
     }
 
     .articles {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
       gap: 30px;
+      margin-bottom: 40px;
     }
 
     article {
@@ -250,43 +211,46 @@ const recentCard = articles.length > 0 ? articles[0] : null;
       margin-bottom: 10px;
     }
 
-    img {
-      max-width: 100%;
-      height: auto;
-      display: block;
-    }
-
-    .article-image img:not([src]) {
-      display: none;
+    @media (max-width: 768px) {
+      .hero-section {
+        grid-template-columns: 1fr;
+      }
     }
   </style>
 </head>
 <body>
   <div class="container">
     <header>
-      <h1>Fightonomics</h1>
-      <div class="tagline">MMA News, Analysis & Commentary</div>
+      <h1>Hot News This Week</h1>
+      <div class="tagline">Trending MMA Stories & Breaking Headlines</div>
+      <a href="/fightonomics/mma-news/" class="back-link">← Back to Main News</a>
     </header>
 
-    <div class="bio-section">
-      <div class="bio-title">Welcome to Fightonomics</div>
-      <div class="bio-text">
-        <p>Hi, I'm <strong>Julian Stoneman</strong>, an amateur wrestling and boxing champion with a lifelong passion for mixed martial arts. Fightonomics is my project to deliver data-driven analysis, career insights, and breaking MMA news. Whether you're interested in fighter statistics, career trajectories, or upcoming matchups, you'll find in-depth coverage here.</p>
-      </div>
-    </div>
-
-    <div class="pillar-nav">
-      <a href="/fightonomics/numbers-dont-lie/" class="pillar-link">Numbers Don't Lie</a>
-      <a href="/fightonomics/career-arcs/" class="pillar-link">Career Arcs</a>
-      <a href="/fightonomics/hot-news/" class="pillar-link">Hot News This Week</a>
-      <a href="/fightonomics/projected-matchups/" class="pillar-link">Projected Matchups</a>
-      <a href="/fightonomics/upcoming-events/" class="pillar-link">Upcoming Events</a>
-    </div>
-
-    <div style="text-align: center; margin-bottom: 40px; padding-bottom: 30px; border-bottom: 1px solid #333;">
-      <h2 style="font-size: 1.5em; color: #ff6b35; margin-bottom: 10px;">Latest News</h2>
-      <p style="color: #aaa;">Breaking MMA news and event coverage</p>
-    </div>
+    <div class="hero-section">
+      {heroImages.fighters && heroImages.fighters[0] && (
+        <div>
+          <div class="hero-image">
+            <img src={heroImages.fighters[0]} alt="Fighter" />
+          </div>
+          <div class="hero-label">Breaking Fighter News</div>
+        </div>
+      )}
+      {heroImages.fighters && heroImages.fighters[1] && (
+        <div>
+          <div class="hero-image">
+            <img src={heroImages.fighters[1]} alt="Fighter" />
+          </div>
+          <div class="hero-label">This Week's Highlights</div>
+        </div>
+      )}
+      {heroImages.analytics && (
+        <div>
+          <div class="hero-image">
+            <img src={heroImages.analytics} alt="Analytics" />
+          </div>
+          <div class="hero-label">Hot Trends</div>
+        </div>
+      )}
 
     {articles.length > 0 ? (
       <div class="articles">
@@ -303,7 +267,7 @@ const recentCard = articles.length > 0 ? articles[0] : null;
               ) : null}
               {!article.image || article.image.trim() === '' ? (
                 <div style="width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; font-size: 2em;">
-                  🥊
+                  🔥
                 </div>
               ) : null}
             </div>
@@ -321,8 +285,8 @@ const recentCard = articles.length > 0 ? articles[0] : null;
       </div>
     ) : (
       <div class="empty">
-        <h2>No articles available yet</h2>
-        <p>Check back soon for the latest MMA news</p>
+        <h2>No trending articles this week</h2>
+        <p>Check back soon for hot news and breaking headlines</p>
       </div>
     )}
   </div>
