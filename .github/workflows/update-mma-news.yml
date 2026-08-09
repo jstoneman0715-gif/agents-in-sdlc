@@ -43,3 +43,29 @@ jobs:
         run: npm run build
         working-directory: ./website
         continue-on-error: true
+
+      - name: Deploy to fightonomics GitHub Pages
+        if: ${{ secrets.PAGES_DEPLOY_TOKEN != '' }}
+        env:
+          PAGES_TOKEN: ${{ secrets.PAGES_DEPLOY_TOKEN }}
+        run: |
+          set -e
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+
+          TARGET_REPO="https://x-access-token:${PAGES_TOKEN}@github.com/jstoneman0715-gif/fightonomics.git"
+          TMP_DIR=$(mktemp -d)
+
+          echo "Cloning target repo..."
+          git clone "$TARGET_REPO" "$TMP_DIR" || (echo "Repository may be empty or unreachable - initializing empty repo" && mkdir -p "$TMP_DIR" && git init "$TMP_DIR")
+
+          echo "Copying built site..."
+          rm -rf "$TMP_DIR"/*
+          cp -R website/dist/. "$TMP_DIR/"
+
+          cd "$TMP_DIR"
+          git add --all
+          git commit -m "chore: deploy site from agents-in-sdlc (automated)" || echo "No changes to commit"
+
+          echo "Pushing to gh-pages branch..."
+          git push "$TARGET_REPO" HEAD:gh-pages --force
