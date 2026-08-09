@@ -10,6 +10,8 @@ const rootDir = path.join(__dirname, '..');
 const dataPath = path.join(rootDir, 'src', 'data', 'mma-news.json');
 const distDir = path.join(rootDir, 'dist');
 const outputDir = path.join(distDir, 'mma-news');
+const publicImagesDir = path.join(rootDir, 'public', 'fightonomics', 'agents', 'mma-news-updater', 'images');
+const distImagesDir = path.join(distDir, 'fightonomics', 'agents', 'mma-news-updater', 'images');
 
 // Ensure dist directory exists
 if (!fs.existsSync(distDir)) {
@@ -19,6 +21,20 @@ if (!fs.existsSync(distDir)) {
 // Ensure output directory exists
 if (!fs.existsSync(outputDir)) {
   fs.mkdirSync(outputDir, { recursive: true });
+}
+
+// Copy images from public to dist if they exist
+if (fs.existsSync(publicImagesDir)) {
+  if (!fs.existsSync(distImagesDir)) {
+    fs.mkdirSync(distImagesDir, { recursive: true });
+  }
+  const files = fs.readdirSync(publicImagesDir);
+  for (const file of files) {
+    const src = path.join(publicImagesDir, file);
+    const dest = path.join(distImagesDir, file);
+    fs.copyFileSync(src, dest);
+  }
+  console.log(`✓ Copied ${files.length} images to dist`);
 }
 
 let newsData = {
@@ -257,3 +273,4 @@ const html = `<!DOCTYPE html>
 // Write index.html
 fs.writeFileSync(path.join(outputDir, 'index.html'), html, 'utf-8');
 console.log('✓ Generated mma-news/index.html');
+
