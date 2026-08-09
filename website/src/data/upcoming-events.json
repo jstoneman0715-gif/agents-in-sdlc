@@ -1,0 +1,38 @@
+{
+    "heroImages":  {
+                       "fighters":  [
+
+                                    ],
+                       "analytics":  null
+                   },
+    "lastUpdated":  "2026-08-09T11:48:12.7263290Z",
+    "articles":  [
+                     {
+                         "author":  "UFC",
+                         "description":  "Top welterweight Islam Makhachev faces rising star Gabriel Machado in UFC 330 main event. Analyzing the grappling matchup and prediction.",
+                         "source":  "UFC Official",
+                         "publishedAt":  "2026-08-15T00:00:00Z",
+                         "image":  "https://imgur.com/mmaeventsample.jpg",
+                         "title":  "UFC 330: Makhachev vs. Machado - Card Preview \u0026 Predictions",
+                         "url":  "https://www.ufc.com/event/ufc-330"
+                     },
+                     {
+                         "author":  "PFL",
+                         "description":  "PFL heavyweight playoffs showcase wrestling-heavy matchups and cardio endurance battles.",
+                         "source":  "PFL Official",
+                         "publishedAt":  "2026-08-14T00:00:00Z",
+                         "image":  "https://imgur.com/pflplayoffs.jpg",
+                         "title":  "PFL Playoffs: Cardio Tested in Heavyweight Finals",
+                         "url":  "https://www.pfl.com/playoffs"
+                     },
+                     {
+                         "author":  "Bellator",
+                         "description":  "Bellator\u0027s welterweight tournament reaches semifinals with world-class grapplers competing for tournament glory.",
+                         "source":  "Bellator MMA",
+                         "publishedAt":  "2026-08-13T00:00:00Z",
+                         "image":  "https://imgur.com/bellator-ww-tournament.jpg",
+                         "title":  "Bellator 290: Welterweight Tournament Semis",
+                         "url":  "https://www.bellator.com/tournaments"
+                     }
+                 ]
+}

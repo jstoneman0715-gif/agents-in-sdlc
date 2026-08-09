@@ -1,0 +1,19 @@
+{
+    "heroImages":  {
+                       "fighters":  [
+
+                                    ],
+                       "analytics":  null
+                   },
+    "lastUpdated":  "2026-08-09T11:48:12.8178870Z",
+    "articles":  [
+                     {
+                         "description":  "Statistical analysis of how top grapplers have improved takedown defense across the last 5 years.",
+                         "source":  "MMA Analytics",
+                         "publishedAt":  "2026-08-10T00:00:00Z",
+                         "image":  "https://imgur.com/stats1.jpg",
+                         "title":  "Numbers Don\u0027t Lie: Takedown Defense Trends in Modern MMA",
+                         "url":  "https://example.com/article1"
+                     }
+                 ]
+}
