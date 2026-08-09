@@ -18,8 +18,8 @@ const githubAdmonitionMapping = {
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://github-samples.github.io',
-  base: '/copilot-workshops',
+  site: 'https://jstoneman0715-gif.github.io',
+  base: '/fightonomics',
   trailingSlash: 'always',
   markdown: {
     remarkPlugins: [
