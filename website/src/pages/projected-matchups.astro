@@ -19,6 +19,8 @@ try {
 
 const articles = pageData.articles || [];
 const heroImages = pageData.heroImages || { fighters: [], analytics: null };
+const matchups = pageData.matchups || [];
+const rankings = pageData.rankings || {};
 ---
 
 <!DOCTYPE html>
@@ -40,14 +42,65 @@ const heroImages = pageData.heroImages || { fighters: [], analytics: null };
     .hero-image { width: 100%; height: 250px; border-radius: 8px; overflow: hidden; border: 2px solid #ff6b35; }
     .hero-image img { width: 100%; height: 100%; object-fit: cover; }
     .hero-label { color: #ff6b35; font-size: 0.85em; text-transform: uppercase; letter-spacing: 1px; margin-top: 8px; text-align: center; font-weight: 600; }
-    .articles { display: grid; grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); gap: 30px; }
+    
+    .matchups-section { margin-bottom: 60px; }
+    .matchups-section h2 { font-size: 2em; color: #ff6b35; margin-bottom: 30px; text-align: center; text-transform: uppercase; }
+    
+    .division-matchups { margin-bottom: 50px; }
+    .division-title { font-size: 1.3em; color: #fff; margin-bottom: 20px; padding-bottom: 10px; border-bottom: 2px solid #ff6b35; }
+    
+    .matchup-card { 
+      background: linear-gradient(135deg, #1a1a1a 0%, #2a2a2a 100%);
+      border: 2px solid #ff6b35;
+      border-radius: 8px;
+      padding: 25px;
+      margin-bottom: 20px;
+      display: grid;
+      grid-template-columns: 1fr auto 1fr;
+      gap: 30px;
+      align-items: center;
+    }
+    
+    .fighter-info {
+      text-align: center;
+      padding: 15px;
+      background: #0f0f0f;
+      border-radius: 6px;
+    }
+    
+    .fighter-rank { color: #ff6b35; font-size: 0.8em; text-transform: uppercase; letter-spacing: 1px; font-weight: 700; }
+    .fighter-name { font-size: 1.3em; font-weight: 600; margin: 10px 0; }
+    .fighter-record { color: #aaa; font-size: 0.9em; }
+    
+    .vs-divider { 
+      text-align: center;
+      font-size: 1.5em;
+      font-weight: bold;
+      color: #ff6b35;
+    }
+    
+    .matchup-type { 
+      position: absolute;
+      top: 10px;
+      right: 15px;
+      background: #ff6b35;
+      color: #000;
+      padding: 5px 12px;
+      border-radius: 4px;
+      font-size: 0.8em;
+      font-weight: 600;
+    }
+    
+    .matchup-card { position: relative; }
+    
+    .articles { display: grid; grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); gap: 30px; margin-top: 40px; }
     article { background: #1a1a1a; border: 1px solid #333; border-radius: 4px; overflow: hidden; transition: all 0.3s ease; }
     article:hover { border-color: #ff6b35; box-shadow: 0 0 20px rgba(255, 107, 53, 0.2); }
     .article-image { width: 100%; height: 220px; background: #2a2a2a; display: flex; align-items: center; justify-content: center; overflow: hidden; }
     .article-image img { width: 100%; height: 100%; object-fit: cover; }
     .article-content { padding: 20px; }
     .article-source { font-size: 0.75em; color: #ff6b35; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px; font-weight: 600; }
-    h2 { font-size: 1.2em; margin-bottom: 12px; line-height: 1.4; color: #fff; }
+    h3 { font-size: 1.2em; margin-bottom: 12px; line-height: 1.4; color: #fff; }
     .article-description { font-size: 0.95em; color: #ccc; margin-bottom: 15px; line-height: 1.5; }
     .article-footer { display: flex; justify-content: space-between; align-items: center; padding-top: 15px; border-top: 1px solid #333; }
     .article-date { font-size: 0.85em; color: #888; }
@@ -55,7 +108,10 @@ const heroImages = pageData.heroImages || { fighters: [], analytics: null };
     a.read-more:hover { color: #ff8555; }
     .empty { text-align: center; padding: 60px 20px; color: #888; }
     .empty h2 { color: #ff6b35; margin-bottom: 10px; }
-    @media (max-width: 768px) { .hero-section { grid-template-columns: 1fr; } }
+    @media (max-width: 768px) { 
+      .hero-section { grid-template-columns: 1fr; }
+      .matchup-card { grid-template-columns: 1fr; }
+    }
   </style>
 </head>
 <body>
@@ -92,6 +148,70 @@ const heroImages = pageData.heroImages || { fighters: [], analytics: null };
         </div>
       )}
     </div>
+
+    {matchups && matchups.length > 0 && (
+      <div class="matchups-section">
+        <h2>Top 5 Rankings By Division</h2>
+        
+        {Object.entries(rankings).map(([division, fighters]) => (
+          <div class="division-matchups">
+            <div class="division-title">{division}</div>
+            {matchups
+              .filter(m => m.division === division)
+              .map((matchup) => (
+                <div class="matchup-card">
+                  <div class="matchup-type">{matchup.type}</div>
+                  
+                  <div class="fighter-info">
+                    <div class="fighter-rank">#{matchup.fighter1.rank} Ranked</div>
+                    <div class="fighter-name">{matchup.fighter1.name}</div>
+                    <div class="fighter-record">{matchup.fighter1.record}</div>
+                  </div>
+                  
+                  <div class="vs-divider">VS</div>
+                  
+                  <div class="fighter-info">
+                    <div class="fighter-rank">#{matchup.fighter2.rank} Ranked</div>
+                    <div class="fighter-name">{matchup.fighter2.name}</div>
+                    <div class="fighter-record">{matchup.fighter2.record}</div>
+                  </div>
+                </div>
+              ))}
+          </div>
+        ))}
+      </div>
+    )}
+
+    {articles.length > 0 ? (
+      <div class="articles">
+        {articles.map((article) => (
+          <article>
+            <div class="article-image">
+              {article.image && article.image.trim() !== '' ? (
+                <img src={article.image} alt={article.title} loading="lazy" onerror="this.style.display='none'" />
+              ) : null}
+              {!article.image || article.image.trim() === '' ? (
+                <div style="width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; font-size: 2em;">🥊</div>
+              ) : null}
+            </div>
+            <div class="article-content">
+              <div class="article-source">{article.source}</div>
+              <h3>{article.title}</h3>
+              <p class="article-description">{article.description || 'Read the full story'}</p>
+              <div class="article-footer">
+                <span class="article-date">{new Date(article.publishedAt).toLocaleDateString()}</span>
+                <a href={article.url} target="_blank" rel="noopener noreferrer" class="read-more">Read →</a>
+              </div>
+            </div>
+          </article>
+        ))}
+      </div>
+    ) : (
+      <div class="empty">
+        <h2>No matchup predictions available</h2>
+        <p>Check back soon for fight predictions and odds</p>
+      </div>
+    )}
 
     {articles.length > 0 ? (
       <div class="articles">
