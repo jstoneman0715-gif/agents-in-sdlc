@@ -164,6 +164,8 @@ async function fetchAnalyticsImage() {
   
   return null;
 }
+
+function extractFighterKeywords(text) {
   if (!text) return [];
   
   // Extended list of MMA fighters and sports-related terms
