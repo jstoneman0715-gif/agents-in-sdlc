@@ -5,6 +5,29 @@ import { fileURLToPath } from 'url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const dataFile = path.join(__dirname, '../src/data/mma-news.json');
 
+// Helper to download images into website/public so they are served by GitHub Pages.
+async function downloadImageToPublic(url, slugBase) {
+  if (!url) return null;
+  try {
+    const res = await fetch(url);
+    if (!res.ok) return null;
+    const contentType = res.headers.get('content-type') || '';
+    const ext = contentType.split('/').pop().split(';')[0] || 'jpg';
+    const safeExt = ext.split('?')[0];
+    const fileName = `${slugBase}.${safeExt}`;
+    const imagesDir = path.join(__dirname, '../public/fightonomics/agents/mma-news-updater/images');
+    if (!fs.existsSync(imagesDir)) fs.mkdirSync(imagesDir, { recursive: true });
+    const outPath = path.join(imagesDir, fileName);
+    const arrayBuffer = await res.arrayBuffer();
+    fs.writeFileSync(outPath, Buffer.from(arrayBuffer));
+    // Return the absolute path used by the site (site is hosted at /fightonomics)
+    return `/fightonomics/agents/mma-news-updater/images/${fileName}`;
+  } catch (e) {
+    return null;
+  }
+}
+
+
 // Extract fighter names and keywords from text
 function extractFighterKeywords(text) {
   if (!text) return [];
@@ -114,11 +137,18 @@ async function fetchMMANews() {
           image = await fetchFighterImage(article.title);
         }
         
+        // If image exists, attempt to download and use local path
+        let localImage = null;
+        if (image) {
+          const slugBase = (article.title || 'fighter').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '') + `-${Date.now()}`;
+          localImage = await downloadImageToPublic(image, slugBase);
+        }
+
         return {
           title: article.title,
           description: article.description,
           url: article.url,
-          image: image,
+          image: localImage || image || null,
           source: article.source.name,
           publishedAt: article.publishedAt,
           author: article.author,
