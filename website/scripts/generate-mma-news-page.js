@@ -76,6 +76,9 @@ try {
   if (fs.existsSync(eventsPath)) {
     const rawEvents = fs.readFileSync(eventsPath, 'utf-8');
     eventsData = JSON.parse(rawEvents);
+    console.log(`✓ Loaded events data: ${eventsData.articles?.length || 0} articles`);
+  } else {
+    console.log(`⚠️  Events file not found at: ${eventsPath}`);
   }
 } catch (error) {
   console.error('Error loading events data:', error);
@@ -472,4 +475,7 @@ const html = `<!DOCTYPE html>
 // Write index.html
 fs.writeFileSync(path.join(outputDir, 'index.html'), html, 'utf-8');
 console.log('✓ Generated mma-news/index.html');
+console.log(`  - Rendered ${displayData.length} articles in Latest News section`);
+console.log(`  - Rendered ${eventsData.articles?.length || 0} events in Events section`);
+console.log(`  - Total HTML size: ${(html.length / 1024).toFixed(1)}KB`);
 
