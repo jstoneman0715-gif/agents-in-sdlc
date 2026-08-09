@@ -40,8 +40,8 @@ jobs:
           cd website
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add src/data/mma-news.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update MMA news" && git push)
+          git add src/data/mma-news.json src/data/mma-analysis.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update MMA news and analysis" && git push)
 
       - name: Build site
         run: npm run build
