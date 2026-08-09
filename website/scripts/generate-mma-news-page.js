@@ -60,7 +60,42 @@ const html = `<!DOCTYPE html>
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>MMA News</title>
+    <title>MMA News - Fightonomics | Fighter Analysis & Breaking Updates</title>
+    <meta name="description" content="Daily MMA news, fighter analysis, and combat sports coverage by Julian Stoneman. Get breaking UFC updates, career insights, and data-driven analysis of the latest fights." />
+    <meta name="keywords" content="MMA news, UFC news, fighter analysis, combat sports, boxing, wrestling, MMA rankings" />
+    <meta name="author" content="Julian Stoneman" />
+    <link rel="canonical" href="https://jstoneman0715-gif.github.io/fightonomics/mma-news/" />
+    
+    <!-- Open Graph Tags -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://jstoneman0715-gif.github.io/fightonomics/mma-news/" />
+    <meta property="og:title" content="MMA News - Fightonomics | Fighter Analysis & Breaking Updates" />
+    <meta property="og:description" content="Daily MMA news and data-driven fighter analysis by Julian Stoneman. Breaking UFC updates, rankings, and combat sports coverage." />
+    <meta property="og:image" content="https://jstoneman0715-gif.github.io/fightonomics/og-image.png" />
+    <meta property="og:site_name" content="Fightonomics" />
+    <meta property="og:locale" content="en_US" />
+    
+    <!-- Twitter Tags -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="MMA News - Fightonomics" />
+    <meta name="twitter:description" content="Daily MMA news and fighter analysis by Julian Stoneman" />
+    
+    <!-- Schema.org Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Fightonomics",
+      "url": "https://jstoneman0715-gif.github.io/fightonomics/",
+      "description": "MMA news, fighter analysis, and combat sports coverage",
+      "author": {
+        "@type": "Person",
+        "name": "Julian Stoneman",
+        "description": "Amateur wrestling and boxing champion, lifelong MMA fan"
+      }
+    }
+    </script>
+    
     <style>
       * {
         margin: 0;
