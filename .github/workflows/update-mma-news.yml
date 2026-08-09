@@ -70,5 +70,5 @@ jobs:
           git add --all
           git commit -m "chore: deploy site from agents-in-sdlc (automated)" || echo "No changes to commit"
 
-          echo "Pushing to gh-pages branch..."
-          git push "$TARGET_REPO" HEAD:gh-pages --force 2>&1 | grep -v token
+          echo "Pushing to main branch..."
+          git push "$TARGET_REPO" HEAD:main --force 2>&1 | grep -v token
