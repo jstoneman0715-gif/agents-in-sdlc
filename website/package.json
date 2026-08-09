@@ -11,7 +11,8 @@
     "astro": "astro",
     "check": "astro check",
     "check:tsgo": "tsgo --noEmit -p tsconfig.tsgo.json",
-    "check:all": "npm run check && npm run check:tsgo"
+    "check:all": "npm run check && npm run check:tsgo",
+    "fetch-news": "node scripts/fetch-mma-news.js"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.9",
