@@ -69,67 +69,139 @@ const html = `<!DOCTYPE html>
       }
 
       body {
-        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        background: linear-gradient(180deg, #0a0a0a 0%, #1a1a1a 100%);
+        color: #e0e0e0;
+        line-height: 1.6;
         min-height: 100vh;
-        padding: 20px;
       }
 
       .container {
-        max-width: 1200px;
+        max-width: 1280px;
         margin: 0 auto;
+        padding: 2rem 1rem;
       }
 
       header {
         text-align: center;
-        color: white;
-        margin-bottom: 40px;
-        padding: 40px 20px;
+        margin-bottom: 3rem;
+        padding-bottom: 2rem;
+        border-bottom: 3px solid #ff6b35;
+        animation: slideDown 0.6s ease;
+      }
+
+      @keyframes slideDown {
+        from { opacity: 0; transform: translateY(-20px); }
+        to { opacity: 1; transform: translateY(0); }
       }
 
       header h1 {
-        font-size: 2.5em;
-        margin-bottom: 10px;
-        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+        font-size: clamp(2rem, 8vw, 3.5rem);
+        margin-bottom: 0.5rem;
+        color: #ff6b35;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+        font-weight: 900;
       }
 
-      .update-info {
-        font-size: 0.9em;
-        opacity: 0.9;
-        margin-top: 15px;
+      .tagline {
+        font-size: clamp(1rem, 3vw, 1.25rem);
+        color: #aaa;
+        margin-bottom: 1.5rem;
+        font-weight: 300;
+        letter-spacing: 1px;
+      }
+
+      .bio-section {
+        background: linear-gradient(135deg, rgba(26, 26, 26, 0.8) 0%, rgba(42, 42, 42, 0.8) 100%);
+        backdrop-filter: blur(10px);
+        border: 1px solid rgba(255, 107, 53, 0.2);
+        border-radius: 12px;
+        padding: clamp(1.5rem, 4vw, 2.5rem);
+        margin: 0 auto 2.5rem;
+        max-width: 900px;
+        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+      }
+
+      .bio-title {
+        color: #ff6b35;
+        font-size: clamp(1.1rem, 2.5vw, 1.4rem);
+        margin-bottom: 1rem;
+        font-weight: 700;
+      }
+
+      .bio-text {
+        color: #ccc;
+        font-size: clamp(0.95rem, 2vw, 1.05rem);
+        line-height: 1.8;
+      }
+
+      .pillar-nav {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+        gap: 1rem;
+        margin-bottom: 3rem;
+        max-width: 1100px;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      .pillar-link {
+        background: linear-gradient(135deg, #ff6b35 0%, #ff8555 100%);
+        color: #000;
+        padding: clamp(1rem, 2vw, 1.2rem) 1.5rem;
+        border-radius: 8px;
+        text-decoration: none;
+        text-align: center;
+        font-weight: 700;
+        font-size: clamp(0.9rem, 1.5vw, 1rem);
+        transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+        border: 2px solid transparent;
+        box-shadow: 0 4px 15px rgba(255, 107, 53, 0.2);
+        cursor: pointer;
+        display: inline-block;
+        margin: 0 auto;
+      }
+
+      .pillar-link:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 12px 30px rgba(255, 107, 53, 0.4);
+        background: linear-gradient(135deg, #ff8555 0%, #ff6b35 100%);
       }
 
       .news-grid {
         display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
-        gap: 20px;
-        margin-bottom: 40px;
+        grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+        gap: 2rem;
+        margin-bottom: 3rem;
       }
 
       .news-card {
-        background: white;
+        background: linear-gradient(135deg, #1a1a1a 0%, #262626 100%);
+        border: 1px solid #333;
         border-radius: 12px;
         overflow: hidden;
-        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
-        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        transition: all 0.3s ease;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
         display: flex;
         flex-direction: column;
       }
 
       .news-card:hover {
-        transform: translateY(-8px);
-        box-shadow: 0 8px 30px rgba(0, 0, 0, 0.25);
+        border-color: #ff6b35;
+        transform: translateY(-4px);
+        box-shadow: 0 12px 30px rgba(255, 107, 53, 0.25);
       }
 
       .news-image {
         width: 100%;
-        height: 200px;
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        height: 220px;
+        background: #2a2a2a;
         display: flex;
         align-items: center;
         justify-content: center;
-        color: white;
-        font-size: 0.9em;
+        color: #ff6b35;
+        font-size: 2em;
         overflow: hidden;
       }
 
@@ -137,37 +209,42 @@ const html = `<!DOCTYPE html>
         width: 100%;
         height: 100%;
         object-fit: cover;
+        transition: transform 0.3s ease;
+      }
+
+      .news-card:hover .news-image img {
+        transform: scale(1.05);
       }
 
       .news-content {
-        padding: 20px;
+        padding: 1.5rem;
         display: flex;
         flex-direction: column;
         flex-grow: 1;
       }
 
       .news-source {
-        font-size: 0.85em;
-        color: #667eea;
-        font-weight: 600;
-        margin-bottom: 8px;
+        font-size: 0.75em;
+        color: #ff6b35;
         text-transform: uppercase;
-        letter-spacing: 0.5px;
+        letter-spacing: 1.5px;
+        margin-bottom: 0.75rem;
+        font-weight: 700;
       }
 
       .news-title {
-        font-size: 1.2em;
+        font-size: clamp(1.1rem, 2vw, 1.4rem);
         font-weight: 700;
-        color: #222;
-        margin-bottom: 12px;
+        color: #fff;
+        margin-bottom: 1rem;
         line-height: 1.4;
       }
 
       .news-description {
         font-size: 0.95em;
-        color: #666;
+        color: #bbb;
         line-height: 1.6;
-        margin-bottom: 15px;
+        margin-bottom: 1.25rem;
         flex-grow: 1;
       }
 
@@ -175,67 +252,83 @@ const html = `<!DOCTYPE html>
         display: flex;
         justify-content: space-between;
         align-items: center;
-        border-top: 1px solid #eee;
-        padding-top: 15px;
+        border-top: 1px solid #333;
+        padding-top: 1rem;
+        flex-wrap: wrap;
+        gap: 0.5rem;
       }
 
       .news-date {
         font-size: 0.85em;
-        color: #999;
+        color: #888;
       }
 
       .read-more {
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-        color: white;
+        color: #ff6b35;
         text-decoration: none;
-        padding: 8px 16px;
-        border-radius: 6px;
-        font-weight: 600;
-        font-size: 0.9em;
-        transition: opacity 0.3s ease;
+        font-weight: 700;
+        transition: all 0.3s ease;
+        display: inline-flex;
+        align-items: center;
+        gap: 0.5rem;
       }
 
       .read-more:hover {
-        opacity: 0.9;
+        color: #ff8555;
+        gap: 0.75rem;
       }
 
       .empty-state {
         text-align: center;
-        color: white;
-        padding: 60px 20px;
+        padding: 4rem 2rem;
+        color: #888;
       }
 
       .empty-state h2 {
-        font-size: 2em;
-        margin-bottom: 10px;
+        color: #ff6b35;
+        margin-bottom: 1rem;
+        font-size: clamp(1.2rem, 3vw, 1.6rem);
       }
 
-      .empty-state p {
-        font-size: 1.1em;
-        opacity: 0.9;
+      @media (max-width: 1024px) {
+        .pillar-nav { gap: 0.75rem; }
       }
 
       @media (max-width: 768px) {
-        header h1 {
-          font-size: 2em;
-        }
-
-        .news-grid {
-          grid-template-columns: 1fr;
-        }
+        .container { padding: 1rem; }
+        header h1 { letter-spacing: 2px; }
+        .pillar-nav { grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.75rem; }
+        .news-grid { grid-template-columns: 1fr; gap: 1.5rem; }
+        .news-footer { flex-direction: column; align-items: flex-start; }
       }
     </style>
   </head>
   <body>
     <div class="container">
       <header>
-        <h1>🥊 MMA News</h1>
-        <p>Latest Mixed Martial Arts News & Updates</p>
-        <div class="update-info">
-          <p>Last updated: ${lastUpdated.toLocaleString()}</p>
-          <p>Updates twice daily at 12:00 AM and 12:00 PM UTC</p>
-        </div>
+        <h1>Fightonomics</h1>
+        <div class="tagline">MMA News, Analysis & Commentary</div>
       </header>
+
+      <div class="bio-section">
+        <div class="bio-title">Welcome to Fightonomics</div>
+        <div class="bio-text">
+          <p>Hi, I'm <strong>Julian Stoneman</strong>, an amateur wrestling and boxing champion with a lifelong passion for mixed martial arts. Fightonomics is my project to deliver data-driven analysis, career insights, and breaking MMA news. Whether you're interested in fighter statistics, career trajectories, or upcoming matchups, you'll find in-depth coverage here.</p>
+        </div>
+      </div>
+
+      <div class="pillar-nav">
+        <a href="/fightonomics/numbers-dont-lie/" class="pillar-link">Numbers Don't Lie</a>
+        <a href="/fightonomics/career-arcs/" class="pillar-link">Career Arcs</a>
+        <a href="/fightonomics/hot-news/" class="pillar-link">Hot News This Week</a>
+        <a href="/fightonomics/projected-matchups/" class="pillar-link">Projected Matchups</a>
+        <a href="/fightonomics/upcoming-events/" class="pillar-link">Upcoming Events</a>
+      </div>
+
+      <div style="text-align: center; margin-bottom: 2rem; padding-bottom: 2rem; border-bottom: 1px solid #333;">
+        <h2 style="font-size: clamp(1.3rem, 3vw, 1.7rem); color: #ff6b35; margin-bottom: 0.5rem;">Latest News</h2>
+        <p style="color: #aaa;">Breaking MMA news and event coverage</p>
+      </div>
 
       ${articles.length > 0 ? `
         <div class="news-grid">
@@ -245,16 +338,16 @@ const html = `<!DOCTYPE html>
                 ${article.image ? `
                   <img src="${article.image}" alt="${article.title}" />
                 ` : `
-                  <span>🥊 MMA News</span>
+                  🥊
                 `}
               </div>
               <div class="news-content">
                 <div class="news-source">${article.source}</div>
                 <h2 class="news-title">${article.title}</h2>
-                <p class="news-description">${article.description || 'No description available'}</p>
+                <p class="news-description">${article.description || 'Read the full story'}</p>
                 <div class="news-footer">
                   <span class="news-date">${new Date(article.publishedAt).toLocaleDateString()}</span>
-                  <a href="${article.url}" target="_blank" rel="noopener noreferrer" class="read-more">Read More</a>
+                  <a href="${article.url}" target="_blank" rel="noopener noreferrer" class="read-more">Read →</a>
                 </div>
               </div>
             </div>
@@ -263,7 +356,7 @@ const html = `<!DOCTYPE html>
       ` : `
         <div class="empty-state">
           <h2>No articles available yet</h2>
-          <p>Check back soon! The system fetches fresh MMA news twice daily.</p>
+          <p>Check back soon for the latest MMA news</p>
         </div>
       `}
     </div>
