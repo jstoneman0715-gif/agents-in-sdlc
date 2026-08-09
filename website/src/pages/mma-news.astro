@@ -18,7 +18,7 @@ try {
 }
 
 const articles = newsData.articles || [];
-const lastUpdated = new Date(newsData.lastUpdated);
+const recentCard = articles.length > 0 ? articles[0] : null;
 ---
 
 <!DOCTYPE html>
@@ -26,7 +26,7 @@ const lastUpdated = new Date(newsData.lastUpdated);
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>MMA News</title>
+  <title>Fightonomics | MMA News</title>
   <style>
     * {
       margin: 0;
@@ -56,16 +56,49 @@ const lastUpdated = new Date(newsData.lastUpdated);
 
     h1 {
       font-size: 3em;
-      margin-bottom: 10px;
+      margin-bottom: 8px;
       color: #ff6b35;
       text-transform: uppercase;
       letter-spacing: 2px;
     }
 
-    .meta {
+    .tagline {
+      font-size: 1.1em;
+      color: #ff6b35;
+      margin-bottom: 25px;
+      font-weight: 500;
+    }
+
+    .featured-card {
+      background: linear-gradient(135deg, #1a1a1a 0%, #2a2a2a 100%);
+      border: 1px solid #ff6b35;
+      border-radius: 8px;
+      padding: 25px;
+      margin-top: 20px;
+      max-width: 800px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .featured-card h3 {
+      color: #ff6b35;
+      font-size: 0.9em;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 12px;
+    }
+
+    .featured-card h2 {
+      font-size: 1.5em;
+      color: #fff;
+      margin-bottom: 15px;
+      line-height: 1.3;
+    }
+
+    .featured-card p {
+      color: #ccc;
       font-size: 0.95em;
-      color: #aaa;
-      margin-top: 15px;
+      line-height: 1.6;
     }
 
     .articles {
@@ -164,16 +197,30 @@ const lastUpdated = new Date(newsData.lastUpdated);
       color: #ff6b35;
       margin-bottom: 10px;
     }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+    }
+
+    .article-image img:not([src]) {
+      display: none;
+    }
   </style>
 </head>
 <body>
   <div class="container">
     <header>
-      <h1>🥊 MMA News</h1>
-      <div class="meta">
-        <p>Last updated: {lastUpdated.toLocaleString()}</p>
-        <p>Auto-updates twice daily</p>
-      </div>
+      <h1>🥊 Fightonomics</h1>
+      <div class="tagline">MMA News & Analysis</div>
+      {recentCard && (
+        <div class="featured-card">
+          <h3>📰 Recent Card Recap</h3>
+          <h2>{recentCard.title}</h2>
+          <p>{recentCard.description || 'The latest from the octagon and beyond.'}</p>
+        </div>
+      )}
     </header>
 
     {articles.length > 0 ? (
@@ -181,13 +228,19 @@ const lastUpdated = new Date(newsData.lastUpdated);
         {articles.map((article) => (
           <article>
             <div class="article-image">
-              {article.image ? (
-                <img src={article.image} alt={article.title} />
-              ) : (
+              {article.image && article.image.trim() !== '' ? (
+                <img 
+                  src={article.image} 
+                  alt={article.title}
+                  loading="lazy"
+                  onerror="this.style.display='none'"
+                />
+              ) : null}
+              {!article.image || article.image.trim() === '' ? (
                 <div style="width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; font-size: 2em;">
                   🥊
                 </div>
-              )}
+              ) : null}
             </div>
             <div class="article-content">
               <div class="article-source">{article.source}</div>

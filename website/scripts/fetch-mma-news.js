@@ -67,42 +67,54 @@ async function fetchFighterImage(searchQuery) {
     try {
       // Try Unsplash first (high-quality free images)
       const unsplashRes = await fetch(
-        `https://api.unsplash.com/search/photos?query=${encodeURIComponent(query)}&per_page=3&order_by=relevant&client_id=cJv9DBiCqRZBj6t9vGtcnG9Yj2h7vAP2iXjfW2RzWH0`
+        `https://api.unsplash.com/search/photos?query=${encodeURIComponent(query)}&per_page=5&order_by=relevant&client_id=cJv9DBiCqRZBj6t9vGtcnG9Yj2h7vAP2iXjfW2RzWH0`
       ).then(r => r.ok ? r.json() : null);
       
       if (unsplashRes?.results?.length > 0) {
-        // Pick the most relevant one (usually index 0)
-        const img = unsplashRes.results[0];
-        if (img.urls?.regular && img.likes > 10) {  // Prefer popular images
-          console.log(`  📸 Found Unsplash image for: ${query} (${img.likes} likes)`);
+        // Find best quality image (high resolution, well-liked)
+        const img = unsplashRes.results.find(i => 
+          i.urls?.regular && 
+          i.width > 640 && 
+          i.height > 400 &&
+          (i.likes > 5 || i.views > 100)
+        ) || unsplashRes.results[0];
+        
+        if (img && img.urls?.regular) {
+          console.log(`  📸 Found Unsplash image for: ${query} (${img.likes} likes, ${img.width}x${img.height})`);
           return img.urls.regular;
         }
       }
     } catch (e) {
-      // Continue to next source
+      console.warn(`  ⚠️ Unsplash error: ${e.message}`);
     }
     
     try {
       // Try Pexels (high-quality free images)
       const pexelsRes = await fetch(
-        `https://api.pexels.com/v1/search?query=${encodeURIComponent(query)}&per_page=3`
+        `https://api.pexels.com/v1/search?query=${encodeURIComponent(query)}&per_page=5`
       ).then(r => r.ok ? r.json() : null);
       
       if (pexelsRes?.photos?.length > 0) {
-        const photo = pexelsRes.photos[0];
-        if (photo.src?.large2x) {
-          console.log(`  📸 Found Pexels image for: ${query}`);
-          return photo.src.large2x;  // High-res version
+        const photo = pexelsRes.photos.find(p => 
+          p.src?.large2x && 
+          p.width > 640 && 
+          p.height > 400
+        ) || pexelsRes.photos[0];
+        
+        if (photo && (photo.src?.large2x || photo.src?.large)) {
+          const url = photo.src.large2x || photo.src.large;
+          console.log(`  📸 Found Pexels image for: ${query} (${photo.width}x${photo.height})`);
+          return url;
         }
       }
     } catch (e) {
-      // Continue to next source
+      console.warn(`  ⚠️ Pexels error: ${e.message}`);
     }
     
     try {
       // Try Pixabay (high-quality free images)
       const pixabayRes = await fetch(
-        `https://pixabay.com/api/?q=${encodeURIComponent(query)}&image_type=photo&per_page=3&order=popular&key=43292100-68a1cc19f7c3b4d8a1ff3e000`
+        `https://pixabay.com/api/?q=${encodeURIComponent(query)}&image_type=photo&per_page=5&order=popular&min_width=640&min_height=400&key=43292100-68a1cc19f7c3b4d8a1ff3e000`
       ).then(r => r.ok ? r.json() : null);
       
       if (pixabayRes?.hits?.length > 0) {
@@ -113,7 +125,7 @@ async function fetchFighterImage(searchQuery) {
         }
       }
     } catch (e) {
-      // Continue to next source
+      console.warn(`  ⚠️ Pixabay error: ${e.message}`);
     }
   }
   
