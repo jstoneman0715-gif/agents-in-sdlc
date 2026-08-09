@@ -5,7 +5,94 @@ import { fileURLToPath } from 'url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const dataFile = path.join(__dirname, '../src/data/mma-news.json');
 
-// Helper to download images into website/public so they are served by GitHub Pages.
+// UFC Rankings - Top 5 per division (2026 meta)
+const rankings = {
+  'Heavyweight': [
+    { rank: 1, name: 'Jon Jones', record: '27-1', wins: 27 },
+    { rank: 2, name: 'Stipe Miocic', record: '21-4', wins: 21 },
+    { rank: 3, name: 'Tom Aspinall', record: '14-1', wins: 14 },
+    { rank: 4, name: 'Sergei Pavlovich', record: '16-1', wins: 16 },
+    { rank: 5, name: 'Ciryl Gane', record: '12-1', wins: 12 },
+  ],
+  'Light Heavyweight': [
+    { rank: 1, name: 'Alex Pereira', record: '11-2', wins: 11 },
+    { rank: 2, name: 'Jamahal Hill', record: '12-0', wins: 12 },
+    { rank: 3, name: 'Glover Teixeira', record: '33-9', wins: 33 },
+    { rank: 4, name: 'Ankalaev', record: '16-1', wins: 16 },
+    { rank: 5, name: 'Jiri Prochazka', record: '30-3', wins: 30 },
+  ],
+  'Middleweight': [
+    { rank: 1, name: 'Sean Strickland', record: '29-6', wins: 29 },
+    { rank: 2, name: 'Israel Adesanya', record: '24-3', wins: 24 },
+    { rank: 3, name: 'Dricus du Plessis', record: '20-2', wins: 20 },
+    { rank: 4, name: 'Paulo Costa', record: '14-2', wins: 14 },
+    { rank: 5, name: 'Kelvin Gastelum', record: '17-7', wins: 17 },
+  ],
+  'Welterweight': [
+    { rank: 1, name: 'Kamaru Usman', record: '35-3', wins: 35 },
+    { rank: 2, name: 'Leon Edwards', record: '21-3', wins: 21 },
+    { rank: 3, name: 'Belal Muhammad', record: '23-3', wins: 23 },
+    { rank: 4, name: 'Colby Covington', record: '17-3', wins: 17 },
+    { rank: 5, name: 'Tyron Woodley', record: '20-7', wins: 20 },
+  ],
+  'Lightweight': [
+    { rank: 1, name: 'Islam Makhachev', record: '26-1', wins: 26 },
+    { rank: 2, name: 'Arman Tsarukyan', record: '18-3', wins: 18 },
+    { rank: 3, name: 'Dustin Poirier', record: '29-7', wins: 29 },
+    { rank: 4, name: 'Max Holloway', record: '26-7', wins: 26 },
+    { rank: 5, name: 'Conor McGregor', record: '25-6', wins: 25 },
+  ],
+  'Featherweight': [
+    { rank: 1, name: 'Alexander Volkanovski', record: '25-1', wins: 25 },
+    { rank: 2, name: 'Ilia Topuria', record: '15-0', wins: 15 },
+    { rank: 3, name: 'Yair Rodriguez', record: '16-3', wins: 16 },
+    { rank: 4, name: 'Brian Ortega', record: '16-2', wins: 16 },
+    { rank: 5, name: 'Giga Chikadze', record: '14-2', wins: 14 },
+  ],
+  'Bantamweight': [
+    { rank: 1, name: 'Sean O\'Malley', record: '17-2', wins: 17 },
+    { rank: 2, name: 'Merab Dvalishvili', record: '16-4', wins: 16 },
+    { rank: 3, name: 'Henry Cejudo', record: '16-2', wins: 16 },
+    { rank: 4, name: 'Dominick Cruz', record: '23-3', wins: 23 },
+    { rank: 5, name: 'Jose Aldo', record: '32-8', wins: 32 },
+  ],
+  'Flyweight': [
+    { rank: 1, name: 'Alexandre Pantoja', record: '24-5', wins: 24 },
+    { rank: 2, name: 'Brandon Moreno', record: '20-6', wins: 20 },
+    { rank: 3, name: 'Deiveson Figueiredo', record: '22-2', wins: 22 },
+    { rank: 4, name: 'Kai Kara-France', record: '24-9', wins: 24 },
+    { rank: 5, name: 'Amir Khan', record: '19-6', wins: 19 },
+  ],
+};
+
+function generateMatchups() {
+  const matchups = [];
+  
+  for (const [division, fighters] of Object.entries(rankings)) {
+    // Create interesting matchups: 1 vs 2, 3 vs 4, and feature top 5
+    if (fighters.length >= 2) {
+      matchups.push({
+        division,
+        matchup: 1,
+        fighter1: fighters[0],
+        fighter2: fighters[1],
+        type: 'Title Contender',
+      });
+    }
+    
+    if (fighters.length >= 4) {
+      matchups.push({
+        division,
+        matchup: 2,
+        fighter1: fighters[2],
+        fighter2: fighters[3],
+        type: 'Title Eliminator',
+      });
+    }
+  }
+  
+  return matchups;
+}
 async function downloadImageToPublic(url, slugBase) {
   if (!url) return null;
   try {
@@ -305,7 +392,12 @@ async function fetchMMANews() {
 
     fs.writeFileSync(
       path.join(dataDir, 'projected-matchups.json'),
-      JSON.stringify({ ...baseData, articles: matchupsArticles }, null, 2)
+      JSON.stringify({ 
+        ...baseData, 
+        articles: matchupsArticles,
+        matchups: generateMatchups(),
+        rankings: rankings,
+      }, null, 2)
     );
 
     // Hot News This Week - get articles from the past 7 days
