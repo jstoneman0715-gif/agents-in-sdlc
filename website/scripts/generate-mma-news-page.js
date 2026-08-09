@@ -87,6 +87,24 @@ try {
 // Use analyzed data if available, otherwise fall back to raw articles
 const displayData = analysisData.analyses.length > 0 ? analysisData.analyses : newsData.articles;
 
+console.log(`\n=== HTML GENERATION DEBUG ===`);
+console.log(`News data loaded: ${newsData.articles?.length || 0} articles`);
+console.log(`Events data loaded: ${eventsData.articles?.length || 0} events`);
+console.log(`Analysis data loaded: ${analysisData.analyses?.length || 0} analyses`);
+console.log(`Display mode: ${analysisData.analyses.length > 0 ? 'Analysis' : 'Raw articles'}`);
+console.log(`Will show ${displayData.length} items in Latest News section`);
+if (eventsData.articles && eventsData.articles.length > 0) {
+  console.log(`✅ Events will render: showing top ${Math.min(3, eventsData.articles.length)} events`);
+  eventsData.articles.slice(0, 3).forEach((e, i) => {
+    console.log(`   Event ${i+1}: ${e.title.substring(0, 40)}...`);
+  });
+} else {
+  console.log(`❌ Events WILL NOT render - empty or undefined`);
+  console.log(`   eventsData type: ${typeof eventsData}`);
+  console.log(`   eventsData.articles type: ${typeof eventsData.articles}`);
+  console.log(`   eventsData.articles: ${JSON.stringify(eventsData.articles)}`);
+}
+
 // Generate HTML
 const html = `<!DOCTYPE html>
 <html lang="en">
