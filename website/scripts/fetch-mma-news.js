@@ -277,6 +277,27 @@ async function fetchMMANews() {
   try {
     console.log('🔄 Fetching MMA news and data for all pillar pages...');
     
+    // Load rotation history (tracks recently used articles/images)
+    const rotationFile = path.join(__dirname, '../src/data/.rotation-history.json');
+    let rotationData = { usedArticles: [], usedImages: [] };
+    
+    if (fs.existsSync(rotationFile)) {
+      try {
+        rotationData = JSON.parse(fs.readFileSync(rotationFile, 'utf-8'));
+      } catch (e) {
+        console.warn('⚠️ Could not load rotation history, starting fresh');
+      }
+    }
+    
+    // Clean up entries older than 24 hours (86400000 ms)
+    const now = Date.now();
+    const twentyFourHoursAgo = now - 86400000;
+    rotationData.usedArticles = rotationData.usedArticles.filter(entry => entry.timestamp > twentyFourHoursAgo);
+    rotationData.usedImages = rotationData.usedImages.filter(entry => entry.timestamp > twentyFourHoursAgo);
+    
+    console.log(`📋 Rotation History: ${rotationData.usedArticles.length} articles, ${rotationData.usedImages.length} images in last 24h`);
+    
+    
     // Fetch main MMA news
     const mainResponse = await fetch(
       `https://newsapi.org/v2/everything?q=MMA&sortBy=publishedAt&language=en&pageSize=20&apiKey=${apiKey}`
@@ -311,32 +332,53 @@ async function fetchMMANews() {
 
     console.log('🔍 Processing articles and finding fighter images...');
     
-    // Process each category
+    // Process each category - filter out recently used articles
     const processArticles = async (articles) => {
       return Promise.all(
-        articles.map(async (article) => {
-          let image = article.urlToImage;
-          if (!image) {
-            console.log(`  🔎 Searching for image: "${article.title.substring(0, 50)}..."`);
-            image = await fetchFighterImage(article.title);
-          }
-          
-          let localImage = null;
-          if (image) {
-            const slugBase = (article.title || 'fighter').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '') + `-${Date.now()}`;
-            localImage = await downloadImageToPublic(image, slugBase);
-          }
+        articles
+          .filter(article => {
+            // Skip articles used in last 24 hours
+            const isRecentlyUsed = rotationData.usedArticles.some(used => 
+              used.url === article.url || used.title === article.title
+            );
+            if (isRecentlyUsed) {
+              console.log(`  ⏭️  Skipping recently used: "${article.title.substring(0, 40)}..."`);
+            }
+            return !isRecentlyUsed;
+          })
+          .slice(0, 10) // Only take top 10 fresh articles
+          .map(async (article) => {
+            let image = article.urlToImage;
+            if (!image) {
+              console.log(`  🔎 Searching for image: "${article.title.substring(0, 50)}..."`);
+              image = await fetchFighterImage(article.title);
+            }
+            
+            let localImage = null;
+            if (image) {
+              // Check if this image was recently used
+              const isRecentImage = rotationData.usedImages.some(used => used.imageUrl === image);
+              if (!isRecentImage) {
+                const slugBase = (article.title || 'fighter').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '') + `-${Date.now()}`;
+                localImage = await downloadImageToPublic(image, slugBase);
+                // Track this image
+                rotationData.usedImages.push({ imageUrl: image, timestamp: Date.now(), title: article.title });
+              }
+            }
 
-          return {
-            title: article.title,
-            description: article.description,
-            url: article.url,
-            image: localImage || image || null,
-            source: article.source.name,
-            publishedAt: article.publishedAt,
-            author: article.author,
-          };
-        })
+            // Track this article
+            rotationData.usedArticles.push({ url: article.url, title: article.title, timestamp: Date.now() });
+
+            return {
+              title: article.title,
+              description: article.description,
+              url: article.url,
+              image: localImage || image || null,
+              source: article.source.name,
+              publishedAt: article.publishedAt,
+              author: article.author,
+            };
+          })
       );
     };
 
@@ -410,6 +452,13 @@ async function fetchMMANews() {
       JSON.stringify({ ...baseData, articles: hotNewsArticles }, null, 2)
     );
 
+    // Save rotation history for next run
+    const rotationDir = dataDir;
+    fs.writeFileSync(
+      path.join(rotationDir, '.rotation-history.json'),
+      JSON.stringify(rotationData, null, 2)
+    );
+
     const totalArticles = mainArticles.length + statsArticles.length + careerArticles.length + 
                          eventsArticles.length + matchupsArticles.length;
     const totalImages = [mainArticles, statsArticles, careerArticles, eventsArticles, matchupsArticles]
@@ -423,6 +472,7 @@ async function fetchMMANews() {
     console.log(`📅 Upcoming Events: ${eventsArticles.length} articles`);
     console.log(`🔥 Hot News This Week: ${hotNewsArticles.length} articles`);
     console.log(`📸 Total: ${totalImages}/${totalArticles} articles have images`);
+    console.log(`✅ Rotation history saved - preventing 24h reuse`);
     console.log(`📁 Saved to: ${dataDir}`);
   } catch (error) {
     console.error('❌ Error fetching MMA news:', error.message);
