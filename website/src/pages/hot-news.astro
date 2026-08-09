@@ -172,17 +172,24 @@ const heroImages = pageData.heroImages || { fighters: [], analytics: null };
       color: #888; 
     }
     a.read-more { 
-      color: #ff6b35; 
+      color: #fff;
+      background: linear-gradient(135deg, #ff6b35 0%, #ff8555 100%);
       text-decoration: none; 
       font-weight: 700;
       transition: all 0.3s ease;
       display: inline-flex;
       align-items: center;
       gap: 0.5rem;
+      padding: 0.75rem 1.5rem;
+      border-radius: 8px;
+      font-size: 0.95rem;
+      min-width: 140px;
+      justify-content: center;
     }
     a.read-more:hover { 
-      color: #ff8555;
-      gap: 0.75rem;
+      color: #000;
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(255, 107, 53, 0.3);
     }
     .empty { 
       text-align: center; 
@@ -213,6 +220,10 @@ const heroImages = pageData.heroImages || { fighters: [], analytics: null };
     <header>
       <h1>Hot News This Week</h1>
       <div class="tagline">Trending MMA Stories & Breaking Headlines</div>
+      <p style="color: #aaa; margin: 1rem auto; max-width: 800px; font-size: 0.95rem; line-height: 1.6;">
+        Stay updated with the hottest MMA news of the week. From shocking upsets to dramatic comebacks, fighter announcements to championship implications. 
+        We deliver the stories that are reshaping the combat sports landscape.
+      </p>
       <a href="/fightonomics/mma-news/" class="back-link">← Back to Main News</a>
     </header>
 

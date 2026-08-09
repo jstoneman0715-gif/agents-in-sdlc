@@ -299,18 +299,25 @@ const html = `<!DOCTYPE html>
       }
 
       .read-more {
-        color: #ff6b35;
+        color: #fff;
+        background: linear-gradient(135deg, #ff6b35 0%, #ff8555 100%);
         text-decoration: none;
         font-weight: 700;
         transition: all 0.3s ease;
         display: inline-flex;
         align-items: center;
         gap: 0.5rem;
+        padding: 0.75rem 1.5rem;
+        border-radius: 8px;
+        font-size: 0.95rem;
+        min-width: 140px;
+        justify-content: center;
       }
 
       .read-more:hover {
-        color: #ff8555;
-        gap: 0.75rem;
+        color: #000;
+        transform: translateY(-2px);
+        box-shadow: 0 6px 20px rgba(255, 107, 53, 0.3);
       }
 
       .empty-state {
