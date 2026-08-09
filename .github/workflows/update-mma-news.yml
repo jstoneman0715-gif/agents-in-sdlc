@@ -45,7 +45,7 @@ jobs:
 
       - name: Deploy to fightonomics GitHub Pages
         env:
-          PAGES_TOKEN: ${{ secrets.PAGES_DEPLOY_TOKEN }}
+          PAGES_TOKEN: ${{ secrets.PAGESDEPLOYTOKEN }}
         run: |
           set -e
           git config --global user.email "action@github.com"
