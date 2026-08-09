@@ -51,11 +51,16 @@ jobs:
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
 
-          TARGET_REPO="https://x-access-token:${PAGES_TOKEN}@github.com/jstoneman0715-gif/fightonomics.git"
+          if [ -z "$PAGES_TOKEN" ]; then
+            echo "⚠️  PAGES_DEPLOY_TOKEN not configured. Skipping deployment."
+            exit 0
+          fi
+
+          TARGET_REPO="https://oauth2:${PAGES_TOKEN}@github.com/jstoneman0715-gif/fightonomics.git"
           TMP_DIR=$(mktemp -d)
 
           echo "Cloning target repo..."
-          git clone "$TARGET_REPO" "$TMP_DIR" || (echo "Repository may be empty or unreachable - initializing empty repo" && mkdir -p "$TMP_DIR" && git init "$TMP_DIR")
+          git clone "$TARGET_REPO" "$TMP_DIR" --depth 1 2>/dev/null || (echo "Initializing empty repo" && mkdir -p "$TMP_DIR" && git init "$TMP_DIR")
 
           echo "Copying built site..."
           rm -rf "$TMP_DIR"/*
@@ -66,4 +71,4 @@ jobs:
           git commit -m "chore: deploy site from agents-in-sdlc (automated)" || echo "No changes to commit"
 
           echo "Pushing to gh-pages branch..."
-          git push "$TARGET_REPO" HEAD:gh-pages --force
+          git push "$TARGET_REPO" HEAD:gh-pages --force 2>&1 | grep -v token
