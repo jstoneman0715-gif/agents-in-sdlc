@@ -511,3 +511,4 @@ console.log(`  - Rendered ${displayData.length} articles in Latest News section`
 console.log(`  - Rendered ${eventsData.articles?.length || 0} events in Events section`);
 console.log(`  - Total HTML size: ${(html.length / 1024).toFixed(1)}KB`);
 
+# Trigger deployment of grappling analysis display
