@@ -418,7 +418,10 @@ const html = `<!DOCTYPE html>
         <a href="/fightonomics/upcoming-events/" class="pillar-link">Upcoming Events</a>
       </div>
 
-      ${eventsData.articles && eventsData.articles.length > 0 ? `
+      <!-- DEBUG: Events data status -->
+      <!-- Events articles: ${eventsData.articles?.length || 0} -->
+      
+      ${eventsData && eventsData.articles && eventsData.articles.length > 0 ? `
       <div style="text-align: center; margin: 3rem 0 2rem 0; padding-bottom: 2rem; border-bottom: 1px solid #333;">
         <h2 style="font-size: clamp(1.3rem, 3vw, 1.7rem); color: #ff6b35; margin-bottom: 0.5rem;">📅 Most Recent Events</h2>
         <p style="color: #aaa;">Upcoming UFC and MMA events</p>
@@ -443,7 +446,7 @@ const html = `<!DOCTYPE html>
         </div>
         `).join('')}
       </div>
-      ` : ''}
+      ` : `<!-- Events data unavailable: ${JSON.stringify({hasData: !!eventsData, hasArticles: !!eventsData?.articles, length: eventsData?.articles?.length})} -->`}
 
       <div style="text-align: center; margin-bottom: 2rem; padding-bottom: 2rem; border-bottom: 1px solid #333;">
         <h2 style="font-size: clamp(1.3rem, 3vw, 1.7rem); color: #ff6b35; margin-bottom: 0.5rem;">Latest News</h2>
