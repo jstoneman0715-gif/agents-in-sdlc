@@ -428,9 +428,15 @@ async function fetchMMANews() {
       processArticles(matchupsData.articles || []),
     ]);
 
-    // Use fallback events if none were fetched
-    const finalEventsArticles = eventsArticles.length > 0 ? eventsArticles : generateFallbackEvents();
-    console.log(`📅 Using ${eventsArticles.length > 0 ? 'API' : 'fallback'} events: ${finalEventsArticles.length} events available`);
+    // Use fallback events if none were fetched - process them through the same pipeline
+    let finalEventsArticles = eventsArticles;
+    if (eventsArticles.length === 0) {
+      const fallbackEvents = generateFallbackEvents();
+      finalEventsArticles = await processArticles(fallbackEvents);
+      console.log(`📅 Using fallback events: ${finalEventsArticles.length} events available`);
+    } else {
+      console.log(`📅 Using API events: ${eventsArticles.length} events available`);
+    }
 
     // Ensure data directory exists
     const dataDir = path.dirname(dataFile);

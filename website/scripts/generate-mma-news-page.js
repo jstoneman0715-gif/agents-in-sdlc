@@ -73,12 +73,23 @@ try {
 // Try to load events data
 try {
   const eventsPath = path.join(rootDir, 'src', 'data', 'upcoming-events.json');
+  console.log(`📂 Checking for events at: ${eventsPath}`);
   if (fs.existsSync(eventsPath)) {
     const rawEvents = fs.readFileSync(eventsPath, 'utf-8');
+    console.log(`   File size: ${rawEvents.length} bytes`);
     eventsData = JSON.parse(rawEvents);
     console.log(`✓ Loaded events data: ${eventsData.articles?.length || 0} articles`);
+    if (eventsData.articles && eventsData.articles.length > 0) {
+      console.log(`   First event: ${eventsData.articles[0].title}`);
+    }
   } else {
     console.log(`⚠️  Events file not found at: ${eventsPath}`);
+    // List what files DO exist
+    const dataDir = path.join(rootDir, 'src', 'data');
+    if (fs.existsSync(dataDir)) {
+      const files = fs.readdirSync(dataDir);
+      console.log(`   Available files: ${files.join(', ')}`);
+    }
   }
 } catch (error) {
   console.error('Error loading events data:', error);
