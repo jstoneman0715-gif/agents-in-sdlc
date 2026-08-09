@@ -32,10 +32,10 @@ async function downloadImageToPublic(url, slugBase) {
 function extractFighterKeywords(text) {
   if (!text) return [];
   
-  // Common MMA fighter names and keywords
+  // Extended list of MMA fighters and sports-related terms
   const fighterPatterns = [
-    /\b(Conor|McGregor|Dustin|Poirier|Nate|Diaz|Jorge|Masvidal|Jon|Jones|Stipe|Miocic|Israel|Adesanya|Sean|Strickland)\b/gi,
-    /\b(UFC|MMA|fighter|champion|knockout|KO|submission|belt)\b/gi,
+    /\b(Conor|McGregor|Dustin|Poirier|Nate|Diaz|Jorge|Masvidal|Jon|Jones|Stipe|Miocic|Israel|Adesanya|Sean|Strickland|Alex|Pereira|Leon|Edwards|Kamaru|Usman|Colby|Covington|Max|Holloway)\b/gi,
+    /\b(UFC|MMA|boxing|fighter|champion|knockout|KO|submission|belt|bout|match|combat)\b/gi,
   ];
   
   const keywords = [];
@@ -49,48 +49,68 @@ function extractFighterKeywords(text) {
   return [...new Set(keywords)];
 }
 
-// Search for fighter images across multiple free APIs
+// Search for high-quality fighter images across multiple sources
 async function fetchFighterImage(searchQuery) {
-  const queries = [searchQuery, ...extractFighterKeywords(searchQuery)];
+  // Build search variations: original query, specific fighter names, plus general sports terms
+  const baseQueries = [searchQuery];
+  const keywords = extractFighterKeywords(searchQuery);
+  const fighterNames = keywords.filter(k => /^[a-z]+$/.test(k) && k.length > 3);
+  
+  // Prioritize fighter-specific searches over generic MMA terms
+  const queries = [
+    ...fighterNames.slice(0, 2),  // Top 2 fighter names
+    searchQuery,
+    ...keywords.filter(k => k === 'mma' || k === 'boxing' || k === 'fighter'),
+  ].filter(Boolean);
   
   for (const query of queries) {
     try {
-      // Try Unsplash (free, no auth required)
+      // Try Unsplash first (high-quality free images)
       const unsplashRes = await fetch(
-        `https://api.unsplash.com/search/photos?query=${encodeURIComponent(query)}&per_page=1&client_id=cJv9DBiCqRZBj6t9vGtcnG9Yj2h7vAP2iXjfW2RzWH0`
+        `https://api.unsplash.com/search/photos?query=${encodeURIComponent(query)}&per_page=3&order_by=relevant&client_id=cJv9DBiCqRZBj6t9vGtcnG9Yj2h7vAP2iXjfW2RzWH0`
       ).then(r => r.ok ? r.json() : null);
       
-      if (unsplashRes?.results?.[0]?.urls?.regular) {
-        console.log(`  📸 Found Unsplash image for: ${query}`);
-        return unsplashRes.results[0].urls.regular;
+      if (unsplashRes?.results?.length > 0) {
+        // Pick the most relevant one (usually index 0)
+        const img = unsplashRes.results[0];
+        if (img.urls?.regular && img.likes > 10) {  // Prefer popular images
+          console.log(`  📸 Found Unsplash image for: ${query} (${img.likes} likes)`);
+          return img.urls.regular;
+        }
       }
     } catch (e) {
       // Continue to next source
     }
     
     try {
-      // Try Pexels (free, no auth required)
+      // Try Pexels (high-quality free images)
       const pexelsRes = await fetch(
-        `https://api.pexels.com/v1/search?query=${encodeURIComponent(query)}&per_page=1&client_id=563492ad6f91700001000001`
+        `https://api.pexels.com/v1/search?query=${encodeURIComponent(query)}&per_page=3`
       ).then(r => r.ok ? r.json() : null);
       
-      if (pexelsRes?.photos?.[0]?.src?.large) {
-        console.log(`  📸 Found Pexels image for: ${query}`);
-        return pexelsRes.photos[0].src.large;
+      if (pexelsRes?.photos?.length > 0) {
+        const photo = pexelsRes.photos[0];
+        if (photo.src?.large2x) {
+          console.log(`  📸 Found Pexels image for: ${query}`);
+          return photo.src.large2x;  // High-res version
+        }
       }
     } catch (e) {
       // Continue to next source
     }
     
     try {
-      // Try Pixabay (free, no auth required)
+      // Try Pixabay (high-quality free images)
       const pixabayRes = await fetch(
-        `https://pixabay.com/api/?q=${encodeURIComponent(query)}&image_type=photo&per_page=1&key=43292100-68a1cc19f7c3b4d8a1ff3e000`
+        `https://pixabay.com/api/?q=${encodeURIComponent(query)}&image_type=photo&per_page=3&order=popular&key=43292100-68a1cc19f7c3b4d8a1ff3e000`
       ).then(r => r.ok ? r.json() : null);
       
-      if (pixabayRes?.hits?.[0]?.largeImageURL) {
-        console.log(`  📸 Found Pixabay image for: ${query}`);
-        return pixabayRes.hits[0].largeImageURL;
+      if (pixabayRes?.hits?.length > 0) {
+        const hit = pixabayRes.hits[0];
+        if (hit.largeImageURL) {
+          console.log(`  📸 Found Pixabay image for: ${query} (${hit.downloads} downloads)`);
+          return hit.largeImageURL;
+        }
       }
     } catch (e) {
       // Continue to next source
