@@ -50,6 +50,8 @@ jobs:
       - name: Generate sitemap
         run: node scripts/generate-sitemap.js
         working-directory: ./website
+
+      - name: Deploy to fightonomics GitHub Pages
         env:
           PAGES_TOKEN: ${{ secrets.PAGESDEPLOYTOKEN }}
         run: |
