@@ -10,8 +10,8 @@ const rootDir = path.join(__dirname, '..');
 const dataPath = path.join(rootDir, 'src', 'data', 'mma-news.json');
 const distDir = path.join(rootDir, 'dist');
 const outputDir = path.join(distDir, 'mma-news');
-const publicImagesDir = path.join(rootDir, 'public', 'fightonomics', 'agents', 'mma-news-updater', 'images');
-const distImagesDir = path.join(distDir, 'fightonomics', 'agents', 'mma-news-updater', 'images');
+const publicImagesDir = path.join(rootDir, 'public', 'agents', 'mma-news-updater', 'images');
+const distImagesDir = path.join(distDir, 'agents', 'mma-news-updater', 'images');
 
 // Ensure dist directory exists
 if (!fs.existsSync(distDir)) {

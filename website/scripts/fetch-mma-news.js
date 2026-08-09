@@ -15,12 +15,12 @@ async function downloadImageToPublic(url, slugBase) {
     const ext = contentType.split('/').pop().split(';')[0] || 'jpg';
     const safeExt = ext.split('?')[0];
     const fileName = `${slugBase}.${safeExt}`;
-    const imagesDir = path.join(__dirname, '../public/fightonomics/agents/mma-news-updater/images');
+    const imagesDir = path.join(__dirname, '../public/agents/mma-news-updater/images');
     if (!fs.existsSync(imagesDir)) fs.mkdirSync(imagesDir, { recursive: true });
     const outPath = path.join(imagesDir, fileName);
     const arrayBuffer = await res.arrayBuffer();
     fs.writeFileSync(outPath, Buffer.from(arrayBuffer));
-    // Return the absolute path used by the site (site is hosted at /fightonomics)
+    // Return the absolute path used by the site (site is hosted at /fightonomics, but agents is at root)
     return `/fightonomics/agents/mma-news-updater/images/${fileName}`;
   } catch (e) {
     return null;
