@@ -1,38 +1,99 @@
 {
-    "heroImages":  {
-                       "fighters":  [
-
-                                    ],
-                       "analytics":  null
-                   },
-    "lastUpdated":  "2026-08-09T11:48:12.7263290Z",
-    "articles":  [
-                     {
-                         "author":  "UFC",
-                         "description":  "Top welterweight Islam Makhachev faces rising star Gabriel Machado in UFC 330 main event. Analyzing the grappling matchup and prediction.",
-                         "source":  "UFC Official",
-                         "publishedAt":  "2026-08-15T00:00:00Z",
-                         "image":  "https://imgur.com/mmaeventsample.jpg",
-                         "title":  "UFC 330: Makhachev vs. Machado - Card Preview \u0026 Predictions",
-                         "url":  "https://www.ufc.com/event/ufc-330"
-                     },
-                     {
-                         "author":  "PFL",
-                         "description":  "PFL heavyweight playoffs showcase wrestling-heavy matchups and cardio endurance battles.",
-                         "source":  "PFL Official",
-                         "publishedAt":  "2026-08-14T00:00:00Z",
-                         "image":  "https://imgur.com/pflplayoffs.jpg",
-                         "title":  "PFL Playoffs: Cardio Tested in Heavyweight Finals",
-                         "url":  "https://www.pfl.com/playoffs"
-                     },
-                     {
-                         "author":  "Bellator",
-                         "description":  "Bellator\u0027s welterweight tournament reaches semifinals with world-class grapplers competing for tournament glory.",
-                         "source":  "Bellator MMA",
-                         "publishedAt":  "2026-08-13T00:00:00Z",
-                         "image":  "https://imgur.com/bellator-ww-tournament.jpg",
-                         "title":  "Bellator 290: Welterweight Tournament Semis",
-                         "url":  "https://www.bellator.com/tournaments"
-                     }
-                 ]
+  "lastUpdated": "2026-08-09T12:18:48.124Z",
+  "heroImages": {
+    "fighters": [],
+    "analytics": null
+  },
+  "articles": [
+    {
+      "title": "Daniel Cormier: Arman Tsarukyan Can’t Be Denied UFC Title Shot",
+      "description": "UFC commentator Daniel Cormier says that Arman Tsarukyan can’t be denied a lightweight title shot with a win over Mauricio Ruffy at UFC 331.The UFC officially announced this week that Tsarukyan vs. Ruffy will be the five-round co-main event for the upcoming U…",
+      "url": "https://heavy.com/sports/ufc/arman-tsarukyan-cant-deny-title-shot/",
+      "image": "/fightonomics/agents/mma-news-updater/images/daniel-cormier-arman-tsarukyan-can-t-be-denied-ufc-title-shot-1786277926003.jpeg",
+      "source": "Heavy.com",
+      "publishedAt": "2026-08-08T08:01:45Z",
+      "author": "Adam Martin"
+    },
+    {
+      "title": "Bout Order For UFC 330: Makhachev Vs. Machado Garry Fight Card",
+      "description": "Two title fights headline the upcoming UFC 330 fight card from Philadelphia. In the main event, Islam Makhachev faces Ian Machado Garry for Makhachev's welterweight title",
+      "url": "https://www.forbes.com/sites/trentreinsmith/2026/08/07/bout-order-for-ufc-330-makhachev-vs-machado-garry-fight-card/",
+      "image": "/fightonomics/agents/mma-news-updater/images/bout-order-for-ufc-330-makhachev-vs-machado-garry-fight-card-1786277926004.jpeg",
+      "source": "Forbes",
+      "publishedAt": "2026-08-08T02:00:38Z",
+      "author": "Trent Reinsmith, Contributor"
+    },
+    {
+      "title": "Herpes scare shuts down UFC Vegas 120 fight — turns out it was just mat burn",
+      "description": "Jessie Rosas, the older brother of UFC bantamweight phenom Raul Rosas Jr., was scheduled to make his Octagon debut opposite Miles Johns as part of the upcoming UFC Vegas 120 event this weekend in Las Vegas. Unfortunately, a wound to his forehead had skittish …",
+      "url": "https://www.mmamania.com/ufc-news/462969/herpes-scare-shuts-down-ufc-vegas-120-fight-it-was-just-mat-burn",
+      "image": "/fightonomics/agents/mma-news-updater/images/herpes-scare-shuts-down-ufc-vegas-120-fight-turns-out-it-was-just-mat-burn-1786277926004.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-08-07T20:33:47Z",
+      "author": "Jesse Holland"
+    },
+    {
+      "title": "UFC Vegas 120 early weigh ins video, live results | Gamrot vs. Salkilld",
+      "description": "Ultimate Fighting Championship (UFC) is just over 24 hours away from its upcoming UFC Vegas 120 mixed martial arts (MMA) event, headlined by a 155-pound showdown between lightweight contenders Mateusz Gamrot and Quillan Salkilld. The action gets underway this…",
+      "url": "https://www.mmamania.com/ufc-weigh-in-video/462893/ufc-vegas-120-early-weigh-ins-video-live-results-gamrot-vs-salkilld",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-vegas-120-early-weigh-ins-video-live-results-gamrot-vs-salkilld-1786277926005.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-08-07T15:51:09Z",
+      "author": "Jesse Holland"
+    },
+    {
+      "title": "Not-scrolling Ian Garry dumps social media, responds to ‘online backlash’ ahead of UFC 330",
+      "description": "Ian Garry wants women to rule the world, right after he’s done converting everyone to a vegan diet. Considering the demographics of the UFC fan base, those opinions drew widespread backlash on social media; not just from fans, but also from his fellow fighter…",
+      "url": "https://www.mmamania.com/ufc-news/462880/not-scrolling-ian-garry-dumps-social-media-responds-online-backlash-ufc-330",
+      "image": "/fightonomics/agents/mma-news-updater/images/not-scrolling-ian-garry-dumps-social-media-responds-to-online-backlash-ahead-of-ufc-330-1786277926005.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-08-07T14:21:39Z",
+      "author": "Jesse Holland"
+    },
+    {
+      "title": "After UFC Freedom 250 success, Patriot Games 2026 schedule released: Full ESPN broadcast details, events, dates and how to watch",
+      "description": "The Patriot Games 2026 schedule is now available for the upcoming national athletic competition. High school athletes will compete in various challenges for a scholarship prize pool. The three-day event begins August 9 and celebrates American values and teamw…",
+      "url": "https://timesofindia.indiatimes.com/sports/international-sports/after-ufc-freedom-250-success-patriot-games-2026-schedule-released-full-espn-broadcast-details-events-dates-and-how-to-watch/articleshow/133034967.cms",
+      "image": "/fightonomics/agents/mma-news-updater/images/after-ufc-freedom-250-success-patriot-games-2026-schedule-released-full-espn-broadcast-details-events-dates-and-how-to-watch-1786277926006.png",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-07T13:14:46Z",
+      "author": "Global Sports Desk"
+    },
+    {
+      "title": "UFC veterans in MMA and bareknuckle boxing action Aug. 7-8",
+      "description": "Check out which veterans of the UFC are competing around the globe this weekend.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/07/ufc-veterans-fighting-regional-mma-bareknuckle-boxing-aug-7-8/91201240007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-veterans-in-mma-and-bareknuckle-boxing-action-aug-7-8-1786277926006.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-08-07T12:50:26Z",
+      "author": "Matthew Wells, MMA Junkie"
+    },
+    {
+      "title": "After the World Cup Loss, Drake is Back on Stake: Now He is the One Giving Out Money",
+      "description": "Drake is back on Kick with Stake for a massive livestream, featuring gambling, fan interaction, and a $1 million giveaway. Don’t miss Drizzy’s next big eve\n\nRead More: https://punchng.com/after-the-world-cup-loss-drake-is-back-on-stake-now-he-is-the-one-givin…",
+      "url": "https://punchng.com/after-the-world-cup-loss-drake-is-back-on-stake-now-he-is-the-one-giving-out-money/",
+      "image": "/fightonomics/agents/mma-news-updater/images/after-the-world-cup-loss-drake-is-back-on-stake-now-he-is-the-one-giving-out-money-1786277926007.webp",
+      "source": "The Punch",
+      "publishedAt": "2026-08-07T07:24:21Z",
+      "author": "Punch Newspapers"
+    },
+    {
+      "title": "Islam Makhachev chooses Carlos Prates over Michael Morales as next title challenger",
+      "description": "Islam Makhachev believes Michael Morales still has work ahead of him to earn a title shot.",
+      "url": "https://www.sherdog.com/news/news/Islam-Makhachev-chooses-Carlos-Prates-over-Michael-Morales-as-next-title-challenger-202262",
+      "image": null,
+      "source": "Sherdog.com",
+      "publishedAt": "2026-08-07T04:20:32Z",
+      "author": "Sayan Nag"
+    },
+    {
+      "title": "UFC 331 opening odds highlight massive favorites",
+      "description": "The early odds are out for the Ultimate Fighting Championship’s next event in Los Angeles, set for Sept. 19 at Crypto.com Arena.",
+      "url": "https://www.sherdog.com/news/news/UFC-331-opening-odds-highlight-massive-favorites-202252",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-331-opening-odds-highlight-massive-favorites-1786277926008.jpeg",
+      "source": "Sherdog.com",
+      "publishedAt": "2026-08-07T02:12:45Z",
+      "author": "sayannag88@gmail.com (Sayan Nag)"
+    }
+  ]
 }

@@ -1,19 +1,99 @@
 {
-    "heroImages":  {
-                       "fighters":  [
-
-                                    ],
-                       "analytics":  null
-                   },
-    "lastUpdated":  "2026-08-09T11:48:12.8178870Z",
-    "articles":  [
-                     {
-                         "description":  "Statistical analysis of how top grapplers have improved takedown defense across the last 5 years.",
-                         "source":  "MMA Analytics",
-                         "publishedAt":  "2026-08-10T00:00:00Z",
-                         "image":  "https://imgur.com/stats1.jpg",
-                         "title":  "Numbers Don\u0027t Lie: Takedown Defense Trends in Modern MMA",
-                         "url":  "https://example.com/article1"
-                     }
-                 ]
+  "lastUpdated": "2026-08-09T12:18:48.124Z",
+  "heroImages": {
+    "fighters": [],
+    "analytics": null
+  },
+  "articles": [
+    {
+      "title": "UFC Fight Night 284 has competitive main, co-main lightweight picks",
+      "description": "UFC Fight Night 284 pick results, fight analytics from our 11 editors, writers, radio hosts and videographers",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/08/ufc-fight-night-las-vegas-mateusz-gamrot-vs-quillan-salkilld-reader-predictions-picks-mma-betting/91225042007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-fight-night-284-has-competitive-main-co-main-lightweight-picks-1786277925991.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-08-08T12:02:38Z",
+      "author": "Matt Erickson, MMA Junkie"
+    },
+    {
+      "title": "There’s but a single close fight in our UFC Belgrade predictions",
+      "description": "UFC Belgrade pick results, fight analytics from our 11 editors, writers, radio hosts and videographers",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/07/31/ufc-belgrade-uros-medic-vs-daniel-rodriguez-serbia-reader-predictions-picks-mma-betting/91128660007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/there-s-but-a-single-close-fight-in-our-ufc-belgrade-predictions-1786277925991.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-07-31T22:00:50Z",
+      "author": "Matt Erickson, MMA Junkie"
+    },
+    {
+      "title": "It's a league-losing mistake to you pass on Jahmyr Gibbs as the No. 1 pick in 2026 Fantasy Football drafts",
+      "description": "Gibbs is a much easier choice than people realize",
+      "url": "https://www.cbssports.com/fantasy/football/news/jahymr-gibbs-number-1-pick-fantasy-football-drafts-bijan-robinson/",
+      "image": "/fightonomics/agents/mma-news-updater/images/it-s-a-league-losing-mistake-to-you-pass-on-jahmyr-gibbs-as-the-no-1-pick-in-2026-fantasy-football-drafts-1786277925992.jpeg",
+      "source": "CBS Sports",
+      "publishedAt": "2026-07-30T14:28:22Z",
+      "author": "Douglas Clawson"
+    },
+    {
+      "title": "Bryan McCabe Parts Ways With Florida Panthers Following Successful Stint As Director Of Player Personnel",
+      "description": "The former captain and two-time Stanley Cup champion exits South Florida marking a successful run as one of the NHL's most knowledgable and coveted development experts.",
+      "url": "https://thehockeynews.com/nhl/florida-panthers/latest-news/bryan-mccabe-parts-ways-with-florida-panthers-following-successful-stint-as-director-of-player-personnel",
+      "image": "/fightonomics/agents/mma-news-updater/images/bryan-mccabe-parts-ways-with-florida-panthers-following-successful-stint-as-director-of-player-personnel-1786277925993.jpeg",
+      "source": "The Hockey News",
+      "publishedAt": "2026-07-29T17:06:23Z",
+      "author": "David Dwork"
+    },
+    {
+      "title": "PhantomStat – Explore pro-grade stats and match insights across major sports",
+      "description": "Explore pro-grade stats and match insights across major sports",
+      "url": "https://betalist.com/startups/phantomstat",
+      "image": "/fightonomics/agents/mma-news-updater/images/phantomstat-explore-pro-grade-stats-and-match-insights-across-major-sports-1786277925993.jpeg",
+      "source": "Betalist.com",
+      "publishedAt": "2026-07-29T04:05:00Z",
+      "author": "BetaList"
+    },
+    {
+      "title": "UFC Abu Dhabi: Who’s backing a Bogdan Guskov upset of Magomed Ankalaev?",
+      "description": "UFC Abu Dhabi pick results, fight analytics from our 11 editors, writers, radio hosts and videographers",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/07/24/ufc-abu-dhabi-magomed-ankalaev-vs-bogdan-guskov-reader-predictions-picks-mma-betting/91043074007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-abu-dhabi-who-s-backing-a-bogdan-guskov-upset-of-magomed-ankalaev-1786277925994.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-07-24T23:40:26Z",
+      "author": "Matt Erickson, MMA Junkie"
+    },
+    {
+      "title": "LIVE UFC Oklahoma City: Du Plessis vs. Usman Results & Highlights",
+      "description": "On Saturday night the action continues in Oklahoma City as the leading MMA promotion presents another edition of UFC Fight […]",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8f6cd929-32e2-4c57-b86f-871a226022d0",
+      "image": null,
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-07-18T21:27:50Z",
+      "author": null
+    },
+    {
+      "title": "MyDojo – Manage classes, billing, and students for your martial arts school",
+      "description": "Manage classes, billing, and students for your martial arts school",
+      "url": "https://betalist.com/startups/mydojo",
+      "image": "/fightonomics/agents/mma-news-updater/images/mydojo-manage-classes-billing-and-students-for-your-martial-arts-school-1786277925997.jpeg",
+      "source": "Betalist.com",
+      "publishedAt": "2026-07-18T21:00:00Z",
+      "author": "BetaList"
+    },
+    {
+      "title": "UFC veteran Irene Aldana retires from MMA ‘to prioritize my health’",
+      "description": "Irene Aldana fought for the UFC title against Amanda Nunes in 2023",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f4296a1a-e483-4431-b5f0-0d3fe154d74f",
+      "image": null,
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-07-18T17:00:00Z",
+      "author": null
+    },
+    {
+      "title": "Aldana Abruptly Retires",
+      "description": "Former UFC title challenger Irene Aldana is no longer on the UFC roster. On Friday, MMA Fighting reported that the 38-year-old Aldana was no longer eligible for a UFC ranking, removing her from her previous position in the Top 15. Given her ranking and layoff…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b9ee79cf-b5d4-4b87-aead-444950eb7b7c",
+      "image": null,
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-07-18T07:00:00Z",
+      "author": null
+    }
+  ]
 }
