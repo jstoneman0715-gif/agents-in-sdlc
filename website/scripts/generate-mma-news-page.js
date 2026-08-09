@@ -100,9 +100,37 @@ if (eventsData.articles && eventsData.articles.length > 0) {
   });
 } else {
   console.log(`❌ Events WILL NOT render - empty or undefined`);
-  console.log(`   eventsData type: ${typeof eventsData}`);
-  console.log(`   eventsData.articles type: ${typeof eventsData.articles}`);
-  console.log(`   eventsData.articles: ${JSON.stringify(eventsData.articles)}`);
+}
+
+// Generate events HTML section separately to avoid nested template literal issues
+let eventsSection = '';
+if (eventsData && eventsData.articles && eventsData.articles.length > 0) {
+  const eventCards = eventsData.articles.slice(0, 3).map((event) => {
+    return `
+    <div class="news-card">
+      <div class="news-image">
+        ${event.image ? `<img src="${event.image}" alt="${event.title}" />` : '🎫'}
+      </div>
+      <div class="news-content">
+        <div class="news-source">${event.source || 'UFC/MMA Event'}</div>
+        <div class="news-title">${event.title}</div>
+        <div class="news-description">${event.description || 'Upcoming MMA event'}</div>
+        <a href="${event.url}" target="_blank" class="read-more">View Event</a>
+      </div>
+    </div>
+    `;
+  }).join('');
+  
+  eventsSection = `
+      <div style="text-align: center; margin: 3rem 0 2rem 0; padding-bottom: 2rem; border-bottom: 1px solid #333;">
+        <h2 style="font-size: clamp(1.3rem, 3vw, 1.7rem); color: #ff6b35; margin-bottom: 0.5rem;">📅 Most Recent Events</h2>
+        <p style="color: #aaa;">Upcoming UFC and MMA events</p>
+      </div>
+
+      <div class="news-grid">
+        ${eventCards}
+      </div>
+  `;
 }
 
 // Generate HTML
@@ -418,35 +446,7 @@ const html = `<!DOCTYPE html>
         <a href="/fightonomics/upcoming-events/" class="pillar-link">Upcoming Events</a>
       </div>
 
-      <!-- DEBUG: Events data status -->
-      <!-- Events articles: ${eventsData.articles?.length || 0} -->
-      
-      ${eventsData && eventsData.articles && eventsData.articles.length > 0 ? `
-      <div style="text-align: center; margin: 3rem 0 2rem 0; padding-bottom: 2rem; border-bottom: 1px solid #333;">
-        <h2 style="font-size: clamp(1.3rem, 3vw, 1.7rem); color: #ff6b35; margin-bottom: 0.5rem;">📅 Most Recent Events</h2>
-        <p style="color: #aaa;">Upcoming UFC and MMA events</p>
-      </div>
-
-      <div class="news-grid">
-        ${eventsData.articles.slice(0, 3).map((event) => `
-        <div class="news-card">
-          <div class="news-image">
-            ${event.image ? `
-              <img src="${event.image}" alt="${event.title}" />
-            ` : `
-              🎫
-            `}
-          </div>
-          <div class="news-content">
-            <div class="news-source">${event.source || 'UFC/MMA Event'}</div>
-            <div class="news-title">${event.title}</div>
-            <div class="news-description">${event.description || 'Upcoming MMA event'}</div>
-            <a href="${event.url}" target="_blank" class="read-more">View Event</a>
-          </div>
-        </div>
-        `).join('')}
-      </div>
-      ` : `<!-- Events data unavailable: ${JSON.stringify({hasData: !!eventsData, hasArticles: !!eventsData?.articles, length: eventsData?.articles?.length})} -->`}
+      ${eventsSection}
 
       <div style="text-align: center; margin-bottom: 2rem; padding-bottom: 2rem; border-bottom: 1px solid #333;">
         <h2 style="font-size: clamp(1.3rem, 3vw, 1.7rem); color: #ff6b35; margin-bottom: 0.5rem;">Latest News</h2>
