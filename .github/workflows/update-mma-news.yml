@@ -45,7 +45,6 @@ jobs:
         continue-on-error: true
 
       - name: Deploy to fightonomics GitHub Pages
-        if: ${{ secrets.PAGES_DEPLOY_TOKEN != '' }}
         env:
           PAGES_TOKEN: ${{ secrets.PAGES_DEPLOY_TOKEN }}
         run: |
