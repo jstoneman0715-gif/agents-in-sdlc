@@ -43,6 +43,10 @@ jobs:
         run: npm run build
         working-directory: ./website
 
+      - name: Generate page templates
+       run: node scripts/generate-mma-news-page.js
+       working-directory: ./website
+
       - name: Deploy to fightonomics GitHub Pages
         env:
           PAGES_TOKEN: ${{ secrets.PAGESDEPLOYTOKEN }}
