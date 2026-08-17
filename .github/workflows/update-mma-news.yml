@@ -40,7 +40,10 @@ jobs:
           cd website
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add src/data/mma-news.json src/data/mma-analysis.json src/data/upcoming-events.json src/data/numbers-dont-lie.json src/data/career-arcs.json src/data/projected-matchups.json src/data/hot-news.json src/data/.rotation-history.json
+          # Stage whatever the fetch/analyze steps actually produced. Naming the
+          # files explicitly aborted the job (bash -e) whenever one had not been
+          # generated yet: "pathspec ... did not match any files", exit 128.
+          git add -A src/data/
           git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update MMA news, analysis, and all pillar page data" && git push)
 
       - name: Build site
