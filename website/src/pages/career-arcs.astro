@@ -28,9 +28,11 @@ const heroImages = pageData.heroImages || { fighters: [], analytics: null };
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Career Arcs | Fightonomics</title>
   <!-- This page shares its topic and branding with the primary Fightonomics
-       site at the domain root. Point search engines there so the two do not
-       compete for the same queries. -->
-  <link rel="canonical" href="https://jstoneman0715-gif.github.io/career-arcs.html">
+       site at the domain root. Keep it out of search entirely so the two
+       cannot compete. Not paired with rel=canonical: the two are conflicting
+       signals and Google may then honour neither. "follow" is implied, so
+       links on this page still pass equity. -->
+  <meta name="robots" content="noindex">
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body { 
