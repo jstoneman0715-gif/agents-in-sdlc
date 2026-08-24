@@ -1,15 +1,87 @@
 {
-  "lastUpdated": "2026-08-24T01:26:08.397Z",
+  "lastUpdated": "2026-08-24T12:45:07.745Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
+      "title": "UFC Fight Night 285 Promotional Guidelines Compliance pay: Headliners combine for $22,000",
+      "description": "UFC Sacramento featured among the lowest Promotional Guidelines Compliance pay numbers of 2026.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/23/ufc-fight-night-285-venum-pay-sacramento-promotional-guidelines-compliance/91414013007/",
+      "image": null,
+      "source": "USA Today",
+      "publishedAt": "2026-08-23T12:02:41Z",
+      "author": "Mike Bohn, MMA Junkie"
+    },
+    {
+      "title": "Sooo ... About Last Night",
+      "description": "Last night (Sat., Aug. 22, 2026), Ultimate Fighting Championship (UFC) ventured forth to Golden 1 Center in Sacramento, California, for UFC Sacramento. In the main event, “Sactown’s” own Anthony Hernandez aimed to return to the win column opposite the hard-hi…",
+      "url": "https://www.mmamania.com/ufc-results/466599/ufc-sacramento-results-sooo-about-last-night-hernandez-vs-rodrigues",
+      "image": "/fightonomics/agents/mma-news-updater/images/sooo-about-last-night-1787575505977.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-08-23T07:00:00Z",
+      "author": "Andrew Richardson"
+    },
+    {
+      "title": "Gregory Rodrigues Defeats Anthony Hernandez in Hard-Fought Headliner",
+      "description": "After a grueling 25 minutes at the Golden 1 Center in Sacramento, California, Gregory Rodrigues walked away with a unanimous decision win over Anthony Hernandez. The Brazilian won on all judges’ scorecards during the main event of UFC Sacramento.Hernandez ent…",
+      "url": "https://heavy.com/sports/ufc/gregory-rodrigues-defeats-anthony-hernandez-headliner/",
+      "image": "/fightonomics/agents/mma-news-updater/images/gregory-rodrigues-defeats-anthony-hernandez-in-hard-fought-headliner-1787575505977.jpeg",
+      "source": "Heavy.com",
+      "publishedAt": "2026-08-23T06:09:30Z",
+      "author": "Marcel Dorff"
+    },
+    {
+      "title": "UFC Sacramento salaries: Gregory Rodrigues leads all fighters after main event win",
+      "description": "Check out the salaries for UFC Sacramento",
+      "url": "https://www.mmafighting.com/ufc/506363/ufc-sacramento-salaries-gregory-rodrigues-leads-all-fighters-after-main-event-win",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-sacramento-salaries-gregory-rodrigues-leads-all-fighters-after-main-event-win-1787575505978.jpeg",
+      "source": "MMA Fighting",
+      "publishedAt": "2026-08-23T04:52:15Z",
+      "author": "Damon Martin"
+    },
+    {
+      "title": "UFC Sacramento: Anthony Hernandez vs. Gregory Rodrigues expert pick",
+      "description": "Can Anthony Hernandez rebound from a disheartening February loss to Sean Strickland against the dangerous Gregory Rodrigues at UFC Sacramento?",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/23/ufc-sacramento-expert-pick-anthony-hernandez-vs-gregory-rodrigues/91402621007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-sacramento-anthony-hernandez-vs-gregory-rodrigues-expert-pick-1787575505978.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-08-23T04:48:45Z",
+      "author": "Dan Tom, MMA Junkie"
+    },
+    {
+      "title": "PFL Tampa results: Cris Cyborg defends title in hard-fought battle, sends message to Claressa Shields, Kayla Harrison",
+      "description": "Cris Cyborg won a decision against Ketlen Vieira in Florida",
+      "url": "https://www.mmafighting.com/pfl/506662/pfl-tampa-results-cris-cyborg-defends-title-in-hard-fought-battle-sends-message-to-claressa-shields-kayla-harrison",
+      "image": "/fightonomics/agents/mma-news-updater/images/pfl-tampa-results-cris-cyborg-defends-title-in-hard-fought-battle-sends-message-to-claressa-shields-kayla-harrison-1787575505979.jpeg",
+      "source": "MMA Fighting",
+      "publishedAt": "2026-08-23T04:04:46Z",
+      "author": "Guilherme Cruz"
+    },
+    {
+      "title": "PFL Tampa results: Cris Cyborg retains title, uncertain of fighting future",
+      "description": "Cris Cyborg is still the PFL women's featherweight champion, but will she come back for another defense?",
+      "url": "https://mmajunkie.usatoday.com/story/sports/pfl/2026/08/22/pfl-tampa-results-cris-cyborg-retains-title-uncertain-fighting-future/91428866007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/pfl-tampa-results-cris-cyborg-retains-title-uncertain-of-fighting-future-1787575505979.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-08-23T03:49:10Z",
+      "author": "Matthew Wells, MMA Junkie"
+    },
+    {
+      "title": "UFC Sacramento salaries: Reinier de Ridder leads disclosed payouts",
+      "description": "California is one of the few states that still releases UFC payouts post-event.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/22/ufc-sacramento-salaries-anthony-hernandez-vs-gregory-rodrigues-reinier-de-ridder/91427900007/",
+      "image": null,
+      "source": "USA Today",
+      "publishedAt": "2026-08-23T02:55:46Z",
+      "author": "Nolan King, MMA Junkie"
+    },
+    {
       "title": "UFC Sacramento bonuses: Carli Judice, 3 fighters take home $100K",
       "description": "An action-packed UFC Sacramento has successfully concluded with a total of 10 finishes, and four fighters will walk out $100,000 richer.",
       "url": "https://www.sherdog.com/news/news/UFC-Sacramento-bonuses-Carli-Judice-3-fighters-take-home-36100K-202482",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-sacramento-bonuses-carli-judice-3-fighters-take-home-100k-1787534766896.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-sacramento-bonuses-carli-judice-3-fighters-take-home-100k-1787575505981.jpeg",
       "source": "Sherdog.com",
       "publishedAt": "2026-08-22T23:57:11Z",
       "author": "kunalistix@gmail.com (Kunal Singh)"
@@ -18,82 +90,10 @@
       "title": "UFC Fight Night odds, predictions, time: Anthony Hernandez vs. Gregory Rodrigues picks by elite MMA expert",
       "description": "SportsLine's Kyle Marley reveals his picks for the UFC Fight Night: Hernandez vs. Rodrigues card Saturday at Sacramento, Calif., on Paramount+",
       "url": "https://www.cbssports.com/betting/news/ufc-fight-night-odds-lines-predictions-time-anthony-hernandez-vs-gregory-rodrigues-fight-card-picks-best-bets/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-fight-night-odds-predictions-time-anthony-hernandez-vs-gregory-rodrigues-picks-by-elite-mma-expert-1787534766896.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-fight-night-odds-predictions-time-anthony-hernandez-vs-gregory-rodrigues-picks-by-elite-mma-expert-1787575505981.jpeg",
       "source": "CBS Sports",
       "publishedAt": "2026-08-22T22:43:38Z",
       "author": "Daniel Kohn"
-    },
-    {
-      "title": "LIVE! Official BrandRisk 15 Video Stream, Quick Results",
-      "description": "Brand Risk Boxing is returning to action later this evening (Sat., Aug. 22, 2026) as Adin Ross rolls out BrandRisk 15 from inside Brand Risk Arena in Miami, Florida. In this latest event, BrandRisk will feature a mix of professional and exhibition boxing matc…",
-      "url": "https://www.mmamania.com/latest-news/466637/live-official-brandrisk-15-video-stream-complete-fight-card-results-and-highlights-mcbroom-vs-temperr",
-      "image": "/fightonomics/agents/mma-news-updater/images/live-official-brandrisk-15-video-stream-quick-results-1787534766897.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-08-22T22:07:48Z",
-      "author": "Andrew Richardson"
-    },
-    {
-      "title": "Brand Risk 15 Results: McBroom vs. Temperr",
-      "description": "MMA Fighting has Brand Risk 15 results for the McBroom vs. Temperr fight card and more from the Brand Risk Arena in Miami, Fla., on Saturday night. In the main event, Austin McBroom, hasn’t fought since April 2023 and is 0-1 in his pro boxing career, squares …",
-      "url": "https://www.mmafighting.com/boxing/506338/brand-risk-15-results-mcbroom-vs-temperr",
-      "image": "/fightonomics/agents/mma-news-updater/images/brand-risk-15-results-mcbroom-vs-temperr-1787534766897.jpeg",
-      "source": "MMA Fighting",
-      "publishedAt": "2026-08-22T18:30:00Z",
-      "author": "Bryan Tucker"
-    },
-    {
-      "title": "UFC Fight Night odds, predictions, time: Anthony Hernandez vs. Gregory Rodrigues picks by elite MMA expert",
-      "description": "SportsLine's Kyle Marley reveals his picks for the UFC Fight Night: Hernandez vs. Rodrigues card Saturday at Sacramento, Calif., on Paramount+",
-      "url": "https://www.cbssports.com/betting/news/ufc-fight-night-odds-predictions-time-anthony-hernandez-vs-gregory-rodrigues-fight-card-picks-best-bets/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-fight-night-odds-predictions-time-anthony-hernandez-vs-gregory-rodrigues-picks-by-elite-mma-expert-1787534766898.jpeg",
-      "source": "CBS Sports",
-      "publishedAt": "2026-08-22T18:14:59Z",
-      "author": "Daniel Kohn"
-    },
-    {
-      "title": "Terrance Chatman vs. Anthony Wint prediction, pick for UFC Fight Night 285",
-      "description": "The UFC Fight Night 285 main card begins with a heavyweight matchup featuring ex-NFL player Anthony Wint. Don't blink.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/22/terrance-chatman-vs-anthony-wint-ufc-sacramento-prediction-expert-pick/91408227007/",
-      "image": null,
-      "source": "USA Today",
-      "publishedAt": "2026-08-22T18:00:57Z",
-      "author": "Dan Tom, MMA Junkie"
-    },
-    {
-      "title": "UFC Sacramento fighters brilliantly strike Spider-Man meme pose at weigh-ins",
-      "description": "The UFC Sacramento fighters' similar looks made the faceoff an instant viral moment.",
-      "url": "https://www.thebiglead.com/ufc-sacramento-fighters-brilliantly-spider-man-meme-pose-weigh-ins/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-sacramento-fighters-brilliantly-strike-spider-man-meme-pose-at-weigh-ins-1787534766899.jpeg",
-      "source": "The Big Lead",
-      "publishedAt": "2026-08-22T17:49:08Z",
-      "author": "Ankit Kumar"
-    },
-    {
-      "title": "Jeisla Chaves vs. Carli Judice prediction, pick for UFC Fight Night 285",
-      "description": "A women's flyweight bout between undefeated Jeisla Chaves and streaking Carli Judice is a fun scrap to fill out the UFC Fight Night 285 main card.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/22/jeisla-chaves-vs-carli-judice-ufc-sacramento-prediction-expert-pick/91408544007/",
-      "image": null,
-      "source": "USA Today",
-      "publishedAt": "2026-08-22T17:01:02Z",
-      "author": "Dan Tom, MMA Junkie"
-    },
-    {
-      "title": "UFC Sacramento predictions: Full card picks, best bets Saturday",
-      "description": "The UFC heads west this weekend as we move to Sacramento.",
-      "url": "https://nypost.com/2026/08/22/betting/ufc-sacramento-predictions-full-card-picks-best-bets-saturday/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-sacramento-predictions-full-card-picks-best-bets-saturday-1787534766900.jpeg",
-      "source": "New York Post",
-      "publishedAt": "2026-08-22T17:00:00Z",
-      "author": "Erich Richter"
-    },
-    {
-      "title": "Mason Jones vs. MarQuel Mederos prediction, pick for UFC Fight Night 285",
-      "description": "Lightweights Mason Jones and MarQuel Mederos fill out the UFC Fight Night 285 main card. Is there an upset brewing?",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/22/mason-jones-vs-marquel-mederos-ufc-sacramento-prediction-expert-pick/91408696007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/mason-jones-vs-marquel-mederos-prediction-pick-for-ufc-fight-night-285-1787534766901.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-08-22T16:00:46Z",
-      "author": "Dan Tom, MMA Junkie"
     }
   ]
 }
