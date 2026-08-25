@@ -1,10 +1,37 @@
 {
-  "lastUpdated": "2026-08-24T12:45:07.745Z",
+  "lastUpdated": "2026-08-25T01:23:30.549Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
+    {
+      "title": "Cris Cyborg uncertain on MMA future after PFL Tampa title defense",
+      "description": "41-year-old Cris Cyborg admits she doesn't know whether her PFL Tampa win will be the last of her MMA career.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/pfl/2026/08/23/pfl-tampa-cris-cyborg-uncertain-mma-future-title-defense/91433706007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/cris-cyborg-uncertain-on-mma-future-after-pfl-tampa-title-defense-1787621007987.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-08-23T21:10:25Z",
+      "author": "Mike Bohn, MMA Junkie"
+    },
+    {
+      "title": "Rewatch Rodrigues-Hernandez: How did you score the UFC Sacramento main event?",
+      "description": "There was little doubt Gregory Rodrigues beat Anthony Hernandez at UFC Sacramento. How did you score the rounds the judges disagreed on?",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/23/ufc-sacramento-video-replay-gregory-rodrigues-vs-anthony-hernandez-controversial-scoring-vote-poll/91431401007/",
+      "image": null,
+      "source": "USA Today",
+      "publishedAt": "2026-08-23T19:30:26Z",
+      "author": "Matt Erickson, MMA Junkie"
+    },
+    {
+      "title": "Anthony Smith releases first statement since July arrest for multiple felony charges - MMA Fighting",
+      "description": "Anthony Smith releases first statement since July arrest for multiple felony chargesMMA Fighting Judge allows former UFC fighter to leave country for fight despite domestic violence chargesWOWT Former UFC fighter accused in Nebraska incident allowed to travel…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185117862",
+      "image": null,
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-23T16:52:05Z",
+      "author": "feedfeeder"
+    },
     {
       "title": "UFC Fight Night 285 Promotional Guidelines Compliance pay: Headliners combine for $22,000",
       "description": "UFC Sacramento featured among the lowest Promotional Guidelines Compliance pay numbers of 2026.",
@@ -18,7 +45,7 @@
       "title": "Sooo ... About Last Night",
       "description": "Last night (Sat., Aug. 22, 2026), Ultimate Fighting Championship (UFC) ventured forth to Golden 1 Center in Sacramento, California, for UFC Sacramento. In the main event, “Sactown’s” own Anthony Hernandez aimed to return to the win column opposite the hard-hi…",
       "url": "https://www.mmamania.com/ufc-results/466599/ufc-sacramento-results-sooo-about-last-night-hernandez-vs-rodrigues",
-      "image": "/fightonomics/agents/mma-news-updater/images/sooo-about-last-night-1787575505977.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/sooo-about-last-night-1787621007988.jpeg",
       "source": "MMA Mania",
       "publishedAt": "2026-08-23T07:00:00Z",
       "author": "Andrew Richardson"
@@ -27,7 +54,7 @@
       "title": "Gregory Rodrigues Defeats Anthony Hernandez in Hard-Fought Headliner",
       "description": "After a grueling 25 minutes at the Golden 1 Center in Sacramento, California, Gregory Rodrigues walked away with a unanimous decision win over Anthony Hernandez. The Brazilian won on all judges’ scorecards during the main event of UFC Sacramento.Hernandez ent…",
       "url": "https://heavy.com/sports/ufc/gregory-rodrigues-defeats-anthony-hernandez-headliner/",
-      "image": "/fightonomics/agents/mma-news-updater/images/gregory-rodrigues-defeats-anthony-hernandez-in-hard-fought-headliner-1787575505977.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/gregory-rodrigues-defeats-anthony-hernandez-in-hard-fought-headliner-1787621007988.jpeg",
       "source": "Heavy.com",
       "publishedAt": "2026-08-23T06:09:30Z",
       "author": "Marcel Dorff"
@@ -36,7 +63,7 @@
       "title": "UFC Sacramento salaries: Gregory Rodrigues leads all fighters after main event win",
       "description": "Check out the salaries for UFC Sacramento",
       "url": "https://www.mmafighting.com/ufc/506363/ufc-sacramento-salaries-gregory-rodrigues-leads-all-fighters-after-main-event-win",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-sacramento-salaries-gregory-rodrigues-leads-all-fighters-after-main-event-win-1787575505978.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-sacramento-salaries-gregory-rodrigues-leads-all-fighters-after-main-event-win-1787621007988.jpeg",
       "source": "MMA Fighting",
       "publishedAt": "2026-08-23T04:52:15Z",
       "author": "Damon Martin"
@@ -45,7 +72,7 @@
       "title": "UFC Sacramento: Anthony Hernandez vs. Gregory Rodrigues expert pick",
       "description": "Can Anthony Hernandez rebound from a disheartening February loss to Sean Strickland against the dangerous Gregory Rodrigues at UFC Sacramento?",
       "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/23/ufc-sacramento-expert-pick-anthony-hernandez-vs-gregory-rodrigues/91402621007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-sacramento-anthony-hernandez-vs-gregory-rodrigues-expert-pick-1787575505978.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-sacramento-anthony-hernandez-vs-gregory-rodrigues-expert-pick-1787621007989.jpeg",
       "source": "USA Today",
       "publishedAt": "2026-08-23T04:48:45Z",
       "author": "Dan Tom, MMA Junkie"
@@ -54,7 +81,7 @@
       "title": "PFL Tampa results: Cris Cyborg defends title in hard-fought battle, sends message to Claressa Shields, Kayla Harrison",
       "description": "Cris Cyborg won a decision against Ketlen Vieira in Florida",
       "url": "https://www.mmafighting.com/pfl/506662/pfl-tampa-results-cris-cyborg-defends-title-in-hard-fought-battle-sends-message-to-claressa-shields-kayla-harrison",
-      "image": "/fightonomics/agents/mma-news-updater/images/pfl-tampa-results-cris-cyborg-defends-title-in-hard-fought-battle-sends-message-to-claressa-shields-kayla-harrison-1787575505979.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/pfl-tampa-results-cris-cyborg-defends-title-in-hard-fought-battle-sends-message-to-claressa-shields-kayla-harrison-1787621007989.jpeg",
       "source": "MMA Fighting",
       "publishedAt": "2026-08-23T04:04:46Z",
       "author": "Guilherme Cruz"
@@ -63,37 +90,10 @@
       "title": "PFL Tampa results: Cris Cyborg retains title, uncertain of fighting future",
       "description": "Cris Cyborg is still the PFL women's featherweight champion, but will she come back for another defense?",
       "url": "https://mmajunkie.usatoday.com/story/sports/pfl/2026/08/22/pfl-tampa-results-cris-cyborg-retains-title-uncertain-fighting-future/91428866007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/pfl-tampa-results-cris-cyborg-retains-title-uncertain-of-fighting-future-1787575505979.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/pfl-tampa-results-cris-cyborg-retains-title-uncertain-of-fighting-future-1787621007989.jpeg",
       "source": "USA Today",
       "publishedAt": "2026-08-23T03:49:10Z",
       "author": "Matthew Wells, MMA Junkie"
-    },
-    {
-      "title": "UFC Sacramento salaries: Reinier de Ridder leads disclosed payouts",
-      "description": "California is one of the few states that still releases UFC payouts post-event.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/22/ufc-sacramento-salaries-anthony-hernandez-vs-gregory-rodrigues-reinier-de-ridder/91427900007/",
-      "image": null,
-      "source": "USA Today",
-      "publishedAt": "2026-08-23T02:55:46Z",
-      "author": "Nolan King, MMA Junkie"
-    },
-    {
-      "title": "UFC Sacramento bonuses: Carli Judice, 3 fighters take home $100K",
-      "description": "An action-packed UFC Sacramento has successfully concluded with a total of 10 finishes, and four fighters will walk out $100,000 richer.",
-      "url": "https://www.sherdog.com/news/news/UFC-Sacramento-bonuses-Carli-Judice-3-fighters-take-home-36100K-202482",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-sacramento-bonuses-carli-judice-3-fighters-take-home-100k-1787575505981.jpeg",
-      "source": "Sherdog.com",
-      "publishedAt": "2026-08-22T23:57:11Z",
-      "author": "kunalistix@gmail.com (Kunal Singh)"
-    },
-    {
-      "title": "UFC Fight Night odds, predictions, time: Anthony Hernandez vs. Gregory Rodrigues picks by elite MMA expert",
-      "description": "SportsLine's Kyle Marley reveals his picks for the UFC Fight Night: Hernandez vs. Rodrigues card Saturday at Sacramento, Calif., on Paramount+",
-      "url": "https://www.cbssports.com/betting/news/ufc-fight-night-odds-lines-predictions-time-anthony-hernandez-vs-gregory-rodrigues-fight-card-picks-best-bets/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-fight-night-odds-predictions-time-anthony-hernandez-vs-gregory-rodrigues-picks-by-elite-mma-expert-1787575505981.jpeg",
-      "source": "CBS Sports",
-      "publishedAt": "2026-08-22T22:43:38Z",
-      "author": "Daniel Kohn"
     }
   ]
 }
