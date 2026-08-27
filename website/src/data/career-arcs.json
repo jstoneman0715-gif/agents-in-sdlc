@@ -1,15 +1,78 @@
 {
-  "lastUpdated": "2026-08-27T08:14:17.068Z",
+  "lastUpdated": "2026-08-27T21:46:49.353Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
+      "title": "How did historic Fenway Park end up hosting bareknuckle fights? BKFC CEO explains",
+      "description": "BKFC sets up shop Saturday on the field of one of America's most iconic sports stadiums. Here's how it came to be.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/26/bkfc-92-fenway-park-david-feldman-explains/91461005007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/how-did-historic-fenway-park-end-up-hosting-bareknuckle-fights-bkfc-ceo-explains-1787867207719.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-08-26T20:20:29Z",
+      "author": "Nolan King, MMA Junkie"
+    },
+    {
+      "title": "Kevin Holland denies being Contender Series fighter Dana White claims has made over $11M in UFC career",
+      "description": "Kevin Holland downplays his UFC earnings",
+      "url": "https://www.mmafighting.com/ufc/507201/kevin-holland-denies-being-contender-series-fighter-dana-white-claims-has-made-over-11m-in-ufc-career",
+      "image": "/fightonomics/agents/mma-news-updater/images/kevin-holland-denies-being-contender-series-fighter-dana-white-claims-has-made-over-11m-in-ufc-career-1787867207719.jpeg",
+      "source": "MMA Fighting",
+      "publishedAt": "2026-08-26T19:00:00Z",
+      "author": "Alexander K. Lee"
+    },
+    {
+      "title": "DWCS winner Ronald Humphrey vows to 'put a belt at the ass' of UFC welterweights",
+      "description": "Following a UFC contract win at DWCS 89, Ronald Humphrey promises it's about to go down with him in the welterweight division.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/26/dwcs-89-ronald-humphrey-post-fight-reaction/91475358007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/dwcs-winner-ronald-humphrey-vows-to-put-a-belt-at-the-ass-of-ufc-welterweights-1787867207720.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-08-26T18:40:15Z",
+      "author": "Danny Segura and Jeronimo Guerra, MMA Junkie"
+    },
+    {
+      "title": "Tyson Fury admits to not training hard enough for Francis Ngannou: ‘It wasn’t really a fight’",
+      "description": "Tyson Fury paid the price for taking Francis Ngannou lightly",
+      "url": "https://www.mmafighting.com/boxing/507190/tyson-fury-admits-to-not-training-hard-enough-for-francis-ngannou-it-wasnt-really-a-fight",
+      "image": "/fightonomics/agents/mma-news-updater/images/tyson-fury-admits-to-not-training-hard-enough-for-francis-ngannou-it-wasn-t-really-a-fight-1787867207720.jpeg",
+      "source": "MMA Fighting",
+      "publishedAt": "2026-08-26T18:00:00Z",
+      "author": "Alexander K. Lee"
+    },
+    {
+      "title": "'It just can't happen anymore': Nevada fines UFC 329 stars for celebrations",
+      "description": "The Nevada commission has fined three fighters for leaving the cage at UFC 329 and is asking the promotion to help crack down moving forward.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/26/ufc-329-news-holloway-pimblett-steveson-cage-hopping-fines/91468881007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/it-just-can-t-happen-anymore-nevada-fines-ufc-329-stars-for-celebrations-1787867207721.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-08-26T17:07:46Z",
+      "author": "Nolan King and Ken Hathaway, MMA Junkie"
+    },
+    {
+      "title": "Colby Covington searching for new RAF rival because Bo Nickal keeps losing — ‘The mystique … it’s not there anymore’",
+      "description": "Colby Covington and Bo Nickal had a “personal” beef going for the better part of 2025 and it seemed like it was only a matter of time before Covington and Nickal settled things on the Real American Freestyle (RAF) wrestling mats — the only place for a grudge …",
+      "url": "https://www.mmamania.com/raf-wrestling-schedule-cards-live-results/467493/colby-covington-searching-new-raf-rival-bo-nickal-keeps-losing-mystique-not-there-anymore",
+      "image": "/fightonomics/agents/mma-news-updater/images/colby-covington-searching-for-new-raf-rival-because-bo-nickal-keeps-losing-the-mystique-it-s-not-there-anymore-1787867207721.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-08-26T16:30:21Z",
+      "author": "Jesse Holland"
+    },
+    {
+      "title": "Dana White's Contender Series 89: Grading the winners",
+      "description": "MMA Junkie analyst Dan Tom grades the DWCS 89 contract winners and breaks down their potential for success in the UFC.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/26/dana-whites-contender-series-89-grading-new-ufc-contract-winners/91469565007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/dana-white-s-contender-series-89-grading-the-winners-1787867207722.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-08-26T14:30:43Z",
+      "author": "Dan Tom, MMA Junkie"
+    },
+    {
       "title": "Meta, TikTok, YouTube and LinkedIn didn't act on 77% of misinformation reported during Áras race",
       "description": "No action was taken on about 87% of non-AI election-related disinformation.",
       "url": "https://www.thejournal.ie/2025-presidential-election-disinformation-social-media-platforms-7139970-Aug2026/",
-      "image": "/fightonomics/agents/mma-news-updater/images/meta-tiktok-youtube-and-linkedin-didn-t-act-on-77-of-misinformation-reported-during-ras-race-1787818455133.JPEG",
+      "image": "/fightonomics/agents/mma-news-updater/images/meta-tiktok-youtube-and-linkedin-didn-t-act-on-77-of-misinformation-reported-during-ras-race-1787867207722.JPEG",
       "source": "TheJournal.ie",
       "publishedAt": "2026-08-26T07:00:58Z",
       "author": "Shane Raymond"
@@ -18,7 +81,7 @@
       "title": "From influencers to queens of women's boxing - five years of MVP",
       "description": "On Saturday, Most Valuable Promotions celebrates its fifth anniversary. One of the feistiest upstarts in modern boxing has given a new platform to the world's best female fighters.",
       "url": "https://www.bbc.com/sport/boxing/articles/c9w0z9ydre2o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "image": "/fightonomics/agents/mma-news-updater/images/from-influencers-to-queens-of-women-s-boxing-five-years-of-mvp-1787818455134.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/from-influencers-to-queens-of-women-s-boxing-five-years-of-mvp-1787867207723.jpeg",
       "source": "BBC News",
       "publishedAt": "2026-08-26T06:28:34Z",
       "author": "Emma Smith - BBC Sport journalist"
@@ -27,73 +90,10 @@
       "title": "From influencers to queens of women's boxing - five years of MVP",
       "description": "On Saturday, Most Valuable Promotions celebrates its fifth anniversary. One of the feistiest upstarts in modern boxing has given a new platform to the world's best female fighters.",
       "url": "https://www.bbc.co.uk/sport/boxing/articles/c9w0z9ydre2o",
-      "image": "/fightonomics/agents/mma-news-updater/images/from-influencers-to-queens-of-women-s-boxing-five-years-of-mvp-1787818455134.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/from-influencers-to-queens-of-women-s-boxing-five-years-of-mvp-1787867207723.jpeg",
       "source": "BBC News",
       "publishedAt": "2026-08-26T06:28:28Z",
       "author": "Emma Smith"
-    },
-    {
-      "title": "DWCS Season 10, Week 3 results: Bella Mir suffers biggest upset loss in Contender Series history",
-      "description": "Alex Apodaca upset Bella Mir on Week 3 of Contender Series, one of the biggest upsets of all time",
-      "url": "https://www.mmafighting.com/ufc/507072/dwcs-season-10-week-3-results-bella-mir-suffers-biggest-upset-loss-in-contender-series-history",
-      "image": "/fightonomics/agents/mma-news-updater/images/dwcs-season-10-week-3-results-bella-mir-suffers-biggest-upset-loss-in-contender-series-history-1787818455135.jpeg",
-      "source": "MMA Fighting",
-      "publishedAt": "2026-08-26T01:17:31Z",
-      "author": "Jed Meshew"
-    },
-    {
-      "title": "UFC ‘Contender Series’ results, live coverage and full fight highlights | Season 10, Ep. 3",
-      "description": "It’s that time of year again! Contender Series is back with 10 straight weeks of mixed martial arts (MMA) action, streaming at 7 p.m. ET TONIGHT (Tues., Aug. 25, 2026) on Paramount+. In the main event, the daughter of Frank Mir and super prospect, Bella Mir (…",
-      "url": "https://www.mmamania.com/ufc-contender-series-dana-white/467333/ufc-contender-series-results-live-coverage-and-full-fight-highlights-season-10-ep-3",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-contender-series-results-live-coverage-and-full-fight-highlights-season-10-ep-3-1787818455135.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-08-25T23:43:52Z",
-      "author": "Alexander Behunin"
-    },
-    {
-      "title": "Colby Covington says Bo Nickal lost 'mystique,' changes tune on potential RAF match",
-      "description": "Bo Nickal's stock in the wrestling world took a big hit, at least according to Colby Covington, who now considers him an \"irrelevant bum.\"",
-      "url": "https://mmajunkie.usatoday.com/story/sports/mma/2026/08/25/colby-covington-changes-tune-bo-nickal-raf-match/91462355007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/colby-covington-says-bo-nickal-lost-mystique-changes-tune-on-potential-raf-match-1787818455135.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-08-25T22:50:19Z",
-      "author": "Danny Segura, MMA Junkie"
-    },
-    {
-      "title": "Islam Makhachev is building his MMA GOAT case by risking it all — and that kind of audacity is in short supply",
-      "description": "With Carlos Prates, Michael Morales and Shavkat Rakhmonov waiting at 170 pounds, Makhachev sees three more title defenses between himself and MMA immortality...",
-      "url": "https://sports.yahoo.com/mma/article/islam-makhachev-is-building-his-mma-goat-case-by-risking-it-all-and-that-kind-of-audacity-is-in-short-supply-222440288.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/islam-makhachev-is-building-his-mma-goat-case-by-risking-it-all-and-that-kind-of-audacity-is-in-short-supply-1787818455136.jpeg",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-08-25T22:24:40Z",
-      "author": "Chuck Mindenhall"
-    },
-    {
-      "title": "Drake’s Lifestyle Brand OVO Drops UFC Collab, With Famous Fighters Front and Center on New Merch",
-      "description": "From Conor McGregor to GSP, the new collaboration commemorates iconic moments in MMA history.",
-      "url": "http://www.rollingstone.com/product-recommendations/style/official-ovo-ufc-collection-2026-release-pricing-buy-online-1235615199/",
-      "image": "/fightonomics/agents/mma-news-updater/images/drake-s-lifestyle-brand-ovo-drops-ufc-collab-with-famous-fighters-front-and-center-on-new-merch-1787818455136.jpeg",
-      "source": "Rolling Stone",
-      "publishedAt": "2026-08-25T22:19:14Z",
-      "author": "Tim Chan"
-    },
-    {
-      "title": "Sean Woodson explains layoff, plans to send division firm reminder at UFC Shanghai",
-      "description": "Sean Woodson was on a seven-fight winning streak prior to his loss last year to Dan Ige, and he's itching to get back in the cage Saturday.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/25/ufc-shanghai-sean-woodson-interview-layoff-jack-jenkins-fight/91458416007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/sean-woodson-explains-layoff-plans-to-send-division-firm-reminder-at-ufc-shanghai-1787818455137.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-08-25T21:10:30Z",
-      "author": "Nolan King, MMA Junkie"
-    },
-    {
-      "title": "Dana White’s Contender Series 89 live stream, fight card, watch Bella Mir UFC tryout online",
-      "description": "Bella Mir, the daughter of MMA legend Frank Mir, is one of 10 fighters auditioning for a UFC contract at Dana White's Contender Series 89.",
-      "url": "https://www.thebiglead.com/dana-white-contender-series-89-live-stream-fight-card-bella-mir-ufc-tryout-online/",
-      "image": "/fightonomics/agents/mma-news-updater/images/dana-white-s-contender-series-89-live-stream-fight-card-watch-bella-mir-ufc-tryout-online-1787818455137.jpeg",
-      "source": "The Big Lead",
-      "publishedAt": "2026-08-25T21:02:54Z",
-      "author": "Josh Sanchez"
     }
   ]
 }
