@@ -1,15 +1,60 @@
 {
-  "lastUpdated": "2026-08-28T10:16:55.468Z",
+  "lastUpdated": "2026-08-28T21:43:43.734Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
+      "title": "Mailbag: On Bella Mir, family influence in fighting, and Dana White's $11 million boast",
+      "description": "Should fighters have family members involved in their careers, and what does Bella Mir's loss in DWCS tell us? Answers to that and other reader questions.",
+      "url": "https://sports.yahoo.com/mma/article/mailbag-on-bella-mir-family-influence-in-fighting-and-dana-whites-11-million-boast-203013387.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/mailbag-on-bella-mir-family-influence-in-fighting-and-dana-white-s-11-million-boast-1787953420896.jpeg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-08-27T20:30:13Z",
+      "author": "Ben Fowlkes"
+    },
+    {
+      "title": "Mauricio Ruffy reveals agreement with UFC for title shot with Arman Tsarukyan win",
+      "description": "A title shot is on the line for Mauricio Ruffy as well at UFC 331.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/27/mauricio-ruffy-has-agreement-with-ufc-on-title-shot-with-tsarukyan-win/91487343007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/mauricio-ruffy-reveals-agreement-with-ufc-for-title-shot-with-arman-tsarukyan-win-1787953420897.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-08-27T19:30:17Z",
+      "author": "Farah Hannoun, MMA Junkie"
+    },
+    {
+      "title": "Sean O'Malley sees 'skill for skill' advantage in Yan vs. Dvalishvili at UFC 333",
+      "description": "Sean O'Malley could find himself in line for another title shot after UFC 333 and has a close eye on the main event.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/27/ufc-333-sean-omalley-prediction-petr-yan-vs-merab-dvalishvili-bantamweight-title-fight/91486323007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/sean-o-malley-sees-skill-for-skill-advantage-in-yan-vs-dvalishvili-at-ufc-333-1787953420897.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-08-27T17:50:25Z",
+      "author": "Farah Hannoun, mma junkie"
+    },
+    {
+      "title": "UFC Shanghai full fight: Umar Nurmagomedov outpoints Cory Sandhagen in title eliminator",
+      "description": "Watch Umar Nurmagomedov outpoint Cory Sandhagen in title eliminator bout ahead of his return at Saturday's UFC Shanghai.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/27/ufc-shanghai-full-fight-umar-nurmagomedov-outpoints-cory-sandhagen/91460129007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-shanghai-full-fight-umar-nurmagomedov-outpoints-cory-sandhagen-in-title-eliminator-1787953420898.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-08-27T12:03:03Z",
+      "author": "MMA Junkie"
+    },
+    {
+      "title": "Morning Report: Sean O’Malley would still ‘like to consider myself the GOAT’ of bantamweight by end of career",
+      "description": "Sean O’Malley still seeks all-time bantamweight greatness",
+      "url": "https://www.mmafighting.com/ufc/507176/morning-report-sean-omalley-would-still-like-to-consider-myself-the-goat-of-bantamweight-by-end-of-career",
+      "image": "/fightonomics/agents/mma-news-updater/images/morning-report-sean-o-malley-would-still-like-to-consider-myself-the-goat-of-bantamweight-by-end-of-career-1787953420898.jpeg",
+      "source": "MMA Fighting",
+      "publishedAt": "2026-08-27T12:00:00Z",
+      "author": "Alexander K. Lee"
+    },
+    {
       "title": "UFC’s newest fighter had a 7:30 a.m. work call following historic upset",
       "description": "Alex Apodaca has little time to celebrate the biggest win of her career.",
       "url": "https://www.sherdog.com/news/news/UFCs-newest-fighter-had-a-730-am-work-call-following-historic-upset-202554",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-s-newest-fighter-had-a-7-30-a-m-work-call-following-historic-upset-1787912212015.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-s-newest-fighter-had-a-7-30-a-m-work-call-following-historic-upset-1787953420899.jpeg",
       "source": "Sherdog.com",
       "publishedAt": "2026-08-27T04:04:26Z",
       "author": "SouravChakraborty@sherdog.com (Sourav Chakraborty)"
@@ -18,7 +63,7 @@
       "title": "Midnight Mania: I’m Not Leaving The UFC!",
       "description": "Bringing you the weird and wild from the world of MMA each and every weeknight!",
       "url": "https://www.mmamania.com/ufc-news/467567/tom-aspinall-refutes-rumors-promises-comeback-im-not-leaving-the-ufc",
-      "image": "/fightonomics/agents/mma-news-updater/images/midnight-mania-i-m-not-leaving-the-ufc-1787912212016.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/midnight-mania-i-m-not-leaving-the-ufc-1787953420899.jpeg",
       "source": "MMA Mania",
       "publishedAt": "2026-08-27T03:59:00Z",
       "author": "Andrew Richardson"
@@ -27,7 +72,7 @@
       "title": "UFC Shanghai best betting props, parlays and picks | Nurmagomedov vs. Song",
       "description": "Checkout our comprehensive UFC Shanghai “Nurmagomedov vs. Song” betting guide right here.",
       "url": "https://www.mmamania.com/ufc-odds/466622/ufc-shanghai-best-betting-props-parlays-and-picks-nurmagomedov-vs-song",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-shanghai-best-betting-props-parlays-and-picks-nurmagomedov-vs-song-1787912212016.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-shanghai-best-betting-props-parlays-and-picks-nurmagomedov-vs-song-1787953420900.jpeg",
       "source": "MMA Mania",
       "publishedAt": "2026-08-27T03:11:00Z",
       "author": "Tim Edwards"
@@ -36,7 +81,7 @@
       "title": "Bella Mir releases statement following DWCS upset loss",
       "description": "Bella Mir broke her silence on Wednesday about her upset loss on Dana White's Contender Series.",
       "url": "https://sports.yahoo.com/articles/bella-mir-releases-statement-following-005849010.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/bella-mir-releases-statement-following-dwcs-upset-loss-1787912212017.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/bella-mir-releases-statement-following-dwcs-upset-loss-1787953420900.jpeg",
       "source": "Yahoo Entertainment",
       "publishedAt": "2026-08-27T00:58:49Z",
       "author": "Jeff Cain"
@@ -49,51 +94,6 @@
       "source": "USA Today",
       "publishedAt": "2026-08-27T00:30:22Z",
       "author": "Farah Hannoun and Mike Bohn, MMA Junkie"
-    },
-    {
-      "title": "Tom Aspinall’s Next Fight: 3 Eye Surgeries, 10 Months, Beef With Dana White: What We Know",
-      "description": "Tom Aspinall shut down UFC exit rumors on Wednesday. Where his eye injury stands, why the Dana White fallout started and who he fights next at heavyweight.",
-      "url": "https://www.forbes.com/sites/brianmazique/2026/08/26/tom-aspinalls-next-fight-ufc-exit-rumors-and-injury-status/",
-      "image": "/fightonomics/agents/mma-news-updater/images/tom-aspinall-s-next-fight-3-eye-surgeries-10-months-beef-with-dana-white-what-we-know-1787912212018.jpeg",
-      "source": "Forbes",
-      "publishedAt": "2026-08-27T00:30:15Z",
-      "author": "Brian Mazique, Contributor, \n Brian Mazique, Contributor\n https://www.forbes.com/sites/brianmazique/"
-    },
-    {
-      "title": "Song Yadong: Beating 'best fighter' Umar Nurmagomedov will earn me UFC title shot",
-      "description": "Song Yadong sees Umar Nurmagomedov as his ticket to a UFC title shot.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/26/ufc-shanghai-song-yadong-definitely-expects-title-shot-umar-nurmagomedov-win/91470506007/",
-      "image": null,
-      "source": "USA Today",
-      "publishedAt": "2026-08-26T22:50:18Z",
-      "author": "Farah Hannoun and Mike Bohn, MMA Junkie"
-    },
-    {
-      "title": "Kevin Holland confirms he's the $11 million DWCS man, but 'sh*t's f*cked up'",
-      "description": "You no longer have to guess which Dana White's Contender Series fighter has made $11 million.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/26/kevin-holland-dana-white-11-million-dollar-man-steps-forward-explains-life-situation/91482200007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/kevin-holland-confirms-he-s-the-11-million-dwcs-man-but-sh-t-s-f-cked-up-1787912212019.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-08-26T22:10:45Z",
-      "author": "Danny Segura, MMA Junkie"
-    },
-    {
-      "title": "Bella Mir’s mother defends historic Contender Series upset loss, gets absolutely roasted -‘Worst thing to do’",
-      "description": "Mama knows best? … Or worst? Mega-hyped prospect Bella Mir, daughter of former Ultimate Fighting Championship (UFC) Heavyweight champion Frank Mir, suffered a massive upset loss to Alex Apodaca, dropping a unanimous decision Tuesday night (Aug. 25, 2026) in t…",
-      "url": "https://www.mmamania.com/ufc-contender-series-dana-white/467521/bella-mirs-mother-defends-historic-contender-series-upset-loss-gets-absolutely-roasted-worst-thing-to-do",
-      "image": "/fightonomics/agents/mma-news-updater/images/bella-mir-s-mother-defends-historic-contender-series-upset-loss-gets-absolutely-roasted-worst-thing-to-do-1787912212019.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-08-26T22:01:38Z",
-      "author": "Alexander Behunin"
-    },
-    {
-      "title": "How did historic Fenway Park end up hosting bareknuckle fights? BKFC CEO explains",
-      "description": "BKFC sets up shop Saturday on the field of one of America's most iconic sports stadiums. Here's how it came to be.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/26/bkfc-92-fenway-park-david-feldman-explains/91461005007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/how-did-historic-fenway-park-end-up-hosting-bareknuckle-fights-bkfc-ceo-explains-1787912212020.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-08-26T20:20:29Z",
-      "author": "Nolan King, MMA Junkie"
     }
   ]
 }
