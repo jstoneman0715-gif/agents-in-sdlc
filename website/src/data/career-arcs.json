@@ -1,15 +1,87 @@
 {
-  "lastUpdated": "2026-08-30T04:25:23.839Z",
+  "lastUpdated": "2026-08-30T16:03:47.344Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
+      "title": "Duel Arena 1 Start Time, Full Fight Card Details",
+      "description": "Duel Arena will makes its combat sport debut this Saturday (Aug. 29, 2026) with Duel Arena 1, an event that promises fight fans entertainment with a mixture of combat fisticuffs from mixed martial arts (MMA), boxing and kickboxing. And honestly, I don’t know …",
+      "url": "https://www.mmamania.com/ufc-programming/467695/duel-arena-1-start-time-full-fight-card-details-perry-vs-jenkins",
+      "image": "/fightonomics/agents/mma-news-updater/images/duel-arena-1-start-time-full-fight-card-details-1788105825534.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-08-29T14:29:00Z",
+      "author": "Adam Guillen"
+    },
+    {
+      "title": "UFC Fight Night Shanghai Results, Bonuses And Highlights",
+      "description": "Song Yadong upset Umar Nurmagomedov at UFC Shanghai. Here are the full results, the highlight finishes, the post-fight fallout and every bonus winner.",
+      "url": "https://www.forbes.com/sites/brianmazique/2026/08/29/ufc-fight-night-shanghai-results-bonuses-and-highlights/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-fight-night-shanghai-results-bonuses-and-highlights-1788105825535.jpeg",
+      "source": "Forbes",
+      "publishedAt": "2026-08-29T14:04:51Z",
+      "author": "Brian Mazique, Contributor"
+    },
+    {
+      "title": "UFC Shanghai video: Song Yadong KOs Umar Nurmagomedov, calls for title shot",
+      "description": "Song Yadong delivered perhaps the Upset of the Year when he left Umar Nurmagomedov cold in the UFC Shanghai main event.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/29/ufc-shanghai-results-song-yadong-upsets-umar-nurmagomedov-knockout/91525985007/",
+      "image": null,
+      "source": "USA Today",
+      "publishedAt": "2026-08-29T13:07:40Z",
+      "author": "Farah Hannoun, MMA Junkie"
+    },
+    {
+      "title": "Where to watch BKFC 92 Boston: Stewart vs. Gigliotti Live stream, TV channel & start time for Fenway Park event",
+      "description": "Here's all you need to know about BKFC 92, including the live stream info and start time for the event at Fenway Park.",
+      "url": "https://www.sportingnews.com/us/boxing/news/watch-bkfc-92-boston-stewart-vs-gigliotti-live-stream-time-fenway-park/ad3bc7e8ffc748b6b26ec304",
+      "image": "/fightonomics/agents/mma-news-updater/images/where-to-watch-bkfc-92-boston-stewart-vs-gigliotti-live-stream-tv-channel-start-time-for-fenway-park-event-1788105825536.jpeg",
+      "source": "Sporting News",
+      "publishedAt": "2026-08-29T11:30:02Z",
+      "author": "Daniel Yanofsky"
+    },
+    {
+      "title": "Highlights! Liu Ce Delivers Wild Faceplant KO In UFC Shanghai Debut",
+      "description": "Liu Ce delivered the goods in his official Octagon debut earlier this morning (Sat., Aug. 29, 2026) at UFC Shanghai LIVE on Paramount+ from inside the Shanghai Oriental Sports Center in Shanghai, China, putting a violent stop to Levi Rodrigues with a blisteri…",
+      "url": "https://www.mmamania.com/ufc-paramount-plus-news-hub-fight-cards-schedule/468096/watch-ufc-shanghai-video-highlights-results-paramount-liu-ce-knockout-rodrigues",
+      "image": "/fightonomics/agents/mma-news-updater/images/highlights-liu-ce-delivers-wild-faceplant-ko-in-ufc-shanghai-debut-1788105825536.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-08-29T11:19:41Z",
+      "author": "Dan Hiergesell"
+    },
+    {
+      "title": "How to Watch BKFC 92 Boston: Stewart vs. Gigliotti Live Stream, Start Time & Full Fight Card",
+      "description": "Here is everything you need to know about BKFC 92, including how to watch the event on Saturday.",
+      "url": "https://nesn.com/boxing/news/watch-bkfc-92-boston-live-stream-start-time-fight-card/9791c15519fab4f1b569292b",
+      "image": "/fightonomics/agents/mma-news-updater/images/how-to-watch-bkfc-92-boston-stewart-vs-gigliotti-live-stream-start-time-full-fight-card-1788105825537.jpeg",
+      "source": "NESN",
+      "publishedAt": "2026-08-29T10:00:01Z",
+      "author": "Daniel Yanofsky"
+    },
+    {
+      "title": "UFC Shanghai video: Rei Tsuruya dominates Kevin Borjas for submission",
+      "description": "Rei Tsuruya looked like the biggest favorite on the UFC Shanghai card against Kevin Borjas.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/29/ufc-shanghai-video-rei-tsuruya-runs-through-kevin-borjas-submission/91525149007/",
+      "image": null,
+      "source": "USA Today",
+      "publishedAt": "2026-08-29T09:32:00Z",
+      "author": "Farah Hannoun, MMA Junkie"
+    },
+    {
+      "title": "UFC Fight Night odds, predictions, time: Umar Nurmagomedov vs. Song Yadong picks by elite MMA expert",
+      "description": "SportsLine's Kyle Marley reveals his picks for the UFC Fight Night: Nurmagomedov vs. Yadong card Saturday at Pudong District, China, on Paramount+",
+      "url": "https://www.cbssports.com/betting/news/ufc-fight-night-odds-predictions-card-time-umar-nurmagomedov-vs-song-yadong-picks/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-fight-night-odds-predictions-time-umar-nurmagomedov-vs-song-yadong-picks-by-elite-mma-expert-1788105825538.jpeg",
+      "source": "CBS Sports",
+      "publishedAt": "2026-08-29T09:01:00Z",
+      "author": "Daniel Kohn"
+    },
+    {
       "title": "UFC Shanghai predictions: Full picks, best bets for the entire card",
       "description": "The UFC heads to China for a 13-fight card this weekend.",
       "url": "https://nypost.com/2026/08/28/betting/ufc-shanghai-predictions-full-picks-best-bets-for-the-entire-card/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-shanghai-predictions-full-picks-best-bets-for-the-entire-card-1788063921884.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-shanghai-predictions-full-picks-best-bets-for-the-entire-card-1788105825538.jpeg",
       "source": "New York Post",
       "publishedAt": "2026-08-29T03:00:00Z",
       "author": "Erich Richter"
@@ -22,78 +94,6 @@
       "source": "Lifesciencesworld.com",
       "publishedAt": "2026-08-29T01:36:54Z",
       "author": "Ava Reynolds"
-    },
-    {
-      "title": "Liu Ce vs. Levi Rodrigues Jr. prediction, pick for UFC Fight Night 286",
-      "description": "Two unknown fighters get a main card spot at UFC Shanghai. Who wins?",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/28/liu-ce-vs-levi-rodrigues-jr-ufc-shanghai-prediction-expert-pick/91515397007/",
-      "image": null,
-      "source": "USA Today",
-      "publishedAt": "2026-08-29T00:30:20Z",
-      "author": "Dan Tom, MMA Junkie"
-    },
-    {
-      "title": "Alex Perez vs. Su Mudaerji prediction, pick for UFC Fight Night 286",
-      "description": "Their first fight ended in a no contest thanks to a low blow. How will the rematch between Alex Perez and Su Mudaerji unfold?",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/28/alex-perez-vs-su-mudaerji-ufc-shanghai-prediction-expert-pick/91515047007/",
-      "image": null,
-      "source": "USA Today",
-      "publishedAt": "2026-08-29T00:00:55Z",
-      "author": "Dan Tom, MMA Junkie"
-    },
-    {
-      "title": "UFC Shanghai predictions",
-      "description": "Umar Nurmagomedov heads into enemy territory to face Song Yadong",
-      "url": "https://www.mmafighting.com/ufc/507474/ufc-shanghai-predictions",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-shanghai-predictions-1788063921887.jpeg",
-      "source": "MMA Fighting",
-      "publishedAt": "2026-08-29T00:00:00Z",
-      "author": "Alexander K. Lee"
-    },
-    {
-      "title": "Aori Qileng vs. Kai Asakura prediction, pick for UFC Fight Night 286",
-      "description": "Can former flyweight title challenger Kai Asakura stay on track at bantamweight when he meets Aori Qileng at UFC Shanghai?",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/28/aori-qileng-vs-kai-asakura-ufc-shanghai-prediction-expert-pick/91513434007/",
-      "image": null,
-      "source": "USA Today",
-      "publishedAt": "2026-08-28T23:30:38Z",
-      "author": "Dan Tom, MMA Junkie"
-    },
-    {
-      "title": "Yan Xiaonan vs. Denise Gomes prediction, pick for UFC Fight Night 286",
-      "description": "Will Denis Gomes pick up the biggest win of her career when she meets former strawweight title challenger Yan Xiaonan at UFC Shanghai?",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/28/yan-xiaonan-vs-denise-gomes-ufc-shanghai-prediction-expert-pick/91512777007/",
-      "image": null,
-      "source": "USA Today",
-      "publishedAt": "2026-08-28T23:00:41Z",
-      "author": "Dan Tom, MMA Junkie"
-    },
-    {
-      "title": "Mike Perry reacts to Dillon Danis withdrawing from fight: ‘This was always their plan’ - MMA Fighting",
-      "description": "Mike Perry reacts to Dillon Danis withdrawing from fight: ‘This was always their plan’MMA Fighting Dillon Danis out; Mike Perry gets replacement opponent on 48 hours’ noticeMMA Fighting RAF reschedules Arman’s crossover title fight against injured Dillon Dani…",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185259574",
-      "image": null,
-      "source": "Slashdot.org",
-      "publishedAt": "2026-08-28T20:32:15Z",
-      "author": "feedfeeder"
-    },
-    {
-      "title": "‘It’s always the ones you least expect’: Pros react to Dillon Danis pulling out of Mike Perry fight - MMA Fighting",
-      "description": "‘It’s always the ones you least expect’: Pros react to Dillon Danis pulling out of Mike Perry fightMMA Fighting RAF reschedules Arman’s crossover title fight against injured Dillon DanisYahoo Sports Mike Perry reacts to Dillon Danis withdrawing from fight: ‘T…",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185258808",
-      "image": null,
-      "source": "Slashdot.org",
-      "publishedAt": "2026-08-28T19:52:05Z",
-      "author": "feedfeeder"
-    },
-    {
-      "title": "Dillon Danis out of MMA return against Mike Perry as new fight gets made on two days' notice - Bloody Elbow",
-      "description": "Dillon Danis out of MMA return against Mike Perry as new fight gets made on two days' noticeBloody Elbow RAF reschedules Arman’s crossover title fight against injured Dillon DanisYahoo Sports Mike Perry reacts to Dillon Danis withdrawing from fight: ‘This was…",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185258424",
-      "image": null,
-      "source": "Slashdot.org",
-      "publishedAt": "2026-08-28T19:32:17Z",
-      "author": "feedfeeder"
     }
   ]
 }
