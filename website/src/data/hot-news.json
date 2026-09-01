@@ -1,15 +1,105 @@
 {
-  "lastUpdated": "2026-08-31T18:46:54.113Z",
+  "lastUpdated": "2026-09-01T04:12:55.783Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
+      "title": "Dodson, at long last, gets a fight",
+      "description": "If all goes according to plan, John Dodson’s 27-month bare-knuckle drought will end Oct. 17. The Albuquerque native is scheduled to face Jamel Herring that night in Newark, New Jersey, BKFC, the bare-knuckle sport’s most successful promotional firm, announced…",
+      "url": "https://www.abqjournal.com/sports/dodson-at-long-last-gets-a-fight/3112195",
+      "image": null,
+      "source": "Albuquerque Journal",
+      "publishedAt": "2026-08-31T03:06:00Z",
+      "author": "Rick Wright, Albuquerque Journal, N.M."
+    },
+    {
+      "title": "Zabit Magomedsharipov returns after 7 years, beats UFC featherweight",
+      "description": "Despite over half a decade out of competition, Zabit Magomedsharipov is still as skilled as they come.",
+      "url": "https://www.sherdog.com/news/news/Zabit-Magomedsharipov-returns-after-7-years-beats-UFC-featherweight-202582",
+      "image": "/fightonomics/agents/mma-news-updater/images/zabit-magomedsharipov-returns-after-7-years-beats-ufc-featherweight-1788235972719.jpeg",
+      "source": "Sherdog.com",
+      "publishedAt": "2026-08-31T02:47:11Z",
+      "author": "sayannag88@gmail.com (Sayan Nag)"
+    },
+    {
+      "title": "Song Yadong’s Return to China Cements his Place atop the Bantamweight Rankings",
+      "description": "In front of 16,188 of his fellow natives of Shanghai China, Song Yadong put his name in the Bantamweight title picture after stunning knockout of heavy-favorite Umar Nurmagomedov.",
+      "url": "https://www.thesportingtribune.com/2026/08/30/ufc-fight-night-shanghai",
+      "image": null,
+      "source": "Thesportingtribune.com",
+      "publishedAt": "2026-08-31T00:40:15Z",
+      "author": "Ernesto Madrigal-Rodriguez"
+    },
+    {
+      "title": "The Thrill and Agony: UFC Fight Night 286 winner and loser reactions",
+      "description": "The thrill of victory and agony of defeat was seen in the aftermath of UFC Shanghai from the winning and losing athletes.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/mma/blue-corner/2026/08/30/the-thrill-and-agony-ufc-shanghai-winner-loser-fighter-reactions/91538985007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/the-thrill-and-agony-ufc-fight-night-286-winner-and-loser-reactions-1788235972722.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-08-30T23:40:19Z",
+      "author": "Mike Bohn, MMA Junkie"
+    },
+    {
+      "title": "ACBJJ 22 Results: Zabit Beats Zalal, Belal Submits Opponent",
+      "description": "Watch the entire event in the video player",
+      "url": "https://www.mmamania.com/bjj-news/468668/acbjj-22-results-zabit-magomedsharipov-defeats-youssef-zalal-belal-muhammad-strangles-opponent",
+      "image": null,
+      "source": "MMA Mania",
+      "publishedAt": "2026-08-30T23:15:00Z",
+      "author": "Alexander Behunin"
+    },
+    {
+      "title": "Brandon Jenkins explains wild journey to Mike Perry upset knockout: ‘I heard Nick Diaz got the call’",
+      "description": "Brandon Jenkins’ big win over Mike Perry came out of nowhere",
+      "url": "https://www.mmafighting.com/latest-news/507917/brandon-jenkins-explains-wild-journey-to-mike-perry-upset-knockout-i-heard-nick-diaz-got-the-call",
+      "image": "/fightonomics/agents/mma-news-updater/images/brandon-jenkins-explains-wild-journey-to-mike-perry-upset-knockout-i-heard-nick-diaz-got-the-call-1788235972724.jpeg",
+      "source": "MMA Fighting",
+      "publishedAt": "2026-08-30T23:00:00Z",
+      "author": "Mike Heck"
+    },
+    {
+      "title": "MMA Junkie's Knockout of the Month for August: An upset Song by Yadong",
+      "description": "The violent knockouts were aplenty in August, but only one can be deemed KO of the Month.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/mma/2026/08/30/knockout-of-the-month-august-2026-song-yadong-upsets-umar-nurmagomedov/91537713007/",
+      "image": null,
+      "source": "USA Today",
+      "publishedAt": "2026-08-30T22:50:15Z",
+      "author": "Mike Bohn, MMA Junkie"
+    },
+    {
+      "title": "Ce Liu’s insane debut at UFC Shanghai one of 2026’s most memorable $100K winners",
+      "description": "Ce Liu and Levi Rodrigues swung for the fences until only one was left standing at UFC Shanghai.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/30/ufc-shanghai-video-ce-liu-debut-knockout-win-bonus-light-heavyweight/91540009007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ce-liu-s-insane-debut-at-ufc-shanghai-one-of-2026-s-most-memorable-100k-winners-1788235972726.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-08-30T21:15:58Z",
+      "author": "Matt Erickson, MMA Junkie"
+    },
+    {
+      "title": "On this date in MMA history, the ill-fated UFC 177 had just 8 fights",
+      "description": "It's been 12 years since one of the most musical-chairs cards in UFC history – and still a record-low number of fights that hasn't been matched.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/30/ufc-177-this-date-mma-history-august-30-2014-joe-soto-emergency-title-fight-dillashaw-cejudo-cursed/91539512007/",
+      "image": null,
+      "source": "USA Today",
+      "publishedAt": "2026-08-30T20:20:26Z",
+      "author": "Matt Erickson, MMA Junkie"
+    },
+    {
+      "title": "Julia Polastri expected KO vs. Nan – or two hospital trips at UFC Shanghai",
+      "description": "Julia Polastri got her third win in the UFC, and it was spectacular – thought it was ineligible for bonus money.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/30/ufc-shanghai-video-julia-polastri-expected-knockout-ko-vs-xiong-jing-nan/91538983007/",
+      "image": null,
+      "source": "USA Today",
+      "publishedAt": "2026-08-30T19:30:34Z",
+      "author": "Matt Erickson, MMA Junkie"
+    },
+    {
       "title": "70 years later, fights returned to Fenway Park — this time with bare-knuckles and face tattoos aplenty",
       "description": "Seven decades after Fenway Park last hosted a night of fights, bare-knuckle boxing brought violence, nostalgia and a distinctly modern brand of chaos back beneath the Green Monster this weekend.",
       "url": "https://sports.yahoo.com/boxing/article/70-years-later-fights-returned-to-fenway-park-this-time-with-bare-knuckles-and-face-tattoos-aplenty-bkfc-92-174752825.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/70-years-later-fights-returned-to-fenway-park-this-time-with-bare-knuckles-and-face-tattoos-aplenty-1788202011095.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/70-years-later-fights-returned-to-fenway-park-this-time-with-bare-knuckles-and-face-tattoos-aplenty-1788235972729.jpeg",
       "source": "Yahoo Entertainment",
       "publishedAt": "2026-08-30T17:47:52Z",
       "author": "Chuck Mindenhall"
@@ -18,7 +108,7 @@
       "title": "Sean Shelby's Shoes: What's next for Song Yadong after UFC Shanghai win?",
       "description": "What does the future hold for Song Yadong after a career-changing KO at UFC Shanghai? We attempt to play matchmaker.",
       "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/30/ufc-shanghai-matchmaker-song-yadong-next-fight-knockout-win/91529096007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/sean-shelby-s-shoes-what-s-next-for-song-yadong-after-ufc-shanghai-win-1788202011096.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/sean-shelby-s-shoes-what-s-next-for-song-yadong-after-ufc-shanghai-win-1788235972729.jpeg",
       "source": "USA Today",
       "publishedAt": "2026-08-30T17:00:43Z",
       "author": "Mike Bohn, MMA Junkie"
@@ -36,7 +126,7 @@
       "title": "Video: Glover Teixeira drops UFC Hall of Famer 'Shogun' Rua, wins decision",
       "description": "Glover Teixeira's power was too much for fellow UFC legend Mauricio \"Shogun\" Rua in their boxing match in Brazil.",
       "url": "https://mmajunkie.usatoday.com/story/sports/boxing/2026/08/30/video-glover-teixeira-drops-ufc-legend-shogun-rua-wins-decision-boxing-match/91537129007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/video-glover-teixeira-drops-ufc-hall-of-famer-shogun-rua-wins-decision-1788202011099.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/video-glover-teixeira-drops-ufc-hall-of-famer-shogun-rua-wins-decision-1788235972731.jpeg",
       "source": "USA Today",
       "publishedAt": "2026-08-30T16:10:38Z",
       "author": "Mike Bohn, MMA Junkie"
@@ -54,7 +144,7 @@
       "title": "UFC Shanghai, The Morning After: A Crack In The Dagestan Dominance",
       "description": "Song Yadong beat the odds in his UFC Shanghai main event battle versus Umar Nurmagomedov. I’m not just talking about the betting odds, which pegged “The KungFu Kid” as somewhere between a 4-1 and 7-1 underdog depending on your site of choice. There was also h…",
       "url": "https://www.mmamania.com/ufc-results/468321/ufc-shanghai-the-morning-after-dagestan-dominance-suffers-a-major-blow-at-hands-of-song-yadong",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-shanghai-the-morning-after-a-crack-in-the-dagestan-dominance-1788202011102.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-shanghai-the-morning-after-a-crack-in-the-dagestan-dominance-1788235972732.jpeg",
       "source": "MMA Mania",
       "publishedAt": "2026-08-30T14:49:08Z",
       "author": "Andrew Richardson"
@@ -63,7 +153,7 @@
       "title": "Opinion: Justin Gaethje’s UFC title demands are getting harder to defend",
       "description": "Justin Gaethje has earned the right to pursue lucrative fights, but attempting to dictate his next challenger could undermine the blue-collar reputation he spent years building.",
       "url": "https://www.sherdog.com/news/articles/Opinion-Justin-Gaethjes-UFC-title-demands-are-getting-harder-to-defend-202560",
-      "image": "/fightonomics/agents/mma-news-updater/images/opinion-justin-gaethje-s-ufc-title-demands-are-getting-harder-to-defend-1788202011103.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/opinion-justin-gaethje-s-ufc-title-demands-are-getting-harder-to-defend-1788235972732.jpeg",
       "source": "Sherdog.com",
       "publishedAt": "2026-08-30T14:38:12Z",
       "author": "x (Dayne Fox)"
@@ -72,7 +162,7 @@
       "title": "Denise Gomes hits contender status with fifth straight win at UFC Shanghai",
       "description": "Denise Gomes went into enemy territory and won her fifth straight fight Saturday at UFC Shanghai.",
       "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/30/ufc-shanghai-video-denise-gomes-women-strawweight-title-contender/91536697007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/denise-gomes-hits-contender-status-with-fifth-straight-win-at-ufc-shanghai-1788202011104.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/denise-gomes-hits-contender-status-with-fifth-straight-win-at-ufc-shanghai-1788235972733.jpeg",
       "source": "USA Today",
       "publishedAt": "2026-08-30T14:30:22Z",
       "author": "Matt Erickson, MMA Junkie"
@@ -90,100 +180,10 @@
       "title": "DC May Finally Be Turning One of Batman’s Most Brutal Villains Into a Hero",
       "description": "Image Courtesy of DC Comics\n\nBatman is used to dealing with the worst odds imaginable, but he’s about to be put to a test that he’s failed before. Batman: Bad Seeds is the next big Bat-event, with mayor Poison Ivy giving Gotham to the Green, after she killed …",
       "url": "http://comicbook.com/comics/feature/dc-may-finally-be-turning-one-of-batmans-most-brutal-villains-into-a-hero/",
-      "image": "/fightonomics/agents/mma-news-updater/images/dc-may-finally-be-turning-one-of-batman-s-most-brutal-villains-into-a-hero-1788202011106.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/dc-may-finally-be-turning-one-of-batman-s-most-brutal-villains-into-a-hero-1788235972735.jpeg",
       "source": "ComicBook.com",
       "publishedAt": "2026-08-30T14:00:00Z",
       "author": "David Harth"
-    },
-    {
-      "title": "Open Thread, August 30, 2026: What’s your hidden talent?",
-      "description": "Your daily source for off topic chatter with the MMA Mania faithful.",
-      "url": "https://www.mmamania.com/daily_mania_ufc_mma/468581/open-thread-august-30-2026-whats-your-hidden-talent",
-      "image": "/fightonomics/agents/mma-news-updater/images/open-thread-august-30-2026-what-s-your-hidden-talent-1788202011107.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-08-30T13:05:00Z",
-      "author": "Tim Edwards"
-    },
-    {
-      "title": "Denis Goltsov, Alexander Shabliy among new additions to PFL Chicago",
-      "description": "The PFL's fall return to Chicago has a trio of new fights to support the title bout atop the card in the \"Windy City.\"",
-      "url": "https://mmajunkie.usatoday.com/story/sports/pfl/2026/08/30/pfl-chicago-fight-announcement-booking-denis-goltsov-alexander-shabliy-mma-mvp/91536145007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/denis-goltsov-alexander-shabliy-among-new-additions-to-pfl-chicago-1788202011107.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-08-30T12:51:18Z",
-      "author": "MMA Junkie"
-    },
-    {
-      "title": "Usman Nurmagomedov denies trying to elbow Song Yadong at UFC Shanghai — ‘If I had wanted to, I would have hit him’",
-      "description": "Drama! Top Ultimate Fighting Championship (UFC) Bantamweight contender Song Yadong scored the biggest win of his career when he knocked out former 135-pound title challenger Umar Nurmagomedov in the main event of UFC Shanghai yesterday (Sat., Aug. 29, 2026) i…",
-      "url": "https://www.mmamania.com/ufc-results/468557/usman-nurmagomedov-denies-trying-to-elbow-song-yadong-at-ufc-shanghai-if-i-had-wanted-to-i-would-have-hit-him",
-      "image": "/fightonomics/agents/mma-news-updater/images/usman-nurmagomedov-denies-trying-to-elbow-song-yadong-at-ufc-shanghai-if-i-had-wanted-to-i-would-have-hit-him-1788202011108.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-08-30T12:00:00Z",
-      "author": "Alexander Behunin"
-    },
-    {
-      "title": "Highlights! Perry Suffers Shocking KO Loss To Short-Notice Jenkins - MMA Mania",
-      "description": "Highlights! Perry Suffers Shocking KO Loss To Short-Notice JenkinsMMA Mania Duel Arena 1 Start Time, Full Fight Card DetailsYahoo Sports Duel Arena Results: Perry vs. JenkinsMMA Fighting UFC Veteran Scores Savage Spinning Elbow Knockout on Mike Perry Fight Ca…",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185295412",
-      "image": null,
-      "source": "Slashdot.org",
-      "publishedAt": "2026-08-30T11:12:24Z",
-      "author": "feedfeeder"
-    },
-    {
-      "title": "WDS Fight Night 18 in Mumbai featured Indian fighters against international MMA talent",
-      "description": "The event was part of WDS's ongoing effort to provide Indian MMA fighters with opportunities to compete against international opposition.",
-      "url": "https://economictimes.indiatimes.com/news/sports/other-sports/wds-fight-night-18-in-mumbai-featured-indian-fighters-against-international-mma-talent/articleshow/133627565.cms",
-      "image": "/fightonomics/agents/mma-news-updater/images/wds-fight-night-18-in-mumbai-featured-indian-fighters-against-international-mma-talent-1788202011109.jpeg",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-30T10:40:01Z",
-      "author": "ET Online"
-    },
-    {
-      "title": "UFC Shanghai live results, highlights and play-by-play - MMA Mania",
-      "description": "UFC Shanghai live results, highlights and play-by-playMMA Mania Song Yadong KO's Umar Nurmagomedov in massive UFC upsetESPN Main Card Results | UFC ShanghaiUFC.com UFC Fight Night: Nurmagomedov vs. Song Live Results, Updates and HighlightsBleacher Report Umar…",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185294592",
-      "image": null,
-      "source": "Slashdot.org",
-      "publishedAt": "2026-08-30T10:12:05Z",
-      "author": "feedfeeder"
-    },
-    {
-      "title": "Brazilian MMA Legends Put On Spirited Boxing Match, What's Next For Winner?",
-      "description": "Glover Teixeira defeated Shogun Rua by unanimous decision at Spaten Fight Night 3 in São Paulo. Full card results, post-fight reaction and where Teixeira goes next.",
-      "url": "https://www.forbes.com/sites/brianmazique/2026/08/30/glover-teixeira-vs-shogun-rua-results-highlights-and-reaction/",
-      "image": "/fightonomics/agents/mma-news-updater/images/brazilian-mma-legends-put-on-spirited-boxing-match-what-s-next-for-winner-1788202011111.jpeg",
-      "source": "Forbes",
-      "publishedAt": "2026-08-30T08:48:32Z",
-      "author": "Brian Mazique, Contributor"
-    },
-    {
-      "title": "Watch Mike Perry dislocate shoulder, take pounding from Danis' replacement - MMA Junkie",
-      "description": "Watch Mike Perry dislocate shoulder, take pounding from Danis' replacementMMA Junkie Duel Arena 1 Start Time, Full Fight Card DetailsYahoo Sports Duel Arena Results: Perry vs. JenkinsMMA Fighting UFC Veteran Scores Savage Spinning Elbow Knockout on Mike Perry…",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185292928",
-      "image": null,
-      "source": "Slashdot.org",
-      "publishedAt": "2026-08-30T08:12:31Z",
-      "author": "feedfeeder"
-    },
-    {
-      "title": "How To Watch The Inner Circle 29 And ONE Friday Fights 169 Live On September 4",
-      "description": "Find out how you can watch all the MMA, Muay Thai, and kickboxing action anywhere in the world!",
-      "url": "https://www.onefc.com/news/how-to-watch-the-inner-circle-29-and-one-friday-fights-169-live-on-september-4/",
-      "image": "/fightonomics/agents/mma-news-updater/images/how-to-watch-the-inner-circle-29-and-one-friday-fights-169-live-on-september-4-1788202011112.jpeg",
-      "source": "Onefc.com",
-      "publishedAt": "2026-08-30T07:38:18Z",
-      "author": "Bear Frazer"
-    },
-    {
-      "title": "mxfp6-sm120 added to PyPI",
-      "description": "Native SM120 W6A8 GEMM with packed MXFP6 weights for PyTorch",
-      "url": "https://pypi.org/project/mxfp6-sm120/",
-      "image": null,
-      "source": "Pypi.org",
-      "publishedAt": "2026-08-30T07:17:20Z",
-      "author": null
     }
   ]
 }
