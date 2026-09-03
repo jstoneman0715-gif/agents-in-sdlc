@@ -1,15 +1,78 @@
 {
-  "lastUpdated": "2026-09-02T15:58:44.818Z",
+  "lastUpdated": "2026-09-03T03:34:54.762Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
+      "title": "Dana White won't confirm identity of '$11 million man'",
+      "description": "Kevin Holland has claimed he's the $11 million man – but Dana White remains mum.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/01/ufc-dana-white-identity-eleven-million-dollar-man-kevin-holland/91573080007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/dana-white-won-t-confirm-identity-of-11-million-man-1788406493253.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-09-02T03:34:31Z",
+      "author": "Nolan King and Ken Hathaway, MMA Junkie"
+    },
+    {
+      "title": "Michael Chiesa Reveals Why ‘The Ultimate Fighter’ Still Has a Crucial Role in MMA",
+      "description": "Michael Chiesa revealed why he believes The Ultimate Fighter still has a crucial role for the UFC despite the Contender Series' emergence. The post Michael Chiesa Reveals Why ‘The Ultimate Fighter’ Still Has a Crucial Role in MMA appeared first on HEAVY.",
+      "url": "https://heavy.com/sports/ufc/michael-chiesa-the-ultimate-fighter-crucial-mma/",
+      "image": "/fightonomics/agents/mma-news-updater/images/michael-chiesa-reveals-why-the-ultimate-fighter-still-has-a-crucial-role-in-mma-1788406493254.jpeg",
+      "source": "Heavy.com",
+      "publishedAt": "2026-09-02T02:30:12Z",
+      "author": "Giancarlo Aulino"
+    },
+    {
+      "title": "Alex Pereira’s sister booked against ONE’s youngest-ever champion for Contender Series on Oct. 13",
+      "description": "The Pereira legacy continues? Former Ultimate Fighting Championship (UFC) two-division champion Alex Pereira could soon be joined inside the Octagon by his younger sister. Aline Pereira has been booked to face former ONE Championship Muay Thai champion Smilla…",
+      "url": "https://www.mmamania.com/ufc-contender-series-dana-white/468991/alex-pereira-aline-pereira-smilla-sundell-contender-series-october-13",
+      "image": "/fightonomics/agents/mma-news-updater/images/alex-pereira-s-sister-booked-against-one-s-youngest-ever-champion-for-contender-series-on-oct-13-1788406493254.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-09-02T01:12:57Z",
+      "author": "Alexander Behunin"
+    },
+    {
+      "title": "Bella Mir opens up on historic Contender Series upset, backlash: 'I've always had a target on my back'",
+      "description": "Mir speaks for the first time since her loss, while the woman who pulled off the +1500 upset, Alex Apodaca, explains why she thinks the online blowback has shortchanged them both.",
+      "url": "https://sports.yahoo.com/mma/article/bella-mir-opens-up-on-historic-contender-series-upset-backlash-ive-always-had-a-target-on-my-back-alex-apodaca-010429675.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/bella-mir-opens-up-on-historic-contender-series-upset-backlash-i-ve-always-had-a-target-on-my-back-1788406493255.jpeg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-02T01:04:29Z",
+      "author": "Drake Riggs"
+    },
+    {
+      "title": "DWCS video: Modestino Rodrigues finishes Brandon Holmes in 15 seconds",
+      "description": "Early stoppage? Many UFC fans thought so.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/01/ufc-dwcs-modestino-rodrigues-vs-brandon-holmes/91571412007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/dwcs-video-modestino-rodrigues-finishes-brandon-holmes-in-15-seconds-1788406493255.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-09-02T00:55:30Z",
+      "author": "Nolan King, MMA Junkie"
+    },
+    {
+      "title": "Contender Series miracle: Liam McCracken fights for UFC contract three years after horrific bus accident",
+      "description": "“I shouldn’t be walking. I shouldn’t be talking.” Before Liam McCracken steps inside the Octagon tonight (Tues., Sept. 1, 2026) to compete for an Ultimate Fighting Championship (UFC) contract on Week 4 of Contender Series inside the Meta Apex, it is worth kno…",
+      "url": "https://www.mmamania.com/ufc-contender-series-dana-white/468968/contender-series-miracle-liam-mccracken-fights-for-ufc-contract-three-years-after-horrific-bus-accident",
+      "image": "/fightonomics/agents/mma-news-updater/images/contender-series-miracle-liam-mccracken-fights-for-ufc-contract-three-years-after-horrific-bus-accident-1788406493256.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-09-01T20:58:27Z",
+      "author": "Alexander Behunin"
+    },
+    {
+      "title": "UFC Fight Night 287 pre-event facts: Salahdine Parnasse gets rare main event debut",
+      "description": "Check out all the numbers going into UFC Paris, headlined by Salahdine Parnasse's debut vs. Dan Hooker.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/01/ufc-fight-night-287-paris-pre-event-facts-salahdine-parnasse-rare-debut-main-event/91539816007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-fight-night-287-pre-event-facts-salahdine-parnasse-gets-rare-main-event-debut-1788406493257.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-09-01T19:30:24Z",
+      "author": "Mike Bohn, MMA Junkie"
+    },
+    {
       "title": "Salty Cejudo Says Song Loses ‘9 Out Of 10 Times’",
       "description": "Song Yadong shocked the world at UFC Shanghai. As a major betting underdog, Yadong rose to the occasion versus Umar Nurmagomedov, stopping the Russian wrestler in round two with a powerful uppercut connection (watch here). Nurmagomedov had previously only los…",
       "url": "https://www.mmamania.com/latest-news/468858/lucky-shot-henry-cejudo-argues-that-umar-nurmagomedov-defeats-song-yadong-9-out-of-10-times",
-      "image": "/fightonomics/agents/mma-news-updater/images/salty-cejudo-says-song-loses-9-out-of-10-times-1788364722965.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/salty-cejudo-says-song-loses-9-out-of-10-times-1788406493257.jpeg",
       "source": "MMA Mania",
       "publishedAt": "2026-09-01T07:00:00Z",
       "author": "Andrew Richardson"
@@ -18,7 +81,7 @@
       "title": "‘She’s A Real Fighter’ – Stamp Fairtex Respects The Danger Selina Flores Brings To ONE Fight Night 47",
       "description": "The former three-sport ONE World Champion sizes up her foe and reveals what she wants next on the global stage.",
       "url": "https://www.onefc.com/news/shes-a-real-fighter-stamp-fairtex-respects-the-danger-selina-flores-brings-to-one-fight-night-47/",
-      "image": "/fightonomics/agents/mma-news-updater/images/she-s-a-real-fighter-stamp-fairtex-respects-the-danger-selina-flores-brings-to-one-fight-night-47-1788364722966.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/she-s-a-real-fighter-stamp-fairtex-respects-the-danger-selina-flores-brings-to-one-fight-night-47-1788406493258.jpeg",
       "source": "Onefc.com",
       "publishedAt": "2026-09-01T06:04:58Z",
       "author": "Chris Mohan"
@@ -27,73 +90,10 @@
       "title": "5 Thrilling Reasons To Watch ONE Fight Night 47: Stamp Vs. Flores",
       "description": "The world's best martial artists are set to bring the heat to Bangkok's Lumpinee Stadium this Friday, September 4.",
       "url": "https://www.onefc.com/features/5-thrilling-reasons-to-watch-one-fight-night-47-stamp-vs-flores/",
-      "image": "/fightonomics/agents/mma-news-updater/images/5-thrilling-reasons-to-watch-one-fight-night-47-stamp-vs-flores-1788364722966.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/5-thrilling-reasons-to-watch-one-fight-night-47-stamp-vs-flores-1788406493258.jpeg",
       "source": "Onefc.com",
       "publishedAt": "2026-09-01T03:12:53Z",
       "author": "Chris Mohan"
-    },
-    {
-      "title": "MMA Junkie's Submission of the Month for August: A surprise Scottish Twister",
-      "description": "The Submission of the Month contenders for August included standing chokes, a Scottish Twister and more.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/mma/2026/08/31/submission-of-the-month-august-2026-charles-johnson-twister-ufc-330/91537813007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/mma-junkie-s-submission-of-the-month-for-august-a-surprise-scottish-twister-1788364722966.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-09-01T01:15:15Z",
-      "author": "Mike Bohn, MMA Junkie"
-    },
-    {
-      "title": "Dan Hooker willing to welcome Usman Nurmagomedov to UFC because 'no one else will'",
-      "description": "Dan Hooker is no stranger to welcoming highly touted champions from other organizations.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/31/ufc-paris-dan-hooker-callout-usman-nurmagomedov-debut-other-lightweights-scared-take-risk-reward/91545289007/",
-      "image": null,
-      "source": "USA Today",
-      "publishedAt": "2026-08-31T23:40:28Z",
-      "author": "Farah Hannoun, MMA Junkie"
-    },
-    {
-      "title": "Six MMA free agents UFC should sign before the end of 2026",
-      "description": "For much of the past five years, Ultimate Fighting Championship (UFC) has drawn criticism for passing on talented mixed martial arts (MMA) free agents such as Paul Hughes, instead choosing to sign less-expensive Contender Series prospects. That approach has s…",
-      "url": "https://www.mmamania.com/latest-news/468807/six-mma-free-agents-ufc-should-sign-2026-jason-jackson",
-      "image": "/fightonomics/agents/mma-news-updater/images/six-mma-free-agents-ufc-should-sign-before-the-end-of-2026-1788364722968.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-08-31T21:58:16Z",
-      "author": "Alexander Behunin"
-    },
-    {
-      "title": "UFC Paris Hooker Vs. Parnasse Fight Card: Start Time, Date, Location",
-      "description": "The UFC is in Paris, France this weekend for a fight card featuring a main event of Dan Hooker vs. Salahdine Parnasse. We have everything you need to know about the event",
-      "url": "https://www.forbes.com/sites/trentreinsmith/2026/08/31/ufc-paris-hooker-vs-parnasse-fight-card-start-time-date-location/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-paris-hooker-vs-parnasse-fight-card-start-time-date-location-1788364722968.jpeg",
-      "source": "Forbes",
-      "publishedAt": "2026-08-31T21:43:24Z",
-      "author": "Trent Reinsmith, Contributor, \n Trent Reinsmith, Contributor\n https://www.forbes.com/sites/trentreinsmith/"
-    },
-    {
-      "title": "Kai Asakura loving bantamweight transition after UFC Shanghai finish",
-      "description": "Kai Asakura is feeling like a new fighter with his move to bantamweight.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/31/ufc-shanghai-video-kai-asakura-bantamweight-more-power-faster-flyweight/91544340007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/kai-asakura-loving-bantamweight-transition-after-ufc-shanghai-finish-1788364722969.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-08-31T14:30:22Z",
-      "author": "Matt Erickson, MMA Junkie"
-    },
-    {
-      "title": "UFC power rankings following Fight Night 286 in Shanghai, China",
-      "description": "Fight Night 286 was a great card and could lead to a huge upcoming fight.",
-      "url": "https://www.thebiglead.com/ufc-power-rankings-following-fight-night-286-shanghai-china/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-power-rankings-following-fight-night-286-in-shanghai-china-1788364722969.jpeg",
-      "source": "The Big Lead",
-      "publishedAt": "2026-08-31T13:54:49Z",
-      "author": "Robert Pasky"
-    },
-    {
-      "title": "Noche UFC: Jean Silva, Jose Delgado full fight marathon",
-      "description": "Check out six full fights from Noche UFC headliners Jean Silva and Jose Delgado ahead of their Arizona showdown.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/31/noche-ufc-jean-silva-vs-jose-delgado-full-fight-marathon/91543632007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/noche-ufc-jean-silva-jose-delgado-full-fight-marathon-1788364722969.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-08-31T12:02:52Z",
-      "author": "Matt Erickson, MMA Junkie"
     }
   ]
 }
