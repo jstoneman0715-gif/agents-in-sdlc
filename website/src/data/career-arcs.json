@@ -1,10 +1,64 @@
 {
-  "lastUpdated": "2026-09-04T03:37:45.287Z",
+  "lastUpdated": "2026-09-04T15:46:35.160Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
+    {
+      "title": "Top UFC featherweight holds one thing against Jose Aldo in GOAT debate",
+      "description": "Does Movsar Evloev have a point in picking Alexander Volkanovski as the featherweight GOAT over Jose Aldo?",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/03/ufc-movsar-evloev-featherweight-goat-debate-jose-aldo-alexander-volkanovski/91590299007/",
+      "image": null,
+      "source": "USA Today",
+      "publishedAt": "2026-09-03T15:20:16Z",
+      "author": "Farah Hannoun and Mike Bohn, MMA Junkie"
+    },
+    {
+      "title": "The Ultimate Insider: Xavier Franklin shares most memorable moments following TUF 34 season finale",
+      "description": "Inside The Ultimate Fighter 34 season finale with contestant Xavier Franklin",
+      "url": "https://www.mmafighting.com/ufc/508118/the-ultimate-insider-xavier-franklin-shares-most-memorable-moments-following-tuf-34-season-finale",
+      "image": "/fightonomics/agents/mma-news-updater/images/the-ultimate-insider-xavier-franklin-shares-most-memorable-moments-following-tuf-34-season-finale-1788536792062.jpeg",
+      "source": "MMA Fighting",
+      "publishedAt": "2026-09-03T15:00:00Z",
+      "author": "Alexander K. Lee"
+    },
+    {
+      "title": "What the Joshua Van-Rainbet Partnership Tells Us About the Future of UFC Sponsorships",
+      "description": "Explore the Joshua Van and Rainbet partnership and what it reveals about the future of UFC sponsorships. Learn how betting brands are leveraging global MMA\n\nRead More: https://punchng.com/what-the-joshua-van-rainbet-partnership-tells-us-about-the-future-of-uf…",
+      "url": "https://punchng.com/what-the-joshua-van-rainbet-partnership-tells-us-about-the-future-of-ufc-sponsorships/",
+      "image": "/fightonomics/agents/mma-news-updater/images/what-the-joshua-van-rainbet-partnership-tells-us-about-the-future-of-ufc-sponsorships-1788536792062.webp",
+      "source": "The Punch",
+      "publishedAt": "2026-09-03T12:48:46Z",
+      "author": "Punch Newspapers"
+    },
+    {
+      "title": "Katie Price's messy love life - including nine engagements, four marriages and one restraining order - as she 'dumps husband Lee Andrews' after realising she's been 'played'",
+      "description": "Exactly eight weeks ago, Katie Price appeared on national television and declared that she would never let a man 'hurt, break or destroy her' again.",
+      "url": "https://www.dailymail.com/tvshowbiz/article-16098533/Katie-Price-love-life-engagements-marriages-dumps-Lee-Andrews.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/katie-price-s-messy-love-life-including-nine-engagements-four-marriages-and-one-restraining-order-as-she-dumps-husband-lee-andrews-after-realising-she-s-been-played-1788536792063.jpeg",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-03T11:29:40Z",
+      "author": "Rebecca Lawrence"
+    },
+    {
+      "title": "Katie Taylor's Croke Park finale: All you need to know",
+      "description": "Katie Taylor brings the curtain down on a decorated and trailblazing boxing career when she takes on French opponent Flora Pili on Saturday night at Croke Park. Here are all the details on the eagerly-anticipated fight at GAA HQ.",
+      "url": "https://www.rte.ie/sport/boxing/2026/0903/1590186-katie-taylors-croke-park-finale-all-you-need-to-know/",
+      "image": "/fightonomics/agents/mma-news-updater/images/katie-taylor-s-croke-park-finale-all-you-need-to-know-1788536792063.jpeg",
+      "source": "RTE",
+      "publishedAt": "2026-09-03T09:32:05Z",
+      "author": "RTÉ Sport"
+    },
+    {
+      "title": "Adrien Broner Claims Comeback Can Still Be Massive",
+      "description": "Adrien Broner believes his celebrity remains large enough to produce a major comeback fight, but the former four-division champion still has not named an opponent, weight, or return date. Broner, ... continue\nAdrien Broner Claims Comeback Can Still Be Massive…",
+      "url": "https://www.boxingnews24.com/2026/09/adrien-broner-claims-comeback-can-still-be-massive/",
+      "image": "/fightonomics/agents/mma-news-updater/images/adrien-broner-claims-comeback-can-still-be-massive-1788536792064.jpeg",
+      "source": "Boxingnews24.com",
+      "publishedAt": "2026-09-03T04:42:14Z",
+      "author": "Boxing News 24 Desk"
+    },
     {
       "title": "‘I will honor his name’: Chute Boxe pays tribute to late UFC fighter Allan Nascimento - MMA Fighting",
       "description": "&lsquo;I will honor his name&rsquo;: Chute Boxe pays tribute to late UFC fighter Allan NascimentoMMA Fighting...",
@@ -18,7 +72,7 @@
       "title": "Michael Chiesa Reveals How Griffin vs. Bonnar Sparked His Interest in MMA",
       "description": "Michael Chiesa reflected on his UFC fandom and credited Forrest Griffin vs. Stephan Bonnar for sparking his interest in MMA. The post Michael Chiesa Reveals How Griffin vs. Bonnar Sparked His Interest in MMA appeared first on HEAVY.",
       "url": "https://heavy.com/sports/ufc/michael-chiesa-credits-griffin-bonnar-ufc-interest/",
-      "image": "/fightonomics/agents/mma-news-updater/images/michael-chiesa-reveals-how-griffin-vs-bonnar-sparked-his-interest-in-mma-1788493062125.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/michael-chiesa-reveals-how-griffin-vs-bonnar-sparked-his-interest-in-mma-1788536792065.jpeg",
       "source": "Heavy.com",
       "publishedAt": "2026-09-03T02:12:05Z",
       "author": "Giancarlo Aulino"
@@ -27,7 +81,7 @@
       "title": "Movsar Evloev: 'I will do anything I want' to Alexander Volkanovski at UFC 333",
       "description": "Movsar Evloev says Alexander Volkanovski has \"been a little illogical\" with his UFC 333 analysis.",
       "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/02/ufc-333-movsar-evloev-warns-alexander-volkanovski-title-fight/91586090007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/movsar-evloev-i-will-do-anything-i-want-to-alexander-volkanovski-at-ufc-333-1788493062126.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/movsar-evloev-i-will-do-anything-i-want-to-alexander-volkanovski-at-ufc-333-1788536792065.jpeg",
       "source": "USA Today",
       "publishedAt": "2026-09-03T00:30:30Z",
       "author": "Mike Bohn, MMA Junkie"
@@ -36,63 +90,9 @@
       "title": "With UFC contract bagged, Gabriel Lorenco wants Anthony Wint next",
       "description": "Gabriel Lorenco is tracking Anthony Wint, a fellow UFC contract-earner from Dana White's Contender Series.",
       "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/02/ufc-news-dwcs-gabriel-lorenco-vs-anthony-wint-callout/91582169007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/with-ufc-contract-bagged-gabriel-lorenco-wants-anthony-wint-next-1788493062126.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/with-ufc-contract-bagged-gabriel-lorenco-wants-anthony-wint-next-1788536792066.jpeg",
       "source": "USA Today",
       "publishedAt": "2026-09-02T22:50:25Z",
-      "author": "Nolan King and Ken Hathaway, MMA Junkie"
-    },
-    {
-      "title": "Video: Watch ‘The Mayhem of Jason Miller,’ Dark Side of the Cage Season 2 premiere",
-      "description": "“Mayhem” finally gets the Dark Side treatment. VICE TV’s critically acclaimed mixed martial arts (MMA) documentary series, Dark Side of the Cage, returned for its second season last night (Tues., Sept. 1, 2026), placing the turbulent life of former Ultimate F…",
-      "url": "https://www.mmamania.com/latest-news/469162/video-watch-the-mayhem-of-jason-miller-dark-side-of-the-cage-season-2-premiere",
-      "image": "/fightonomics/agents/mma-news-updater/images/video-watch-the-mayhem-of-jason-miller-dark-side-of-the-cage-season-2-premiere-1788493062127.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-09-02T22:09:00Z",
-      "author": "Alexander Behunin"
-    },
-    {
-      "title": "Fares Ziam turns to famed coach to get back on track at UFC Paris – and beyond",
-      "description": "Fares Ziam says he plans on moving to the U.S. to train and restart his run to a UFC title.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/02/ufc-paris-fares-ziam-trevor-wittman-training-corner/91577133007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/fares-ziam-turns-to-famed-coach-to-get-back-on-track-at-ufc-paris-and-beyond-1788493062127.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-09-02T20:20:19Z",
-      "author": "Farah Hannoun, MMA Junkie"
-    },
-    {
-      "title": "Dan Hooker welcomes 'villain' role against Salahdine Parnasse in UFC Paris main event",
-      "description": "Hooker is delighted to walk into France and spoil Parnasse's UFC debut in enemy territory",
-      "url": "https://www.cbssports.com/ufc/news/dan-hooker-ufc-fight-night-saladhine-parnasse/",
-      "image": "/fightonomics/agents/mma-news-updater/images/dan-hooker-welcomes-villain-role-against-salahdine-parnasse-in-ufc-paris-main-event-1788493062128.jpeg",
-      "source": "CBS Sports",
-      "publishedAt": "2026-09-02T19:34:22Z",
-      "author": "Shakiel Mahjouri"
-    },
-    {
-      "title": "Eddie Hearn drops major update on Tom Aspinall’s return status",
-      "description": "New updates and intel on Tom Aspinall's health arrive on Wednesday",
-      "url": "https://www.thebiglead.com/eddie-hearn-drops-major-update-on-tom-aspinalls-return-status/",
-      "image": "/fightonomics/agents/mma-news-updater/images/eddie-hearn-drops-major-update-on-tom-aspinall-s-return-status-1788493062128.jpeg",
-      "source": "The Big Lead",
-      "publishedAt": "2026-09-02T19:22:19Z",
-      "author": "Preston Palm"
-    },
-    {
-      "title": "DWCS 90 contract winner calls out King Green: 'I'd f*ck him up'",
-      "description": "After scraping by for a contract win at DWCS 90, Adam Livingston had a bold callout for King Green, who he says \"sucks.\"",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/02/dwcs-90-contract-winner-adam-livingston-calls-out-king-green-ufc-334/91576410007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/dwcs-90-contract-winner-calls-out-king-green-i-d-f-ck-him-up-1788493062129.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-09-02T17:50:15Z",
-      "author": "Mike Bohn and Jeronimo Guerra, MMA Junkie"
-    },
-    {
-      "title": "Dana White draws 'common sense' line on fining UFC fighters who leave cage",
-      "description": "Dana White doesn't think things need to be overcomplicated when it comes to fining UFC fighters who leave the cage in celebration.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/02/ufc-dana-white-cage-hopping-reaction-nevada-commission/91571894007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/dana-white-draws-common-sense-line-on-fining-ufc-fighters-who-leave-cage-1788493062129.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-09-02T17:00:55Z",
       "author": "Nolan King and Ken Hathaway, MMA Junkie"
     }
   ]
