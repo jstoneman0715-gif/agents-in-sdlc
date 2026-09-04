@@ -15,10 +15,10 @@
     "fetch-news": "node scripts/fetch-mma-news.js"
   },
   "dependencies": {
-    "@astrojs/check": "^0.9.9",
-    "@astrojs/starlight": "^0.41.4",
+    "@astrojs/check": "^0.9.10",
+    "@astrojs/starlight": "^0.41.11",
     "astro": "^7.0.9",
-    "sharp": "^0.35.3",
+    "sharp": "^0.35.4",
     "typescript": "^6.0.3"
   },
   "devDependencies": {
