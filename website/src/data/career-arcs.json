@@ -1,10 +1,91 @@
 {
-  "lastUpdated": "2026-09-04T15:46:35.160Z",
+  "lastUpdated": "2026-09-05T03:35:38.746Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
+    {
+      "title": "Jason Jackson says UFC doesn't want him disrupting Islam Makhachev's division",
+      "description": "Jason Jackson believes he can disrupt the Ultimate Fighting Championship’s welterweight division and upset the reigning champ.",
+      "url": "https://www.sherdog.com/news/news/Jason-Jackson-says-UFC-doesnt-want-him-disrupting-Islam-Makhachevs-division-202656",
+      "image": "/fightonomics/agents/mma-news-updater/images/jason-jackson-says-ufc-doesn-t-want-him-disrupting-islam-makhachev-s-division-1788579332952.jpeg",
+      "source": "Sherdog.com",
+      "publishedAt": "2026-09-04T03:10:45Z",
+      "author": "sayannag88@gmail.com (Sayan Nag)"
+    },
+    {
+      "title": "Movsar Evloev dismisses notion that he's a boring fighter ahead of UFC 333",
+      "description": "Movsar Evloev has never finished a fight in the UFC – and he doesn't care.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/03/ufc-333s-movsar-evloev-no-finish-doesnt-mean-a-boring-fight/91591934007/",
+      "image": null,
+      "source": "USA Today",
+      "publishedAt": "2026-09-04T00:30:17Z",
+      "author": "Farah Hannoun and Mike Bohn, MMA Junkie"
+    },
+    {
+      "title": "Jose Delgado promises knockout of Jean Silva in 'storybook' fight at Noche UFC",
+      "description": "Jose Delgado couldn't ask for a better spot than the Noche UFC main event to take on the biggest challenge of his career.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/03/jose-delgado-noche-ufc-jean-silva-knockout-storybook-fight/91587638007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/jose-delgado-promises-knockout-of-jean-silva-in-storybook-fight-at-noche-ufc-1788579332953.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-09-03T22:01:21Z",
+      "author": "Matthew Wells and Mike Bohn, MMA Junkie"
+    },
+    {
+      "title": "Mailbag: UFC 332 is looking like an event without a headliner, and time is running out",
+      "description": "Why is UFC 332 still without a main event just one month out from the event? And how concerned should we be about Bella Mir's comments on her father's brain health? Answers to those and other reader questions.",
+      "url": "https://sports.yahoo.com/mma/article/mailbag-ufc-332-is-looking-like-an-event-without-a-headliner-and-time-is-running-out-205522712.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/mailbag-ufc-332-is-looking-like-an-event-without-a-headliner-and-time-is-running-out-1788579332954.jpeg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-03T20:55:22Z",
+      "author": "Ben Fowlkes"
+    },
+    {
+      "title": "Axel Sola thinks he's solved the Fares Ziam puzzle for UFC Paris co-main",
+      "description": "During Fares Ziam's winning streak, six straight opponents went home unhappy. They hadn't figured out what Axel Sola says he has.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/03/axel-sola-preview-ufc-paris-co-main-event-vs-fares-ziam-video-figured-out-puzzle-winning-streak/91594313007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/axel-sola-thinks-he-s-solved-the-fares-ziam-puzzle-for-ufc-paris-co-main-1788579332954.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-09-03T17:50:37Z",
+      "author": "Matt Erickson, MMA Junkie"
+    },
+    {
+      "title": "‘Too Much Sugar’ Review: Robert Greene’s Playful, High-Energy Doc Marshals a Revealing Family Moviemaking Project",
+      "description": "Everyone’s a main character in “Too Much Sugar,” a scrappy, agitated, spikily entertaining study of an extended family with a whole community’s worth of backstory, present-tense drama and diverging plans for the future. Only one person in it, however, has mai…",
+      "url": "https://variety.com/2026/film/reviews/too-much-sugar-review-1236849981/",
+      "image": "/fightonomics/agents/mma-news-updater/images/too-much-sugar-review-robert-greene-s-playful-high-energy-doc-marshals-a-revealing-family-moviemaking-project-1788579332955.jpeg",
+      "source": "Variety",
+      "publishedAt": "2026-09-03T17:45:21Z",
+      "author": "Guy Lodge"
+    },
+    {
+      "title": "The 7 Biggest ‘What Ifs?’ In Sports Since The Start Of The 21st Century",
+      "description": "In sports, we react to what happened, who won, who lost, and what it means for the teams and players. Even though the games write stories no author could come up with, thinking about alternative endings can be fun too, and that’s certainly the case with the b…",
+      "url": "https://brobible.com/sports/article/biggest-what-ifs-sports-21st-century/",
+      "image": "/fightonomics/agents/mma-news-updater/images/the-7-biggest-what-ifs-in-sports-since-the-start-of-the-21st-century-1788579332955.jpeg",
+      "source": "BroBible",
+      "publishedAt": "2026-09-03T17:29:07Z",
+      "author": "Billy Niles"
+    },
+    {
+      "title": "Movsar Evloev wants to kick women out of UFC because their fights stink — ‘I can’t watch it, it’s so hard’",
+      "description": "Movsar Evloev is not a fan of women’s MMA. While he’s not the first high-profile fighter to criticize female fighting, he may be the least qualified. Evloev has 10 fights inside the Octagon with zero finishes and is so boring, matchmakers kept him out of the …",
+      "url": "https://www.mmamania.com/ufc-news/469251/movsar-evloev-wants-kick-women-out-of-ufc-their-fights-stink-i-cant-watch-it-its-so-hard",
+      "image": "/fightonomics/agents/mma-news-updater/images/movsar-evloev-wants-to-kick-women-out-of-ufc-because-their-fights-stink-i-can-t-watch-it-it-s-so-hard-1788579332956.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-09-03T17:01:05Z",
+      "author": "Jesse Holland"
+    },
+    {
+      "title": "A fight that both people should lose",
+      "description": "I cannot see how any event that calls upon participants to beat each other to a pulp can be called a sport and so am baffled that anyone would want to watch such things as boxing or kickboxing, or other mixed martial arts (MMA), which seem to have even fewer …",
+      "url": "https://freethoughtblogs.com/singham/2026/09/03/a-fight-that-both-people-should-lose/",
+      "image": "/fightonomics/agents/mma-news-updater/images/a-fight-that-both-people-should-lose-1788579332956.gif",
+      "source": "Freethoughtblogs.com",
+      "publishedAt": "2026-09-03T16:05:12Z",
+      "author": "Mano Singham"
+    },
     {
       "title": "Top UFC featherweight holds one thing against Jose Aldo in GOAT debate",
       "description": "Does Movsar Evloev have a point in picking Alexander Volkanovski as the featherweight GOAT over Jose Aldo?",
@@ -13,87 +94,6 @@
       "source": "USA Today",
       "publishedAt": "2026-09-03T15:20:16Z",
       "author": "Farah Hannoun and Mike Bohn, MMA Junkie"
-    },
-    {
-      "title": "The Ultimate Insider: Xavier Franklin shares most memorable moments following TUF 34 season finale",
-      "description": "Inside The Ultimate Fighter 34 season finale with contestant Xavier Franklin",
-      "url": "https://www.mmafighting.com/ufc/508118/the-ultimate-insider-xavier-franklin-shares-most-memorable-moments-following-tuf-34-season-finale",
-      "image": "/fightonomics/agents/mma-news-updater/images/the-ultimate-insider-xavier-franklin-shares-most-memorable-moments-following-tuf-34-season-finale-1788536792062.jpeg",
-      "source": "MMA Fighting",
-      "publishedAt": "2026-09-03T15:00:00Z",
-      "author": "Alexander K. Lee"
-    },
-    {
-      "title": "What the Joshua Van-Rainbet Partnership Tells Us About the Future of UFC Sponsorships",
-      "description": "Explore the Joshua Van and Rainbet partnership and what it reveals about the future of UFC sponsorships. Learn how betting brands are leveraging global MMA\n\nRead More: https://punchng.com/what-the-joshua-van-rainbet-partnership-tells-us-about-the-future-of-uf…",
-      "url": "https://punchng.com/what-the-joshua-van-rainbet-partnership-tells-us-about-the-future-of-ufc-sponsorships/",
-      "image": "/fightonomics/agents/mma-news-updater/images/what-the-joshua-van-rainbet-partnership-tells-us-about-the-future-of-ufc-sponsorships-1788536792062.webp",
-      "source": "The Punch",
-      "publishedAt": "2026-09-03T12:48:46Z",
-      "author": "Punch Newspapers"
-    },
-    {
-      "title": "Katie Price's messy love life - including nine engagements, four marriages and one restraining order - as she 'dumps husband Lee Andrews' after realising she's been 'played'",
-      "description": "Exactly eight weeks ago, Katie Price appeared on national television and declared that she would never let a man 'hurt, break or destroy her' again.",
-      "url": "https://www.dailymail.com/tvshowbiz/article-16098533/Katie-Price-love-life-engagements-marriages-dumps-Lee-Andrews.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/katie-price-s-messy-love-life-including-nine-engagements-four-marriages-and-one-restraining-order-as-she-dumps-husband-lee-andrews-after-realising-she-s-been-played-1788536792063.jpeg",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-03T11:29:40Z",
-      "author": "Rebecca Lawrence"
-    },
-    {
-      "title": "Katie Taylor's Croke Park finale: All you need to know",
-      "description": "Katie Taylor brings the curtain down on a decorated and trailblazing boxing career when she takes on French opponent Flora Pili on Saturday night at Croke Park. Here are all the details on the eagerly-anticipated fight at GAA HQ.",
-      "url": "https://www.rte.ie/sport/boxing/2026/0903/1590186-katie-taylors-croke-park-finale-all-you-need-to-know/",
-      "image": "/fightonomics/agents/mma-news-updater/images/katie-taylor-s-croke-park-finale-all-you-need-to-know-1788536792063.jpeg",
-      "source": "RTE",
-      "publishedAt": "2026-09-03T09:32:05Z",
-      "author": "RTÉ Sport"
-    },
-    {
-      "title": "Adrien Broner Claims Comeback Can Still Be Massive",
-      "description": "Adrien Broner believes his celebrity remains large enough to produce a major comeback fight, but the former four-division champion still has not named an opponent, weight, or return date. Broner, ... continue\nAdrien Broner Claims Comeback Can Still Be Massive…",
-      "url": "https://www.boxingnews24.com/2026/09/adrien-broner-claims-comeback-can-still-be-massive/",
-      "image": "/fightonomics/agents/mma-news-updater/images/adrien-broner-claims-comeback-can-still-be-massive-1788536792064.jpeg",
-      "source": "Boxingnews24.com",
-      "publishedAt": "2026-09-03T04:42:14Z",
-      "author": "Boxing News 24 Desk"
-    },
-    {
-      "title": "‘I will honor his name’: Chute Boxe pays tribute to late UFC fighter Allan Nascimento - MMA Fighting",
-      "description": "&lsquo;I will honor his name&rsquo;: Chute Boxe pays tribute to late UFC fighter Allan NascimentoMMA Fighting...",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185388272",
-      "image": null,
-      "source": "Slashdot.org",
-      "publishedAt": "2026-09-03T02:52:36Z",
-      "author": "feedfeeder"
-    },
-    {
-      "title": "Michael Chiesa Reveals How Griffin vs. Bonnar Sparked His Interest in MMA",
-      "description": "Michael Chiesa reflected on his UFC fandom and credited Forrest Griffin vs. Stephan Bonnar for sparking his interest in MMA. The post Michael Chiesa Reveals How Griffin vs. Bonnar Sparked His Interest in MMA appeared first on HEAVY.",
-      "url": "https://heavy.com/sports/ufc/michael-chiesa-credits-griffin-bonnar-ufc-interest/",
-      "image": "/fightonomics/agents/mma-news-updater/images/michael-chiesa-reveals-how-griffin-vs-bonnar-sparked-his-interest-in-mma-1788536792065.jpeg",
-      "source": "Heavy.com",
-      "publishedAt": "2026-09-03T02:12:05Z",
-      "author": "Giancarlo Aulino"
-    },
-    {
-      "title": "Movsar Evloev: 'I will do anything I want' to Alexander Volkanovski at UFC 333",
-      "description": "Movsar Evloev says Alexander Volkanovski has \"been a little illogical\" with his UFC 333 analysis.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/02/ufc-333-movsar-evloev-warns-alexander-volkanovski-title-fight/91586090007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/movsar-evloev-i-will-do-anything-i-want-to-alexander-volkanovski-at-ufc-333-1788536792065.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-09-03T00:30:30Z",
-      "author": "Mike Bohn, MMA Junkie"
-    },
-    {
-      "title": "With UFC contract bagged, Gabriel Lorenco wants Anthony Wint next",
-      "description": "Gabriel Lorenco is tracking Anthony Wint, a fellow UFC contract-earner from Dana White's Contender Series.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/02/ufc-news-dwcs-gabriel-lorenco-vs-anthony-wint-callout/91582169007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/with-ufc-contract-bagged-gabriel-lorenco-wants-anthony-wint-next-1788536792066.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-09-02T22:50:25Z",
-      "author": "Nolan King and Ken Hathaway, MMA Junkie"
     }
   ]
 }
