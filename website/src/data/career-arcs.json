@@ -1,15 +1,87 @@
 {
-  "lastUpdated": "2026-09-09T03:46:45.869Z",
+  "lastUpdated": "2026-09-09T15:56:04.681Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
+      "title": "UFC analyst: 'Too much acceptance' in Dan Hooker embracing gatekeeper role",
+      "description": "Daniel Cormier believes Dan Hooker entered UFC Fight Night 287 with the wrong mindset.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/08/ufc-paris-daniel-cormier-umbrage-dan-hooker-gatekeeper-role/91648182007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-analyst-too-much-acceptance-in-dan-hooker-embracing-gatekeeper-role-1788969362419.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-09-08T15:20:21Z",
+      "author": "Farah Hannoun, MMA Junkie"
+    },
+    {
+      "title": "MMA fighter claims he has been offered over $500,000 to fight a chimpanzee - but scientists warn the injuries could be 'catastrophic'",
+      "description": "An amateur MMA fighter has shocked the internet by claiming to have been offered more than $500,000 (£370,000) to fight a chimpanzee.",
+      "url": "https://www.dailymail.com/sciencetech/article-16114415/MMA-fighter-chimpanzee-scientists-warning.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/mma-fighter-claims-he-has-been-offered-over-500-000-to-fight-a-chimpanzee-but-scientists-warn-the-injuries-could-be-catastrophic-1788969362419.jpeg",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-08T15:04:35Z",
+      "author": "Wiliam Hunter"
+    },
+    {
+      "title": "Grasso Vs. Fiorot Odds, Full Fight Preview & Prediction",
+      "description": "Ultimate Fighting Championship (UFC) Flyweight contenders Alexa Grasso vs. Manon Fiorot will throw down this weekend (Sat., Sept. 12, 2026) inside Desert Diamond Arena in Glendale, Ariz., for Noche UFC 4. After consecutive and clear losses to the division’s N…",
+      "url": "https://www.mmamania.com/ufc-odds/470114/alexa-grasso-vs-manon-fiorot-odds-full-fight-preview-and-prediction-noche-ufc-4",
+      "image": "/fightonomics/agents/mma-news-updater/images/grasso-vs-fiorot-odds-full-fight-preview-prediction-1788969362420.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-09-08T12:55:00Z",
+      "author": "Andrew Richardson"
+    },
+    {
+      "title": "Diego Sanchez arrested for DUI, probation violation in New Mexico",
+      "description": "Original The Ultimate Fighter middleweight tournament winner Diego Sanchez has been arrested, again. In July 2025, Sanchez was arrested in New Mexico on gun charges after firing a gun from a moving vehicle. In May, he received five years of probation over the…",
+      "url": "https://www.mmamania.com/ufc-news/470382/diego-sanchez-arrested-for-dui-probation-violation-in-new-mexico",
+      "image": "/fightonomics/agents/mma-news-updater/images/diego-sanchez-arrested-for-dui-probation-violation-in-new-mexico-1788969362420.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-09-08T11:07:54Z",
+      "author": "Ryan Harkness"
+    },
+    {
+      "title": "5 Electrifying Reasons To Watch ONE SAMURAI 3 On September 12",
+      "description": "The third installment of ONE's martial arts series in Japan brings the heat to Yokohama Buntai on September 12.",
+      "url": "https://www.onefc.com/features/5-electrifying-reasons-to-watch-one-samurai-3-on-september-12/",
+      "image": "/fightonomics/agents/mma-news-updater/images/5-electrifying-reasons-to-watch-one-samurai-3-on-september-12-1788969362420.jpeg",
+      "source": "Onefc.com",
+      "publishedAt": "2026-09-08T07:18:42Z",
+      "author": "Kriel Ibarrola"
+    },
+    {
+      "title": "Valentina Shevchenko Suffered Ligament Damage to Shoulder and Back, Coach Reveals UFC 332 Withdrawal Reason",
+      "description": "Valentina Shevchenko’s camp has shed light on the injury that forced her out of UFC 332 and led to her vacating the women’s flyweight title.",
+      "url": "https://sports.yahoo.com/articles/valentina-shevchenko-suffered-ligament-damage-062228023.html",
+      "image": null,
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-08T06:22:28Z",
+      "author": "Kshitiz Kumar Singh"
+    },
+    {
+      "title": "UFC legend Diego Sanchez arrested in New Mexico",
+      "description": "UFC legend Diego Sanchez was given five year's probation in March and said he was seeking help for substance abuse issues.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/08/ufc-news-diego-sanchez-arrest-dwi-probation-violation/91654012007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-legend-diego-sanchez-arrested-in-new-mexico-1788969362421.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-09-08T05:54:23Z",
+      "author": "Nolan King, MMA Junkie"
+    },
+    {
+      "title": "Michael Page Shares Cryptic Social Post Following UFC Paris",
+      "description": "MMA middleweight Michael Page shared a cryptic social media post following his win over Nursulton Ruziboev at UFC Paris.Page won a listless unanimous decision over Ruziboev in a fight that was universally panned by fight fans as a snoozefest.Despite a 5-1 rec…",
+      "url": "https://heavy.com/sports/ufc/michael-page-shares-cryptic-social-post/",
+      "image": "/fightonomics/agents/mma-news-updater/images/michael-page-shares-cryptic-social-post-following-ufc-paris-1788969362422.jpeg",
+      "source": "Heavy.com",
+      "publishedAt": "2026-09-08T05:25:26Z",
+      "author": "Adam Martin"
+    },
+    {
       "title": "Khamzat Chimaev won’t change wrestling style after Umar Nurmagomedov KO",
       "description": "Khamzat Chimaev isn’t going to change his style in a sport as unpredictable as mixed martial arts.",
       "url": "https://www.sherdog.com/news/news/Khamzat-Chimaev-wont-change-wrestling-style-after-Umar-Nurmagomedov-KO-202703",
-      "image": "/fightonomics/agents/mma-news-updater/images/khamzat-chimaev-won-t-change-wrestling-style-after-umar-nurmagomedov-ko-1788925604387.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/khamzat-chimaev-won-t-change-wrestling-style-after-umar-nurmagomedov-ko-1788969362422.jpeg",
       "source": "Sherdog.com",
       "publishedAt": "2026-09-08T03:37:36Z",
       "author": "sayannag88@gmail.com (Sayan Nag)"
@@ -18,82 +90,10 @@
       "title": "Brandon Moreno enters first Noche UFC 'super focused on the present' after tough losses",
       "description": "Brandon Moreno, excited to compete at Noche UFC for the first time, faces Joseph Morales looking to avoid the first three-fight skid of his career.",
       "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/07/noche-ufc-brandon-moreno-super-focused-present-joseph-morales-fight/91615179007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/brandon-moreno-enters-first-noche-ufc-super-focused-on-the-present-after-tough-losses-1788925604387.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/brandon-moreno-enters-first-noche-ufc-super-focused-on-the-present-after-tough-losses-1788969362422.jpeg",
       "source": "USA Today",
       "publishedAt": "2026-09-08T01:20:20Z",
       "author": "Simon Samano and Nolan King, MMA Junkie"
-    },
-    {
-      "title": "Michael Page: Sean Strickland 'mad enough to not care' and engage me in striking",
-      "description": "Michael Page sees a UFC champion bringing the best out of him.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/07/michael-page-sean-strickland-mad-enough-to-engage-me-in-striking/91647939007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/michael-page-sean-strickland-mad-enough-to-not-care-and-engage-me-in-striking-1788925604387.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-09-07T23:40:25Z",
-      "author": "Farah Hannoun, MMA Junkie"
-    },
-    {
-      "title": "Alexa Grasso says Manon Fiorot a fight that had to happen: 'I'm always dangerous'",
-      "description": "Alexa Grasso thinks being matched up with Manon Fiorot makes perfect sense.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/07/alexa-grasso-on-manon-fiorot-bout-at-noche-ufc-im-always-dangerous/91649318007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/alexa-grasso-says-manon-fiorot-a-fight-that-had-to-happen-i-m-always-dangerous-1788925604388.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-09-07T22:50:26Z",
-      "author": "Farah Hannoun and Danny Segura, MMA Junkie"
-    },
-    {
-      "title": "UFC announces an uninspired 332 main event",
-      "description": "This past Saturday, the UFC announced its main event for October’s UFC numbered card in Salt Lake City, Utah. The main event will feature Natalia Silva taking on Wang Cong for the vacant UFC Women’s Flyweight Championship. The main event was hindered by injur…",
-      "url": "https://mmapayout.com/2026/09/07/ufc-announces-an-uninspired-332-main-event/",
-      "image": null,
-      "source": "Mmapayout.com",
-      "publishedAt": "2026-09-07T22:27:50Z",
-      "author": "Jason Cruz"
-    },
-    {
-      "title": "Former UFC champion Chris Weidman set to make a color commentary debut",
-      "description": "Chris Weidman is trading the analyst desk for the commentary booth. The former Ultimate Fighting Championship (UFC) Middleweight champion will make his color commentary debut tomorrow night (Tues., Sept. 8, 2026) during Week 5 of Contender Series Season 10, a…",
-      "url": "https://www.mmamania.com/latest-news/470323/former-ufc-champion-chris-weidman-color-commentary-debut-contender-series",
-      "image": "/fightonomics/agents/mma-news-updater/images/former-ufc-champion-chris-weidman-set-to-make-a-color-commentary-debut-1788925604389.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-09-07T22:20:54Z",
-      "author": "Alexander Behunin"
-    },
-    {
-      "title": "‘Martial Arts Is In My Blood’ – Har Ling Om Draws On Lethwei Roots Ahead Of ONE SAMURAI 3",
-      "description": "The Myanmar striker recaps his journey to the global stage ahead of his clash with Nadaka.",
-      "url": "https://www.onefc.com/features/martial-arts-is-in-my-blood-har-ling-om-draws-on-lethwei-roots-ahead-of-one-samurai-3/",
-      "image": "/fightonomics/agents/mma-news-updater/images/martial-arts-is-in-my-blood-har-ling-om-draws-on-lethwei-roots-ahead-of-one-samurai-3-1788925604390.jpeg",
-      "source": "Onefc.com",
-      "publishedAt": "2026-09-07T19:36:38Z",
-      "author": "Chris Mohan"
-    },
-    {
-      "title": "Ryan Garcia vs. Conor Benn fight: Five storylines to follow for welterweight title showdown in Zuffa Boxing",
-      "description": "Garcia puts his WBC title at 147 pounds on the line against a hungry challenger looking to make a statement",
-      "url": "https://www.cbssports.com/boxing/news/ryan-garcia-vs-conor-benn-fight-storylines-welterweight-title-zuffa-boxing/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ryan-garcia-vs-conor-benn-fight-five-storylines-to-follow-for-welterweight-title-showdown-in-zuffa-boxing-1788925604390.jpeg",
-      "source": "CBS Sports",
-      "publishedAt": "2026-09-07T18:19:50Z",
-      "author": "Brian Campbell"
-    },
-    {
-      "title": "Michael Page No Longer Eligible for UFC Rankings",
-      "description": "UFC middleweight fighter Michael Page is no longer eligible to be ranked, leading to speculation that the promotion has released him.Page just completed his six-fight UFC contract with a decision win over Nursulton Ruziboev at UFC Paris. Overall, he went 5-1 …",
-      "url": "https://heavy.com/sports/ufc/michael-page-no-longer-eligible-rankings/",
-      "image": "/fightonomics/agents/mma-news-updater/images/michael-page-no-longer-eligible-for-ufc-rankings-1788925604391.jpeg",
-      "source": "Heavy.com",
-      "publishedAt": "2026-09-07T18:05:08Z",
-      "author": "Adam Martin"
-    },
-    {
-      "title": "Dana White's Contender Series 91 weigh-in results",
-      "description": "Check out the results from the official Dana White's Contender Series 91 fighter weigh-ins.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/07/dana-white-contender-series-dwcs-91-weigh-in-results-ufc-mma/91648435007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/dana-white-s-contender-series-91-weigh-in-results-1788925604391.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-09-07T15:20:20Z",
-      "author": "MMA Junkie"
     }
   ]
 }
