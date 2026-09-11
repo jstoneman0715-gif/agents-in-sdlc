@@ -1,15 +1,33 @@
 {
-  "lastUpdated": "2026-09-11T03:42:17.004Z",
+  "lastUpdated": "2026-09-11T15:53:00.581Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
+      "title": "UFC champion Justin Gaethje stumps for Trump in Texas",
+      "description": "Justin Gaethje’s epic win at the UFC White House card this summer has, perhaps, made him a darling of the world’s most famous MMA fan: US President Donald Trump. Gaethje brawled with Ilia Topuria on Trump’s lawn in June, winning with a fourth round corner sto…",
+      "url": "https://www.mmamania.com/latest-news/470818/ufc-champion-justin-gaethje-stumps-for-trump-in-texas",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-champion-justin-gaethje-stumps-for-trump-in-texas-1789141978109.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-09-10T14:00:00Z",
+      "author": "Tim Edwards"
+    },
+    {
+      "title": "PFL sets final event before MVP rebrand with bantamweight title fight",
+      "description": "Taylor Lapilus and Mitchell McKee will battle for the Professional Fighters League bantamweight championship in France this December.",
+      "url": "https://www.sherdog.com/news/news/PFL-sets-final-event-before-MVP-rebrand-with-bantamweight-title-fight-202739",
+      "image": "/fightonomics/agents/mma-news-updater/images/pfl-sets-final-event-before-mvp-rebrand-with-bantamweight-title-fight-1789141978110.jpeg",
+      "source": "Sherdog.com",
+      "publishedAt": "2026-09-10T04:24:22Z",
+      "author": "SouravChakraborty@sherdog.com (Sourav Chakraborty)"
+    },
+    {
       "title": "UFC champ: In America, there's one thing you should 'never' apologize for",
       "description": "UFC lightweight champion Justin Gaethje kept it real with attendees at the Republican National Convention on Wednesday night.After a hype video about the UFC's origins, Gaethje took to the stage to pump Americans full of national pride while providing some bl…",
       "url": "https://www.theblaze.com/news/justin-gaethje-bo-nicakl-rnc",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-champ-in-america-there-s-one-thing-you-should-never-apologize-for-1789098135016.webp",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-champ-in-america-there-s-one-thing-you-should-never-apologize-for-1789141978110.webp",
       "source": "TheBlaze",
       "publishedAt": "2026-09-10T02:00:00Z",
       "author": "Andrew Chapados"
@@ -18,7 +36,7 @@
       "title": "Sherdog Prospect Watch ‘reloaded’: UFC adds 18-KO finisher who knocked out Dricus Du Plessis",
       "description": "With 18 career knockouts and a résumé featuring a stoppage of Dricus Du Plessis, Roberto Soldic is finally bringing his feared finishing power to the UFC.",
       "url": "https://www.sherdog.com/news/articles/Sherdog-Prospect-Watch-reloaded-UFC-adds-18KO-finisher-who-knocked-out-Dricus-Du-Plessis-202731",
-      "image": "/fightonomics/agents/mma-news-updater/images/sherdog-prospect-watch-reloaded-ufc-adds-18-ko-finisher-who-knocked-out-dricus-du-plessis-1789098135016.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/sherdog-prospect-watch-reloaded-ufc-adds-18-ko-finisher-who-knocked-out-dricus-du-plessis-1789141978111.jpeg",
       "source": "Sherdog.com",
       "publishedAt": "2026-09-10T00:55:08Z",
       "author": "tlenote@sherdog.com (Tudor Leonte)"
@@ -27,7 +45,7 @@
       "title": "Video: Watch cocky wrestling fan challenge red-hot UFC title contender, get humiliated despite no-hands restriction",
       "description": "No hands! It’s been 11 days since Ultimate Fighting Championship (UFC) Bantamweight contender Song Yadong shocked the world by brutally knocking out former title challenger Umar Nurmagomedov in UFC Shanghai’s main event inside Shanghai Oriental Sports Center …",
       "url": "https://www.mmamania.com/ufc-mma-social-media-videos-memes/470761/video-song-yadong-stuffs-wrestling-fan-takedowns-no-hands",
-      "image": "/fightonomics/agents/mma-news-updater/images/video-watch-cocky-wrestling-fan-challenge-red-hot-ufc-title-contender-get-humiliated-despite-no-hands-restriction-1789098135017.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/video-watch-cocky-wrestling-fan-challenge-red-hot-ufc-title-contender-get-humiliated-despite-no-hands-restriction-1789141978111.jpeg",
       "source": "MMA Mania",
       "publishedAt": "2026-09-09T23:39:53Z",
       "author": "Alexander Behunin"
@@ -36,7 +54,7 @@
       "title": "Donald Trump’s emotional support convention",
       "description": "The RNC embarrasses itself with a shindig no one else wanted",
       "url": "https://www.salon.com/2026/09/09/donald-trumps-emotional-support-convention/",
-      "image": "/fightonomics/agents/mma-news-updater/images/donald-trump-s-emotional-support-convention-1789098135017.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/donald-trump-s-emotional-support-convention-1789141978112.jpeg",
       "source": "Salon",
       "publishedAt": "2026-09-09T10:45:02Z",
       "author": "Amanda Marcotte"
@@ -45,7 +63,7 @@
       "title": "Jose Delgado can't stop thinking about taking Jean Silva out",
       "description": "Jose Delgado has vicious intentions going into his maiden main event in the Ultimate Fighting Championship.",
       "url": "https://www.sherdog.com/news/news/Jose-Delgado-cant-stop-thinking-about-taking-Jean-Silva-out-202729",
-      "image": "/fightonomics/agents/mma-news-updater/images/jose-delgado-can-t-stop-thinking-about-taking-jean-silva-out-1789098135017.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/jose-delgado-can-t-stop-thinking-about-taking-jean-silva-out-1789141978112.jpeg",
       "source": "Sherdog.com",
       "publishedAt": "2026-09-09T06:23:21Z",
       "author": "SouravChakraborty@sherdog.com (Sourav Chakraborty)"
@@ -54,7 +72,7 @@
       "title": "Brendan Schaub Trashes UFC 332 Main Event",
       "description": "Former UFC heavyweight fighter Brendan Schaub trashed the upcoming UFC 332 main event between Natalia Silva and Wang Cong.With Valentina Shevchenko out for one year due to injury, she was forced to vacate the UFC women’s flyweight title, so Silva and Wang wil…",
       "url": "https://heavy.com/sports/ufc/brendan-schaub-ufc-332-main-event/",
-      "image": "/fightonomics/agents/mma-news-updater/images/brendan-schaub-trashes-ufc-332-main-event-1789098135018.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/brendan-schaub-trashes-ufc-332-main-event-1789141978113.jpeg",
       "source": "Heavy.com",
       "publishedAt": "2026-09-09T03:50:43Z",
       "author": "Adam Martin"
@@ -63,7 +81,7 @@
       "title": "Absolute Pokémon Meets The Boys in Curt Pires & JOK's Creature Corps",
       "description": "Curt Pires of Fireborn and Lost Fantasy, and JOK of 51 and In Hell We Fight are launching a new comic book series from Image Comics in Creature Corps #1, described as Pokémon meets The Boys, on Wednesday, the 2nd of December, and in the upcoming Image solicit…",
       "url": "https://bleedingcool.com/comics/absolute-pokemon-meets-the-boys-in-curt-pires-joks-creature-corps/",
-      "image": "/fightonomics/agents/mma-news-updater/images/absolute-pok-mon-meets-the-boys-in-curt-pires-jok-s-creature-corps-1789098135018.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/absolute-pok-mon-meets-the-boys-in-curt-pires-jok-s-creature-corps-1789141978113.jpeg",
       "source": "Bleeding Cool News",
       "publishedAt": "2026-09-08T20:57:13Z",
       "author": "Rich Johnston"
@@ -72,28 +90,10 @@
       "title": "Fight news: Two exciting prospects on tap for UFC Vegas 124 on Nov. 7",
       "description": "Featherweight violence is headed to “Sin City.” MMAmania.com confirmed with multiple sources today (Tues., Sept. 8, 2026) that undefeated Ultimate Fighting Championship (UFC) Featherweight prospect Murtazali Magomedov will collide with Brazil’s Jose Delano at…",
       "url": "https://www.mmamania.com/ufc-fight-announcements/470460/prospects-murtazali-magomedov-jose-delano-ufc-vegas-124",
-      "image": "/fightonomics/agents/mma-news-updater/images/fight-news-two-exciting-prospects-on-tap-for-ufc-vegas-124-on-nov-7-1789098135018.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/fight-news-two-exciting-prospects-on-tap-for-ufc-vegas-124-on-nov-7-1789141978114.jpeg",
       "source": "MMA Mania",
       "publishedAt": "2026-09-08T20:44:14Z",
       "author": "Alexander Behunin"
-    },
-    {
-      "title": "Michael Page Shares Cryptic Social Post Following UFC Paris",
-      "description": "MMA middleweight Michael Page shared a cryptic social media post following his win over Nursulton Ruziboev at UFC Paris.Page won a listless unanimous decision over Ruziboev in a fight that was universally panned by fight fans as a snoozefest.Despite a 5-1 rec…",
-      "url": "https://heavy.com/sports/ufc/michael-page-shares-cryptic-social-post/",
-      "image": "/fightonomics/agents/mma-news-updater/images/michael-page-shares-cryptic-social-post-following-ufc-paris-1789098135019.jpeg",
-      "source": "Heavy.com",
-      "publishedAt": "2026-09-08T05:25:26Z",
-      "author": "Adam Martin"
-    },
-    {
-      "title": "Latest Noche UFC 4 fight card, Paramount+ start time, date and location | Silva vs. Delgado",
-      "description": "This year’s Noche UFC event comes with a special start time (details here).",
-      "url": "https://www.mmamania.com/ufc-fight-cards/462438/latest-noche-ufc-4-fight-card-paramount-start-time-date-location-silva-delgado",
-      "image": "/fightonomics/agents/mma-news-updater/images/latest-noche-ufc-4-fight-card-paramount-start-time-date-and-location-silva-vs-delgado-1789098135019.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-09-07T13:30:00Z",
-      "author": "Jesse Holland"
     }
   ]
 }
