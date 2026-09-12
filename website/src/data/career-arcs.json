@@ -1,15 +1,60 @@
 {
-  "lastUpdated": "2026-09-12T03:45:54.818Z",
+  "lastUpdated": "2026-09-12T14:59:51.577Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
+      "title": "Two Arizona-trained fighters set for main card bouts at Noche UFC",
+      "description": "Noche UFC is set for Saturday, Sept. 12, and Tommy McMillen and Waldo Cortes-Acosta will have cheering sections at Desert Diamond Arena.",
+      "url": "https://www.azcentral.com/story/sports/mma/2026/09/11/noche-ufc-fight-glendale-tommy-mcmillen-waldo-cortes-acosta/91690705007/",
+      "image": null,
+      "source": "AZCentral",
+      "publishedAt": "2026-09-11T12:03:33Z",
+      "author": "José M. Romero, Arizona Republic"
+    },
+    {
+      "title": "A Man Built a Connecticut Castle to Host a Harem of Women. Then He Invited the Wrong Guest.",
+      "description": "Some people—men, mostly—are \"ripping off their faces\" these days.",
+      "url": "https://slate.com/culture/2026/09/jon-ronson-the-castle-books-manosphere.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/a-man-built-a-connecticut-castle-to-host-a-harem-of-women-then-he-invited-the-wrong-guest-1789225190194.jpeg",
+      "source": "Slate Magazine",
+      "publishedAt": "2026-09-11T09:40:00Z",
+      "author": "Scaachi Koul"
+    },
+    {
+      "title": "Francis Ngannou Trashed by Dana White: ‘He’s a Bad Guy’",
+      "description": "UFC president Dana White trashed former UFC heavyweight champion Francis Ngannou, whom he referred to as a “bad guy.”Ngannou left the UFC in 2023 and has since fought for PFL, MVP MMA, and in professional boxing.At age 40, Ngannou is not a young man anymore, …",
+      "url": "https://heavy.com/sports/ufc/francis-ngannou-dana-white-bad-guy/",
+      "image": "/fightonomics/agents/mma-news-updater/images/francis-ngannou-trashed-by-dana-white-he-s-a-bad-guy-1789225190195.jpeg",
+      "source": "Heavy.com",
+      "publishedAt": "2026-09-11T06:04:39Z",
+      "author": "Adam Martin"
+    },
+    {
+      "title": "Paulo Costa Set to Become 3rd UFC Fighter to Join Eddie Hearn’s Matchroom Talent Agency",
+      "description": "Amidst his ongoing contractual difficulties with the UFC, Paulo Costa is set to sign with Eddie Hearn's agency after Tom Aspinall and Ian Garry.",
+      "url": "https://sports.yahoo.com/articles/paulo-costa-set-become-3rd-051955111.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/paulo-costa-set-to-become-3rd-ufc-fighter-to-join-eddie-hearn-s-matchroom-talent-agency-1789225190195.jpeg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-11T05:19:55Z",
+      "author": "Kshitiz Kumar Singh"
+    },
+    {
+      "title": "Midnight Mania! TUF + Survivor = ‘Fight Game?’",
+      "description": "Bringing you the weird and wild from the world of MMA each and every weeknight!",
+      "url": "https://www.mmamania.com/ufc-news/471009/jake-paul-and-espn-team-up-for-new-tuf-clone-primal-survivor-meets-fighting",
+      "image": "/fightonomics/agents/mma-news-updater/images/midnight-mania-tuf-survivor-fight-game-1789225190196.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-09-11T03:59:00Z",
+      "author": "Andrew Richardson"
+    },
+    {
       "title": "Will Wrexham's Davies be the next Welshman in UFC?",
       "description": "Ieuan Davies sets his sights on the UFC after winning the Cage Warriors Lighweight World Championship.",
       "url": "https://www.bbc.com/sport/mixed-martial-arts/articles/cgl7xy1gp71o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "image": "/fightonomics/agents/mma-news-updater/images/will-wrexham-s-davies-be-the-next-welshman-in-ufc-1789184753529.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/will-wrexham-s-davies-be-the-next-welshman-in-ufc-1789225190196.jpeg",
       "source": "BBC News",
       "publishedAt": "2026-09-11T03:26:21Z",
       "author": "Gareth Bailey - BBC Sport Wales"
@@ -18,7 +63,7 @@
       "title": "Eddie Alvarez: Ilia Topuria ‘not gonna be the same’ after Gaethje loss",
       "description": "Eddie Alvarez advises against an immediate Ilia Topuria vs. Justin Gaethje rematch, claiming the former won’t enter the Octagon as the same fighter who won two-division gold.",
       "url": "https://www.sherdog.com/news/news/Eddie-Alvarez-Ilia-Topuria-not-gonna-be-the-same-after-Gaethje-loss-202754",
-      "image": "/fightonomics/agents/mma-news-updater/images/eddie-alvarez-ilia-topuria-not-gonna-be-the-same-after-gaethje-loss-1789184753529.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/eddie-alvarez-ilia-topuria-not-gonna-be-the-same-after-gaethje-loss-1789225190197.jpeg",
       "source": "Sherdog.com",
       "publishedAt": "2026-09-11T03:24:06Z",
       "author": "sayannag88@gmail.com (Sayan Nag)"
@@ -27,7 +72,7 @@
       "title": "Jones hoping to prove age is just a number",
       "description": "Double Olympic taekwondo champion Jade Jones, 33, is out to show age is just a number in her next boxing bout against MMA fighter Sheena Bathory.",
       "url": "https://www.bbc.com/sport/articles/cx2r9023kmlo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "image": "/fightonomics/agents/mma-news-updater/images/jones-hoping-to-prove-age-is-just-a-number-1789184753530.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/jones-hoping-to-prove-age-is-just-a-number-1789225190197.jpeg",
       "source": "BBC News",
       "publishedAt": "2026-09-11T03:21:40Z",
       "author": "Ioan Griffiths - BBC Sport Wales"
@@ -36,7 +81,7 @@
       "title": "Noche UFC’s Brandon Moreno admits becoming his ‘own worst enemy’ during losing streak – ‘I understand my position’",
       "description": "“The Assassin Baby” has spent the past several months fighting himself. Former two-time Ultimate Fighting Championship (UFC) Flyweight champion Brandon Moreno will attempt to protect his place in the rankings against Ultimate Fighter (TUF) Season 33 winner Jo…",
       "url": "https://www.mmamania.com/latest-news/471011/brandon-moreno-own-worst-enemy-losing-streak-noche-ufc-4",
-      "image": "/fightonomics/agents/mma-news-updater/images/noche-ufc-s-brandon-moreno-admits-becoming-his-own-worst-enemy-during-losing-streak-i-understand-my-position-1789184753531.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/noche-ufc-s-brandon-moreno-admits-becoming-his-own-worst-enemy-during-losing-streak-i-understand-my-position-1789225190198.jpeg",
       "source": "MMA Mania",
       "publishedAt": "2026-09-10T23:14:46Z",
       "author": "Alexander Behunin"
@@ -45,55 +90,10 @@
       "title": "Razhabali Shaydullaev defeats A.J. McKee for RIZIN, PFL titles, reportedly signs with MVP | Super RIZIN 5",
       "description": "Still undefeated — and now a double champion. Undefeated Featherweight wrecking machine and reigning RIZIN champion Razhabali Shaydullaev added another belt to his collection by defeating former Bellator kingpin A.J. McKee in the main event of SUPER RIZIN 5 e…",
       "url": "https://www.mmamania.com/latest-news/470964/razhabali-shaydullaev-defeats-a-j-mckee-for-rizin-pfl-titles-reportedly-signs-with-mvp-super-rizin-5",
-      "image": "/fightonomics/agents/mma-news-updater/images/razhabali-shaydullaev-defeats-a-j-mckee-for-rizin-pfl-titles-reportedly-signs-with-mvp-super-rizin-5-1789184753531.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/razhabali-shaydullaev-defeats-a-j-mckee-for-rizin-pfl-titles-reportedly-signs-with-mvp-super-rizin-5-1789225190198.jpeg",
       "source": "MMA Mania",
       "publishedAt": "2026-09-10T21:16:13Z",
       "author": "Alexander Behunin"
-    },
-    {
-      "title": "I Love Lala's Words About Winning Big Brother's Wall Comp (Vs An MMA Fighter) As a 58-Year-Old Woman",
-      "description": "\"Go that little bit more.\"",
-      "url": "https://www.cinemablend.com/television/latrice-inspiring-words-big-brother-wall-competition-win",
-      "image": "/fightonomics/agents/mma-news-updater/images/i-love-lala-s-words-about-winning-big-brother-s-wall-comp-vs-an-mma-fighter-as-a-58-year-old-woman-1789184753532.jpeg",
-      "source": "CinemaBlend",
-      "publishedAt": "2026-09-10T21:00:00Z",
-      "author": "Kelly West"
-    },
-    {
-      "title": "Top Air and Space Force leaders will gather amid unresolved Iran war, budget uncertainty",
-      "description": "The Joint Chiefs chairman, Space Force’s new leader, and the NASA administrator are all scheduled to speak at next week’s Air and Space Force Association conference.",
-      "url": "https://www.defenseone.com/policy/2026/09/top-air-and-space-force-leaders-will-gather-amid-unresolved-iran-war-budget-uncertainty/415913/",
-      "image": "/fightonomics/agents/mma-news-updater/images/top-air-and-space-force-leaders-will-gather-amid-unresolved-iran-war-budget-uncertainty-1789184753532.jpeg",
-      "source": "Defense One",
-      "publishedAt": "2026-09-10T19:37:50Z",
-      "author": "Thomas Novelly"
-    },
-    {
-      "title": "Meet the 'new CEO' of the UFC middleweight division",
-      "description": "Martin Kozak earned a UFC contract from Dana White on Tuesday – and made history in doing so.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/10/dwcs-martin-kozak-slovakia-ufc-ceo-middleweight/91677354007/",
-      "image": null,
-      "source": "USA Today",
-      "publishedAt": "2026-09-10T18:40:19Z",
-      "author": "Nolan King and Ken Hathaway, MMA Junkie"
-    },
-    {
-      "title": "Jake & Logan Paul Land Fight Competition Series At Hulu & ESPN From Wheelhouse & MVP",
-      "description": "EXCLUSIVE: Jake and Logan Paul are coaching a new generation of fighters. The brothers, who are YouTube stars with various experience in boxing and wrestling, as well as courting controversy, have landed a fight competition series at Hulu and ESPN. The untitl…",
-      "url": "http://deadline.com/2026/09/jake-logan-paul-land-fight-competition-series-hulu-espn-1237072912/",
-      "image": "/fightonomics/agents/mma-news-updater/images/jake-logan-paul-land-fight-competition-series-at-hulu-espn-from-wheelhouse-mvp-1789184753534.jpeg",
-      "source": "Deadline",
-      "publishedAt": "2026-09-10T15:00:00Z",
-      "author": "Peterdeadline"
-    },
-    {
-      "title": "'I feel like I'm a modern-day rockstar': Inside the meteoric rise of Tommy 'Gun' McMillen",
-      "description": "McMillen somehow balances his martial arts mindset with his hard-partying ways as he ascends the UFC ladder",
-      "url": "https://www.cbssports.com/ufc/news/tommy-mcmillen-noche-ufc/",
-      "image": "/fightonomics/agents/mma-news-updater/images/i-feel-like-i-m-a-modern-day-rockstar-inside-the-meteoric-rise-of-tommy-gun-mcmillen-1789184753534.jpeg",
-      "source": "CBS Sports",
-      "publishedAt": "2026-09-10T14:46:26Z",
-      "author": "Brian Campbell"
     }
   ]
 }
