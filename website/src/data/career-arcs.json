@@ -1,15 +1,87 @@
 {
-  "lastUpdated": "2026-09-13T03:54:12.061Z",
+  "lastUpdated": "2026-09-13T15:37:58.355Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
+      "title": "Curtis Blaydes vs. Waldo Cortes-Acosta prediction, pick, time for Noche UFC",
+      "description": "Will Curtis Blaydes dip into his wrestling wheelhouse to pull off an upset of Waldo Cortes-Acosta at Noche UFC?",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/12/noche-ufc-curtis-blaydes-vs-waldo-cortes-acosta-expert-prediction-pick-time-mma-betting-odds/91713181007/",
+      "image": null,
+      "source": "USA Today",
+      "publishedAt": "2026-09-12T15:20:42Z",
+      "author": "Dan Tom, MMA Junkie"
+    },
+    {
+      "title": "Manon Fiorot vs. Alexa Grasso prediction, pick, time for Noche UFC",
+      "description": "Manon Fiorot says she's been told a win over Alexa Grasso at Noche UFC will get her another flyweight title shot. Can ex-champ Grasso play spoiler?",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/12/noche-ufc-manon-fiorot-vs-alexa-grasso-expert-prediction-pick-time-mma-betting-odds/91713183007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/manon-fiorot-vs-alexa-grasso-prediction-pick-time-for-noche-ufc-1789313870548.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-09-12T14:30:44Z",
+      "author": "Dan Tom, MMA Junkie"
+    },
+    {
+      "title": "ONE SAMURAI 3 MMA Results: Wakamatsu Sends A Message, Minowa And Ito Shine In Yokohama",
+      "description": "Here's what went down in the three mixed martial arts contests of the night!",
+      "url": "https://www.onefc.com/news/one-samurai-3-mma-results-wakamatsu-sends-a-message-minowa-and-ito-shine-in-yokohama/",
+      "image": "/fightonomics/agents/mma-news-updater/images/one-samurai-3-mma-results-wakamatsu-sends-a-message-minowa-and-ito-shine-in-yokohama-1789313870548.jpeg",
+      "source": "Onefc.com",
+      "publishedAt": "2026-09-12T13:04:42Z",
+      "author": "Chris Mohan"
+    },
+    {
+      "title": "Joseph Morales vs. Brandon Moreno prediction, pick, time for Noche UFC",
+      "description": "Can former flyweight champion Brandon Moreno get back into title contention against Joseph Morales?",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/12/noche-ufc-joseph-morales-vs-brandon-moreno-expert-prediction-pick-time-mma-betting-odds/91700575007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/joseph-morales-vs-brandon-moreno-prediction-pick-time-for-noche-ufc-1789313870549.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-09-12T12:50:24Z",
+      "author": "Dan Tom, MMA Junkie"
+    },
+    {
+      "title": "UFC Noche predictions: Best bets, picks for Fight Night from Glendale",
+      "description": "Mexican Independence Day has been a staple for the UFC, and this Saturday will be no different.",
+      "url": "https://nypost.com/2026/09/12/betting/ufc-noche-predictions-best-bets-picks-for-fight-night-from-glendale/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-noche-predictions-best-bets-picks-for-fight-night-from-glendale-1789313870549.jpeg",
+      "source": "New York Post",
+      "publishedAt": "2026-09-12T12:00:00Z",
+      "author": "Erich Richter"
+    },
+    {
+      "title": "Oktagon Champ Jonas Magard is done waiting: 'I just know I'm better than him'",
+      "description": "Tired of waiting for another shot at bantamweight gold, former Oktagon champion Jonas Magard is moving up a division and into hostile territory to keep himself on the hunt.",
+      "url": "https://www.sherdog.com/news/news/Oktagon-Champ-Jonas-Magard-is-done-waiting-I-just-know-Im-better-than-him-202762",
+      "image": "/fightonomics/agents/mma-news-updater/images/oktagon-champ-jonas-magard-is-done-waiting-i-just-know-i-m-better-than-him-1789313870549.jpeg",
+      "source": "Sherdog.com",
+      "publishedAt": "2026-09-12T04:49:23Z",
+      "author": "jlkirven17@gmail.com (J.L. Kirven)"
+    },
+    {
+      "title": "Elon Musk Says Technology Is War's 'Most Important Advantage' as John Carmack Warns on AI and Coding",
+      "description": "Elon Musk has linked the debate over AI-generated software and the future of hand-coding to wider questions about technological competition, warfare and national security.",
+      "url": "https://www.ibtimes.com.au/elon-musk-ai-coding-technology-warfare-debate-1875420",
+      "image": "/fightonomics/agents/mma-news-updater/images/elon-musk-says-technology-is-war-s-most-important-advantage-as-john-carmack-warns-on-ai-and-coding-1789313870550.jpeg",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-09-12T04:37:34Z",
+      "author": "George Anton"
+    },
+    {
+      "title": "Why Could Conor McGregor Become “Public Enemy #1” for the UFC During Potential Final Fight Negotiations",
+      "description": "With Conor McGregor currently out after ACL surgery, Eddie Alvarez believes the negotiations for his potential final fight could turn messy.",
+      "url": "https://sports.yahoo.com/articles/why-could-conor-mcgregor-become-043120040.html",
+      "image": null,
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-12T04:31:20Z",
+      "author": "Kshitiz Kumar Singh"
+    },
+    {
       "title": "Coming soon: The end of ‘Middle East’",
       "description": "Mind Field News: Historians are not in the business of making predictions. But if you are a celebrity historian like Simon Sebag Montefiore, you may just take that gam.",
       "url": "https://timesofindia.indiatimes.com/world/mind-field/coming-soon-the-end-of-middle-east/articleshow/134102612.cms",
-      "image": "/fightonomics/agents/mma-news-updater/images/coming-soon-the-end-of-middle-east-1789271650801.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/coming-soon-the-end-of-middle-east-1789313870551.jpeg",
       "source": "The Times of India",
       "publishedAt": "2026-09-12T03:14:58Z",
       "author": "Mindfield"
@@ -18,82 +90,10 @@
       "title": "Mumbai Cricket Association to raise Rs 500 crore corpus for grassroots cricket",
       "description": "Cricket News: MUMBAI: The Mumbai Cricket Association (MCA) will create a Rs 500 cr corpus for grassroots cricket over the next decade, with maidan clubs, schools an.",
       "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mumbai-cricket-association-to-raise-rs-500-crore-corpus-for-grassroots-cricket/articleshow/134104811.cms",
-      "image": "/fightonomics/agents/mma-news-updater/images/mumbai-cricket-association-to-raise-rs-500-crore-corpus-for-grassroots-cricket-1789271650801.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/mumbai-cricket-association-to-raise-rs-500-crore-corpus-for-grassroots-cricket-1789313870551.jpeg",
       "source": "The Times of India",
       "publishedAt": "2026-09-12T03:06:34Z",
       "author": "Gaurav Gupta"
-    },
-    {
-      "title": "Bigg Boss 20: Uditi Singh reacts to Ex Karan Wahi’s possible wildcard entry; says 'Maine move on kar liya hai'",
-      "description": "Uditi Singh, a contestant on Bigg Boss, reflected on her previous relationship with Karan Wahi, indicating her ability to move forward and welcoming a potential wildcard entry from him. Their journey began in London and lasted two and a half years, resulting …",
-      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-20-uditi-singh-reacts-to-ex-karan-wahis-possible-wildcard-entry-says-maine-move-on-kar-liya-hai/articleshow/134101923.cms",
-      "image": "/fightonomics/agents/mma-news-updater/images/bigg-boss-20-uditi-singh-reacts-to-ex-karan-wahi-s-possible-wildcard-entry-says-maine-move-on-kar-liya-hai-1789271650801.jpeg",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-12T03:05:54Z",
-      "author": "etimes.in"
-    },
-    {
-      "title": "Saif Ali Khan case: Court rejects guilty plea of accused, trial set to begin",
-      "description": "A court rejected Shariful Islam's guilty plea in the Saif Ali Khan attack case. The trial will now begin on armed robbery and dacoity charges. Shariful faces additional charges under the Foreigners Act and Passport provisions. He was informed about state-fund…",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/saif-ali-khan-case-court-rejects-guilty-plea-of-accused-trial-set-to-begin/articleshow/134104497.cms",
-      "image": "/fightonomics/agents/mma-news-updater/images/saif-ali-khan-case-court-rejects-guilty-plea-of-accused-trial-set-to-begin-1789271650802.png",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-12T03:04:48Z",
-      "author": "Rebecca Samervel"
-    },
-    {
-      "title": "44 injured, 18-year-old critically hurt after train derails in northern France",
-      "description": "Europe News: At least 44 people were injured, including one seriously, after a passenger train derailed in northern France on Friday evening, officials said. The t.",
-      "url": "https://timesofindia.indiatimes.com/world/europe/44-injured-18-year-old-critically-hurt-after-train-derails-in-northern-france/articleshow/134104801.cms",
-      "image": "/fightonomics/agents/mma-news-updater/images/44-injured-18-year-old-critically-hurt-after-train-derails-in-northern-france-1789271650802.png",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-12T03:02:44Z",
-      "author": "Vivek Dubey"
-    },
-    {
-      "title": "Francis Ngannou Fires Back at Dana White After Latest Jabs",
-      "description": "Former UFC heavyweight champion Francis Ngannou fired back at UFC president Dana White following the latest jabs directed his way.White has been talking about Ngannou this week, reminiscing about his time promoting him in the UFC and saying that he isn’t some…",
-      "url": "https://heavy.com/sports/ufc/francis-ngannou-dana-white-latest-jabs/",
-      "image": "/fightonomics/agents/mma-news-updater/images/francis-ngannou-fires-back-at-dana-white-after-latest-jabs-1789271650803.jpeg",
-      "source": "Heavy.com",
-      "publishedAt": "2026-09-12T02:56:18Z",
-      "author": "Adam Martin"
-    },
-    {
-      "title": "“Get rugged”: MMA fighter Cole Johnson left fans stunned with his chimp fight claim as the truth took an unexpected turn",
-      "description": "Cole Johnson had fans convinced he was preparing for a bizarre fight against a chimpanzee after promoting a countdown and supposed livestream. As the 8 p.m. Central deadline approached, curiosity and concern grew online. But the amateur MMA fighter had a very…",
-      "url": "https://timesofindia.indiatimes.com/sports/mma/news/get-rugged-mma-fighter-cole-johnson-left-fans-stunned-with-his-chimp-fight-claim-as-the-truth-took-an-unexpected-turn/articleshow/134104357.cms",
-      "image": "/fightonomics/agents/mma-news-updater/images/get-rugged-mma-fighter-cole-johnson-left-fans-stunned-with-his-chimp-fight-claim-as-the-truth-took-an-unexpected-turn-1789271650803.jpeg",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-12T02:56:02Z",
-      "author": "Global Sports Desk"
-    },
-    {
-      "title": "Belal Muhammad: Ilia Topuria quit vs. Justin Gaethje, doesn't deserve rematch",
-      "description": "Belal Muhammad disagrees with the idea of a potential rematch between UFC champion Justin Gaethje and Ilia Topuria.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/11/ufc-belal-muhammad-opinion-ilia-topuria-not-deserve-justin-gaethje-rematch-lightweight-title-quitter/91706597007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/belal-muhammad-ilia-topuria-quit-vs-justin-gaethje-doesn-t-deserve-rematch-1789271650804.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-09-12T02:00:51Z",
-      "author": "Farah Hannoun, MMA Junkie"
-    },
-    {
-      "title": "Noche UFC’s Regina Tarin open to WWE move in the future or doing ‘both at the same time’",
-      "description": "Regina Tarin attended WWE tryouts before signing with the UFC",
-      "url": "https://www.mmafighting.com/ufc/509374/noche-ufcs-regina-tarin-open-to-wwe-move-in-the-future-or-doing-both-at-the-same-time",
-      "image": "/fightonomics/agents/mma-news-updater/images/noche-ufc-s-regina-tarin-open-to-wwe-move-in-the-future-or-doing-both-at-the-same-time-1789271650804.jpeg",
-      "source": "MMA Fighting",
-      "publishedAt": "2026-09-11T22:00:00Z",
-      "author": "Guilherme Cruz"
-    },
-    {
-      "title": "Rising UFC featherweights scheduled for November clash",
-      "description": "Two UFC featherweight youngsters look to get back on track.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/11/ufc-news-austin-bashi-vs-lucas-brennan/91715588007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/rising-ufc-featherweights-scheduled-for-november-clash-1789271650805.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-09-11T21:10:39Z",
-      "author": "Nolan King, MMA Junkie"
     }
   ]
 }
