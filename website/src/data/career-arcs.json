@@ -1,90 +1,99 @@
 {
-  "lastUpdated": "2026-09-16T16:09:20.635Z",
+  "lastUpdated": "2026-09-17T04:04:08.710Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
+      "title": "Nicco Montaño, star-crossed in the cage, fights back",
+      "description": "I’d been thinking for a while now of writing a “whatever happened to” story about former UFC flyweight champion Nicco Montaño, whose MMA career rose so fast and fell so far. Those thoughts were preempted on Aug. 28 by a text from Albuquerque’s Ricky Kottenste…",
+      "url": "https://www.abqjournal.com/sports/nicco-montano-star-crossed-in-the-cage-fights-back/3119946",
+      "image": null,
+      "source": "Albuquerque Journal",
+      "publishedAt": "2026-09-16T03:05:00Z",
+      "author": "Rick Wright, Albuquerque Journal, N.M."
+    },
+    {
+      "title": "Florida Police Officer Lands UFC Contract Months After Getting Into Brawl With UFC Champion Sean Strickland",
+      "description": "Florida police officer Luis Hernandez is officially a UFC fighter. Hernandez currently works for the Miami-Dade Sheriff’s Office and trains in MMA in his spare time. On Tuesday, Hernandez earned himself a UFC contract after a comeback win on Dana White’s Cont…",
+      "url": "https://brobible.com/sports/article/florida-police-officer-lands-ufc-contract-months-after-getting-into-brawl-with-ufc-champion-sean-strickland/",
+      "image": "/fightonomics/agents/mma-news-updater/images/florida-police-officer-lands-ufc-contract-months-after-getting-into-brawl-with-ufc-champion-sean-strickland-1789617846046.jpeg",
+      "source": "BroBible",
+      "publishedAt": "2026-09-16T01:53:29Z",
+      "author": "Jorge Alonso"
+    },
+    {
+      "title": "DWCS video: Former ONE star Akbar Abdullaev smokes Ednilson Santos in 19 seconds",
+      "description": "Nicknamed the \"uncrowned champion\" of ONE by some, Akbar Abdullaev showed he may have been overqualified for Dana White's Contender Series.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/15/dwcs-ufc-akbar-abdullaev-vs-ednilson-santos/91784108007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/dwcs-video-former-one-star-akbar-abdullaev-smokes-ednilson-santos-in-19-seconds-1789617846046.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-09-16T00:28:17Z",
+      "author": "Nolan King, MMA Junkie"
+    },
+    {
+      "title": "Renato Moicano blasts Brian Ortega for ruining 'easy paycheck' at UFC 331, cautions future Ortega opponents",
+      "description": "Renato Moicano is officially done with Brian Ortega after their planned rematch fell apart for a second time in 2026.",
+      "url": "https://sports.yahoo.com/mma/article/renato-moicano-blasts-brian-ortega-for-ruining-easy-paycheck-at-ufc-331-cautions-future-ortega-opponents-222910887.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/renato-moicano-blasts-brian-ortega-for-ruining-easy-paycheck-at-ufc-331-cautions-future-ortega-opponents-1789617846046.jpeg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-15T22:29:10Z",
+      "author": "Drake Riggs"
+    },
+    {
+      "title": "Gladius Fights set for Mud Creek Bison Ranch debut",
+      "description": "ELMIRA, N.Y. (WETM) – One of the area’s top MMA and kickboxing promotions is preparing for a special weekend. Gladius Fights will celebrate its’ 50th-ever MMA and kickboxing card, this Saturday at Savona’s Mud Creek Bison Ranch. The local promotion, owned by …",
+      "url": "https://www.mytwintiers.com/sports/local-sports/gladius-fights-set-for-mud-creek-bison-ranch-debut/",
+      "image": "/fightonomics/agents/mma-news-updater/images/gladius-fights-set-for-mud-creek-bison-ranch-debut-1789617846047.jpeg",
+      "source": "WETM - MyTwinTiers.com",
+      "publishedAt": "2026-09-15T22:00:14Z",
+      "author": "Nick Ketter"
+    },
+    {
+      "title": "The undefeated fighter (and cop) Sean Strickland assaulted competes on Contender Series tonight",
+      "description": "Remember this guy? More than one year after Sean Strickland stormed a regional MMA cage and punched him in the face, undefeated Middleweight prospect Luis Hernandez will compete for an Ultimate Fighting Championship (UFC) contract tonight (Tues., Sept. 15, 20…",
+      "url": "https://www.mmamania.com/ufc-contender-series-dana-white/472551/the-undefeated-fighter-and-cop-sean-strickland-assaulted-competes-on-contender-series-tonight",
+      "image": "/fightonomics/agents/mma-news-updater/images/the-undefeated-fighter-and-cop-sean-strickland-assaulted-competes-on-contender-series-tonight-1789617846047.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-09-15T21:00:00Z",
+      "author": "Alexander Behunin"
+    },
+    {
+      "title": "'Euphoria' actor set to box former two-division UFC champion",
+      "description": "An actor from HBO's Euphoria is set to box a former UFC champion.",
+      "url": "https://www.sportingnews.com/us/boxing/news/euphoria-actor-box-ufc-champion/f3e21a36341f6bdad19ed94a",
+      "image": "/fightonomics/agents/mma-news-updater/images/euphoria-actor-set-to-box-former-two-division-ufc-champion-1789617846048.jpeg",
+      "source": "Sporting News",
+      "publishedAt": "2026-09-15T20:01:16Z",
+      "author": "Dan Treacy"
+    },
+    {
+      "title": "Nate Diaz still sees trilogy with 'f*cker' Conor McGregor happening",
+      "description": "More than a decade later, Nate Diaz still sees himself completing his trilogy with Conor McGregor.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/15/nate-diaz-rooting-for-conor-mcgregor-ufc-comeback/91772762007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/nate-diaz-still-sees-trilogy-with-f-cker-conor-mcgregor-happening-1789617846048.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-09-15T19:30:20Z",
+      "author": "Farah Hannoun and Mike Bohn, MMA Junkie"
+    },
+    {
+      "title": "UFC 331 fight card -- Joshua Van vs. Alexandre Pantoja 2: Five biggest storylines to follow in Los Angeles",
+      "description": "The pair of flyweight rivals meet once again with the divisional title at stake",
+      "url": "https://www.cbssports.com/ufc/news/ufc-331-fight-card-joshua-van-vs-alexandre-pantoja-storylines/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-331-fight-card-joshua-van-vs-alexandre-pantoja-2-five-biggest-storylines-to-follow-in-los-angeles-1789617846048.jpeg",
+      "source": "CBS Sports",
+      "publishedAt": "2026-09-15T18:05:27Z",
+      "author": "Brian Campbell"
+    },
+    {
       "title": "With Deen The Great out, Henry Cejudo faces undefeated MVP fighter at Misfits Boxing event",
       "description": "Henry Cejudo makes his boxing debut on Sept. 26",
       "url": "https://www.mmafighting.com/boxing/510417/with-deen-the-great-out-henry-cejudo-faces-undefeated-mvp-fighter-at-misfits-boxing-event",
-      "image": "/fightonomics/agents/mma-news-updater/images/with-deen-the-great-out-henry-cejudo-faces-undefeated-mvp-fighter-at-misfits-boxing-event-1789574956855.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/with-deen-the-great-out-henry-cejudo-faces-undefeated-mvp-fighter-at-misfits-boxing-event-1789617846049.jpeg",
       "source": "MMA Fighting",
       "publishedAt": "2026-09-15T14:42:00Z",
       "author": "Alexander K. Lee"
-    },
-    {
-      "title": "Army veteran paratrooper who deployed to Iraq, Afghanistan before helping rescue Fox News reporter dead at 50",
-      "description": "Sean Michael Lee's cancer was linked to burn pits in Iraq and Afghanistan, ending a life devoted to rescuing thousands from war zones and disasters.",
-      "url": "https://www.foxnews.com/us/army-veteran-paratrooper-deployed-iraq-afghanistan-helping-rescue-fox-news-reporter-dead-50",
-      "image": "/fightonomics/agents/mma-news-updater/images/army-veteran-paratrooper-who-deployed-to-iraq-afghanistan-before-helping-rescue-fox-news-reporter-dead-at-50-1789574956856.jpeg",
-      "source": "Fox News",
-      "publishedAt": "2026-09-15T14:09:54Z",
-      "author": null
-    },
-    {
-      "title": "Air Force Says 38 Days of Combat Changed How It Will Fight",
-      "description": "Air Force leaders say lessons from 38 days of combat are reshaping base defense, autonomous aircraft, weapons and how Airmen prepare for war.",
-      "url": "https://military.com/those-days-are-over-air-force-says-38-days-of-combat-changed-how-it-will-fight",
-      "image": "/fightonomics/agents/mma-news-updater/images/air-force-says-38-days-of-combat-changed-how-it-will-fight-1789574956856.jpeg",
-      "source": "Military.com",
-      "publishedAt": "2026-09-15T13:13:45Z",
-      "author": "Douglas Lindsay"
-    },
-    {
-      "title": "Matheus Camilo plans to respect Jai Herbert's experience at UFC Vegas 122",
-      "description": "Jai Herbert has been around the UFC for a minute, and Matheus Camilo said he respects that. But that won't stop him from showing his own upside.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/15/ufc-video-interview-matheus-camilo-breakdown-jai-herbert-lightweight-fight-experience-vs-youth/91714761007/",
-      "image": null,
-      "source": "USA Today",
-      "publishedAt": "2026-09-15T12:00:52Z",
-      "author": "Matt Erickson, George Garcia and Brian Garcia, MMA Junkie"
-    },
-    {
-      "title": "Amid Sydney Sweeney’s sports ad controversy, Allyson Felix’s breakup with Nike and how she built her own shoe brand, Saysh, is winning hearts",
-      "description": "American actor Sydney Sweeney is facing intense backlash for featuring naked but covering parts of her body with various pieces of sporting equipment for a viral commercial for Novig. Amid this, the story of track athelete Allyson Felix's departure with Nike …",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/amid-sydney-sweeneys-sports-ad-controversy-allyson-felixs-breakup-with-nike-and-how-she-built-her-own-shoe-brand-saysh-is-winning-hearts/articleshow/134260633.cms",
-      "image": "/fightonomics/agents/mma-news-updater/images/amid-sydney-sweeney-s-sports-ad-controversy-allyson-felix-s-breakup-with-nike-and-how-she-built-her-own-shoe-brand-saysh-is-winning-hearts-1789574956857.jpeg",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-15T11:38:12Z",
-      "author": "ET Online"
-    },
-    {
-      "title": "Scott Coker unveils Ki MMA, 32-fighter global grand prix format",
-      "description": "Scott Coker has officially unveiled the name and format of his new mixed martial arts promotion.",
-      "url": "https://www.sherdog.com/news/news/Scott-Coker-unveils-Ki-MMA-32fighter-global-grand-prix-format-202800",
-      "image": "/fightonomics/agents/mma-news-updater/images/scott-coker-unveils-ki-mma-32-fighter-global-grand-prix-format-1789574956858.jpeg",
-      "source": "Sherdog.com",
-      "publishedAt": "2026-09-15T03:38:39Z",
-      "author": "SouravChakraborty@sherdog.com (Sourav Chakraborty)"
-    },
-    {
-      "title": "UFC 331 pre-event facts: Tai Tuivasa on cusp of Tony Ferguson losing skid record",
-      "description": "The numbers around UFC 331 paint an ugly, ugly picture for Tai Tuivasa and the company he'll join with an eighth straight defeat.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/14/ufc-331-pre-event-facts-tai-tuivasa-most-losses-history-tony-ferguson-record/91745367007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-331-pre-event-facts-tai-tuivasa-on-cusp-of-tony-ferguson-losing-skid-record-1789574956858.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-09-15T03:20:17Z",
-      "author": "Mike Bohn, MMA Junkie"
-    },
-    {
-      "title": "Nate Diaz still hoping for Conor McGregor trilogy",
-      "description": "Nate Diaz has reignited the flame with Conor McGregor, hoping for a trilogy fight.",
-      "url": "https://sports.yahoo.com/articles/nate-diaz-still-hoping-conor-023000912.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/nate-diaz-still-hoping-for-conor-mcgregor-trilogy-1789574956858.jpeg",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-09-15T02:30:00Z",
-      "author": "Joshua Ryan"
-    },
-    {
-      "title": "Nate Diaz weighs next options: Mike Perry? Scott Coker? MVP? Definitely no Dillon Danis",
-      "description": "What's Nate Diaz up to these days? He gave an update at Scott Coker's Ki MMA launch event.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/mma/2026/09/14/nate-diaz-mike-perry-ki-mma-scott-coker-mvp-pfl-next-fight/91769028007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/nate-diaz-weighs-next-options-mike-perry-scott-coker-mvp-definitely-no-dillon-danis-1789574956859.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-09-15T01:57:49Z",
-      "author": "Nolan King and Mike Bohn, MMA Junkie"
     }
   ]
 }

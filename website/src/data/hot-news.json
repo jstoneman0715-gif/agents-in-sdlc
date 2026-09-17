@@ -1,171 +1,189 @@
 {
-  "lastUpdated": "2026-09-16T16:09:20.635Z",
+  "lastUpdated": "2026-09-17T04:04:08.710Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
-      "title": "Ex-UFC champion Henry Cejudo to fight 'Euphoria' actor in boxing debut",
-      "description": "Former UFC champion Henry Cejudo is transitioning from MMA to boxing and will fight “Euphoria” actor Javon “Wanna” Walton on Sept. 26 in Miami.",
-      "url": "https://www.usatoday.com/story/sports/boxing/2026/09/15/javon-walton-henry-cejudo-fight-euphoria-actor-boxing/91774932007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ex-ufc-champion-henry-cejudo-to-fight-euphoria-actor-in-boxing-debut-1789574956831.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-09-15T15:42:03Z",
-      "author": "Elizabeth Flores, USA TODAY"
-    },
-    {
-      "title": "Michael Bisping empathizes with Tom Aspinall, hopes ex-UFC champ fights again",
-      "description": "Michael Bisping believes Tom Aspinall still can fight again, but \"he's just got to take his time.\"",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/15/ufc-michael-bisping-reacts-tom-aspinall-vacates-heavyweight-title-eye-injury/91771980007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/michael-bisping-empathizes-with-tom-aspinall-hopes-ex-ufc-champ-fights-again-1789574956833.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-09-15T15:20:31Z",
-      "author": "Farah Hannoun, MMA Junkie"
-    },
-    {
-      "title": "With Deen The Great out, Henry Cejudo faces undefeated MVP fighter at Misfits Boxing event",
-      "description": "Henry Cejudo makes his boxing debut on Sept. 26",
-      "url": "https://www.mmafighting.com/boxing/510417/with-deen-the-great-out-henry-cejudo-faces-undefeated-mvp-fighter-at-misfits-boxing-event",
-      "image": "/fightonomics/agents/mma-news-updater/images/with-deen-the-great-out-henry-cejudo-faces-undefeated-mvp-fighter-at-misfits-boxing-event-1789574956834.jpeg",
-      "source": "MMA Fighting",
-      "publishedAt": "2026-09-15T14:42:00Z",
-      "author": "Alexander K. Lee"
-    },
-    {
-      "title": "Nate Diaz open to joining new Ki MMA promotion",
-      "description": "Nate Diaz has shared an interest in Ki MMA.",
-      "url": "https://sports.yahoo.com/articles/nate-diaz-open-joining-ki-143157464.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/nate-diaz-open-to-joining-new-ki-mma-promotion-1789574956834.jpeg",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-09-15T14:31:57Z",
-      "author": "Joshua Ryan"
-    },
-    {
-      "title": "Conor McGregor: Max Holloway needed to 'finish the f*cking fight' at UFC 329",
-      "description": "Conor McGregor takes umbrage with the fact that Max Holloway was looking to go easy on him after he injured his knee.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/15/conor-mcgregor-rips-max-holloway-asking-ref-stop-fight-ufc-329/91756246007/",
-      "image": null,
-      "source": "USA Today",
-      "publishedAt": "2026-09-15T14:30:33Z",
-      "author": "Farah Hannoun, MMA Junkie"
-    },
-    {
-      "title": "Army veteran paratrooper who deployed to Iraq, Afghanistan before helping rescue Fox News reporter dead at 50",
-      "description": "Sean Michael Lee's cancer was linked to burn pits in Iraq and Afghanistan, ending a life devoted to rescuing thousands from war zones and disasters.",
-      "url": "https://www.foxnews.com/us/army-veteran-paratrooper-deployed-iraq-afghanistan-helping-rescue-fox-news-reporter-dead-50",
-      "image": "/fightonomics/agents/mma-news-updater/images/army-veteran-paratrooper-who-deployed-to-iraq-afghanistan-before-helping-rescue-fox-news-reporter-dead-at-50-1789574956838.jpeg",
-      "source": "Fox News",
-      "publishedAt": "2026-09-15T14:09:54Z",
-      "author": null
-    },
-    {
-      "title": "Jon Jones, Islam Makhachev trade barbs over validity of UFC greatness",
-      "description": "Jon Jones wasn't about to tolerate disrespect coming from Islam Makhachev without putting him in check.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/15/jon-jones-rips-islam-makhachev-discrediting-ufc-legacy-winning-streak/91771426007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/jon-jones-islam-makhachev-trade-barbs-over-validity-of-ufc-greatness-1789574956839.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-09-15T13:40:29Z",
-      "author": "Farah Hannoun, MMA Junkie"
-    },
-    {
-      "title": "10 Greatest American-Made Martial Arts Movies Of The Last 30 Years",
-      "description": "The Matrix, John Wick, Warrior and Shang-Chi are among 10 great American-made martial arts movies released over the last 30 years.",
-      "url": "https://screenrant.com/best-american-made-martial-arts-movies-last-30-years/",
-      "image": "/fightonomics/agents/mma-news-updater/images/10-greatest-american-made-martial-arts-movies-of-the-last-30-years-1789574956840.jpeg",
-      "source": "Screen Rant",
-      "publishedAt": "2026-09-15T13:30:08Z",
-      "author": "Sarah Polonsky"
-    },
-    {
-      "title": "Air Force Says 38 Days of Combat Changed How It Will Fight",
-      "description": "Air Force leaders say lessons from 38 days of combat are reshaping base defense, autonomous aircraft, weapons and how Airmen prepare for war.",
-      "url": "https://military.com/those-days-are-over-air-force-says-38-days-of-combat-changed-how-it-will-fight",
-      "image": "/fightonomics/agents/mma-news-updater/images/air-force-says-38-days-of-combat-changed-how-it-will-fight-1789574956841.jpeg",
-      "source": "Military.com",
-      "publishedAt": "2026-09-15T13:13:45Z",
-      "author": "Douglas Lindsay"
-    },
-    {
-      "title": "Open Thread, September 15, 2026: Any opinions on the Emmy winners?",
-      "description": "Your daily source for off topic chatter with the MMA Mania faithful.",
-      "url": "https://www.mmamania.com/daily_mania_ufc_mma/472489/open-thread-september-15-2026-any-opinions-on-the-emmy-winners",
-      "image": "/fightonomics/agents/mma-news-updater/images/open-thread-september-15-2026-any-opinions-on-the-emmy-winners-1789574956842.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-09-15T13:05:00Z",
-      "author": "Tim Edwards"
-    },
-    {
-      "title": "UFC 331 broadcast team set: Lead trio with Joe Rogan calls return to L.A.",
-      "description": "The usual numbered event team of Jon Anik, Daniel Cormier and Joe Rogan will call the action at UFC 331.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/15/ufc-331-broadcast-team-joe-rogan-jon-anik-daniel-cormier-commentary/91741167007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-331-broadcast-team-set-lead-trio-with-joe-rogan-calls-return-to-l-a-1789574956842.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-09-15T12:50:29Z",
-      "author": "Mike Bohn, MMA Junkie"
-    },
-    {
-      "title": "Matheus Camilo plans to respect Jai Herbert's experience at UFC Vegas 122",
-      "description": "Jai Herbert has been around the UFC for a minute, and Matheus Camilo said he respects that. But that won't stop him from showing his own upside.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/15/ufc-video-interview-matheus-camilo-breakdown-jai-herbert-lightweight-fight-experience-vs-youth/91714761007/",
-      "image": null,
-      "source": "USA Today",
-      "publishedAt": "2026-09-15T12:00:52Z",
-      "author": "Matt Erickson, George Garcia and Brian Garcia, MMA Junkie"
-    },
-    {
-      "title": "Amid Sydney Sweeney’s sports ad controversy, Allyson Felix’s breakup with Nike and how she built her own shoe brand, Saysh, is winning hearts",
-      "description": "American actor Sydney Sweeney is facing intense backlash for featuring naked but covering parts of her body with various pieces of sporting equipment for a viral commercial for Novig. Amid this, the story of track athelete Allyson Felix's departure with Nike …",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/amid-sydney-sweeneys-sports-ad-controversy-allyson-felixs-breakup-with-nike-and-how-she-built-her-own-shoe-brand-saysh-is-winning-hearts/articleshow/134260633.cms",
-      "image": "/fightonomics/agents/mma-news-updater/images/amid-sydney-sweeney-s-sports-ad-controversy-allyson-felix-s-breakup-with-nike-and-how-she-built-her-own-shoe-brand-saysh-is-winning-hearts-1789574956844.jpeg",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-15T11:38:12Z",
-      "author": "ET Online"
-    },
-    {
-      "title": "Dustin Poirier’s untold life beyond the UFC: Inside the business ventures, family story and charity work behind the MMA icon",
-      "description": "Dustin Poirier’s UFC career made him a household name, but his life beyond the Octagon tells an equally compelling story. From launching a Louisiana-style Cajun hot sauce and Rare Stash bourbon to building The Good Fight Foundation with wife Jolie, Poirier ha…",
-      "url": "https://timesofindia.indiatimes.com/sports/mma/news/dustin-poiriers-untold-life-beyond-the-ufc-inside-the-business-ventures-family-story-and-charity-work-behind-the-mma-icon/articleshow/134258434.cms",
-      "image": "/fightonomics/agents/mma-news-updater/images/dustin-poirier-s-untold-life-beyond-the-ufc-inside-the-business-ventures-family-story-and-charity-work-behind-the-mma-icon-1789574956844.jpeg",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-15T10:17:18Z",
-      "author": "Global Sports Desk"
-    },
-    {
-      "title": "England rugby star Henry Pollock opens door to sensational switch to ANOTHER sport and reveals boxing and MMA ambitions after signing with Eddie Hearn's Matchroom",
-      "description": "The 21-year-old is expected to sign a two-year extension at Franklin's Gardens, however, after signing with Eddie Hearn's Matchroom agency he hasn't ruled out trying out a new sport.",
-      "url": "https://www.dailymail.com/sport/rugbyunion/article-16132381/England-Henry-Pollock-opens-door-switch-sport.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/england-rugby-star-henry-pollock-opens-door-to-sensational-switch-to-another-sport-and-reveals-boxing-and-mma-ambitions-after-signing-with-eddie-hearn-s-matchroom-1789574956845.jpeg",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-15T09:31:10Z",
-      "author": "Nik Simon, Harry Bamforth"
-    },
-    {
-      "title": "The Sheehan Show: Shaidullaev Passes the McKee Test as Silva Survives His Own",
-      "description": "Seán Sheehan breaks down a big weekend for the featherweight division, including Rajabali Shaidullaev’s clash with A.J. McKee and Jean Silva’s showdown with Jose Delgado.",
-      "url": "https://www.sherdog.com/videos/sherdogradio/The-Sheehan-Show-Shaidullaev-Passes-the-McKee-Test-as-Silva-Survives-His-Own-23766",
-      "image": "/fightonomics/agents/mma-news-updater/images/the-sheehan-show-shaidullaev-passes-the-mckee-test-as-silva-survives-his-own-1789574956846.jpeg",
+      "title": "Alexandre Pantoja isn't interested in selling Joshua Van rematch",
+      "description": "Alexandre Pantoja is fully focused on his upcoming rematch with Joshua Van.",
+      "url": "https://www.sherdog.com/news/news/Alexandre-Pantoja-isnt-interested-in-selling-Joshua-Van-rematch-202820",
+      "image": "/fightonomics/agents/mma-news-updater/images/alexandre-pantoja-isn-t-interested-in-selling-joshua-van-rematch-1789617846027.jpeg",
       "source": "Sherdog.com",
-      "publishedAt": "2026-09-15T06:06:23Z",
-      "author": "ssheehan@sherdog.com (Sean Sheehan)"
+      "publishedAt": "2026-09-16T04:00:42Z",
+      "author": "sayannag88@gmail.com (Sayan Nag)"
     },
     {
-      "title": "Mark Zuckerberg - Colossus",
-      "description": "A journey to the heart of history’s largest nonterritorial empire",
-      "url": "https://colossus.com/article/mark-zuckerberg-profile/",
-      "image": "/fightonomics/agents/mma-news-updater/images/mark-zuckerberg-colossus-1789574956848.jpeg",
-      "source": "Colossus.com",
-      "publishedAt": "2026-09-15T05:47:01Z",
-      "author": "lvwrence"
+      "title": "Midnight Mania: ‘Greatest Talent That’s Ever Been On The Show’",
+      "description": "Bringing you the weird and wild from the world of MMA each and every weeknight!",
+      "url": "https://www.mmamania.com/ufc-news/472646/dana-white-labels-new-contender-series-signee-greatest-talent-thats-ever-been-on-the-show",
+      "image": "/fightonomics/agents/mma-news-updater/images/midnight-mania-greatest-talent-that-s-ever-been-on-the-show-1789617846028.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-09-16T03:59:00Z",
+      "author": "Andrew Richardson"
     },
     {
-      "title": "Enter Ki MMA: Scott Coker reveals new promotion name, international tournament, more - MMA Junkie",
-      "description": "Enter Ki MMA: Scott Coker reveals new promotion name, international tournament, moreMMA Junkie Scott Coker announces Ki MMA promotion, set for 2027 launchESPN Longtime promoter Scott Coker launching ‘Ki MMA’ in attempt to disrupt MMAOrange County Register Cag…",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185654548",
+      "title": "Joshua Van vs. Alexandre Pantoja 2: Both predict UFC 331 finishes",
+      "description": "Alexandre Pantoja and Joshua Van both claim to have tricks up their sleeves for their rematch.",
+      "url": "https://www.sherdog.com/news/news/Joshua-Van-vs-Alexandre-Pantoja-2-Both-predict-UFC-331-finishes-202819",
+      "image": "/fightonomics/agents/mma-news-updater/images/joshua-van-vs-alexandre-pantoja-2-both-predict-ufc-331-finishes-1789617846029.jpeg",
+      "source": "Sherdog.com",
+      "publishedAt": "2026-09-16T03:45:14Z",
+      "author": "malonso@sherdog.com (Marcelo Alonso) and sayannag88@gmail.com (Sayan Nag)"
+    },
+    {
+      "title": "Nate Diaz Trolls Ilia Topuria by Calling Him a “Punching Bag” After UFC Freedom 250 Beating",
+      "description": "Nate Diaz targets Ilia Topuria and calls him a punching bag after the beating taken by the Spaniard at UFC Freedom 250 back in June.",
+      "url": "https://sports.yahoo.com/articles/nate-diaz-trolls-ilia-topuria-033008629.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/nate-diaz-trolls-ilia-topuria-by-calling-him-a-punching-bag-after-ufc-freedom-250-beating-1789617846030.jpeg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-16T03:30:08Z",
+      "author": "Kshitiz Kumar Singh"
+    },
+    {
+      "title": "Michael Page calls UFC exit ‘disrespectful’ After 5-1 run",
+      "description": "Michael Page believes the Ultimate Fighting Championship could have parted ways with him in a more respectful manner.",
+      "url": "https://www.sherdog.com/news/news/Michael-Page-calls-UFC-exit-disrespectful-After-51-run-202816",
+      "image": "/fightonomics/agents/mma-news-updater/images/michael-page-calls-ufc-exit-disrespectful-after-5-1-run-1789617846031.jpeg",
+      "source": "Sherdog.com",
+      "publishedAt": "2026-09-16T03:09:50Z",
+      "author": "sayannag88@gmail.com (Sayan Nag)"
+    },
+    {
+      "title": "Nicco Montaño, star-crossed in the cage, fights back",
+      "description": "I’d been thinking for a while now of writing a “whatever happened to” story about former UFC flyweight champion Nicco Montaño, whose MMA career rose so fast and fell so far. Those thoughts were preempted on Aug. 28 by a text from Albuquerque’s Ricky Kottenste…",
+      "url": "https://www.abqjournal.com/sports/nicco-montano-star-crossed-in-the-cage-fights-back/3119946",
       "image": null,
-      "source": "Slashdot.org",
-      "publishedAt": "2026-09-15T05:32:37Z",
-      "author": "feedfeeder"
+      "source": "Albuquerque Journal",
+      "publishedAt": "2026-09-16T03:05:00Z",
+      "author": "Rick Wright, Albuquerque Journal, N.M."
+    },
+    {
+      "title": "TriCacheLLM-MMA 0.1.3",
+      "description": "A robust three-tier LLM-aware caching SDK using Redis, ChromaDB, and automatic SQLite bootstrap.",
+      "url": "https://pypi.org/project/tricachellm-mma/0.1.3/",
+      "image": null,
+      "source": "Pypi.org",
+      "publishedAt": "2026-09-16T02:14:53Z",
+      "author": "inboxmohib@gmail.com"
+    },
+    {
+      "title": "Nate Diaz Trashes ‘Punching Bag’ Ilia Topuria",
+      "description": "MMA legend trashed “punching bag” Ilia Topuria, getting him back after the former UFC lightweight champion said the same thing about him.After Diaz was busted open and lost via cut stoppage TKO to Nate Diaz earlier this year at MVP MMA 1, Topuria said that Di…",
+      "url": "https://heavy.com/sports/ufc/nate-diaz-punching-bag-ilia-topuria/",
+      "image": "/fightonomics/agents/mma-news-updater/images/nate-diaz-trashes-punching-bag-ilia-topuria-1789617846034.jpeg",
+      "source": "Heavy.com",
+      "publishedAt": "2026-09-16T02:07:17Z",
+      "author": "Adam Martin"
+    },
+    {
+      "title": "Florida Police Officer Lands UFC Contract Months After Getting Into Brawl With UFC Champion Sean Strickland",
+      "description": "Florida police officer Luis Hernandez is officially a UFC fighter. Hernandez currently works for the Miami-Dade Sheriff’s Office and trains in MMA in his spare time. On Tuesday, Hernandez earned himself a UFC contract after a comeback win on Dana White’s Cont…",
+      "url": "https://brobible.com/sports/article/florida-police-officer-lands-ufc-contract-months-after-getting-into-brawl-with-ufc-champion-sean-strickland/",
+      "image": "/fightonomics/agents/mma-news-updater/images/florida-police-officer-lands-ufc-contract-months-after-getting-into-brawl-with-ufc-champion-sean-strickland-1789617846035.jpeg",
+      "source": "BroBible",
+      "publishedAt": "2026-09-16T01:53:29Z",
+      "author": "Jorge Alonso"
+    },
+    {
+      "title": "TriCacheLLM-MMA 0.1.2",
+      "description": "A robust three-tier LLM-aware caching SDK using Redis, ChromaDB, and automatic SQLite bootstrap.",
+      "url": "https://pypi.org/project/tricachellm-mma/0.1.2/",
+      "image": null,
+      "source": "Pypi.org",
+      "publishedAt": "2026-09-16T01:50:58Z",
+      "author": "inboxmohib@gmail.com"
+    },
+    {
+      "title": "DWCS 92 video: Ecuador's Mayton Perea earns UFC contract in 45 seconds",
+      "description": "Michael Morales watched cageside as his countryman earned a UFC contract.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/15/ufc-dwcs-mayton-perea-vs-zevan-hunt-video/91784572007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/dwcs-92-video-ecuador-s-mayton-perea-earns-ufc-contract-in-45-seconds-1789617846036.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-09-16T01:12:02Z",
+      "author": "Nolan King, MMA Junkie"
+    },
+    {
+      "title": "Former UFC champion doesn’t believe Tom Aspinall should fight again",
+      "description": "The biggest MMA story today is Tom Aspinall vacating his heavyweight title. The now-former champion will be out of competition indefinitely after complications and another setback from his eye injury suffered at UFC 321. The injury came from a foul,…",
+      "url": "https://www.thebiglead.com/former-ufc-champion-doesnt-believe-tom-aspinall-should-fight/",
+      "image": "/fightonomics/agents/mma-news-updater/images/former-ufc-champion-doesn-t-believe-tom-aspinall-should-fight-again-1789617846037.jpeg",
+      "source": "The Big Lead",
+      "publishedAt": "2026-09-16T01:09:47Z",
+      "author": "Preston Palm"
+    },
+    {
+      "title": "BKB Continues Global Expansion With First Event in Mexico",
+      "description": "BKB: Bare Knuckle Boxing continues its global expansion by hosting its first event, BKB 59, in Mexico on Sept. 19. The post BKB Continues Global Expansion With First Event in Mexico appeared first on HEAVY.",
+      "url": "https://heavy.com/sports/ufc/bkb-global-expansion-first-event-mexico/",
+      "image": "/fightonomics/agents/mma-news-updater/images/bkb-continues-global-expansion-with-first-event-in-mexico-1789617846037.jpeg",
+      "source": "Heavy.com",
+      "publishedAt": "2026-09-16T01:06:21Z",
+      "author": "Giancarlo Aulino"
+    },
+    {
+      "title": "DWCS video: Igor Cavalcanti finishes Oscar Revello in 98 seconds",
+      "description": "Igor Cavalcanti made good on his second DWCS opportunity.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/15/ufc-dwcs-igor-cavalcanti-vs-oscar-revello-video/91784283007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/dwcs-video-igor-cavalcanti-finishes-oscar-revello-in-98-seconds-1789617846038.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-09-16T00:50:11Z",
+      "author": "Nolan King, MMA Junkie"
+    },
+    {
+      "title": "DWCS video: Former ONE star Akbar Abdullaev smokes Ednilson Santos in 19 seconds",
+      "description": "Nicknamed the \"uncrowned champion\" of ONE by some, Akbar Abdullaev showed he may have been overqualified for Dana White's Contender Series.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/15/dwcs-ufc-akbar-abdullaev-vs-ednilson-santos/91784108007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/dwcs-video-former-one-star-akbar-abdullaev-smokes-ednilson-santos-in-19-seconds-1789617846038.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-09-16T00:28:17Z",
+      "author": "Nolan King, MMA Junkie"
+    },
+    {
+      "title": "DWCS video: Luis Hernandez thrills with table-turning finish, hits DX crotch chop",
+      "description": "The Miami police officer who Sean Strickland attacked in the cage at a Tuff-N-Uff event last year is now in the UFC.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/15/ufc-dwcs-video-luis-hernandez-vs-hugo-guillon/91783904007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/dwcs-video-luis-hernandez-thrills-with-table-turning-finish-hits-dx-crotch-chop-1789617846038.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-09-16T00:18:00Z",
+      "author": "Nolan King, MMA Junkie"
+    },
+    {
+      "title": "Singer Cara claims she was assaulted over front row seat at Bibhu Mohapatra’s fashion show",
+      "description": "\"It's Fashion Week, not a fight club...You don't put your hands on someone,\" the singer said.",
+      "url": "https://pagesix.com/2026/09/15/style/singer-cara-claims-she-was-assaulted-over-front-row-seat-at-bibhu-mohapatras-nyfw-show/",
+      "image": "/fightonomics/agents/mma-news-updater/images/singer-cara-claims-she-was-assaulted-over-front-row-seat-at-bibhu-mohapatra-s-fashion-show-1789617846039.jpeg",
+      "source": "Page Six",
+      "publishedAt": "2026-09-15T23:50:02Z",
+      "author": "Carlos Greer"
+    },
+    {
+      "title": "UFC analyst explains why Alex Pereira 'likely' to get Ciryl Gane rematch",
+      "description": "Alex Pereira might not necessarily deserve a rematch with Ciryl Gane, but one analyst believes that's the direction the UFC will go.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/15/ufc-chris-weidman-alex-pereira-likely-rematch-ciryl-gane/91773366007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-analyst-explains-why-alex-pereira-likely-to-get-ciryl-gane-rematch-1789617846039.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-09-15T23:40:16Z",
+      "author": "Farah Hannoun, MMA Junkie"
+    },
+    {
+      "title": "TriCacheLLM-MMA added to PyPI",
+      "description": "A robust three-tier LLM-aware caching SDK using Redis, ChromaDB, and automatic SQLite bootstrap.",
+      "url": "https://pypi.org/project/tricachellm-mma/",
+      "image": null,
+      "source": "Pypi.org",
+      "publishedAt": "2026-09-15T23:24:46Z",
+      "author": "inboxmohib@gmail.com"
+    },
+    {
+      "title": "TriCacheLLM-MMA 0.1.0",
+      "description": "A robust three-tier LLM-aware caching SDK using Redis, ChromaDB, and automatic SQLite bootstrap.",
+      "url": "https://pypi.org/project/tricachellm-mma/0.1.0/",
+      "image": null,
+      "source": "Pypi.org",
+      "publishedAt": "2026-09-15T23:24:46Z",
+      "author": "inboxmohib@gmail.com"
     }
   ]
 }
