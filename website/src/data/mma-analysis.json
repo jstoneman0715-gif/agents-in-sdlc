@@ -1,114 +1,12 @@
 [
   {
     "originalArticle": {
-      "title": "Alexandre Pantoja isn't interested in selling Joshua Van rematch",
-      "description": "Alexandre Pantoja is fully focused on his upcoming rematch with Joshua Van.",
-      "source": "Sherdog.com",
-      "url": "https://www.sherdog.com/news/news/Alexandre-Pantoja-isnt-interested-in-selling-Joshua-Van-rematch-202820",
-      "image": "/fightonomics/agents/mma-news-updater/images/alexandre-pantoja-isn-t-interested-in-selling-joshua-van-rematch-1789617846027.jpeg",
-      "publishedAt": "2026-09-16T04:00:42Z"
-    },
-    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
-    "grappleFocus": {
-      "score": 0,
-      "keywords": [],
-      "isFocused": false
-    },
-    "publishedAt": "2026-09-16T04:00:42Z"
-  },
-  {
-    "originalArticle": {
-      "title": "Midnight Mania: ‘Greatest Talent That’s Ever Been On The Show’",
-      "description": "Bringing you the weird and wild from the world of MMA each and every weeknight!",
-      "source": "MMA Mania",
-      "url": "https://www.mmamania.com/ufc-news/472646/dana-white-labels-new-contender-series-signee-greatest-talent-thats-ever-been-on-the-show",
-      "image": "/fightonomics/agents/mma-news-updater/images/midnight-mania-greatest-talent-that-s-ever-been-on-the-show-1789617846028.jpeg",
-      "publishedAt": "2026-09-16T03:59:00Z"
-    },
-    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
-    "grappleFocus": {
-      "score": 0,
-      "keywords": [],
-      "isFocused": false
-    },
-    "publishedAt": "2026-09-16T03:59:00Z"
-  },
-  {
-    "originalArticle": {
-      "title": "Joshua Van vs. Alexandre Pantoja 2: Both predict UFC 331 finishes",
-      "description": "Alexandre Pantoja and Joshua Van both claim to have tricks up their sleeves for their rematch.",
-      "source": "Sherdog.com",
-      "url": "https://www.sherdog.com/news/news/Joshua-Van-vs-Alexandre-Pantoja-2-Both-predict-UFC-331-finishes-202819",
-      "image": "/fightonomics/agents/mma-news-updater/images/joshua-van-vs-alexandre-pantoja-2-both-predict-ufc-331-finishes-1789617846029.jpeg",
-      "publishedAt": "2026-09-16T03:45:14Z"
-    },
-    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
-    "grappleFocus": {
-      "score": 0,
-      "keywords": [],
-      "isFocused": false
-    },
-    "publishedAt": "2026-09-16T03:45:14Z"
-  },
-  {
-    "originalArticle": {
-      "title": "Nate Diaz Trolls Ilia Topuria by Calling Him a “Punching Bag” After UFC Freedom 250 Beating",
-      "description": "Nate Diaz targets Ilia Topuria and calls him a punching bag after the beating taken by the Spaniard at UFC Freedom 250 back in June.",
-      "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/articles/nate-diaz-trolls-ilia-topuria-033008629.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/nate-diaz-trolls-ilia-topuria-by-calling-him-a-punching-bag-after-ufc-freedom-250-beating-1789617846030.jpeg",
-      "publishedAt": "2026-09-16T03:30:08Z"
-    },
-    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
-    "grappleFocus": {
-      "score": 0,
-      "keywords": [],
-      "isFocused": false
-    },
-    "publishedAt": "2026-09-16T03:30:08Z"
-  },
-  {
-    "originalArticle": {
-      "title": "Michael Page calls UFC exit ‘disrespectful’ After 5-1 run",
-      "description": "Michael Page believes the Ultimate Fighting Championship could have parted ways with him in a more respectful manner.",
-      "source": "Sherdog.com",
-      "url": "https://www.sherdog.com/news/news/Michael-Page-calls-UFC-exit-disrespectful-After-51-run-202816",
-      "image": "/fightonomics/agents/mma-news-updater/images/michael-page-calls-ufc-exit-disrespectful-after-5-1-run-1789617846031.jpeg",
-      "publishedAt": "2026-09-16T03:09:50Z"
-    },
-    "ourTake": "Championship-level grappling is non-negotiable. Control time and submission threat determine title runs.",
-    "grappleFocus": {
-      "score": 0,
-      "keywords": [],
-      "isFocused": false
-    },
-    "publishedAt": "2026-09-16T03:09:50Z"
-  },
-  {
-    "originalArticle": {
-      "title": "Nicco Montaño, star-crossed in the cage, fights back",
-      "description": "I’d been thinking for a while now of writing a “whatever happened to” story about former UFC flyweight champion Nicco Montaño, whose MMA career rose so fast and fell so far. Those thoughts were preempted on Aug. 28 by a text from Albuquerque’s Ricky Kottenste…",
-      "source": "Albuquerque Journal",
-      "url": "https://www.abqjournal.com/sports/nicco-montano-star-crossed-in-the-cage-fights-back/3119946",
-      "image": null,
-      "publishedAt": "2026-09-16T03:05:00Z"
-    },
-    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
-    "grappleFocus": {
-      "score": 0,
-      "keywords": [],
-      "isFocused": false
-    },
-    "publishedAt": "2026-09-16T03:05:00Z"
-  },
-  {
-    "originalArticle": {
-      "title": "TriCacheLLM-MMA 0.1.3",
+      "title": "TriCacheLLM-MMA 0.1.4",
       "description": "A robust three-tier LLM-aware caching SDK using Redis, ChromaDB, and automatic SQLite bootstrap.",
       "source": "Pypi.org",
-      "url": "https://pypi.org/project/tricachellm-mma/0.1.3/",
+      "url": "https://pypi.org/project/tricachellm-mma/0.1.4/",
       "image": null,
-      "publishedAt": "2026-09-16T02:14:53Z"
+      "publishedAt": "2026-09-16T16:01:42Z"
     },
     "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
     "grappleFocus": {
@@ -116,84 +14,16 @@
       "keywords": [],
       "isFocused": false
     },
-    "publishedAt": "2026-09-16T02:14:53Z"
+    "publishedAt": "2026-09-16T16:01:42Z"
   },
   {
     "originalArticle": {
-      "title": "Nate Diaz Trashes ‘Punching Bag’ Ilia Topuria",
-      "description": "MMA legend trashed “punching bag” Ilia Topuria, getting him back after the former UFC lightweight champion said the same thing about him.After Diaz was busted open and lost via cut stoppage TKO to Nate Diaz earlier this year at MVP MMA 1, Topuria said that Di…",
-      "source": "Heavy.com",
-      "url": "https://heavy.com/sports/ufc/nate-diaz-punching-bag-ilia-topuria/",
-      "image": "/fightonomics/agents/mma-news-updater/images/nate-diaz-trashes-punching-bag-ilia-topuria-1789617846034.jpeg",
-      "publishedAt": "2026-09-16T02:07:17Z"
-    },
-    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
-    "grappleFocus": {
-      "score": 0,
-      "keywords": [],
-      "isFocused": false
-    },
-    "publishedAt": "2026-09-16T02:07:17Z"
-  },
-  {
-    "originalArticle": {
-      "title": "Florida Police Officer Lands UFC Contract Months After Getting Into Brawl With UFC Champion Sean Strickland",
-      "description": "Florida police officer Luis Hernandez is officially a UFC fighter. Hernandez currently works for the Miami-Dade Sheriff’s Office and trains in MMA in his spare time. On Tuesday, Hernandez earned himself a UFC contract after a comeback win on Dana White’s Cont…",
-      "source": "BroBible",
-      "url": "https://brobible.com/sports/article/florida-police-officer-lands-ufc-contract-months-after-getting-into-brawl-with-ufc-champion-sean-strickland/",
-      "image": "/fightonomics/agents/mma-news-updater/images/florida-police-officer-lands-ufc-contract-months-after-getting-into-brawl-with-ufc-champion-sean-strickland-1789617846035.jpeg",
-      "publishedAt": "2026-09-16T01:53:29Z"
-    },
-    "ourTake": "Comebacks are built on grappling maturity and tactical patience. Striking flashiness fades; ring control persists.",
-    "grappleFocus": {
-      "score": 0,
-      "keywords": [],
-      "isFocused": false
-    },
-    "publishedAt": "2026-09-16T01:53:29Z"
-  },
-  {
-    "originalArticle": {
-      "title": "TriCacheLLM-MMA 0.1.2",
-      "description": "A robust three-tier LLM-aware caching SDK using Redis, ChromaDB, and automatic SQLite bootstrap.",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/tricachellm-mma/0.1.2/",
-      "image": null,
-      "publishedAt": "2026-09-16T01:50:58Z"
-    },
-    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
-    "grappleFocus": {
-      "score": 0,
-      "keywords": [],
-      "isFocused": false
-    },
-    "publishedAt": "2026-09-16T01:50:58Z"
-  },
-  {
-    "originalArticle": {
-      "title": "DWCS 92 video: Ecuador's Mayton Perea earns UFC contract in 45 seconds",
-      "description": "Michael Morales watched cageside as his countryman earned a UFC contract.",
-      "source": "USA Today",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/15/ufc-dwcs-mayton-perea-vs-zevan-hunt-video/91784572007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/dwcs-92-video-ecuador-s-mayton-perea-earns-ufc-contract-in-45-seconds-1789617846036.jpeg",
-      "publishedAt": "2026-09-16T01:12:02Z"
-    },
-    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
-    "grappleFocus": {
-      "score": 0,
-      "keywords": [],
-      "isFocused": false
-    },
-    "publishedAt": "2026-09-16T01:12:02Z"
-  },
-  {
-    "originalArticle": {
-      "title": "Former UFC champion doesn’t believe Tom Aspinall should fight again",
-      "description": "The biggest MMA story today is Tom Aspinall vacating his heavyweight title. The now-former champion will be out of competition indefinitely after complications and another setback from his eye injury suffered at UFC 321. The injury came from a foul,…",
-      "source": "The Big Lead",
-      "url": "https://www.thebiglead.com/former-ufc-champion-doesnt-believe-tom-aspinall-should-fight/",
-      "image": "/fightonomics/agents/mma-news-updater/images/former-ufc-champion-doesn-t-believe-tom-aspinall-should-fight-again-1789617846037.jpeg",
-      "publishedAt": "2026-09-16T01:09:47Z"
+      "title": "Tom Aspinall’s UFC heavyweight title exit takes another turn as Michael Bisping responds to his eye injury struggles",
+      "description": "Michael Bisping has defended Tom Aspinall after the British heavyweight vacated his UFC title because of continuing eye problems. Bisping believes Aspinall can return if he takes his time, while Demetrious Johnson has questioned whether fighting again is wort…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/sports/international-sports/tom-aspinalls-ufc-heavyweight-title-exit-takes-another-turn-as-michael-bisping-responds-to-his-eye-injury-struggles/articleshow/134291431.cms",
+      "image": "/fightonomics/agents/mma-news-updater/images/tom-aspinall-s-ufc-heavyweight-title-exit-takes-another-turn-as-michael-bisping-responds-to-his-eye-injury-struggles-1789661741355.jpeg",
+      "publishedAt": "2026-09-16T15:34:06Z"
     },
     "ourTake": "Grappling-heavy fighters often return stronger from injury due to deep positional knowledge.",
     "grappleFocus": {
@@ -201,118 +31,16 @@
       "keywords": [],
       "isFocused": false
     },
-    "publishedAt": "2026-09-16T01:09:47Z"
+    "publishedAt": "2026-09-16T15:34:06Z"
   },
   {
     "originalArticle": {
-      "title": "BKB Continues Global Expansion With First Event in Mexico",
-      "description": "BKB: Bare Knuckle Boxing continues its global expansion by hosting its first event, BKB 59, in Mexico on Sept. 19. The post BKB Continues Global Expansion With First Event in Mexico appeared first on HEAVY.",
-      "source": "Heavy.com",
-      "url": "https://heavy.com/sports/ufc/bkb-global-expansion-first-event-mexico/",
-      "image": "/fightonomics/agents/mma-news-updater/images/bkb-continues-global-expansion-with-first-event-in-mexico-1789617846037.jpeg",
-      "publishedAt": "2026-09-16T01:06:21Z"
-    },
-    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
-    "grappleFocus": {
-      "score": 0,
-      "keywords": [],
-      "isFocused": false
-    },
-    "publishedAt": "2026-09-16T01:06:21Z"
-  },
-  {
-    "originalArticle": {
-      "title": "DWCS video: Igor Cavalcanti finishes Oscar Revello in 98 seconds",
-      "description": "Igor Cavalcanti made good on his second DWCS opportunity.",
+      "title": "UFC 331 'Embedded' No. 3: Backgammon at the beach with Arman Tsarukyan",
+      "description": "On the third episode of \"Embedded\" for UFC 331, Arman Tsarukyan heads to the beach for a backgammon session and generously overpays for chocolate.",
       "source": "USA Today",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/15/ufc-dwcs-igor-cavalcanti-vs-oscar-revello-video/91784283007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/dwcs-video-igor-cavalcanti-finishes-oscar-revello-in-98-seconds-1789617846038.jpeg",
-      "publishedAt": "2026-09-16T00:50:11Z"
-    },
-    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
-    "grappleFocus": {
-      "score": 0,
-      "keywords": [],
-      "isFocused": false
-    },
-    "publishedAt": "2026-09-16T00:50:11Z"
-  },
-  {
-    "originalArticle": {
-      "title": "DWCS video: Former ONE star Akbar Abdullaev smokes Ednilson Santos in 19 seconds",
-      "description": "Nicknamed the \"uncrowned champion\" of ONE by some, Akbar Abdullaev showed he may have been overqualified for Dana White's Contender Series.",
-      "source": "USA Today",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/15/dwcs-ufc-akbar-abdullaev-vs-ednilson-santos/91784108007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/dwcs-video-former-one-star-akbar-abdullaev-smokes-ednilson-santos-in-19-seconds-1789617846038.jpeg",
-      "publishedAt": "2026-09-16T00:28:17Z"
-    },
-    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
-    "grappleFocus": {
-      "score": 0,
-      "keywords": [],
-      "isFocused": false
-    },
-    "publishedAt": "2026-09-16T00:28:17Z"
-  },
-  {
-    "originalArticle": {
-      "title": "DWCS video: Luis Hernandez thrills with table-turning finish, hits DX crotch chop",
-      "description": "The Miami police officer who Sean Strickland attacked in the cage at a Tuff-N-Uff event last year is now in the UFC.",
-      "source": "USA Today",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/15/ufc-dwcs-video-luis-hernandez-vs-hugo-guillon/91783904007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/dwcs-video-luis-hernandez-thrills-with-table-turning-finish-hits-dx-crotch-chop-1789617846038.jpeg",
-      "publishedAt": "2026-09-16T00:18:00Z"
-    },
-    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
-    "grappleFocus": {
-      "score": 0,
-      "keywords": [],
-      "isFocused": false
-    },
-    "publishedAt": "2026-09-16T00:18:00Z"
-  },
-  {
-    "originalArticle": {
-      "title": "Singer Cara claims she was assaulted over front row seat at Bibhu Mohapatra’s fashion show",
-      "description": "\"It's Fashion Week, not a fight club...You don't put your hands on someone,\" the singer said.",
-      "source": "Page Six",
-      "url": "https://pagesix.com/2026/09/15/style/singer-cara-claims-she-was-assaulted-over-front-row-seat-at-bibhu-mohapatras-nyfw-show/",
-      "image": "/fightonomics/agents/mma-news-updater/images/singer-cara-claims-she-was-assaulted-over-front-row-seat-at-bibhu-mohapatra-s-fashion-show-1789617846039.jpeg",
-      "publishedAt": "2026-09-15T23:50:02Z"
-    },
-    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
-    "grappleFocus": {
-      "score": 0,
-      "keywords": [],
-      "isFocused": false
-    },
-    "publishedAt": "2026-09-15T23:50:02Z"
-  },
-  {
-    "originalArticle": {
-      "title": "UFC analyst explains why Alex Pereira 'likely' to get Ciryl Gane rematch",
-      "description": "Alex Pereira might not necessarily deserve a rematch with Ciryl Gane, but one analyst believes that's the direction the UFC will go.",
-      "source": "USA Today",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/15/ufc-chris-weidman-alex-pereira-likely-rematch-ciryl-gane/91773366007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-analyst-explains-why-alex-pereira-likely-to-get-ciryl-gane-rematch-1789617846039.jpeg",
-      "publishedAt": "2026-09-15T23:40:16Z"
-    },
-    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
-    "grappleFocus": {
-      "score": 0,
-      "keywords": [],
-      "isFocused": false
-    },
-    "publishedAt": "2026-09-15T23:40:16Z"
-  },
-  {
-    "originalArticle": {
-      "title": "TriCacheLLM-MMA added to PyPI",
-      "description": "A robust three-tier LLM-aware caching SDK using Redis, ChromaDB, and automatic SQLite bootstrap.",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/tricachellm-mma/",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/16/ufc-331-embedded-preview-video-3-behind-scenes-los-angeles-joshua-van-pantoja-arman-tsarukyan/91791419007/",
       "image": null,
-      "publishedAt": "2026-09-15T23:24:46Z"
+      "publishedAt": "2026-09-16T15:31:03Z"
     },
     "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
     "grappleFocus": {
@@ -320,16 +48,16 @@
       "keywords": [],
       "isFocused": false
     },
-    "publishedAt": "2026-09-15T23:24:46Z"
+    "publishedAt": "2026-09-16T15:31:03Z"
   },
   {
     "originalArticle": {
-      "title": "TriCacheLLM-MMA 0.1.0",
-      "description": "A robust three-tier LLM-aware caching SDK using Redis, ChromaDB, and automatic SQLite bootstrap.",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/tricachellm-mma/0.1.0/",
-      "image": null,
-      "publishedAt": "2026-09-15T23:24:46Z"
+      "title": "Hard Rock Hotel & Casino Atlantic City Named Among Nation's Best for Dining and Entertainment",
+      "description": "Editor's Note: Images can be downloaded here. ATLANTIC CITY, N.J., Sept. 16, 2026 /PRNewswire/ -- Hard Rock Hotel & Casino Atlantic City continues to position itself as a premier destination for award-winning dining and world-class entertainment, earning nati…",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/hard-rock-hotel--casino-atlantic-city-named-among-nations-best-for-dining-and-entertainment-302880819.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/hard-rock-hotel-casino-atlantic-city-named-among-nation-s-best-for-dining-and-entertainment-1789661741358.jpeg",
+      "publishedAt": "2026-09-16T15:31:00Z"
     },
     "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
     "grappleFocus": {
@@ -337,6 +65,282 @@
       "keywords": [],
       "isFocused": false
     },
-    "publishedAt": "2026-09-15T23:24:46Z"
+    "publishedAt": "2026-09-16T15:31:00Z"
+  },
+  {
+    "originalArticle": {
+      "title": "Shut up! Former champ sick of your ‘annoying’ criticism about UFC 332 fight card",
+      "description": "UFC 332 was recently made official for Sat., Oct. 3, 2026 at Delta Center in Salt Lake City, Utah. The promotion struggled to find marquee talent for the five-round main event and had to settle for the vacant flyweight title fight pitting Natalia Silva agains…",
+      "source": "MMA Mania",
+      "url": "https://www.mmamania.com/upcoming-ufc-events/472710/shut-up-former-champ-sick-your-annoying-criticism-ufc-332-fight-card",
+      "image": "/fightonomics/agents/mma-news-updater/images/shut-up-former-champ-sick-of-your-annoying-criticism-about-ufc-332-fight-card-1789661741360.jpeg",
+      "publishedAt": "2026-09-16T15:21:49Z"
+    },
+    "ourTake": "Title implications depend heavily on grappling matchup dynamics. Top-level wrestling and positional control often determine championship outcomes.",
+    "grappleFocus": {
+      "score": 0,
+      "keywords": [],
+      "isFocused": false
+    },
+    "publishedAt": "2026-09-16T15:21:49Z"
+  },
+  {
+    "originalArticle": {
+      "title": "Michael \"Venom\" Page draws interest from Ki MMA",
+      "description": "Michael \"Venom\" Page is a potential Ki MMA target.",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/michael-venom-page-draws-interest-144529462.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/michael-venom-page-draws-interest-from-ki-mma-1789661741361.jpeg",
+      "publishedAt": "2026-09-16T14:45:29Z"
+    },
+    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
+    "grappleFocus": {
+      "score": 0,
+      "keywords": [],
+      "isFocused": false
+    },
+    "publishedAt": "2026-09-16T14:45:29Z"
+  },
+  {
+    "originalArticle": {
+      "title": "In 1995, Anguilla fishermen watched green iguanas float toward shore on uprooted trees after Hurricane Luis helped carry them about 200 miles",
+      "description": "Hurricanes in 1995 created a giant debris mat carrying living green iguanas. Fishermen on Anguilla discovered these iguanas, previously unknown to the island. Scientific analysis confirmed their journey across approximately 200 miles of open ocean. This event…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/in-1995-anguilla-fishermen-watched-green-iguanas-float-toward-shore-on-uprooted-trees-after-hurricane-luis-carried-them-up-to-200-miles/articleshow/134288098.cms",
+      "image": "/fightonomics/agents/mma-news-updater/images/in-1995-anguilla-fishermen-watched-green-iguanas-float-toward-shore-on-uprooted-trees-after-hurricane-luis-helped-carry-them-about-200-miles-1789661741362.jpeg",
+      "publishedAt": "2026-09-16T14:13:38Z"
+    },
+    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
+    "grappleFocus": {
+      "score": 0,
+      "keywords": [],
+      "isFocused": false
+    },
+    "publishedAt": "2026-09-16T14:13:38Z"
+  },
+  {
+    "originalArticle": {
+      "title": "'The Ariel Helwani Show' is coming to VICE TV with new weekly Friday program",
+      "description": "The one-hour weekly compilation will showcase the best of Uncrowned's flagship program every Friday on VICE TV.",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/mma/article/the-ariel-helwani-show-is-coming-to-vice-tv-with-new-weekly-friday-program-140000184.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/the-ariel-helwani-show-is-coming-to-vice-tv-with-new-weekly-friday-program-1789661741363.jpeg",
+      "publishedAt": "2026-09-16T14:00:00Z"
+    },
+    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
+    "grappleFocus": {
+      "score": 0,
+      "keywords": [],
+      "isFocused": false
+    },
+    "publishedAt": "2026-09-16T14:00:00Z"
+  },
+  {
+    "originalArticle": {
+      "title": "Deiveson Figueiredo defends UFC 332 card from criticism: ‘It’s a little annoying’",
+      "description": "Deiveson Figueiredo co-headlines the card against Payton Talbott",
+      "source": "MMA Fighting",
+      "url": "https://www.mmafighting.com/ufc/510451/deiveson-figueiredo-defends-ufc-332-card-from-criticism-its-a-little-annoying",
+      "image": "/fightonomics/agents/mma-news-updater/images/deiveson-figueiredo-defends-ufc-332-card-from-criticism-it-s-a-little-annoying-1789661741364.jpeg",
+      "publishedAt": "2026-09-16T14:00:00Z"
+    },
+    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
+    "grappleFocus": {
+      "score": 0,
+      "keywords": [],
+      "isFocused": false
+    },
+    "publishedAt": "2026-09-16T14:00:00Z"
+  },
+  {
+    "originalArticle": {
+      "title": "Dana White's Contender Series 92: Grading new UFC contract winners",
+      "description": "MMA Junkie analyst Dan Tom grades the DWCS 92 contract winners and breaks down their potential for success in the UFC.",
+      "source": "USA Today",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/16/dana-white-contender-series-92-new-ufc-contract-winner-grades-expert-analysis-mma/91789508007/",
+      "image": null,
+      "publishedAt": "2026-09-16T13:40:30Z"
+    },
+    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
+    "grappleFocus": {
+      "score": 0,
+      "keywords": [],
+      "isFocused": false
+    },
+    "publishedAt": "2026-09-16T13:40:30Z"
+  },
+  {
+    "originalArticle": {
+      "title": "Open Thread, September 16, 2026: Is AI going to kill us all?",
+      "description": "Your daily source for off topic chatter with the MMA Mania faithful.",
+      "source": "MMA Mania",
+      "url": "https://www.mmamania.com/daily_mania_ufc_mma/472685/open-thread-september-16-2026-is-ai-going-to-kill-us-all",
+      "image": "/fightonomics/agents/mma-news-updater/images/open-thread-september-16-2026-is-ai-going-to-kill-us-all-1789661741366.jpeg",
+      "publishedAt": "2026-09-16T13:03:49Z"
+    },
+    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
+    "grappleFocus": {
+      "score": 0,
+      "keywords": [],
+      "isFocused": false
+    },
+    "publishedAt": "2026-09-16T13:03:49Z"
+  },
+  {
+    "originalArticle": {
+      "title": "Pitbull Vs. Choi Odds, Full Fight Preview & Prediction",
+      "description": "Ultimate Fighting Championship (UFC) Featherweight sluggers Patricio Pitbull vs. Doo Ho Choi will go to war this weekend (Sat., Sept. 19, 2026) inside Crypto.com Arena in Los Angeles, California for UFC 331. Pitbull didn’t join the UFC roster until late in hi…",
+      "source": "MMA Mania",
+      "url": "https://www.mmamania.com/ufc-odds/472417/patricio-pitbull-vs-doo-ho-choi-odds-full-fight-preview-and-prediction-ufc-331",
+      "image": "/fightonomics/agents/mma-news-updater/images/pitbull-vs-choi-odds-full-fight-preview-prediction-1789661741366.jpeg",
+      "publishedAt": "2026-09-16T12:55:00Z"
+    },
+    "ourTake": "Championship-level grappling is non-negotiable. Control time and submission threat determine title runs.",
+    "grappleFocus": {
+      "score": 0,
+      "keywords": [],
+      "isFocused": false
+    },
+    "publishedAt": "2026-09-16T12:55:00Z"
+  },
+  {
+    "originalArticle": {
+      "title": "Ilia Topuria’s trainer Jesus Gallo reveals El Matador’s major comeback update amid UFC return confusion following Dana White’s comments",
+      "description": "Ilia Topuria's physical trainer, Jesus Gallo, has provided an update on his recovery. Topuria is gradually returning to training in Miami after his injuries. He is expected to be ready for a fight starting in February 2027. This timeline differs from recent c…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/sports/mma/news/ilia-topurias-trainer-jesus-gallo-reveals-el-matadors-major-comeback-update-amid-ufc-return-confusion-following-dana-whites-comments/articleshow/134287504.cms",
+      "image": "/fightonomics/agents/mma-news-updater/images/ilia-topuria-s-trainer-jesus-gallo-reveals-el-matador-s-major-comeback-update-amid-ufc-return-confusion-following-dana-white-s-comments-1789661741367.jpeg",
+      "publishedAt": "2026-09-16T12:07:01Z"
+    },
+    "ourTake": "Training camp focus: Wrestling and positional grappling will determine success in this matchup.",
+    "grappleFocus": {
+      "score": 0,
+      "keywords": [],
+      "isFocused": false
+    },
+    "publishedAt": "2026-09-16T12:07:01Z"
+  },
+  {
+    "originalArticle": {
+      "title": "Akbar Abdullaev sets sights on one of UFC's biggest stars for debut",
+      "description": "Akbar Abdullaev thinks he's ready for the UFC lightweight division's biggest names.",
+      "source": "USA Today",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/16/ufc-dwcs-akbar-abdullaev-max-holloway-callout/91785846007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/akbar-abdullaev-sets-sights-on-one-of-ufc-s-biggest-stars-for-debut-1789661741367.jpeg",
+      "publishedAt": "2026-09-16T12:02:26Z"
+    },
+    "ourTake": "We'll learn a lot about this fighter's grappling fundamentals - the true test of MMA skill.",
+    "grappleFocus": {
+      "score": 0,
+      "keywords": [],
+      "isFocused": false
+    },
+    "publishedAt": "2026-09-16T12:02:26Z"
+  },
+  {
+    "originalArticle": {
+      "title": "Morning Report: Demetrious Johnson would be ‘shocked’ if Tom Aspinall fights again",
+      "description": "Demetrious Johnson thinks fans may have seen the last of Tom Aspinall",
+      "source": "MMA Fighting",
+      "url": "https://www.mmafighting.com/ufc/510411/morning-report-demetrious-johnson-would-be-shocked-if-tom-aspinall-fights-again",
+      "image": "/fightonomics/agents/mma-news-updater/images/morning-report-demetrious-johnson-would-be-shocked-if-tom-aspinall-fights-again-1789661741368.jpeg",
+      "publishedAt": "2026-09-16T12:00:00Z"
+    },
+    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
+    "grappleFocus": {
+      "score": 0,
+      "keywords": [],
+      "isFocused": false
+    },
+    "publishedAt": "2026-09-16T12:00:00Z"
+  },
+  {
+    "originalArticle": {
+      "title": "Asian Games 2026: India full schedule, contingent, medal prospects and more",
+      "description": "India's competitive action at the Asian Games will begin on September 17 with teqball, while the women's cricket team begins its campaign on September 18 against Japan",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/sports/asian-games/asian-games-2026-india-full-schedule-contingent-medal-prospects-and-more-126091600792_1.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/asian-games-2026-india-full-schedule-contingent-medal-prospects-and-more-1789661741368.jpeg",
+      "publishedAt": "2026-09-16T10:56:12Z"
+    },
+    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
+    "grappleFocus": {
+      "score": 0,
+      "keywords": [],
+      "isFocused": false
+    },
+    "publishedAt": "2026-09-16T10:56:12Z"
+  },
+  {
+    "originalArticle": {
+      "title": "Cowboys Legend Troy Aikman Officially Becomes a ‘Co-Owner’ After Latest Move",
+      "description": "Health and fitness have been priorities for Troy Aikman since he retired. His playing career was tough, and it took a toll on the former Dallas Cowboys quarterback’s health.",
+      "source": "Essentially Sports",
+      "url": "https://www.essentiallysports.com/nfl-active-news-cowboys-legend-troy-aikman-officially-becomes-a-co-owner-after-latest-move/",
+      "image": "/fightonomics/agents/mma-news-updater/images/cowboys-legend-troy-aikman-officially-becomes-a-co-owner-after-latest-move-1789661741369.jpeg",
+      "publishedAt": "2026-09-16T10:40:00Z"
+    },
+    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
+    "grappleFocus": {
+      "score": 0,
+      "keywords": [],
+      "isFocused": false
+    },
+    "publishedAt": "2026-09-16T10:40:00Z"
+  },
+  {
+    "originalArticle": {
+      "title": "DWCS Season 10, Week 6 results: Vicious 1 punch knockout leads 4 fighters being signed to UFC contracts - MMA Fighting",
+      "description": "DWCS Season 10, Week 6 results: Vicious 1 punch knockout leads 4 fighters being signed to UFC contractsMMA Fighting Week 6 Results + Scorecards | Dana White's Contender Series, Season 10UFC.com DWCS Results: Hunt vs. PereaMMA Fighting Dana White Hands Out 4 N…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185667280",
+      "image": null,
+      "publishedAt": "2026-09-16T09:12:26Z"
+    },
+    "ourTake": "While striking gets highlights, it's grappling composure and ground control that define champions.",
+    "grappleFocus": {
+      "score": 0,
+      "keywords": [],
+      "isFocused": false
+    },
+    "publishedAt": "2026-09-16T09:12:26Z"
+  },
+  {
+    "originalArticle": {
+      "title": "Crypto.com UFC 331: Van vs. Pantoja 2 Presented by Total Wireless Set to Air on Paramount+ This Saturday, September 19",
+      "description": "The event is headlined by one of the most anticipated UFC flyweight championship bouts of all time, as current titleholder Joshua Van aims to leave no doubt when he once again locks horns with former champion Alexandre Pantoja.",
+      "source": "Thefutoncritic.com",
+      "url": "http://www.thefutoncritic.com/news/2026/09/16/cryptocom-ufc-331-van-vs-pantoja-2-presented-by-total-wireless-set-to-air-on-paramountplus-this-saturday-september-19-329112/20260916paramount01/",
+      "image": null,
+      "publishedAt": "2026-09-16T08:00:00Z"
+    },
+    "ourTake": "Championship-level grappling is non-negotiable. Control time and submission threat determine title runs.",
+    "grappleFocus": {
+      "score": 5,
+      "keywords": [
+        "mount"
+      ],
+      "isFocused": false
+    },
+    "publishedAt": "2026-09-16T08:00:00Z"
+  },
+  {
+    "originalArticle": {
+      "title": "Conspiracy! Nate Diaz believes ‘embarrassing’ Dillon Danis ‘cut himself open’ to avoid Mike Perry",
+      "description": "Everybody knows Dillon Danis pulls out of fights. Yet, the former jiu-jitsu ace continues to book high-profile fights. Last month, Danis was supposed to fight Mike Perry in an MMA fight at the inaugural Duel Arena 1 event. Then, at the last second, he withdre…",
+      "source": "MMA Mania",
+      "url": "https://www.mmamania.com/latest-news/472659/conspiracy-nate-diaz-believes-embarrassing-dillon-danis-cut-himself-open-to-avoid-mike-perry",
+      "image": "/fightonomics/agents/mma-news-updater/images/conspiracy-nate-diaz-believes-embarrassing-dillon-danis-cut-himself-open-to-avoid-mike-perry-1789661741371.jpeg",
+      "publishedAt": "2026-09-16T07:00:00Z"
+    },
+    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
+    "grappleFocus": {
+      "score": 5,
+      "keywords": [
+        "jiu-jitsu"
+      ],
+      "isFocused": false
+    },
+    "publishedAt": "2026-09-16T07:00:00Z"
   }
 ]
