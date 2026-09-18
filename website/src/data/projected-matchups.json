@@ -1,99 +1,99 @@
 {
-  "lastUpdated": "2026-09-17T16:15:44.325Z",
+  "lastUpdated": "2026-09-18T03:50:14.255Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
-      "title": "TriCacheLLM-MMA 0.1.4",
-      "description": "A robust three-tier LLM-aware caching SDK using Redis, ChromaDB, and automatic SQLite bootstrap.",
-      "url": "https://pypi.org/project/tricachellm-mma/0.1.4/",
-      "image": null,
-      "source": "Pypi.org",
-      "publishedAt": "2026-09-16T16:01:42Z",
-      "author": "inboxmohib@gmail.com"
+      "title": "Gilbert Burns says ‘yes-men’ could stand between Khamzat Chimaev & UFC gold",
+      "description": "Gilbert Burns believes Khamzat Chimaev can become a double champion if he follows one crucial bit of advice.",
+      "url": "https://www.sherdog.com/news/news/Gilbert-Burns-says-yesmen-could-stand-between-Khamzat-Chimaev-UFC-gold-202833",
+      "image": "/fightonomics/agents/mma-news-updater/images/gilbert-burns-says-yes-men-could-stand-between-khamzat-chimaev-ufc-gold-1789703412545.jpeg",
+      "source": "Sherdog.com",
+      "publishedAt": "2026-09-17T03:39:46Z",
+      "author": "sayannag88@gmail.com (Sayan Nag)"
     },
     {
-      "title": "Tom Aspinall’s UFC heavyweight title exit takes another turn as Michael Bisping responds to his eye injury struggles",
-      "description": "Michael Bisping has defended Tom Aspinall after the British heavyweight vacated his UFC title because of continuing eye problems. Bisping believes Aspinall can return if he takes his time, while Demetrious Johnson has questioned whether fighting again is wort…",
-      "url": "https://timesofindia.indiatimes.com/sports/international-sports/tom-aspinalls-ufc-heavyweight-title-exit-takes-another-turn-as-michael-bisping-responds-to-his-eye-injury-struggles/articleshow/134291431.cms",
-      "image": "/fightonomics/agents/mma-news-updater/images/tom-aspinall-s-ufc-heavyweight-title-exit-takes-another-turn-as-michael-bisping-responds-to-his-eye-injury-struggles-1789661741388.jpeg",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-16T15:34:06Z",
-      "author": "Global Sports Desk"
+      "title": "‘Plenty Of Fight Left In Me’ – Yamin Draws Inspiration From Suakim, Yod-IQ, And Sam-A Ahead Of The Inner Circle 31",
+      "description": "The Thai is eager to revitalize his career this coming Friday in Bangkok's legendary Lumpinee Stadium.",
+      "url": "https://www.onefc.com/news/plenty-of-fight-left-in-me-yamin-draws-inspiration-from-suakim-yod-iq-and-sam-a-ahead-of-the-inner-circle-31/",
+      "image": "/fightonomics/agents/mma-news-updater/images/plenty-of-fight-left-in-me-yamin-draws-inspiration-from-suakim-yod-iq-and-sam-a-ahead-of-the-inner-circle-31-1789703412546.jpeg",
+      "source": "Onefc.com",
+      "publishedAt": "2026-09-17T03:38:45Z",
+      "author": "Kriel Ibarrola"
     },
     {
-      "title": "UFC 331 'Embedded' No. 3: Backgammon at the beach with Arman Tsarukyan",
-      "description": "On the third episode of \"Embedded\" for UFC 331, Arman Tsarukyan heads to the beach for a backgammon session and generously overpays for chocolate.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/16/ufc-331-embedded-preview-video-3-behind-scenes-los-angeles-joshua-van-pantoja-arman-tsarukyan/91791419007/",
+      "title": "USA TODAY Sports/MMA Junkie rankings, Sept. 16: Silva, Grasso make top 5 moves",
+      "description": "Check out the latest rankings update following Noche UFC in Glendale, Ariz.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/16/usa-today-sportsmma-junkie-rankings-sept-16-silva-grasso-make-top-5-moves/91803628007/",
       "image": null,
       "source": "USA Today",
-      "publishedAt": "2026-09-16T15:31:03Z",
-      "author": "MMA Junkie"
+      "publishedAt": "2026-09-17T03:31:15Z",
+      "author": "George Garcia, MMA Junkie"
     },
     {
-      "title": "Hard Rock Hotel & Casino Atlantic City Named Among Nation's Best for Dining and Entertainment",
-      "description": "Editor's Note: Images can be downloaded here. ATLANTIC CITY, N.J., Sept. 16, 2026 /PRNewswire/ -- Hard Rock Hotel & Casino Atlantic City continues to position itself as a premier destination for award-winning dining and world-class entertainment, earning nati…",
-      "url": "https://www.prnewswire.com/news-releases/hard-rock-hotel--casino-atlantic-city-named-among-nations-best-for-dining-and-entertainment-302880819.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/hard-rock-hotel-casino-atlantic-city-named-among-nation-s-best-for-dining-and-entertainment-1789661741389.jpeg",
-      "source": "PRNewswire",
-      "publishedAt": "2026-09-16T15:31:00Z",
-      "author": null
+      "title": "NFL Hall of Famer Ray Lewis could be headed back to the wrestling mat",
+      "description": "Ray Lewis could be the latest prominent crossover athlete to grace the Real American Freestyle mat.",
+      "url": "https://www.sherdog.com/news/news/NFL-Hall-of-Famer-Ray-Lewis-could-be-headed-back-to-the-wrestling-mat-202832",
+      "image": "/fightonomics/agents/mma-news-updater/images/nfl-hall-of-famer-ray-lewis-could-be-headed-back-to-the-wrestling-mat-1789703412547.jpeg",
+      "source": "Sherdog.com",
+      "publishedAt": "2026-09-17T03:22:18Z",
+      "author": "SouravChakraborty@sherdog.com (Sourav Chakraborty)"
     },
     {
-      "title": "Shut up! Former champ sick of your ‘annoying’ criticism about UFC 332 fight card",
-      "description": "UFC 332 was recently made official for Sat., Oct. 3, 2026 at Delta Center in Salt Lake City, Utah. The promotion struggled to find marquee talent for the five-round main event and had to settle for the vacant flyweight title fight pitting Natalia Silva agains…",
-      "url": "https://www.mmamania.com/upcoming-ufc-events/472710/shut-up-former-champ-sick-your-annoying-criticism-ufc-332-fight-card",
-      "image": "/fightonomics/agents/mma-news-updater/images/shut-up-former-champ-sick-of-your-annoying-criticism-about-ufc-332-fight-card-1789661741390.jpeg",
+      "title": "UFC 331’s best betting props, parlays and picks | Van vs. Pantoja 2",
+      "description": "Checkout our comprehensive UFC 331: Van vs. Pantoja 2 betting guide right here.",
+      "url": "https://www.mmamania.com/ufc-331-fight-card-start-time-date-location-van-vs-pantoja-2/472334/ufc-331s-best-betting-props-parlays-and-picks-van-vs-pantoja-2",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-331-s-best-betting-props-parlays-and-picks-van-vs-pantoja-2-1789703412548.jpeg",
       "source": "MMA Mania",
-      "publishedAt": "2026-09-16T15:21:49Z",
-      "author": "Jesse Holland"
+      "publishedAt": "2026-09-17T03:11:00Z",
+      "author": "Tim Edwards"
     },
     {
-      "title": "Michael \"Venom\" Page draws interest from Ki MMA",
-      "description": "Michael \"Venom\" Page is a potential Ki MMA target.",
-      "url": "https://sports.yahoo.com/articles/michael-venom-page-draws-interest-144529462.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/michael-venom-page-draws-interest-from-ki-mma-1789661741390.jpeg",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-09-16T14:45:29Z",
-      "author": "Joshua Ryan"
+      "title": "Muhammad Mokaev reveals why he turned down recent UFC title opportunity",
+      "description": "Muhammad Mokaev was offered an opportunity to compete under the Ultimate Fighting Championship banner again, but declined.",
+      "url": "https://www.sherdog.com/news/news/Muhammad-Mokaev-reveals-why-he-turned-down-recent-UFC-title-opportunity-202831",
+      "image": "/fightonomics/agents/mma-news-updater/images/muhammad-mokaev-reveals-why-he-turned-down-recent-ufc-title-opportunity-1789703412548.jpeg",
+      "source": "Sherdog.com",
+      "publishedAt": "2026-09-17T03:09:12Z",
+      "author": "SouravChakraborty@sherdog.com (Sourav Chakraborty)"
     },
     {
-      "title": "In 1995, Anguilla fishermen watched green iguanas float toward shore on uprooted trees after Hurricane Luis helped carry them about 200 miles",
-      "description": "Hurricanes in 1995 created a giant debris mat carrying living green iguanas. Fishermen on Anguilla discovered these iguanas, previously unknown to the island. Scientific analysis confirmed their journey across approximately 200 miles of open ocean. This event…",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/in-1995-anguilla-fishermen-watched-green-iguanas-float-toward-shore-on-uprooted-trees-after-hurricane-luis-carried-them-up-to-200-miles/articleshow/134288098.cms",
-      "image": "/fightonomics/agents/mma-news-updater/images/in-1995-anguilla-fishermen-watched-green-iguanas-float-toward-shore-on-uprooted-trees-after-hurricane-luis-helped-carry-them-about-200-miles-1789661741391.jpeg",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-16T14:13:38Z",
-      "author": "TOI World Desk"
-    },
-    {
-      "title": "'The Ariel Helwani Show' is coming to VICE TV with new weekly Friday program",
-      "description": "The one-hour weekly compilation will showcase the best of Uncrowned's flagship program every Friday on VICE TV.",
-      "url": "https://sports.yahoo.com/mma/article/the-ariel-helwani-show-is-coming-to-vice-tv-with-new-weekly-friday-program-140000184.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/the-ariel-helwani-show-is-coming-to-vice-tv-with-new-weekly-friday-program-1789661741391.jpeg",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-09-16T14:00:00Z",
-      "author": "Uncrowned Staff"
-    },
-    {
-      "title": "Deiveson Figueiredo defends UFC 332 card from criticism: ‘It’s a little annoying’",
-      "description": "Deiveson Figueiredo co-headlines the card against Payton Talbott",
-      "url": "https://www.mmafighting.com/ufc/510451/deiveson-figueiredo-defends-ufc-332-card-from-criticism-its-a-little-annoying",
-      "image": "/fightonomics/agents/mma-news-updater/images/deiveson-figueiredo-defends-ufc-332-card-from-criticism-it-s-a-little-annoying-1789661741391.jpeg",
-      "source": "MMA Fighting",
-      "publishedAt": "2026-09-16T14:00:00Z",
-      "author": "Guilherme Cruz"
-    },
-    {
-      "title": "Dana White's Contender Series 92: Grading new UFC contract winners",
-      "description": "MMA Junkie analyst Dan Tom grades the DWCS 92 contract winners and breaks down their potential for success in the UFC.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/16/dana-white-contender-series-92-new-ufc-contract-winner-grades-expert-analysis-mma/91789508007/",
-      "image": null,
+      "title": "Gable Steveson: Sean Sharaf 'a coward' for going personal before UFC 331",
+      "description": "Gable Steveson plans to turn Sean Sharaf into \"a sacrificial lamb\" for bringing up his checked past before UFC 331.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/16/ufc-331-gable-steveson-sean-sharaf-coward-personal-comments-controversy/91802341007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/gable-steveson-sean-sharaf-a-coward-for-going-personal-before-ufc-331-1789703412548.jpeg",
       "source": "USA Today",
-      "publishedAt": "2026-09-16T13:40:30Z",
-      "author": "Matt Erickson, MMA Junkie"
+      "publishedAt": "2026-09-17T03:00:21Z",
+      "author": "Mike Bohn, MMA Junkie"
+    },
+    {
+      "title": "Tito Ortiz wants to make peace with Dana White: 'I messed up'",
+      "description": "Tito Ortiz admits the state of his relationship with UFC CEO Dana White is \"hurtful.\"",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/16/ufc-tito-ortiz-wants-peace-with-dana-white-messed-up/91797400007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/tito-ortiz-wants-to-make-peace-with-dana-white-i-messed-up-1789703412549.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-09-17T02:10:30Z",
+      "author": "Mike Bohn, MMA Junkie"
+    },
+    {
+      "title": "Alex Pereira Takes Dig at Ciryl Gane Ahead of Potential UFC Heavyweight Title Upgrade",
+      "description": "With Ciryl Gane all set to become the new undisputed UFC heavyweight champion, Alex Pereira has targeted the Frenchman on social media.",
+      "url": "https://sports.yahoo.com/articles/alex-pereira-takes-dig-ciryl-013405607.html",
+      "image": null,
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-17T01:34:05Z",
+      "author": "Kshitiz Kumar Singh"
+    },
+    {
+      "title": "‘I’m back’: Ilia Topuria reveals he’s been cleared to return to action after brutal UFC White House loss; Justin Gaethje responds - MMA",
+      "description": "‘I’m back’: Ilia Topuria reveals he’s been cleared to return to action after brutal UFC White House loss; Justin Gaethje respondsMMA Fighting Ilia Topuria Accuses Justin Gaethje of Cheating at UFC White House Fight, Provides Injury UpdateBleacher Report Ilia …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185675254",
+      "image": null,
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-17T01:32:36Z",
+      "author": "feedfeeder"
     }
   ],
   "matchups": [
