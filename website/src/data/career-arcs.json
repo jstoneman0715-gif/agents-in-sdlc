@@ -1,15 +1,87 @@
 {
-  "lastUpdated": "2026-09-18T15:51:05.434Z",
+  "lastUpdated": "2026-09-19T03:47:07.890Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
+      "title": "For Marlon Vera, UFC 331 is the 'ultimate test' to snap skid",
+      "description": "Marlon Vera faces a lot of pressure at UFC 331.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/17/ufc-331-marlon-vera-ultimate-test-losing-skid/91808505007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/for-marlon-vera-ufc-331-is-the-ultimate-test-to-snap-skid-1789789623843.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-09-17T22:01:03Z",
+      "author": "Farah Hannoun and Jeronimo Guerra, MMA Junkie"
+    },
+    {
+      "title": "Gable Steveson teases Jon Jones’ return at UFC 331 media day",
+      "description": "UFC 331 is just days away, and as with every numbered event fight week, there is a media day where every fighter answers questions. The heavyweight division is one of, if not the, biggest storylines in MMA right now. Now,…",
+      "url": "https://www.thebiglead.com/gable-steveson-teases-jon-jones-return-at-ufc-331-media-day/",
+      "image": "/fightonomics/agents/mma-news-updater/images/gable-steveson-teases-jon-jones-return-at-ufc-331-media-day-1789789623844.jpeg",
+      "source": "The Big Lead",
+      "publishedAt": "2026-09-17T20:54:35Z",
+      "author": "Preston Palm"
+    },
+    {
+      "title": "Cris Cyborg uncertain of next move, but pretty sure it's not UFC",
+      "description": "Cris Cyborg's got options.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/mma/2026/09/17/ufc-pfl-cris-cyborg-not-certain-next-move-retirement-boxing-scott-coker-new-promotion-ki-mma/91792819007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/cris-cyborg-uncertain-of-next-move-but-pretty-sure-it-s-not-ufc-1789789623844.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-09-17T19:30:31Z",
+      "author": "Matt Erickson and Mike Bohn, MMA Junkie"
+    },
+    {
+      "title": "Trump's DHS Secretary Markwayne Mullin shares Washington 'crash pad' with best friend congressman in unusual arrangement: 'It's strange'",
+      "description": "Homeland Security Secretary Markwayne Mullin still prefers a shared living arrangement akin to a 'college dorm' in the nation's capital, according to insiders.",
+      "url": "https://www.dailymail.com/news/article-16136275/trump-markwayne-mullin-jason-smith-crash-pad.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/trump-s-dhs-secretary-markwayne-mullin-shares-washington-crash-pad-with-best-friend-congressman-in-unusual-arrangement-it-s-strange-1789789623845.jpeg",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-17T19:08:08Z",
+      "author": "Elina Shirazi"
+    },
+    {
+      "title": "Will UFC 331 offer more proof that the lighter weight classes are no place for aging ex-champs? Mailbag",
+      "description": "Can Alexandre Pantoja get his revenge against Joshua Van at UFC 331, even as a flyweight on the wrong side of his mid-thirties? Answers to that and other reader questions.",
+      "url": "https://sports.yahoo.com/mma/article/will-ufc-331-offer-more-proof-that-the-lighter-weight-classes-are-no-place-for-aging-ex-champs-mailbag-184307333.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/will-ufc-331-offer-more-proof-that-the-lighter-weight-classes-are-no-place-for-aging-ex-champs-mailbag-1789789623845.jpeg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-17T18:43:07Z",
+      "author": "Ben Fowlkes"
+    },
+    {
+      "title": "Asked and received: Dooho Choi happy UFC callout of 'Pitbull' materialized",
+      "description": "Dooho Choi will get exactly what he asked for Saturday at UFC 331 in Los Angeles.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/17/ufc-331-news-dooho-choi-pitbull-callout-media-day/91797610007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/asked-and-received-dooho-choi-happy-ufc-callout-of-pitbull-materialized-1789789623846.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-09-17T17:50:25Z",
+      "author": "Nolan King and Jeronimo Guerra, MMA Junkie"
+    },
+    {
+      "title": "Joshua Allen given time to decide on charges including alleged garda assaults",
+      "description": "MMA fighter, who is the son of celebrity chef Rachel Allen, also faces allegations of dangerous driving and driving intoxicated",
+      "url": "https://www.irishtimes.com/crime-law/courts/2026/09/17/joshua-allen-given-time-to-decide-on-charges-including-alleged-garda-assaults/",
+      "image": "/fightonomics/agents/mma-news-updater/images/joshua-allen-given-time-to-decide-on-charges-including-alleged-garda-assaults-1789789623846.jpeg",
+      "source": "The Irish Times",
+      "publishedAt": "2026-09-17T17:15:17Z",
+      "author": "Olivia Kelleher"
+    },
+    {
+      "title": "UFC’s Paddy Pimblett & Tom Hardy Link Up, Agree To Train Jiu-Jitsu Together",
+      "description": "Paddy Pimblett and Tom Hardy will soon be rolling on a Jiu-Jitsu mat. Hardy, who has won multiple Jiu-Jitsu tournaments throughout the years, has spoken openly about his love for the sport after finding it later in life. Via Bjee.com ‘I found Jiu-Jitsu late i…",
+      "url": "https://brobible.com/sports/article/ufcs-paddy-pimblett-tom-hardy/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-s-paddy-pimblett-tom-hardy-link-up-agree-to-train-jiu-jitsu-together-1789789623847.jpeg",
+      "source": "BroBible",
+      "publishedAt": "2026-09-17T16:28:52Z",
+      "author": "Jorge Alonso"
+    },
+    {
       "title": "Mauricio Ruffy: UFC 331 prep for Arman Tsarukyan 'made me a different person'",
       "description": "Mauricio Ruffy left his \"comfort zone\" for UFC 331 and embraced everything it will take to upset Arman Tsarukyan.",
       "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/17/ufc-331-mauricio-ruffy-training-different-person-for-arman-tsarukyan/91802664007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/mauricio-ruffy-ufc-331-prep-for-arman-tsarukyan-made-me-a-different-person-1789746663474.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/mauricio-ruffy-ufc-331-prep-for-arman-tsarukyan-made-me-a-different-person-1789789623847.jpeg",
       "source": "USA Today",
       "publishedAt": "2026-09-17T13:40:30Z",
       "author": "Mike Bohn and Jeronimo Guerra, MMA Junkie"
@@ -18,82 +90,10 @@
       "title": "UFC’s Paddy Pimblett and Tom Hardy announce surprising collaboration",
       "description": "While Venom actor Tom Hardy is a regular Brazilian Jiu-Jitsu practitioner, is he anywhere near a professional MMA/UFC fighter? Recently, Hardy crossed paths with UFC’s Paddy Pimblett at the world premiere of MobLand Season 2. However, their conversation soon …",
       "url": "https://clutchpoints.com/ufc/ufc-paddy-pimblett-tom-hardy-announce-surprising-collaboration",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-s-paddy-pimblett-and-tom-hardy-announce-surprising-collaboration-1789746663475.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-s-paddy-pimblett-and-tom-hardy-announce-surprising-collaboration-1789789623848.jpeg",
       "source": "ClutchPoints",
       "publishedAt": "2026-09-17T13:30:05Z",
       "author": "Shounak Chakrabarti, ClutchPoints"
-    },
-    {
-      "title": "'Ten-plus years of work' - Darby on earning UFC contract",
-      "description": "Dublin mixed martial artist Adam Darby says more than a decade of hard work came \"to fruition\" after becoming the first Irish fighter to earn a UFC contract through Dana White's Contender Series.",
-      "url": "https://www.bbc.com/sport/mixed-martial-arts/articles/cy4zyww2j4wo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "image": "/fightonomics/agents/mma-news-updater/images/ten-plus-years-of-work-darby-on-earning-ufc-contract-1789746663475.jpeg",
-      "source": "BBC News",
-      "publishedAt": "2026-09-17T07:11:13Z",
-      "author": "John McGovern - BBC Sport NI Contributor"
-    },
-    {
-      "title": "'Ten-plus years of work' - Darby on earning UFC contract",
-      "description": "Dublin mixed martial artist Adam Darby says more than a decade of hard work came \"to fruition\" after becoming the first Irish fighter to earn a UFC contract through Dana White's Contender Series.",
-      "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cy4zyww2j4wo",
-      "image": "/fightonomics/agents/mma-news-updater/images/ten-plus-years-of-work-darby-on-earning-ufc-contract-1789746663476.jpeg",
-      "source": "BBC News",
-      "publishedAt": "2026-09-17T07:11:08Z",
-      "author": "John McGovern"
-    },
-    {
-      "title": "Midnight Mania: ‘I’ve Done That To Everybody’s Face’",
-      "description": "Bringing you the weird and wild from the world of MMA each and every weeknight!",
-      "url": "https://www.mmamania.com/ufc-news/472765/justin-gaethje-responds-to-ilia-topurias-loaded-gloves-accusation-ive-done-that-to-everybodys-face",
-      "image": "/fightonomics/agents/mma-news-updater/images/midnight-mania-i-ve-done-that-to-everybody-s-face-1789746663477.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-09-17T03:59:00Z",
-      "author": "Andrew Richardson"
-    },
-    {
-      "title": "Tito Ortiz wants to make peace with Dana White: 'I messed up'",
-      "description": "Tito Ortiz admits the state of his relationship with UFC CEO Dana White is \"hurtful.\"",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/16/ufc-tito-ortiz-wants-peace-with-dana-white-messed-up/91797400007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/tito-ortiz-wants-to-make-peace-with-dana-white-i-messed-up-1789746663477.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-09-17T02:10:30Z",
-      "author": "Mike Bohn, MMA Junkie"
-    },
-    {
-      "title": "Arman Tsarukyan, NHL player? UFC 331 star describes what could've been",
-      "description": "Before it was the UFC, Arman Tsarukyan set sights on the NHL.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/16/ufc-331-arman-tsarukyan-nhl-player-origin-media-day/91801215007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/arman-tsarukyan-nhl-player-ufc-331-star-describes-what-could-ve-been-1789746663478.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-09-17T00:21:44Z",
-      "author": "Nolan King and Jeronimo Guerra, MMA Junkie"
-    },
-    {
-      "title": "Tito Ortiz wants to end decades of bad blood with Dana White: 'I've tried to apologize'",
-      "description": "\"If that bridge could ever be hashed back together between me and Dana, I would love it,\" said the UFC legend. \"But I know Dana. He's not that type of guy.\"",
-      "url": "https://sports.yahoo.com/mma/article/tito-ortiz-wants-to-end-decades-of-bad-blood-with-dana-white-ive-tried-to-apologize-001736183.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/tito-ortiz-wants-to-end-decades-of-bad-blood-with-dana-white-i-ve-tried-to-apologize-1789746663478.jpeg",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-09-17T00:17:36Z",
-      "author": "Drake Riggs"
-    },
-    {
-      "title": "Tito Ortiz wants to end decades of bad blood with Dana White: 'I've tried to apologize'",
-      "description": "\"If that bridge could ever be hashed back together between me and Dana, I would love it,\" said the UFC legend. \"But I know Dana. He's not that type of guy.\"",
-      "url": "https://sports.yahoo.com/mma/article/ufc-legend-tito-ortiz-wants-to-end-decades-of-bad-blood-with-dana-white-ive-tried-to-apologize-001736183.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/tito-ortiz-wants-to-end-decades-of-bad-blood-with-dana-white-i-ve-tried-to-apologize-1789746663478.jpeg",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-09-17T00:17:36Z",
-      "author": "Drake Riggs"
-    },
-    {
-      "title": "Patricio Freire hopes at UFC 331 he can bring out potential for first time",
-      "description": "Bellator great Patricio Freire knows his UFC performances have been a letdown and he hopes to change that.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/16/ufc-331-patricio-pitbull-freire-potential-dooho-choi/91799238007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/patricio-freire-hopes-at-ufc-331-he-can-bring-out-potential-for-first-time-1789746663479.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-09-16T22:50:25Z",
-      "author": "Nolan King and Jeronimo Guerra, MMA Junkie"
     }
   ]
 }
