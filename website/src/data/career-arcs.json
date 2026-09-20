@@ -1,15 +1,78 @@
 {
-  "lastUpdated": "2026-09-20T04:03:24.682Z",
+  "lastUpdated": "2026-09-20T15:28:10.412Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
+      "title": "Here’s How to Watch UFC 331: Van vs. Pantoja 2 Live Online for Free",
+      "description": "Live from Los Angeles on Sept. 19, you can watch the entire MMA event online for free.",
+      "url": "https://www.billboard.com/culture/product-recommendations/ufc-331-van-pantoja-2-watch-live-online-free-1236340341/",
+      "image": "/fightonomics/agents/mma-news-updater/images/here-s-how-to-watch-ufc-331-van-vs-pantoja-2-live-online-for-free-1789918088228.jpeg",
+      "source": "Billboard",
+      "publishedAt": "2026-09-19T15:15:38Z",
+      "author": "Rudie Obias"
+    },
+    {
+      "title": "Arman Tsarukyan vs. Mauricio Ruffy prediction, pick, time for UFC 331",
+      "description": "Lightweight title stakes are on the line in the co-feature between Arman Tsarukyan and Mauricio Ruffy. Is there a clear edge here?",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/19/arman-tsarukyan-vs-mauricio-ruffy-ufc-331-prediction-expert-pick/91833080007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/arman-tsarukyan-vs-mauricio-ruffy-prediction-pick-time-for-ufc-331-1789918088228.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-09-19T15:01:30Z",
+      "author": "Dan Tom, MMA Junkie"
+    },
+    {
+      "title": "UFC 331 Start Time, Full Fight Card Details!",
+      "description": "Ultimate Fighting Championship (UFC) is back in Los Angeles, Calif., as UFC 331 goes down from inside Crypto.com Arena, featuring a men’s Flyweight title fight rematch between division champion, Joshua Van, against former 125-pound kingpin, Alexandre Pantoja.…",
+      "url": "https://www.mmamania.com/ufc-331-fight-card-start-time-date-location-van-vs-pantoja-2/472832/ufc-331-start-time-full-fight-card-details-van-vs-pantoja-2",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-331-start-time-full-fight-card-details-1789918088229.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-09-19T14:19:00Z",
+      "author": "Adam Guillen"
+    },
+    {
+      "title": "UFC 331 fight card predictions: Expert picks, odds for Joshua Van vs. Alexandre Pantoja in Los Angeles",
+      "description": "Check out who the experts at CBS Sports are taking in the flyweight title fight on Saturday",
+      "url": "https://www.cbssports.com/ufc/news/ufc-331-fight-card-predictions-joshua-van-alexandre-pantoja-odds-expert-picks/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-331-fight-card-predictions-expert-picks-odds-for-joshua-van-vs-alexandre-pantoja-in-los-angeles-1789918088229.jpeg",
+      "source": "CBS Sports",
+      "publishedAt": "2026-09-19T13:00:45Z",
+      "author": "Brent Brookhouse"
+    },
+    {
+      "title": "Nikita Hand credits mother with saving her life",
+      "description": "Nikita Hand, who won a civil case against former MMA fighter Conor McGregor, has credited her mother with saving her life.",
+      "url": "https://www.rte.ie/news/ireland/2026/0919/1592182-nikita-hand/",
+      "image": "/fightonomics/agents/mma-news-updater/images/nikita-hand-credits-mother-with-saving-her-life-1789918088230.jpeg",
+      "source": "RTE",
+      "publishedAt": "2026-09-19T12:45:55Z",
+      "author": "RTÉ News"
+    },
+    {
+      "title": "'My guilt is gone': Nikita Hand gives first interview since Conor McGregor case",
+      "description": "Nikita Hand told Brendan O’Connor that she still experiences intense panic attacks as a result of the sexual assault.",
+      "url": "https://www.thejournal.ie/nikita-hand-interview-7167270-Sep2026/",
+      "image": "/fightonomics/agents/mma-news-updater/images/my-guilt-is-gone-nikita-hand-gives-first-interview-since-conor-mcgregor-case-1789918088230.jpeg",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-09-19T11:47:33Z",
+      "author": "Eimer McAuley"
+    },
+    {
+      "title": "Asiad 2026: India's shooting contingent hit by accommodation, travel woes",
+      "description": "The shooting contingent arrived in Nagoya on September 16 after travelling from India, but the accommodation it found on the ground did not match the booking information provided to the IOA",
+      "url": "https://www.business-standard.com/sports/asian-games/asiad-2026-india-s-shooting-contingent-hit-by-accommodation-travel-woes-126091900294_1.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/asiad-2026-india-s-shooting-contingent-hit-by-accommodation-travel-woes-1789918088231.jpeg",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-19T06:40:21Z",
+      "author": "Aditya Kaushik"
+    },
+    {
       "title": "RAF 13 live blog: Colby Covington vs. Belal Muhammad",
       "description": "Colby Covington and Belal Muhammad wrestle at RAF 13 on Saturday in Miami",
       "url": "https://www.mmafighting.com/raf-wrestling/510943/raf-13-live-blog-colby-covington-vs-belal-muhammad",
-      "image": "/fightonomics/agents/mma-news-updater/images/raf-13-live-blog-colby-covington-vs-belal-muhammad-1789877002193.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/raf-13-live-blog-colby-covington-vs-belal-muhammad-1789918088231.jpeg",
       "source": "MMA Fighting",
       "publishedAt": "2026-09-19T03:09:30Z",
       "author": "Jed Meshew"
@@ -18,7 +81,7 @@
       "title": "Video: UFC 331 ceremonial weigh-ins, final faceoffs live stream",
       "description": "The entire UFC 331 lineup headlined by Joshua Van vs. Alexandre Pantoja 2 will confront each other at final faceoffs Friday night.",
       "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/18/video-ufc-331-ceremonial-weigh-ins-final-faceoffs-live-stream/91806215007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/video-ufc-331-ceremonial-weigh-ins-final-faceoffs-live-stream-1789877002193.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/video-ufc-331-ceremonial-weigh-ins-final-faceoffs-live-stream-1789918088232.jpeg",
       "source": "USA Today",
       "publishedAt": "2026-09-18T23:05:20Z",
       "author": "Mike Bohn, MMA Junkie"
@@ -31,69 +94,6 @@
       "source": "USA Today",
       "publishedAt": "2026-09-18T22:30:33Z",
       "author": "Farah Hannoun, MMA Junkie"
-    },
-    {
-      "title": "Fighting Nerds coach calls Mauricio Ruffy the ‘Ronaldinho’ of MMA",
-      "description": "Fresh off a trip to Arizona, where he watched his fighter Jean Silva earn his seventh Ultimate Fighting Championship victory, Flavio Alvaro spoke with Sherdog on Tuesday about Saturday’s UFC co-main event between former Fighting Nerds standout Mauricio Ruffy …",
-      "url": "https://www.sherdog.com/news/news/Fighting-Nerds-coach-calls-Mauricio-Ruffy-the-Ronaldinho-of-MMA-202855",
-      "image": "/fightonomics/agents/mma-news-updater/images/fighting-nerds-coach-calls-mauricio-ruffy-the-ronaldinho-of-mma-1789877002195.jpeg",
-      "source": "Sherdog.com",
-      "publishedAt": "2026-09-18T19:05:08Z",
-      "author": "malonso@sherdog.com (Marcelo Alonso)"
-    },
-    {
-      "title": "Video: UFC 331 full card weigh-in highlights with every fighter on scale",
-      "description": "A total of 24 fighters hit the scales at UFC 331 official weigh-ins on Friday morning in \"The City of Angeles.\"",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/18/video-ufc-331-weigh-in-highlights-with-every-fighter-scale/91826200007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/video-ufc-331-full-card-weigh-in-highlights-with-every-fighter-on-scale-1789877002195.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-09-18T18:13:42Z",
-      "author": "Mike Bohn and Jeronimo Guerra, MMA Junkie"
-    },
-    {
-      "title": "UFC 331 full card predictions: Is Joshua Van legit, or will Alexandre Pantoja get his belt back?",
-      "description": "UFC 331 will set the record straight on who is better: Joshua Van or Alexandre Pantoja.",
-      "url": "https://sports.yahoo.com/mma/article/ufc-331-full-card-predictions-is-joshua-van-legit-or-will-alexandre-pantoja-get-his-belt-back-173500926.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-331-full-card-predictions-is-joshua-van-legit-or-will-alexandre-pantoja-get-his-belt-back-1789877002196.jpeg",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-09-18T17:35:00Z",
-      "author": "Drake Riggs"
-    },
-    {
-      "title": "UFC 331: Can Joshua Van show first Alexandre Pantoja title fight no fluke?",
-      "description": "An Alexandre Pantoja injury early in his fight with Joshua Van cost him the flyweight title. Can he regain it in their rematch at UFC 331?",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/18/ufc-331-expert-prediction-pick-joshua-van-vs-alexandre-pantoja-2-rematch-flyweight-title-mma-betting/91824786007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-331-can-joshua-van-show-first-alexandre-pantoja-title-fight-no-fluke-1789877002196.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-09-18T16:10:16Z",
-      "author": "Dan Tom, MMA Junkie"
-    },
-    {
-      "title": "Gable Steveson willing to forego more gold at 2028 Olympics to fulfill 'destiny' as UFC champion",
-      "description": "Steveson, already an Olympic gold medalist, is taking a patient approach to his UFC rise",
-      "url": "https://www.cbssports.com/ufc/news/gable-steveson-2028-olympics-ufc-champion/",
-      "image": "/fightonomics/agents/mma-news-updater/images/gable-steveson-willing-to-forego-more-gold-at-2028-olympics-to-fulfill-destiny-as-ufc-champion-1789877002196.jpeg",
-      "source": "CBS Sports",
-      "publishedAt": "2026-09-18T15:08:50Z",
-      "author": "Shakiel Mahjouri"
-    },
-    {
-      "title": "Mania Mailbag: How F**ked Up Is The Tom Aspinall Situation?",
-      "description": "You asked. We answered. Check out the answers to this week’s mailbag here!",
-      "url": "https://www.mmamania.com/mma-mailbag-questions-answers-ufc/472806/mania-mailbag-how-fked-up-is-the-tom-aspinall-situation",
-      "image": "/fightonomics/agents/mma-news-updater/images/mania-mailbag-how-f-ked-up-is-the-tom-aspinall-situation-1789877002197.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-09-18T15:05:00Z",
-      "author": "Tim Edwards"
-    },
-    {
-      "title": "UFC 331 official weigh-in results, live video stream",
-      "description": "UFC 331 official weigh-ins take place Friday, and every fighter is expected to step on the scale and meet their contracted weight.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/18/ufc-331-van-pantoja-2-official-weigh-in-results-live-video-stream/91806069007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-331-official-weigh-in-results-live-video-stream-1789877002197.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-09-18T15:00:28Z",
-      "author": "Mike Bohn, MMA Junkie"
     }
   ]
 }
