@@ -1,15 +1,87 @@
 {
-  "lastUpdated": "2026-09-28T04:24:44.762Z",
+  "lastUpdated": "2026-09-28T19:15:24.163Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
+      "title": "Video: Amateur fighter knocked out face-first into cage wall at FAC 36 in under 10 seconds",
+      "description": "Absolutely brutal knockout on the regional scene",
+      "url": "https://www.mmafighting.com/videos/512656/video-amateur-fighter-knocked-out-face-first-into-cage-wall-at-fac-36-in-under-10-seconds",
+      "image": "/fightonomics/agents/mma-news-updater/images/video-amateur-fighter-knocked-out-face-first-into-cage-wall-at-fac-36-in-under-10-seconds-1790622922665.jpeg",
+      "source": "MMA Fighting",
+      "publishedAt": "2026-09-27T19:00:00Z",
+      "author": "MMA Fighting Staff"
+    },
+    {
+      "title": "Aaron Pico embracing UFC 333 changes as he eyes championship opportunity",
+      "description": "Aaron Pico is all about being ready for whatever challenge comes his way as he forges title path.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/27/aaron-pico-embracing-ufc-333-changes-as-he-eyes-championship-opportunity/91970242007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/aaron-pico-embracing-ufc-333-changes-as-he-eyes-championship-opportunity-1790622922665.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-09-27T17:00:55Z",
+      "author": "Matthew Wells, Brian Garcia and George Garcia, MMA Junkie"
+    },
+    {
+      "title": "UFC: Raoni Barcelos coach gives medical update after KO loss to Raul Rosas Jr.",
+      "description": "There's a good chance Raoni Barcelos won't remember much about his Fight of the Night battle against Raul Rosas Jr.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/27/ufc-raoni-barcelos-coach-medical-update-knockout-loss-vs-raul-rosas-jr-hospital-unconscious-mma/91971460007/",
+      "image": null,
+      "source": "USA Today",
+      "publishedAt": "2026-09-27T14:31:08Z",
+      "author": "MMA Junkie"
+    },
+    {
+      "title": "UFC provides medical update on Raoni Barcelos following scary knockout - MMA Junkie",
+      "description": "UFC provides medical update on Raoni Barcelos following scary knockoutMMA Junkie UFC fighter Barcelos 'stable, alert' after TKO loss in main eventESPN Main Card Results | UFC Fight Night: Rosas Jr. vs BarcelosUFC.com Raoni Barcelos Hospitalized After Leaving …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185878432",
+      "image": null,
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-27T13:52:59Z",
+      "author": "feedfeeder"
+    },
+    {
+      "title": "UFC Fight Night 289 Promotional Guidelines Compliance pay is second-lowest of 2026",
+      "description": "The UFC Promotional Guidelines Compliance program has now paid out more than $46 million to athletes since its deal began with Venum.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/27/ufc-vegas-121-venum-pay-promotional-guidelines-compliance-second-lowest-2026/91957903007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-fight-night-289-promotional-guidelines-compliance-pay-is-second-lowest-of-2026-1790622922667.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-09-27T12:02:34Z",
+      "author": "Mike Bohn, MMA Junkie"
+    },
+    {
+      "title": "The Asian Games should be called the 'China Games' as its domination continues",
+      "description": "They're called the Asian Games. Midway through the two-week event, China has won 107 gold medals with Japan on 31 in second place. The overall medal total is closer, but China still leads Japan 176 to 129 through Saturday's results.",
+      "url": "https://sports.yahoo.com/articles/asian-games-called-china-games-061928683.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/the-asian-games-should-be-called-the-china-games-as-its-domination-continues-1790622922667.jpeg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-27T06:19:28Z",
+      "author": "STEPHEN WADE"
+    },
+    {
+      "title": "UFC Vegas 121 Bonuses Revealed After Upset-Filled Card",
+      "description": "Following an upset-filled card, the post-fight bonuses for UFC Vegas 121 were revealed following the event. There were 12 UFC fights on the card, with eight finishes. Check out the bonus winners below. Fight of the Night ($100,000 to each fighter): Raul Rosas…",
+      "url": "https://heavy.com/sports/ufc/ufc-vegas-121-bonuses-revealed-upsets/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-vegas-121-bonuses-revealed-after-upset-filled-card-1790622922668.jpeg",
+      "source": "Heavy.com",
+      "publishedAt": "2026-09-27T06:14:04Z",
+      "author": "Adam Martin"
+    },
+    {
+      "title": "5 Things To Know About Mia Trevorrow Ahead Of The Inner Circle 33",
+      "description": "From a furry friend to a late career pivot, here are some fun facts about the Brit ahead of her clash on October 2.",
+      "url": "https://www.onefc.com/features/5-things-to-know-about-mia-trevorrow-ahead-of-the-inner-circle-33/",
+      "image": "/fightonomics/agents/mma-news-updater/images/5-things-to-know-about-mia-trevorrow-ahead-of-the-inner-circle-33-1790622922668.jpeg",
+      "source": "Onefc.com",
+      "publishedAt": "2026-09-27T05:39:11Z",
+      "author": "Chris Mohan"
+    },
+    {
       "title": "Team Gives Latest Health Update on UFC Fighter Raoni Barcelos",
       "description": "The team of UFC fighter Raoni Barcelos gave the latest health update on their fighter following a frightening scene at UFC Vegas 121.",
       "url": "https://heavy.com/sports/ufc/latest-health-update-ufc-raoni-barcelos/",
-      "image": "/fightonomics/agents/mma-news-updater/images/team-gives-latest-health-update-on-ufc-fighter-raoni-barcelos-1790569482995.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/team-gives-latest-health-update-on-ufc-fighter-raoni-barcelos-1790622922669.jpeg",
       "source": "Heavy.com",
       "publishedAt": "2026-09-27T04:07:50Z",
       "author": "Adam Martin"
@@ -22,78 +94,6 @@
       "source": "USA Today",
       "publishedAt": "2026-09-27T03:23:10Z",
       "author": "Matt Erickson, MMA Junkie"
-    },
-    {
-      "title": "Ailin Perez outworks Norma Dumont in limp UFC Fight Night 289 co-main event",
-      "description": "Frankly, the co-main event fizzled out at the end and proved to be mostly about the ... uhhh ... foreplay. Sorry. Had to.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/26/ufc-ailin-perez-decision-norma-dumont-women-flyweight-contender-eliminator-condoms-bad-blood/91959638007/",
-      "image": null,
-      "source": "USA Today",
-      "publishedAt": "2026-09-27T02:05:32Z",
-      "author": "Matt Erickson, MMA Junkie"
-    },
-    {
-      "title": "Florida Police Officer Chokes Out Fighter With Criminal Charges In His UFC Debut",
-      "description": "Miami-Dade Sheriff’s deputy Luis Hernandez got his first UFC win in epic fashion. Last week, Hernandez, an active Sheriff’s deputy in Miami who trains MMA in his time off, earned a UFC contract after a win at Dana White’s Contender Series. Earlier this week, …",
-      "url": "https://brobible.com/sports/article/florida-police-officer-chokes-out-fighter-with-criminal-charges-in-his-ufc-debut/",
-      "image": "/fightonomics/agents/mma-news-updater/images/florida-police-officer-chokes-out-fighter-with-criminal-charges-in-his-ufc-debut-1790569482996.jpeg",
-      "source": "BroBible",
-      "publishedAt": "2026-09-27T01:30:20Z",
-      "author": "Jorge Alonso"
-    },
-    {
-      "title": "UFC Vegas 121 video: Luis Hernandez taps Sedriques Dumas in under a minute with nasty choke",
-      "description": "“The Stache” gets it done quick",
-      "url": "https://www.mmafighting.com/ufc/512814/ufc-vegas-121-video-luis-hernandez-taps-sedriques-dumas-in-under-a-minute-with-nasty-choke",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-vegas-121-video-luis-hernandez-taps-sedriques-dumas-in-under-a-minute-with-nasty-choke-1790569482997.jpeg",
-      "source": "MMA Fighting",
-      "publishedAt": "2026-09-27T01:25:13Z",
-      "author": "Mike Heck"
-    },
-    {
-      "title": "Ilimbek Akylbek Uulu wins 'TUF 34' thanks to Mehemmedeli Osmanli illegal knee",
-      "description": "In a \"not the way he wanted to win it\" situation, Ilimbek Akylbek Uulu won \"The Ultimate Fighter\" because of a very dumb Mehemmedeli Osmanli mistake.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/26/ufc-ilimbek-akylbek-uulu-wins-ultimate-fighter-34-disqualification-mehemmedeli-osmanli-dq-knee/91959616007/",
-      "image": null,
-      "source": "USA Today",
-      "publishedAt": "2026-09-27T01:06:32Z",
-      "author": "Matt Erickson, MMA Junkie"
-    },
-    {
-      "title": "'Tina Black' turns out Melissa Amaya's lights to win 'TUF 34' crown",
-      "description": "\"Tina Black\" became a new name to watch in the UFC's women's strawweight division with a brutal finish to win \"The Ultimate Fighter.\"",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/26/ufc-ultimate-fighter-34-tina-black-knockout-melissa-amaya-women-strawweight-title-highlights-video/91959602007/",
-      "image": null,
-      "source": "USA Today",
-      "publishedAt": "2026-09-27T00:38:34Z",
-      "author": "Matt Erickson, MMA Junkie"
-    },
-    {
-      "title": "Tony Ferguson defends Misfits Boxing middleweight title with second-round knockout of Mahmood Sebie",
-      "description": "Tony Ferguson defended his Misfits Boxing title",
-      "url": "https://www.mmafighting.com/boxing/512769/tony-ferguson-defends-misfits-boxing-middleweight-title-with-second-round-knockout-of-mahmood-sebie",
-      "image": "/fightonomics/agents/mma-news-updater/images/tony-ferguson-defends-misfits-boxing-middleweight-title-with-second-round-knockout-of-mahmood-sebie-1790569482998.jpeg",
-      "source": "MMA Fighting",
-      "publishedAt": "2026-09-27T00:34:50Z",
-      "author": "Jed Meshew"
-    },
-    {
-      "title": "Godzilla Minus Zero Review",
-      "description": "Review: Godzilla Minus Zero doesn’t disappoint in the slightest on the kaiju front, but does lack the same level of emotional resonance that its predecessor held.",
-      "url": "https://www.ign.com/articles/godzilla-minus-zero-review",
-      "image": "/fightonomics/agents/mma-news-updater/images/godzilla-minus-zero-review-1790569482999.jpeg",
-      "source": "IGN",
-      "publishedAt": "2026-09-27T00:30:00Z",
-      "author": "Scott Collura"
-    },
-    {
-      "title": "Raul Rosas Jr. scores bizarre finish in UFC Vegas 121 main event",
-      "description": "Raul Rosas Jr. scored a dramatic fifth-round knockout of Raoni Barcelos in his first UFC main event, extending his winning streak to six at UFC Vegas 121.",
-      "url": "https://www.sherdog.com/news/news/Raul-Rosas-Jr-scores-bizarre-finish-in-UFC-Vegas-121-main-event-202962",
-      "image": "/fightonomics/agents/mma-news-updater/images/raul-rosas-jr-scores-bizarre-finish-in-ufc-vegas-121-main-event-1790569483000.jpeg",
-      "source": "Sherdog.com",
-      "publishedAt": "2026-09-26T23:57:08Z",
-      "author": "tlenote@sherdog.com (Tudor Leonte)"
     }
   ]
 }
