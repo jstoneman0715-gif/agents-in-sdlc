@@ -1,10 +1,37 @@
 {
-  "lastUpdated": "2026-10-01T04:53:08.330Z",
+  "lastUpdated": "2026-10-01T18:02:27.100Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
+    {
+      "title": "UFC 332 media day video, LIVE stream interviews | Silva vs. Wang",
+      "description": "Ultimate Fighting Championship (UFC) is inching closer to its upcoming UFC 332 fight card, featuring the vacant championship showdown between top 115-pound contenders Natalia Silva and Wang Cong. The action gets underway this Sat. night (Oct. 3, 2026) on Para…",
+      "url": "https://www.mmamania.com/ufc-332-fight-card-start-time-live-stream-silva-vs-cong/476038/ufc-332-media-day-video-live-stream-interviews-silva-vs-wang-mma",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-332-media-day-video-live-stream-interviews-silva-vs-wang-1790877744338.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-09-30T17:53:03Z",
+      "author": "Jesse Holland"
+    },
+    {
+      "title": "UFC 332 'Embedded,' No. 3: Rafael dos Anjos teaches the next generation",
+      "description": "On the third episode of UFC 332 \"Embedded,\" Rafael dos Anjos opens the doors to his gym in Texas where he teaches kids BJJ.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/30/ufc-332-embedded-no-3-rafael-dos-anjos-teaches-next-generation/92023384007/",
+      "image": null,
+      "source": "USA Today",
+      "publishedAt": "2026-09-30T17:01:23Z",
+      "author": "MMA Junkie"
+    },
+    {
+      "title": "UFC 334 gets new middleweight matchup after Baisangur Susurkaev withdraws",
+      "description": "UFC 334 has a new middleweight matchup after Baisangur Susurkaev withdrew from his bout against fellow undefeated prospect Donte Johnson.",
+      "url": "https://www.sherdog.com/news/news/UFC-334-gets-new-middleweight-matchup-after-Baisangur-Susurkaev-withdraws-203024",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-334-gets-new-middleweight-matchup-after-baisangur-susurkaev-withdraws-1790877744339.jpeg",
+      "source": "Sherdog.com",
+      "publishedAt": "2026-09-30T06:03:32Z",
+      "author": "SouravChakraborty@sherdog.com (Sourav Chakraborty)"
+    },
     {
       "title": "Jiri Prochazka vs. unbeaten Navajo Stirling headlines UFC Qatar",
       "description": "Jiri Prochazka returns to action against Navajo Stirling in the main event of the Ultimate Fighting Championship’s upcoming trip to Qatar.",
@@ -18,7 +45,7 @@
       "title": "Wang Cong ‘not surprised’ she got a title shot at UFC 332 over other flyweight contenders",
       "description": "Wang Cong faces Natalia Silva in the UFC 332 main event on Saturday",
       "url": "https://www.mmafighting.com/ufc/513241/wang-cong-not-surprised-she-got-a-title-shot-at-ufc-332-over-other-flyweight-contenders",
-      "image": "/fightonomics/agents/mma-news-updater/images/wang-cong-not-surprised-she-got-a-title-shot-at-ufc-332-over-other-flyweight-contenders-1790830385691.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/wang-cong-not-surprised-she-got-a-title-shot-at-ufc-332-over-other-flyweight-contenders-1790877744340.jpeg",
       "source": "MMA Fighting",
       "publishedAt": "2026-09-29T20:00:00Z",
       "author": "Damon Martin"
@@ -36,7 +63,7 @@
       "title": "Latest UFC Vegas 124 Fight Card, Paramount+ Lineup",
       "description": "Event: UFC Vegas 124: “Bonfim vs. Brady”Date: Sat., Nov. 7, 2026Location: Meta APEX in Las Vegas, NevadaBroadcast: Paramount+Start Time: 5 p.m. ET Prelims Card | 8 p.m. ET Main Card UFC Vegas 124 Main Event On Paramount+: 170 lbs.: Gabriel Bonfim vs. Sean Bra…",
       "url": "https://www.mmamania.com/ufc-fight-cards/475853/latest-ufc-vegas-124-fight-card-start-time-date-location-bonfim-vs-brady",
-      "image": "/fightonomics/agents/mma-news-updater/images/latest-ufc-vegas-124-fight-card-paramount-lineup-1790830385692.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/latest-ufc-vegas-124-fight-card-paramount-lineup-1790877744341.jpeg",
       "source": "MMA Mania",
       "publishedAt": "2026-09-29T18:17:59Z",
       "author": "Jesse Holland"
@@ -45,7 +72,7 @@
       "title": "Khamzat Chimaev Takes on Colby Covington in RAF",
       "description": "Former UFC middleweight champion Khamzat Chimaev will wrestle against long-time rival Colby Covington in an upcoming RAF event.Chimaev and Covington have been going after each other for years while both of them were in the UFC, but they were never locked insi…",
       "url": "https://heavy.com/sports/ufc/khamzat-chimaev-colby-covington-in-raf/",
-      "image": "/fightonomics/agents/mma-news-updater/images/khamzat-chimaev-takes-on-colby-covington-in-raf-1790830385692.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/khamzat-chimaev-takes-on-colby-covington-in-raf-1790877744342.jpeg",
       "source": "Heavy.com",
       "publishedAt": "2026-09-29T15:17:29Z",
       "author": "Adam Martin"
@@ -54,7 +81,7 @@
       "title": "Jiri Prochazka vs. Navajo Stirling, 8 other fights official for UFC Qatar",
       "description": "Ex-champ Aljamain Sterling takes on rising prospect Kevin Vallejos",
       "url": "https://www.mmafighting.com/ufc/513140/jiri-prochazka-vs-navajo-stirling-8-other-fights-official-for-ufc-qatar",
-      "image": "/fightonomics/agents/mma-news-updater/images/jiri-prochazka-vs-navajo-stirling-8-other-fights-official-for-ufc-qatar-1790830385692.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/jiri-prochazka-vs-navajo-stirling-8-other-fights-official-for-ufc-qatar-1790877744342.jpeg",
       "source": "MMA Fighting",
       "publishedAt": "2026-09-29T13:34:25Z",
       "author": "Guilherme Cruz"
@@ -63,37 +90,10 @@
       "title": "Raul Rosas Jr. crashes Top 10 in UFC Vegas 121 rankings update, Ailin Perez climbs to No. 2",
       "description": "The UFC Meta Rankings have been updated following the UFC Vegas 121 MMA event last weekend in Las Vegas and it’s more bad news for Raoni Barcelos. Not only did the bantamweight veteran get hospitalized after a scary knockout loss to Raul Rosas Jr., the Brazil…",
       "url": "https://www.mmamania.com/ufc-mma-rankings/475793/raul-rosas-jr-crashes-top-10-ufc-vegas-121-rankings-update-ailin-perez-climbs-no-2",
-      "image": "/fightonomics/agents/mma-news-updater/images/raul-rosas-jr-crashes-top-10-in-ufc-vegas-121-rankings-update-ailin-perez-climbs-to-no-2-1790830385693.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/raul-rosas-jr-crashes-top-10-in-ufc-vegas-121-rankings-update-ailin-perez-climbs-to-no-2-1790877744343.jpeg",
       "source": "MMA Mania",
       "publishedAt": "2026-09-29T13:05:54Z",
       "author": "Jesse Holland"
-    },
-    {
-      "title": "Khamzat Chimaev vs. Colby Covington is official for RAF Abu Dhabi",
-      "description": "Khamzat Chimaev and Colby Covington will clash in the main event of Real American Freestyle (RAF) Abu Dhabi on Saturday, November 14th. The fight, which was just announced on RAF’s official social media accounts, will be for the RAF Cruiserweight Crossover Ch…",
-      "url": "https://www.mmamania.com/raf-wrestling-schedule-cards-live-results/475783/khamzat-chimaev-vs-colby-covington-is-official-for-raf-abu-dhabi",
-      "image": "/fightonomics/agents/mma-news-updater/images/khamzat-chimaev-vs-colby-covington-is-official-for-raf-abu-dhabi-1790830385693.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-09-29T11:11:21Z",
-      "author": "Ryan Harkness"
-    },
-    {
-      "title": "Sean Strickland All but Confirms Nassourdine Imavov as His Next UFC Title Challenger",
-      "description": "It seems Sean Strickland’s first title defense is all but set. For the unversed, the American became a two-time middleweight champion at UFC 328 in May. “Tarzan” shocked the world by ending Khamzat Chimaev’s undefeated run and replicated his earlier heroics w…",
-      "url": "https://sports.yahoo.com/articles/sean-strickland-confirms-nassourdine-imavov-032940522.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/sean-strickland-all-but-confirms-nassourdine-imavov-as-his-next-ufc-title-challenger-1790830385693.jpeg",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-09-29T03:29:40Z",
-      "author": "Kshitiz Kumar Singh"
-    },
-    {
-      "title": "Sean Strickland confirms next opponent, now it’s just a matter of when",
-      "description": "Sean Strickland has his upcoming opponent determined but is still finalizing the fight arrangements.",
-      "url": "https://www.thebiglead.com/sean-strickland-confirms-next-opponent-now-its-just-a-matter-of-when/",
-      "image": "/fightonomics/agents/mma-news-updater/images/sean-strickland-confirms-next-opponent-now-it-s-just-a-matter-of-when-1790830385694.jpeg",
-      "source": "The Big Lead",
-      "publishedAt": "2026-09-28T21:12:10Z",
-      "author": "Preston Palm"
     }
   ]
 }

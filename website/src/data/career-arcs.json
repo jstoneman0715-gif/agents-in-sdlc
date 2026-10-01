@@ -1,15 +1,60 @@
 {
-  "lastUpdated": "2026-10-01T04:53:08.330Z",
+  "lastUpdated": "2026-10-01T18:02:27.100Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
+      "title": "Gable Steveson needs to stop trying to be Jon Jones, claims MMA coach",
+      "description": "Gable Steveson needs to discard his attempt at replicating Jon Jones and be his own fighter, says an MMA coach.",
+      "url": "https://sports.yahoo.com/articles/gable-steveson-needs-stop-trying-153000940.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/gable-steveson-needs-to-stop-trying-to-be-jon-jones-claims-mma-coach-1790877744334.jpeg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-30T15:30:00Z",
+      "author": "Joshua Ryan"
+    },
+    {
+      "title": "10 Movies To Watch If You Love The 1988 Movie Bloodsport",
+      "description": "Bloodsport is one of Van Damme's most beloved movies. It's a classic in the martial arts genre, and here are some other films fans will enjoy.",
+      "url": "https://screenrant.com/bloodsport-movies-to-watch-if-love/",
+      "image": "/fightonomics/agents/mma-news-updater/images/10-movies-to-watch-if-you-love-the-1988-movie-bloodsport-1790877744334.jpeg",
+      "source": "Screen Rant",
+      "publishedAt": "2026-09-30T15:15:16Z",
+      "author": "Anthony Yates"
+    },
+    {
+      "title": "Morning Report: Daniel Cormier sees ‘no easy option’ for Justin Gaethje’s next move",
+      "description": "What should Justin Gaethje do?",
+      "url": "https://www.mmafighting.com/ufc/513150/morning-report-daniel-cormier-sees-no-easy-option-for-justin-gaethjes-next-move",
+      "image": "/fightonomics/agents/mma-news-updater/images/morning-report-daniel-cormier-sees-no-easy-option-for-justin-gaethje-s-next-move-1790877744335.jpeg",
+      "source": "MMA Fighting",
+      "publishedAt": "2026-09-30T12:00:00Z",
+      "author": "Alexander K. Lee"
+    },
+    {
+      "title": "Dana White Reacts to Raoni Barcelos Fight at UFC Vegas 121",
+      "description": "UFC president Dana White shared his reaction to what happened to veteran bantamweight fighter Raoni Barcelos at UFC Vegas 121.In the fifth round of his war with Raul Rosas Jr. in the main event of UFC Vegas 121, Barcelos suffered a medical emergency and lost …",
+      "url": "https://heavy.com/sports/ufc/dana-white-reacts-raoni-barcelos-fight/",
+      "image": "/fightonomics/agents/mma-news-updater/images/dana-white-reacts-to-raoni-barcelos-fight-at-ufc-vegas-121-1790877744335.jpeg",
+      "source": "Heavy.com",
+      "publishedAt": "2026-09-30T05:59:39Z",
+      "author": "Adam Martin"
+    },
+    {
+      "title": "Sherdog Prospect Watch: Unbeaten Hazem Kayyali",
+      "description": "Unbeaten Jordanian prospect Hazem Kayyali brings an unorthodox blend of striking and grappling into his PFL MENA 11 welterweight semifinal against the more experienced Badreddine Diani.",
+      "url": "https://www.sherdog.com/news/articles/Sherdog-Prospect-Watch-Unbeaten-Hazem-Kayyali-203021",
+      "image": "/fightonomics/agents/mma-news-updater/images/sherdog-prospect-watch-unbeaten-hazem-kayyali-1790877744335.jpeg",
+      "source": "Sherdog.com",
+      "publishedAt": "2026-09-30T05:07:49Z",
+      "author": "tlenote@sherdog.com (Tudor Leonte)"
+    },
+    {
       "title": "Marvin Vettori makes major change following 4 straight UFC losses",
       "description": "Marvin Vettori has changed things up in an attempt to snap his losing streak.",
       "url": "https://www.sherdog.com/news/news/Marvin-Vettori-makes-major-change-following-4-straight-UFC-losses-203020",
-      "image": "/fightonomics/agents/mma-news-updater/images/marvin-vettori-makes-major-change-following-4-straight-ufc-losses-1790830385686.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/marvin-vettori-makes-major-change-following-4-straight-ufc-losses-1790877744336.jpeg",
       "source": "Sherdog.com",
       "publishedAt": "2026-09-30T04:34:14Z",
       "author": "sayannag88@gmail.com (Sayan Nag)"
@@ -18,7 +63,7 @@
       "title": "‘The Possibilities Are Endless’ – Antonio Cesar, Joshua Perreira Break Down Flyweight MMA Clash At ONE Fight Night 48",
       "description": "The next ONE Flyweight MMA World Title challenger could emerge on Friday. Here's what they said before the match!",
       "url": "https://www.onefc.com/news/the-possibilities-are-endless-antonio-cesar-joshua-perreira-break-down-flyweight-mma-clash-at-one-fight-night-48/",
-      "image": "/fightonomics/agents/mma-news-updater/images/the-possibilities-are-endless-antonio-cesar-joshua-perreira-break-down-flyweight-mma-clash-at-one-fight-night-48-1790830385687.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/the-possibilities-are-endless-antonio-cesar-joshua-perreira-break-down-flyweight-mma-clash-at-one-fight-night-48-1790877744336.jpeg",
       "source": "Onefc.com",
       "publishedAt": "2026-09-30T04:08:46Z",
       "author": "Fachrul Sidiq"
@@ -36,7 +81,7 @@
       "title": "UFC fighter says he’s ‘disappointing’ fellow US Marines",
       "description": "Eric Nolan wants his first Ultimate Fighting Championship win for his fellow United States Marine Corps.",
       "url": "https://www.sherdog.com/news/news/UFC-fighter-says-hes-disappointing-fellow-US-Marines-203011",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-fighter-says-he-s-disappointing-fellow-us-marines-1790830385688.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-fighter-says-he-s-disappointing-fellow-us-marines-1790877744337.jpeg",
       "source": "Sherdog.com",
       "publishedAt": "2026-09-30T02:29:48Z",
       "author": "sayannag88@gmail.com (Sayan Nag)"
@@ -45,55 +90,10 @@
       "title": "Adama Diop becomes first Senegalese fighter in UFC history",
       "description": "Adama Diop is officially the first Senegalese fighter with a UFC contract.",
       "url": "https://sports.yahoo.com/articles/adama-diop-becomes-first-senegalese-015418307.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/adama-diop-becomes-first-senegalese-fighter-in-ufc-history-1790830385688.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/adama-diop-becomes-first-senegalese-fighter-in-ufc-history-1790877744338.jpeg",
       "source": "Yahoo Entertainment",
       "publishedAt": "2026-09-30T01:54:18Z",
       "author": "Joshua Ryan"
-    },
-    {
-      "title": "DWCS Season 10, Week 8 results: First slam knockout in Contender Series history",
-      "description": "Four fighters earned contracts on the latest episode of Contender Series",
-      "url": "https://www.mmafighting.com/ufc/513283/dwcs-season-10-week-8-results-first-slam-knockout-in-contender-series-history",
-      "image": "/fightonomics/agents/mma-news-updater/images/dwcs-season-10-week-8-results-first-slam-knockout-in-contender-series-history-1790830385688.jpeg",
-      "source": "MMA Fighting",
-      "publishedAt": "2026-09-30T00:49:45Z",
-      "author": "Jed Meshew"
-    },
-    {
-      "title": "DWCS video: Adama Diop TKOs Zaurbek Sabanov to put Senegal on UFC map",
-      "description": "A big boy battle at the Meta APEX was finished by a fighter who could be the first Senegalese fighter in UFC history.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/29/dwcs-ufc-adama-vs-diop-zaurbek-sabanov/92013768007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/dwcs-video-adama-diop-tkos-zaurbek-sabanov-to-put-senegal-on-ufc-map-1790830385689.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-09-30T00:34:58Z",
-      "author": "Nolan King, MMA Junkie"
-    },
-    {
-      "title": "UFC ‘Contender Series’ results, live coverage and full fight highlights | Season 10, Ep. 8",
-      "description": "It’s that time again! Contender Series is back with 10 straight weeks of mixed martial arts (MMA) action, streaming at 7 p.m. ET TONIGHT (Tues., Sept. 29, 2026) on Paramount+. In the main event, 6’4” Lightweight, Loai Abushaar (7-1), takes on Paddy Pimblett t…",
-      "url": "https://www.mmamania.com/ufc-contender-series-dana-white/475873/ufc-contender-series-results-live-coverage-and-full-fight-highlights-season-10-ep-8",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-contender-series-results-live-coverage-and-full-fight-highlights-season-10-ep-8-1790830385689.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-09-29T22:30:00Z",
-      "author": "Alexander Behunin"
-    },
-    {
-      "title": "CSAC's Andy Foster explains why he wants oblique kicks removed from MMA",
-      "description": "Andy Foster wants the strike popularized by Jon Jones out of MMA.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/29/csac-andy-foster-explains-oblique-kick-removal/92011387007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/csac-s-andy-foster-explains-why-he-wants-oblique-kicks-removed-from-mma-1790830385689.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-09-29T21:30:27Z",
-      "author": "Matthew Wells, MMA Junkie"
-    },
-    {
-      "title": "Dana White's Contender Series start time: Where to watch, live stream Week 8 and the full fight card",
-      "description": "Ten more fighters make the walk to the Octagon in pursuit of a UFC contract on Tuesday night",
-      "url": "https://www.cbssports.com/ufc/news/dana-white-contender-series-start-time-fight-card-where-to-watch-live-stream-week-8/",
-      "image": "/fightonomics/agents/mma-news-updater/images/dana-white-s-contender-series-start-time-where-to-watch-live-stream-week-8-and-the-full-fight-card-1790830385690.png",
-      "source": "CBS Sports",
-      "publishedAt": "2026-09-29T20:57:31Z",
-      "author": "Brent Brookhouse"
     }
   ]
 }
