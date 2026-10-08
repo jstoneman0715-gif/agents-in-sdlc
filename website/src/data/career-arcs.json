@@ -1,15 +1,87 @@
 {
-  "lastUpdated": "2026-10-07T18:26:36.294Z",
+  "lastUpdated": "2026-10-08T05:11:08.135Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
+      "title": "From UFC security guard to UFC fighter, Sal Everett earns his shot",
+      "description": "LAS VEGAS - From working as a security guard and runner for the UFC, to earning a contract on Dana White’s Contender Series, Las Vegas native Salhahuddin Everett had himself the night of his career at the newly renovated META Apex.",
+      "url": "https://www.thesportingtribune.com/2026/10/06/sal-everett-earns-his-shot-in-ufc",
+      "image": "/fightonomics/agents/mma-news-updater/images/from-ufc-security-guard-to-ufc-fighter-sal-everett-earns-his-shot-1791436266946.jpeg",
+      "source": "Thesportingtribune.com",
+      "publishedAt": "2026-10-07T04:13:39Z",
+      "author": "Jason Takhtadjian"
+    },
+    {
+      "title": "Dana White’s Personal Assistant Lands UFC Contract After Knocking Out Opponent On Contender’s Series",
+      "description": "Dana White’s personal assistant, Sal Everett, will take on a new role in the UFC. On Tuesday night, Everett, who is an MMA fighter with a 4-0 record, knocked out his opponent on the Contender’s Series. After his big win, White awarded Everett a UFC contract. …",
+      "url": "https://brobible.com/sports/article/dana-whites-personal-assistant-lands-ufc-contract-after-knocking-out-opponent-on-contenders-series/",
+      "image": "/fightonomics/agents/mma-news-updater/images/dana-white-s-personal-assistant-lands-ufc-contract-after-knocking-out-opponent-on-contender-s-series-1791436266947.jpeg",
+      "source": "BroBible",
+      "publishedAt": "2026-10-07T03:21:53Z",
+      "author": "Jorge Alonso"
+    },
+    {
+      "title": "‘I’ll Be A Tougher Opponent For Him’ – Hiroki Akimoto Expects To Push Jonathan Haggerty Into New Territory At ONE SAMURAI 4",
+      "description": "The former divisional king breaks down the range, angles, and pressure he expects to navigate in Tokyo on October 17.",
+      "url": "https://www.onefc.com/news/ill-be-a-tougher-opponent-for-him-hiroki-akimoto-expects-to-push-jonathan-haggerty-into-new-territory-at-one-samurai-4/",
+      "image": "/fightonomics/agents/mma-news-updater/images/i-ll-be-a-tougher-opponent-for-him-hiroki-akimoto-expects-to-push-jonathan-haggerty-into-new-territory-at-one-samurai-4-1791436266947.jpeg",
+      "source": "Onefc.com",
+      "publishedAt": "2026-10-07T02:08:28Z",
+      "author": "Fachrul Sidiq"
+    },
+    {
+      "title": "DWCS 95 video: UFC employee Sal Everett scores violent knockout",
+      "description": "Sal Everett came into DWCS 95 with the unique spot of being an employee for the company. Now he's about to be a rostered fighter.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/06/dwcs-95-video-ufc-employee-sal-everett-scores-violent-knockout-contract/92126761007/",
+      "image": null,
+      "source": "USA Today",
+      "publishedAt": "2026-10-07T00:43:09Z",
+      "author": "Mike Bohn, MMA Junkie"
+    },
+    {
+      "title": "From Dana White’s runner to UFC fighter? Sal Everett competes on Contender Series tonight",
+      "description": "Talk about climbing the corporate ladder. Ultimate Fighting Championship (UFC) employee Salhahuddin “Sal” Everett will attempt to trade his company badge for a UFC contract tonight (Tues., Oct. 6, 2026) when he battles fellow undefeated Welterweight prospect …",
+      "url": "https://www.mmamania.com/ufc-contender-series-dana-white/477176/from-dana-whites-runner-to-ufc-fighter-sal-everett-competes-on-contender-series-tonight",
+      "image": "/fightonomics/agents/mma-news-updater/images/from-dana-white-s-runner-to-ufc-fighter-sal-everett-competes-on-contender-series-tonight-1791436266948.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-10-06T23:00:00Z",
+      "author": "Alexander Behunin"
+    },
+    {
+      "title": "Shavkat Rakhmonov Teases UFC Return Against Michael Morales With “19-0” Hint",
+      "description": "Shavkat Rakhmonov has been out of competition since UFC 310 in December 2024 but his latest post hints at a possible return in 2027.",
+      "url": "https://sports.yahoo.com/articles/shavkat-rakhmonov-teases-ufc-return-220314341.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/shavkat-rakhmonov-teases-ufc-return-against-michael-morales-with-19-0-hint-1791436266949.jpeg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-10-06T22:03:14Z",
+      "author": "Kshitiz Kumar Singh"
+    },
+    {
+      "title": "Dana White's Contender Series 95 live updates, results",
+      "description": "Season 10, Week 9 of DWCS will see 10 more UFC hopefuls battle for a contract.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/06/dana-whites-contender-series-95-live-updates-results--live/92125328007/",
+      "image": null,
+      "source": "USA Today",
+      "publishedAt": "2026-10-06T22:00:52Z",
+      "author": "Nolan King, MMA Junkie"
+    },
+    {
+      "title": "‘I See A Path To Victory’ – Suriyanlek Aims To Spoil Rustam Yunusov’s Perfect Record At The Inner Circle 34",
+      "description": "Thai slugger vows to stop the Russian in emphatic fashion on October 9 at Bangkok's iconic Lumpinee Stadium.",
+      "url": "https://www.onefc.com/news/i-see-a-path-to-victory-suriyanlek-aims-to-spoil-rustam-yunusovs-perfect-record-at-the-inner-circle-34/",
+      "image": "/fightonomics/agents/mma-news-updater/images/i-see-a-path-to-victory-suriyanlek-aims-to-spoil-rustam-yunusov-s-perfect-record-at-the-inner-circle-34-1791436266950.jpeg",
+      "source": "Onefc.com",
+      "publishedAt": "2026-10-06T19:10:07Z",
+      "author": "Vijay Kumar"
+    },
+    {
       "title": "UFC power rankings following Fight Night 332 in Salt Lake City",
       "description": "Top UFC fighters after UFC 332.",
       "url": "https://www.thebiglead.com/ufc-power-rankings-following-fight-night-332-salt-lake-city-2026/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-power-rankings-following-fight-night-332-in-salt-lake-city-1791397593601.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-power-rankings-following-fight-night-332-in-salt-lake-city-1791436266950.jpeg",
       "source": "The Big Lead",
       "publishedAt": "2026-10-06T13:25:00Z",
       "author": "Robert Pasky"
@@ -18,82 +90,10 @@
       "title": "Zabit Magomedsharipov to make RAF debut against UFC vet in Abu Dhabi",
       "description": "Zabit Magomedsharipov has signed with Real American Freestyle and will return to action against UFC fighter Giga Chikadze at RAF Abu Dhabi on November 14th. The enigmatic Russian fighter disappeared from the UFC back in 2019 after going 6-0 with the promotion…",
       "url": "https://www.mmamania.com/raf-wrestling-schedule-cards-live-results/477107/zabit-magomedsharipov-to-make-raf-debut-against-ufc-vet-in-abu-dhabi",
-      "image": "/fightonomics/agents/mma-news-updater/images/zabit-magomedsharipov-to-make-raf-debut-against-ufc-vet-in-abu-dhabi-1791397593601.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/zabit-magomedsharipov-to-make-raf-debut-against-ufc-vet-in-abu-dhabi-1791436266951.jpeg",
       "source": "MMA Mania",
       "publishedAt": "2026-10-06T11:31:21Z",
       "author": "Ryan Harkness"
-    },
-    {
-      "title": "Sean O’Malley shares back-and-forth with champ Petr Yan: ‘You will be next’",
-      "description": "Sean O’Malley got a lot of heat over the past few days for allegedly ducking Payton Talbott, but it’s worth remembering “Suga” already has a UFC bantamweight title shot lined up if things fall into place as he hopes. That one missing puzzle piece? 135 pound c…",
-      "url": "https://www.mmamania.com/ufc-news/477103/sean-omalley-shares-back-and-forth-with-champ-petr-yan-you-will-be-next",
-      "image": "/fightonomics/agents/mma-news-updater/images/sean-o-malley-shares-back-and-forth-with-champ-petr-yan-you-will-be-next-1791397593602.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-10-06T11:05:06Z",
-      "author": "Ryan Harkness"
-    },
-    {
-      "title": "'Unfinished business' - Coker's bid to shake up MMA",
-      "description": "Scott Coker says he has \"something else to give\" after some \"unfinished business\" following the launch of his new mixed martial arts promotion, Ki MMA.",
-      "url": "https://www.bbc.com/sport/mixed-martial-arts/articles/cj750270z7p0o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "image": "/fightonomics/agents/mma-news-updater/images/unfinished-business-coker-s-bid-to-shake-up-mma-1791397593602.jpeg",
-      "source": "BBC News",
-      "publishedAt": "2026-10-06T06:54:16Z",
-      "author": "Paul Battison - BBC Sport Journalist"
-    },
-    {
-      "title": "'Unfinished business' - Coker's bid to shake up MMA",
-      "description": "Scott Coker says he has \"something else to give\" after some \"unfinished business\" following the launch of his new mixed martial arts promotion, Ki MMA.",
-      "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cj750270z7p0o",
-      "image": "/fightonomics/agents/mma-news-updater/images/unfinished-business-coker-s-bid-to-shake-up-mma-1791397593602.jpeg",
-      "source": "BBC News",
-      "publishedAt": "2026-10-06T06:54:12Z",
-      "author": "Paul Battison"
-    },
-    {
-      "title": "Sean O’Malley Reveals Private Voice Notes With Petr Yan, Admits He Will  “Duck” Payton Talbott if Yan Wins at UFC 333",
-      "description": "Sean O'Malley reveals his banter with reigning champion Petr Yan over a potential title fight while addressing accusations from Payton Talbott.",
-      "url": "https://sports.yahoo.com/articles/sean-o-malley-reveals-private-054550220.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/sean-o-malley-reveals-private-voice-notes-with-petr-yan-admits-he-will-duck-payton-talbott-if-yan-wins-at-ufc-333-1791397593602.jpeg",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-10-06T05:45:50Z",
-      "author": "Kshitiz Kumar Singh"
-    },
-    {
-      "title": "Sebastian Fundora's Next Opponent Was A Pro MMA Fighter Who Didn't Box For Pay Until He Was 25",
-      "description": "Fundora vs. Hadribeaj is Oct. 17 at The Cosmopolitan in Las Vegas on DAZN and TNT, with Figueroa vs. Kameda and Charlo vs. Mazoudier on the card.",
-      "url": "https://www.forbes.com/sites/brianmazique/2026/10/06/sebastian-fundoras-next-opponent-was-a-pro-mma-fighter-who-didnt-box-for-pay-until-he-was-25/",
-      "image": "/fightonomics/agents/mma-news-updater/images/sebastian-fundora-s-next-opponent-was-a-pro-mma-fighter-who-didn-t-box-for-pay-until-he-was-25-1791397593603.jpeg",
-      "source": "Forbes",
-      "publishedAt": "2026-10-06T04:59:17Z",
-      "author": "Brian Mazique, Contributor"
-    },
-    {
-      "title": "The Thrill and Agony: UFC 332 winner and loser reactions",
-      "description": "The thrill of victory and agony of defeat was seen in the aftermath of UFC 332 with winning and losing fighter reactions.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/mma/blue-corner/2026/10/05/the-thrill-and-agony-ufc-332-winner-loser-reactions/92106021007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/the-thrill-and-agony-ufc-332-winner-and-loser-reactions-1791397593603.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-10-06T02:00:50Z",
-      "author": "Mike Bohn, MMA Junkie"
-    },
-    {
-      "title": "Dana White snubs notable UFC great when listing fighters in 'class of their own'",
-      "description": "Dana White sees four UFC fighters from his time with the company who are incomparable.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/05/dana-white-ufc-fighters-class-of-their-own-list/92101469007/",
-      "image": null,
-      "source": "USA Today",
-      "publishedAt": "2026-10-06T01:20:17Z",
-      "author": "Farah Hannoun, MMA Junkie"
-    },
-    {
-      "title": "Ian Machado Garry says 'date locked in' to fight Michael Morales despite denial",
-      "description": "Ian Machado Garry says it's Michael Morales who doesn't want to fight him.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/05/ufc-ian-machado-garry-insists-date-locked-in-michael-morales-fight/92100158007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ian-machado-garry-says-date-locked-in-to-fight-michael-morales-despite-denial-1791397593604.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-10-05T22:50:21Z",
-      "author": "Farah Hannoun, MMA Junkie"
     }
   ]
 }
