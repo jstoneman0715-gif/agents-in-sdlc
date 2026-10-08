@@ -1,15 +1,69 @@
 {
-  "lastUpdated": "2026-10-08T05:11:08.135Z",
+  "lastUpdated": "2026-10-08T18:26:08.707Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
+      "title": "Dana White explains balancing emotions for UFC employee Sal Everett's DWCS win",
+      "description": "Dana White said to attempt to level the emotional playing field, he almost did something he's never done before a DWCS fight.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/07/ufc-dwcs-dana-white-sal-everett-balance-emotions/92129592007/",
+      "image": null,
+      "source": "USA Today",
+      "publishedAt": "2026-10-07T12:50:21Z",
+      "author": "Nolan King and Ken Hathaway, MMA Junkie"
+    },
+    {
+      "title": "Esteban Ribovics: King Green KO 'most satisfying' win of my career",
+      "description": "Given all the trash talk leading up to UFC 332, Esteban Ribovics was more than happy to put the lights out on King Green.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/mma/hablemos-mma/2026/10/07/ufc-332-esteban-ribovics-king-green-ko-most-satisfying/92118066007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/esteban-ribovics-king-green-ko-most-satisfying-win-of-my-career-1791483966813.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-10-07T12:02:28Z",
+      "author": "Danny Segura, MMA Junkie"
+    },
+    {
+      "title": "Former UFC security guard Everett wins fighter contract",
+      "description": "Former UFC employee Sal Everett wins a fighter contract with the promotion after knocking out Ozzy Martin in Dana White's Contender Series.",
+      "url": "https://www.bbc.com/sport/mixed-martial-arts/articles/crx23d3v0q5lo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "image": "/fightonomics/agents/mma-news-updater/images/former-ufc-security-guard-everett-wins-fighter-contract-1791483966813.jpeg",
+      "source": "BBC News",
+      "publishedAt": "2026-10-07T11:01:44Z",
+      "author": "Paul Battison - BBC Sport journalist"
+    },
+    {
+      "title": "Former UFC security guard Everett wins fighter contract",
+      "description": "Former UFC employee Sal Everett wins a fighter contract with the promotion after knocking out Ozzy Martin in Dana White's Contender Series.",
+      "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/crx23d3v0q5lo",
+      "image": "/fightonomics/agents/mma-news-updater/images/former-ufc-security-guard-everett-wins-fighter-contract-1791483966814.jpeg",
+      "source": "BBC News",
+      "publishedAt": "2026-10-07T11:01:39Z",
+      "author": "Paul Battison"
+    },
+    {
+      "title": "Report: UFC Pressured Shevchenko To Vacate Because UFC 332 ‘Needed A Title Fight’",
+      "description": "Valentina Shevchenko is undeniably one of the greatest female fighters of all time. “Bullet” won her first UFC title in December 2018 and defended gold less than a year ago. Between two separate title reigns, Shevchenko has defended her belt an outstanding ni…",
+      "url": "https://www.mmamania.com/latest-news/477222/report-ufc-pressured-valentina-shevchenko-to-drop-flyweight-belt-because-they-needed-a-title-fight",
+      "image": "/fightonomics/agents/mma-news-updater/images/report-ufc-pressured-shevchenko-to-vacate-because-ufc-332-needed-a-title-fight-1791483966814.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-10-07T07:00:00Z",
+      "author": "Andrew Richardson"
+    },
+    {
+      "title": "DWCS Season 10, Week 9 results: UFC employee Sal Everett earns UFC contract with brutal knockout win - MMA Fighting",
+      "description": "DWCS Season 10, Week 9 results: UFC employee Sal Everett earns UFC contract with brutal knockout winMMA Fighting Everett, White's personal assistant, earns UFC contract with KOESPN Former UFC security guard knocks out opponent on Dana White's Contender Series…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186057804",
+      "image": null,
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-07T06:12:05Z",
+      "author": "feedfeeder"
+    },
+    {
       "title": "From UFC security guard to UFC fighter, Sal Everett earns his shot",
       "description": "LAS VEGAS - From working as a security guard and runner for the UFC, to earning a contract on Dana White’s Contender Series, Las Vegas native Salhahuddin Everett had himself the night of his career at the newly renovated META Apex.",
       "url": "https://www.thesportingtribune.com/2026/10/06/sal-everett-earns-his-shot-in-ufc",
-      "image": "/fightonomics/agents/mma-news-updater/images/from-ufc-security-guard-to-ufc-fighter-sal-everett-earns-his-shot-1791436266946.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/from-ufc-security-guard-to-ufc-fighter-sal-everett-earns-his-shot-1791483966816.jpeg",
       "source": "Thesportingtribune.com",
       "publishedAt": "2026-10-07T04:13:39Z",
       "author": "Jason Takhtadjian"
@@ -18,7 +72,7 @@
       "title": "Dana White’s Personal Assistant Lands UFC Contract After Knocking Out Opponent On Contender’s Series",
       "description": "Dana White’s personal assistant, Sal Everett, will take on a new role in the UFC. On Tuesday night, Everett, who is an MMA fighter with a 4-0 record, knocked out his opponent on the Contender’s Series. After his big win, White awarded Everett a UFC contract. …",
       "url": "https://brobible.com/sports/article/dana-whites-personal-assistant-lands-ufc-contract-after-knocking-out-opponent-on-contenders-series/",
-      "image": "/fightonomics/agents/mma-news-updater/images/dana-white-s-personal-assistant-lands-ufc-contract-after-knocking-out-opponent-on-contender-s-series-1791436266947.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/dana-white-s-personal-assistant-lands-ufc-contract-after-knocking-out-opponent-on-contender-s-series-1791483966816.jpeg",
       "source": "BroBible",
       "publishedAt": "2026-10-07T03:21:53Z",
       "author": "Jorge Alonso"
@@ -27,7 +81,7 @@
       "title": "‘I’ll Be A Tougher Opponent For Him’ – Hiroki Akimoto Expects To Push Jonathan Haggerty Into New Territory At ONE SAMURAI 4",
       "description": "The former divisional king breaks down the range, angles, and pressure he expects to navigate in Tokyo on October 17.",
       "url": "https://www.onefc.com/news/ill-be-a-tougher-opponent-for-him-hiroki-akimoto-expects-to-push-jonathan-haggerty-into-new-territory-at-one-samurai-4/",
-      "image": "/fightonomics/agents/mma-news-updater/images/i-ll-be-a-tougher-opponent-for-him-hiroki-akimoto-expects-to-push-jonathan-haggerty-into-new-territory-at-one-samurai-4-1791436266947.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/i-ll-be-a-tougher-opponent-for-him-hiroki-akimoto-expects-to-push-jonathan-haggerty-into-new-territory-at-one-samurai-4-1791483966817.jpeg",
       "source": "Onefc.com",
       "publishedAt": "2026-10-07T02:08:28Z",
       "author": "Fachrul Sidiq"
@@ -40,60 +94,6 @@
       "source": "USA Today",
       "publishedAt": "2026-10-07T00:43:09Z",
       "author": "Mike Bohn, MMA Junkie"
-    },
-    {
-      "title": "From Dana White’s runner to UFC fighter? Sal Everett competes on Contender Series tonight",
-      "description": "Talk about climbing the corporate ladder. Ultimate Fighting Championship (UFC) employee Salhahuddin “Sal” Everett will attempt to trade his company badge for a UFC contract tonight (Tues., Oct. 6, 2026) when he battles fellow undefeated Welterweight prospect …",
-      "url": "https://www.mmamania.com/ufc-contender-series-dana-white/477176/from-dana-whites-runner-to-ufc-fighter-sal-everett-competes-on-contender-series-tonight",
-      "image": "/fightonomics/agents/mma-news-updater/images/from-dana-white-s-runner-to-ufc-fighter-sal-everett-competes-on-contender-series-tonight-1791436266948.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-10-06T23:00:00Z",
-      "author": "Alexander Behunin"
-    },
-    {
-      "title": "Shavkat Rakhmonov Teases UFC Return Against Michael Morales With “19-0” Hint",
-      "description": "Shavkat Rakhmonov has been out of competition since UFC 310 in December 2024 but his latest post hints at a possible return in 2027.",
-      "url": "https://sports.yahoo.com/articles/shavkat-rakhmonov-teases-ufc-return-220314341.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/shavkat-rakhmonov-teases-ufc-return-against-michael-morales-with-19-0-hint-1791436266949.jpeg",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-10-06T22:03:14Z",
-      "author": "Kshitiz Kumar Singh"
-    },
-    {
-      "title": "Dana White's Contender Series 95 live updates, results",
-      "description": "Season 10, Week 9 of DWCS will see 10 more UFC hopefuls battle for a contract.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/06/dana-whites-contender-series-95-live-updates-results--live/92125328007/",
-      "image": null,
-      "source": "USA Today",
-      "publishedAt": "2026-10-06T22:00:52Z",
-      "author": "Nolan King, MMA Junkie"
-    },
-    {
-      "title": "‘I See A Path To Victory’ – Suriyanlek Aims To Spoil Rustam Yunusov’s Perfect Record At The Inner Circle 34",
-      "description": "Thai slugger vows to stop the Russian in emphatic fashion on October 9 at Bangkok's iconic Lumpinee Stadium.",
-      "url": "https://www.onefc.com/news/i-see-a-path-to-victory-suriyanlek-aims-to-spoil-rustam-yunusovs-perfect-record-at-the-inner-circle-34/",
-      "image": "/fightonomics/agents/mma-news-updater/images/i-see-a-path-to-victory-suriyanlek-aims-to-spoil-rustam-yunusov-s-perfect-record-at-the-inner-circle-34-1791436266950.jpeg",
-      "source": "Onefc.com",
-      "publishedAt": "2026-10-06T19:10:07Z",
-      "author": "Vijay Kumar"
-    },
-    {
-      "title": "UFC power rankings following Fight Night 332 in Salt Lake City",
-      "description": "Top UFC fighters after UFC 332.",
-      "url": "https://www.thebiglead.com/ufc-power-rankings-following-fight-night-332-salt-lake-city-2026/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-power-rankings-following-fight-night-332-in-salt-lake-city-1791436266950.jpeg",
-      "source": "The Big Lead",
-      "publishedAt": "2026-10-06T13:25:00Z",
-      "author": "Robert Pasky"
-    },
-    {
-      "title": "Zabit Magomedsharipov to make RAF debut against UFC vet in Abu Dhabi",
-      "description": "Zabit Magomedsharipov has signed with Real American Freestyle and will return to action against UFC fighter Giga Chikadze at RAF Abu Dhabi on November 14th. The enigmatic Russian fighter disappeared from the UFC back in 2019 after going 6-0 with the promotion…",
-      "url": "https://www.mmamania.com/raf-wrestling-schedule-cards-live-results/477107/zabit-magomedsharipov-to-make-raf-debut-against-ufc-vet-in-abu-dhabi",
-      "image": "/fightonomics/agents/mma-news-updater/images/zabit-magomedsharipov-to-make-raf-debut-against-ufc-vet-in-abu-dhabi-1791436266951.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-10-06T11:31:21Z",
-      "author": "Ryan Harkness"
     }
   ]
 }
