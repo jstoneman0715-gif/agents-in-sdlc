@@ -1,15 +1,51 @@
 {
-  "lastUpdated": "2026-10-10T04:59:14.842Z",
+  "lastUpdated": "2026-10-10T16:58:56.473Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
+      "title": "UFC Vegas 122 early weigh ins video, live results | Allen vs. Duncan",
+      "description": "Ultimate Fighting Championship (UFC) is just over 24 hours away from its upcoming UFC Vegas 122 mixed martial arts (MMA) event, headlined by No. 6 ranked middleweight Brendan Allen trying to hold his spot against No. 10 ranked relative newcomer Christian Lero…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_756c8144-a8b0-4cab-95e8-87c974066cb9",
+      "image": null,
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-10-09T15:30:00Z",
+      "author": null
+    },
+    {
+      "title": "Mania Mailbag: Is Payton Talbott All That?",
+      "description": "You asked. We answered.",
+      "url": "https://www.mmamania.com/mma-mailbag-questions-answers-ufc/477433/mania-mailbag-is-payton-talbott-all-that",
+      "image": "/fightonomics/agents/mma-news-updater/images/mania-mailbag-is-payton-talbott-all-that-1791651534048.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-10-09T15:05:00Z",
+      "author": "Tim Edwards"
+    },
+    {
+      "title": "UFC Vegas 122 preview: ‘Allen vs. Duncan’ main, co-main event predictions",
+      "description": "Ultimate Fighting Championship (UFC) is just one day away from the upcoming UFC Vegas 122 mixed martial arts (MMA) event, which is set to go down tomorrow night (Sat., Sept. 26, 2026) on Paramount+ from inside Meta Apex in Las Vegas, Nevada. UFC Vegas 122 fea…",
+      "url": "https://www.mmamania.com/ufc-predictions/477361/ufc-vegas-122-preview-allen-vs-duncan-main-co-main-event-predictions-mma",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-vegas-122-preview-allen-vs-duncan-main-co-main-event-predictions-1791651534049.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-10-09T13:30:00Z",
+      "author": "Jesse Holland"
+    },
+    {
+      "title": "UFC veterans in MMA and bareknuckle action Oct. 9-10",
+      "description": "Check out which veterans of the UFC are competing around the globe this weekend.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/09/ufc-veterans-fighting-mma-bareknuckle-boxing-oct-9-10/92157289007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-veterans-in-mma-and-bareknuckle-action-oct-9-10-1791651534050.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-10-09T12:50:31Z",
+      "author": "Matthew Wells, MMA Junkie"
+    },
+    {
       "title": "Robert Whittaker Predicts Charles Oliveira vs. Diego Lopes BMF",
       "description": "Former UFC middleweight champion Robert Whittaker shared his prediction for the upcoming BMF fight between Charles Oliveira and Diego Lopes. Oliveira puts his UFC BMF title on the line in the main event of UFC 335, which takes place on December 12 at T-Mobile…",
       "url": "https://heavy.com/sports/ufc/robert-whittaker-charles-oliveira-diego-lopes/",
-      "image": "/fightonomics/agents/mma-news-updater/images/robert-whittaker-predicts-charles-oliveira-vs-diego-lopes-bmf-1791608351215.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/robert-whittaker-predicts-charles-oliveira-vs-diego-lopes-bmf-1791651534050.jpeg",
       "source": "Heavy.com",
       "publishedAt": "2026-10-09T03:43:25Z",
       "author": "Adam Martin"
@@ -18,7 +54,7 @@
       "title": "Prospect Watch: Unbeaten Hussain Al Kurdi faces PFL Africa test",
       "description": "Hussain Al Kurdi will try to reach the final of the Professional Fighters League Africa lightweight tournament.",
       "url": "https://www.sherdog.com/news/articles/Prospect-Watch-Unbeaten-Hussain-Al-Kurdi-faces-PFL-Africa-test-203126",
-      "image": "/fightonomics/agents/mma-news-updater/images/prospect-watch-unbeaten-hussain-al-kurdi-faces-pfl-africa-test-1791608351216.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/prospect-watch-unbeaten-hussain-al-kurdi-faces-pfl-africa-test-1791651534051.jpeg",
       "source": "Sherdog.com",
       "publishedAt": "2026-10-09T00:07:58Z",
       "author": "tlenote@sherdog.com (Tudor Leonte)"
@@ -27,7 +63,7 @@
       "title": "Tim Welch wants Sean O'Malley to fight Payton Talbott – but priorities come first",
       "description": "Coach Tim Welch knows Sean O'Malley vs. Payton Talbott would be a great fight, but now might not be the best time.",
       "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/08/ufc-tim-welch-reacts-omalley-vs-talbott-fight-talk/92150948007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/tim-welch-wants-sean-o-malley-to-fight-payton-talbott-but-priorities-come-first-1791608351216.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/tim-welch-wants-sean-o-malley-to-fight-payton-talbott-but-priorities-come-first-1791651534052.jpeg",
       "source": "USA Today",
       "publishedAt": "2026-10-08T22:02:00Z",
       "author": "Farah Hannoun, MMA Junkie"
@@ -36,7 +72,7 @@
       "title": "NFL takes prediction market fight to the Supreme Court and insists failure to regulate could cause on-field cheating",
       "description": "Prediction markets are gambling platforms and should be regulated by the states, according to a legal argument filed by the NFL with the Supreme Court this week.",
       "url": "https://www.dailymail.com/sport/nfl/article-16193143/NFL-takes-Kalshi-fight-Supreme-Court.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/nfl-takes-prediction-market-fight-to-the-supreme-court-and-insists-failure-to-regulate-could-cause-on-field-cheating-1791608351217.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/nfl-takes-prediction-market-fight-to-the-supreme-court-and-insists-failure-to-regulate-could-cause-on-field-cheating-1791651534052.jpeg",
       "source": "Dailymail.com",
       "publishedAt": "2026-10-08T14:04:07Z",
       "author": "Alex Raskin"
@@ -45,7 +81,7 @@
       "title": "Sean Strickland Threatens To Leave UFC To Fight Jake Paul Amid Contract Dispute, Paul Responds",
       "description": "Sean Strickland is not happy with the UFC. Over the weekend, the UFC announced the upcoming main event for UFC 335 in Vegas: Charles Oliveira vs. Diego Lopes. Many believed Strickland would headline the card against Nassourdine Imavov, but for some reason his…",
       "url": "https://brobible.com/sports/article/sean-strickland-threatens-to-leave-ufc-to-fight-jake-paul-amid-contract-dispute-paul-responds/",
-      "image": "/fightonomics/agents/mma-news-updater/images/sean-strickland-threatens-to-leave-ufc-to-fight-jake-paul-amid-contract-dispute-paul-responds-1791608351218.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/sean-strickland-threatens-to-leave-ufc-to-fight-jake-paul-amid-contract-dispute-paul-responds-1791651534053.jpeg",
       "source": "BroBible",
       "publishedAt": "2026-10-08T01:55:16Z",
       "author": "Jorge Alonso"
@@ -54,46 +90,10 @@
       "title": "Money problems? UFC champ Sean Strickland threatens to vacate title, go beat up Jake Paul – ‘I’m over it’",
       "description": "Sean Strickland is ready to trade UFC gold for Jake Paul money. The reigning Ultimate Fighting Championship (UFC) Middleweight champion has threatened to surrender his 185-pound title, move up to Light Heavyweight, and burn through the remaining fights on his…",
       "url": "https://www.mmamania.com/ufc-mma-social-media-videos-memes/477385/money-problems-ufc-champ-sean-strickland-threatens-to-vacate-title-go-beat-up-jake-paul-im-over-it",
-      "image": "/fightonomics/agents/mma-news-updater/images/money-problems-ufc-champ-sean-strickland-threatens-to-vacate-title-go-beat-up-jake-paul-i-m-over-it-1791608351219.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/money-problems-ufc-champ-sean-strickland-threatens-to-vacate-title-go-beat-up-jake-paul-i-m-over-it-1791651534055.jpeg",
       "source": "MMA Mania",
       "publishedAt": "2026-10-07T23:09:20Z",
       "author": "Alexander Behunin"
-    },
-    {
-      "title": "Ex-champ on Movsar Evloev: 'How the f*ck is he still in the UFC?'",
-      "description": "Movsar Evloev wins, and he's got an upcoming UFC 333 title shot, but his fighting styling may not be something rave about.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/07/ufc-demetrious-johnson-rips-movsar-evloev-lack-of-finishes/92114977007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ex-champ-on-movsar-evloev-how-the-f-ck-is-he-still-in-the-ufc-1791608351219.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-10-07T16:10:35Z",
-      "author": "Farah Hannoun, MMA Junkie"
-    },
-    {
-      "title": "Eddie Hearn pans distracted Dana White for ignoring UFC: ‘The product is under threat right now’",
-      "description": "The war between Matchroom Boxing’s Eddie Hearn and UFC / Zuffa Boxing head Dana White continues, and Hearn believes the boxing side of things is distracting White and parent company TKO from running the UFC properly. Hearn made an appearance on the Ariel Helw…",
-      "url": "https://www.mmamania.com/ufc-news/477258/eddie-hearn-pans-distracted-dana-white-for-ignoring-ufc-the-product-is-under-threat-right-now",
-      "image": "/fightonomics/agents/mma-news-updater/images/eddie-hearn-pans-distracted-dana-white-for-ignoring-ufc-the-product-is-under-threat-right-now-1791608351220.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-10-07T12:24:11Z",
-      "author": "Ryan Harkness"
-    },
-    {
-      "title": "Sean O'Malley loves Payton Talbott's callout, but fighting him next? That depends",
-      "description": "Sean O'Malley says he'd only fight Payton Talbott next if it makes sense.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/06/ufc-sean-omalley-loves-payton-talbott-callout-next-fight/92114922007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/sean-o-malley-loves-payton-talbott-s-callout-but-fighting-him-next-that-depends-1791608351221.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-10-06T18:40:16Z",
-      "author": "Farah Hannoun, MMA Junkie"
-    },
-    {
-      "title": "Alexander Volkanovski feels bad for how UFC, fans treat Movsar Evloev",
-      "description": "UFC champion Alexander Volkanovski feels bad because of how the UFC fans and promotion are treating the next title challenger.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/06/ufc-333-alexander-volkanovski-feels-bad-fans-movsar-evloev/92111180007/",
-      "image": null,
-      "source": "USA Today",
-      "publishedAt": "2026-10-06T16:10:24Z",
-      "author": "Danny Segura, MMA Junkie"
     }
   ]
 }
