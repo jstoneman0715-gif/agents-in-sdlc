@@ -1,15 +1,78 @@
 {
-  "lastUpdated": "2026-10-12T05:02:35.492Z",
+  "lastUpdated": "2026-10-12T20:54:59.148Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
+      "title": "Michael Page Reacts to Signing With Misfits Boxing",
+      "description": "Former UFC middleweight fighter Michael Page shared his reaction to signing with Misfits Boxing, his next home in combat sports.The long-time MMA fighter, who was released by the UFC last month after a decision win over Nursulton Ruziboev that was panned by M…",
+      "url": "https://heavy.com/sports/ufc/michael-page-reacts-signing-misfits-boxing/",
+      "image": "/fightonomics/agents/mma-news-updater/images/michael-page-reacts-to-signing-with-misfits-boxing-1791838497724.jpeg",
+      "source": "Heavy.com",
+      "publishedAt": "2026-10-11T20:46:30Z",
+      "author": "Adam Martin"
+    },
+    {
+      "title": "Report: Tim Kennedy shot three times while working private security in the Democratic Republic of the Congo",
+      "description": "Tim Kennedy was shot while working as private security in the Democratic Republic of the Congo",
+      "url": "https://www.mmafighting.com/ufc/515071/report-tim-kennedy-shot-three-times-while-working-private-security-in-the-democratic-republic-of-the-congo",
+      "image": "/fightonomics/agents/mma-news-updater/images/report-tim-kennedy-shot-three-times-while-working-private-security-in-the-democratic-republic-of-the-congo-1791838497724.jpeg",
+      "source": "MMA Fighting",
+      "publishedAt": "2026-10-11T18:00:00Z",
+      "author": "Jed Meshew"
+    },
+    {
+      "title": "The Tim Ferriss Show Transcripts: The Random Show — AI Super Assistants, Boner Pills, Dream Engineering, Wizards, Supplements, Books, and More (#886)",
+      "description": "Please enjoy this transcript of another hilarious edition of The Random Show. This time, I reunite with Kevin in L.A. to talk AI super assistants that run your life over text message, agentic shopping, beta-alanine for climbing endurance, walnuts and sperm qu…",
+      "url": "https://tim.blog/2026/10/11/the-random-show-ai-super-assistants-boner-pills-dream-engineering-wizards-supplements-books-and-more-transcript/",
+      "image": "/fightonomics/agents/mma-news-updater/images/the-tim-ferriss-show-transcripts-the-random-show-ai-super-assistants-boner-pills-dream-engineering-wizards-supplements-books-and-more-886-1791838497725.png",
+      "source": "Tim.blog",
+      "publishedAt": "2026-10-11T17:08:47Z",
+      "author": "Tim Ferriss"
+    },
+    {
+      "title": "Andre Fili explains why he pulled back after stunning knockout of Kai Kamaka III",
+      "description": "Andre Fili could have landed a brutal follow-up shot after knocking out Kai Kamaka III. Here's why he didn't.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/11/ufc-vegas-122-andre-fili-explains-pulling-back-kai-kamaka-iii-knockout/92204015007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/andre-fili-explains-why-he-pulled-back-after-stunning-knockout-of-kai-kamaka-iii-1791838497725.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-10-11T16:10:24Z",
+      "author": "Matthew Wells and Ken Hathaway, MMA Junkie"
+    },
+    {
+      "title": "UFC Fight Night 290 Promotional Guidelines Compliance pay: Three vets lead card",
+      "description": "Andre Fili was one of three veterans to take home maximum non-title money in UFC Vegas 122 Promotional Guidelines Compliance pay.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/11/ufc-fight-night-290-venum-pay-promotional-guidelines-compliance-veterans-lead-card/92146189007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-fight-night-290-promotional-guidelines-compliance-pay-three-vets-lead-card-1791838497726.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-10-11T12:02:22Z",
+      "author": "Mike Bohn, MMA Junkie"
+    },
+    {
+      "title": "5 Explosive Reasons To Watch ONE SAMURAI 4 On October 17",
+      "description": "Fans inside Ariake Arena and those around the world are in for an electric night of martial arts action in Tokyo.",
+      "url": "https://www.onefc.com/features/5-explosive-reasons-to-watch-one-samurai-4-on-october-17/",
+      "image": "/fightonomics/agents/mma-news-updater/images/5-explosive-reasons-to-watch-one-samurai-4-on-october-17-1791838497727.jpeg",
+      "source": "Onefc.com",
+      "publishedAt": "2026-10-11T11:32:40Z",
+      "author": "Chris Mohan"
+    },
+    {
+      "title": "Sooo ... About Last Night",
+      "description": "Last night (Sat., Oct. 10, 2026), Ultimate Fighting Championship (UFC) returned home to Meta Apex in Las Vegas, Nevada for UFC Vegas 122. In the main event, veteran Middleweight contender Brendan Allen aimed to turn away rising finisher Christian Leroy Duncan…",
+      "url": "https://www.mmamania.com/ufc-results/478099/__trashed",
+      "image": "/fightonomics/agents/mma-news-updater/images/sooo-about-last-night-1791838497727.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-10-11T07:00:00Z",
+      "author": "Andrew Richardson"
+    },
+    {
       "title": "‘I Didn’t Let My Spirit Break’ – Hiroki Akimoto Details His Grueling Road Back To A World Title Shot At ONE SAMURAI 4",
       "description": "The former kickboxing king reflects on his hardest chapter ahead of his showdown with Jonathan Haggerty.",
       "url": "https://www.onefc.com/features/i-didnt-let-my-spirit-break-hiroki-akimoto-details-his-grueling-road-back-to-a-world-title-shot-at-one-samurai-4/",
-      "image": "/fightonomics/agents/mma-news-updater/images/i-didn-t-let-my-spirit-break-hiroki-akimoto-details-his-grueling-road-back-to-a-world-title-shot-at-one-samurai-4-1791781353129.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/i-didn-t-let-my-spirit-break-hiroki-akimoto-details-his-grueling-road-back-to-a-world-title-shot-at-one-samurai-4-1791838497728.jpeg",
       "source": "Onefc.com",
       "publishedAt": "2026-10-11T02:46:51Z",
       "author": "Fachrul Sidiq"
@@ -27,73 +90,10 @@
       "title": "VIDEO: Alex Pereira’s UFC Coach Plinio Cruz Wins Boxing Debut",
       "description": "Plinio Cruz, one of UFC superstar Alex Pereira’s MMA coaches, won his professional boxing debut for Misfits Boxing.Cruz, a former MMA fighter himself, took on Gary Olive on Saturday, October 10, at the Misfits Boxing event at Copper Box Arena in London, Engla…",
       "url": "https://heavy.com/sports/ufc/alex-pereira-coach-plinio-cruz-boxing/",
-      "image": "/fightonomics/agents/mma-news-updater/images/video-alex-pereira-s-ufc-coach-plinio-cruz-wins-boxing-debut-1791781353130.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/video-alex-pereira-s-ufc-coach-plinio-cruz-wins-boxing-debut-1791838497729.jpeg",
       "source": "Heavy.com",
       "publishedAt": "2026-10-10T22:32:38Z",
       "author": "Adam Martin"
-    },
-    {
-      "title": "Michael ’Venom’ Page Signs With Misfits Boxing",
-      "description": "Michael “Venom” Page has a new promotion to call home as the former UFC and Bellator MMA standout announced his official signing with Misfits Boxing earlier tonight (Sat., Oct. 10, 2026) during the live broadcast of Misfits 30 (results HERE). In case you didn…",
-      "url": "https://www.mmamania.com/boxing/478130/video-former-ufc-bellator-standout-michael-venom-page-officially-signs-with-misfits-boxing",
-      "image": "/fightonomics/agents/mma-news-updater/images/michael-venom-page-signs-with-misfits-boxing-1791781353130.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-10-10T22:30:12Z",
-      "author": "Dan Hiergesell"
-    },
-    {
-      "title": "Ex-UFC fighter MVP signs with KSI's Misfits Boxing",
-      "description": "Former UFC fighter Michael 'Venom' Page says he is \"coming to show the boxing world what I can do\".",
-      "url": "https://www.bbc.com/sport/boxing/articles/c9ly0543nnx3o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "image": "/fightonomics/agents/mma-news-updater/images/ex-ufc-fighter-mvp-signs-with-ksi-s-misfits-boxing-1791781353131.jpeg",
-      "source": "BBC News",
-      "publishedAt": "2026-10-10T22:25:09Z",
-      "author": "BBC"
-    },
-    {
-      "title": "Ex-UFC fighter MVP signs with KSI's Misfits Boxing",
-      "description": "Former UFC fighter Michael 'Venom' Page says he is \"coming to show the boxing world what I can do\".",
-      "url": "https://www.bbc.co.uk/sport/boxing/articles/c9ly0543nnx3o",
-      "image": "/fightonomics/agents/mma-news-updater/images/ex-ufc-fighter-mvp-signs-with-ksi-s-misfits-boxing-1791781353131.jpeg",
-      "source": "BBC News",
-      "publishedAt": "2026-10-10T22:25:02Z",
-      "author": "BBC Sport"
-    },
-    {
-      "title": "UFC Vegas 122 video: Daria Zhelezniakova quits after Alice Pereira's slicing elbow",
-      "description": "Daria Zhelezniakova opted not to continue between rounds at UFC Vegas 122 after Alice Pereira's cut her open.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/10/ufc-vegas-122-video-alice-pereira-cuts-daria-zhelezniakova-quit-stoppage/92192566007/",
-      "image": null,
-      "source": "USA Today",
-      "publishedAt": "2026-10-10T22:00:17Z",
-      "author": "Mike Bohn, MMA Junkie"
-    },
-    {
-      "title": "UFC, Bellator vet Michael 'Venom' Page signs with Misfits Boxing",
-      "description": "Michael \"Venom\" Page has begun his post-UFC journey by signing with Misfits Boxing.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/boxing/2026/10/10/ufc-bellator-vet-michael-venom-page-signs-with-misfits-boxing/92195607007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-bellator-vet-michael-venom-page-signs-with-misfits-boxing-1791781353132.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-10-10T21:35:48Z",
-      "author": "Mike Bohn, MMA Junkie"
-    },
-    {
-      "title": "Jones Reflects On Missed Opportunity To Fight On UFC’s White House Card",
-      "description": "Jon Jones has accomplished almost all there is to accomplish in mixed martial arts (MMA), but the UFC legend massively regrets not competing on the UFC’s recent White House card earlier this year. The UFC’s Freedom 250 event back in June was one of the most h…",
-      "url": "https://www.mmamania.com/latest-news/478036/one-of-my-biggest-regrets-in-life-jon-jones-reflects-on-missed-opportunity-to-fight-on-ufcs-historic-white-house-card",
-      "image": "/fightonomics/agents/mma-news-updater/images/jones-reflects-on-missed-opportunity-to-fight-on-ufc-s-white-house-card-1791781353133.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-10-10T21:15:00Z",
-      "author": "Dan Hiergesell"
-    },
-    {
-      "title": "UFC Vegas 122 Fighter Gains 35 Pounds In 24 Hours!",
-      "description": "Ismael Bonfim may have badly missed weight for his lightweight clash with Francisco Prado later tonight (Sat., Oct. 10, 2026) at UFC Vegas 122 LIVE on Paramount+ from inside Meta Apex in Las Vegas, Nevada, but it now appears Prado will be the heavier fighter …",
-      "url": "https://www.mmamania.com/ufc-paramount-plus-news-hub-fight-cards-schedule/477991/too-much-fighter-shows-up-opponent-who-missed-weight-by-gaining-a-staggering-35-pounds-in-24-hours-ufc-vegas-122-prado-bonfim",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-vegas-122-fighter-gains-35-pounds-in-24-hours-1791781353133.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-10-10T18:00:00Z",
-      "author": "Dan Hiergesell"
     }
   ]
 }
