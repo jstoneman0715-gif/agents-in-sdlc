@@ -1,10 +1,73 @@
 {
-  "lastUpdated": "2026-10-21T03:50:55.161Z",
+  "lastUpdated": "2026-10-21T16:37:52.520Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
+    {
+      "title": "UFC 333 fight card -- Alexander Volkanovski vs. Movsar Evloev: Five biggest storylines to follow in Abu Dhabi",
+      "description": "A pair of title fights headlines a loaded card this weekend with incredibly even matchups",
+      "url": "https://www.cbssports.com/ufc/news/ufc-333-fight-card-alexander-volkanovski-vs-movsar-evloev-storylines/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-333-fight-card-alexander-volkanovski-vs-movsar-evloev-five-biggest-storylines-to-follow-in-abu-dhabi-1792600670789.jpeg",
+      "source": "CBS Sports",
+      "publishedAt": "2026-10-20T15:45:47Z",
+      "author": "Brian Campbell"
+    },
+    {
+      "title": "Prospect watch: Jarrod St. Jean prioritizing patience for UFC's future benefit",
+      "description": "Jarrod St. Jean could be one to watch in the years to come.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/20/jarrod-st-jean-ufc-prospect-watch/92334400007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/prospect-watch-jarrod-st-jean-prioritizing-patience-for-ufc-s-future-benefit-1792600670790.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-10-20T14:30:23Z",
+      "author": "Nolan King, MMA Junkie"
+    },
+    {
+      "title": "‘Irish Dragon’ Steps In For Joe Rogan At UFC 333",
+      "description": "Joe Rogan will not be going to UFC 333 in Abu Dhabi — or anywhere else overseas. That’s why the promotion has to find a new color commentator for every international event. I always preferred a two-man booth over the incessant yammering of a three-man squad a…",
+      "url": "https://www.mmamania.com/ufc-333-fight-card-start-time-live-stream-volkanovski-vs-evloev/480680/ufc-dragon-who-smashed-charles-oliveira-called-replace-joe-rogan-ufc-333-commentary",
+      "image": "/fightonomics/agents/mma-news-updater/images/irish-dragon-steps-in-for-joe-rogan-at-ufc-333-1792600670790.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-10-20T14:04:45Z",
+      "author": "Jesse Holland"
+    },
+    {
+      "title": "Jake Paul wants UFC to release Jon Jones for potential dream match",
+      "description": "Earlier this week, Shakur Stevenson asked for his release from Zuffa Boxing and was soon granted it . Shortly after, Stevenson’s actions prompted Jake Paul to ask whether a similar request from Jon Jones would be honored as well. While Jon Jones might be the …",
+      "url": "https://clutchpoints.com/boxing/jake-paul-wants-ufc-release-jon-jones-potential-dream-match",
+      "image": "/fightonomics/agents/mma-news-updater/images/jake-paul-wants-ufc-to-release-jon-jones-for-potential-dream-match-1792600670791.jpeg",
+      "source": "ClutchPoints",
+      "publishedAt": "2026-10-20T12:50:27Z",
+      "author": "Shounak Chakrabarti, ClutchPoints"
+    },
+    {
+      "title": "UFC power rankings following Fight Night 291 in Edmonton",
+      "description": "Top men's fighters in the UFC after Fight Night 291.",
+      "url": "https://www.thebiglead.com/ufc-power-rankings-following-fight-night-291-edmonton-2026/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-power-rankings-following-fight-night-291-in-edmonton-1792600670791.jpeg",
+      "source": "The Big Lead",
+      "publishedAt": "2026-10-20T11:00:00Z",
+      "author": "Robert Pasky"
+    },
+    {
+      "title": "Farid Basharat Says UFC Told His Team He Was a Boring Fighter",
+      "description": "Former UFC bantamweight fighter Farid Basharat says that the promotion told his team that he was a boring fighter.Despite a 16-0 MMA record, including an impressive 7-0 mark inside the Octagon, the UFC released Basharat instead of giving him a new contract.Th…",
+      "url": "https://heavy.com/sports/ufc/farid-basharat-ufc-said-boring-fighter/",
+      "image": "/fightonomics/agents/mma-news-updater/images/farid-basharat-says-ufc-told-his-team-he-was-a-boring-fighter-1792600670791.jpeg",
+      "source": "Heavy.com",
+      "publishedAt": "2026-10-20T05:35:49Z",
+      "author": "Adam Martin"
+    },
+    {
+      "title": "Midnight Mania! Steveson Threatened Nickal At RAF?",
+      "description": "Bringing you the weird and wild from the world of MMA each and every weeknight!",
+      "url": "https://www.mmamania.com/ufc-news/480624/gable-steveson-allegedly-threatened-to-knock-out-bo-nickal-at-raf-event-why-are-you-talking-crazy",
+      "image": "/fightonomics/agents/mma-news-updater/images/midnight-mania-steveson-threatened-nickal-at-raf-1792600670792.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-10-20T03:59:00Z",
+      "author": "Andrew Richardson"
+    },
     {
       "title": "Charles Oliveira Fires Back at BMF Critics, Willing to Give Up Belt Over ‘Stand and Bang’ Demands",
       "description": "Charles Oliveira stands firm on his UFC 326 BMF title outing with Max Holloway and vows to use his full arsenal whenever necessary.",
@@ -13,87 +76,6 @@
       "source": "Yahoo Entertainment",
       "publishedAt": "2026-10-20T03:41:44Z",
       "author": "Kshitiz Kumar Singh"
-    },
-    {
-      "title": "Video: Watch the moment fighter in ER celebrates UFC contract from Dana White",
-      "description": "Greg Foster wasn't able to be on hand to hear Dana White's comments in person following his Contender Series war.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/mma/blue-corner/2026/10/19/ufc-dwcs-dana-white-greg-foster-contract-emergency-room/92331662007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/video-watch-the-moment-fighter-in-er-celebrates-ufc-contract-from-dana-white-1792554653964.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-10-20T01:20:26Z",
-      "author": "Nolan King, MMA Junkie"
-    },
-    {
-      "title": "Highlights! Former UFC fighter Jimmie Rivera delivers filthy knockout in BKFC 95 co-main",
-      "description": "“El Terror” made sure his hometown crowd had something to celebrate. Former Ultimate Fighting Championship (UFC) fighter Jimmie Rivera returned to the Bare Knuckle Fighting Championship (BKFC) ring this past weekend (Sat., Oct. 17, 2026) at BKFC 95, where he …",
-      "url": "https://www.mmamania.com/bare-knuckle-boxing-results-rules-ppv/480616/highlights-jimmie-rivera-brandon-meyer-knockout-bkfc-95",
-      "image": "/fightonomics/agents/mma-news-updater/images/highlights-former-ufc-fighter-jimmie-rivera-delivers-filthy-knockout-in-bkfc-95-co-main-1792554653965.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-10-20T00:50:34Z",
-      "author": "Alexander Behunin"
-    },
-    {
-      "title": "Glover Teixeira: 3-0 UFC finisher Yousri Belgaroui is evolving on ground",
-      "description": "Glover Teixeira believes Yousri Belgaroui’s growing confidence on the ground could help him overcome Caio Borralho as the Dutch middleweight prepares for his fourth Ultimate Fighting Championship appearance.",
-      "url": "https://www.sherdog.com/news/news/Glover-Teixeira-30-UFC-finisher-Yousri-Belgaroui-is-evolving-on-ground-203276",
-      "image": "/fightonomics/agents/mma-news-updater/images/glover-teixeira-3-0-ufc-finisher-yousri-belgaroui-is-evolving-on-ground-1792554653965.jpeg",
-      "source": "Sherdog.com",
-      "publishedAt": "2026-10-20T00:26:15Z",
-      "author": "malonso@sherdog.com (Marcelo Alonso)"
-    },
-    {
-      "title": "RAF 14: Tsarukyan vs. Danis full match card, new start time, how to watch Friday's wrestling event",
-      "description": "RAF 14 kicks off this Friday, Oct. 23, in Las Vegas, headlined by a crossover championship showdown between Arman Tsarukyan and Dillon Danis. Here's everything you need to know about the card.",
-      "url": "https://sports.yahoo.com/wrestling/article/raf-14-tsarukyan-vs-danis-full-match-card-new-start-time-how-to-watch-fridays-wrestling-event-225103412.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/raf-14-tsarukyan-vs-danis-full-match-card-new-start-time-how-to-watch-friday-s-wrestling-event-1792554653966.jpeg",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-10-19T22:51:03Z",
-      "author": "Uncrowned Staff"
-    },
-    {
-      "title": "Charley Hull nearly got forehead tattoo in drunken stupor at 17 years old",
-      "description": "English golfer Charley Hull recounted nearly getting a tattoo that said \"Hold Tight\" on her forehead during a drunken night in Ibiza at age 17.",
-      "url": "https://nypost.com/2026/10/19/sports/charley-hull-nearly-got-forehead-tattoo-in-drunken-stupor-at-17-years-old/",
-      "image": "/fightonomics/agents/mma-news-updater/images/charley-hull-nearly-got-forehead-tattoo-in-drunken-stupor-at-17-years-old-1792554653967.jpeg",
-      "source": "New York Post",
-      "publishedAt": "2026-10-19T20:34:16Z",
-      "author": "Jenna Lemoncelli"
-    },
-    {
-      "title": "MMA fighter receives big bonus on OnlyFans after suffering a wardrobe malfunction during loss",
-      "description": "Lucero Acosta's PFL debut ended in a TKO loss, but a wardrobe malfunction during the fight went viral and resulted in a massive OnlyFans payday.",
-      "url": "https://www.foxnews.com/outkick-sports/mma-fighter-receives-big-bonus-onlyfans-after-suffering-wardrobe-malfunction-during-loss",
-      "image": "/fightonomics/agents/mma-news-updater/images/mma-fighter-receives-big-bonus-on-onlyfans-after-suffering-a-wardrobe-malfunction-during-loss-1792554653968.jpeg",
-      "source": "Fox News",
-      "publishedAt": "2026-10-19T20:26:07Z",
-      "author": null
-    },
-    {
-      "title": "Ciryl Gane's coach compares 'huge challenge' Josh Hokit to UFC legend",
-      "description": "Don't expect coach Fernand Lopez to underestimate Josh Hokit heading into UFC 334.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/19/ufc-334-fernand-lopez-ciryl-gane-coach-josh-hokit-cain-velasquez-comparison/92326185007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ciryl-gane-s-coach-compares-huge-challenge-josh-hokit-to-ufc-legend-1792554653968.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-10-19T19:30:23Z",
-      "author": "Farah Hannoun, MMA Junkie"
-    },
-    {
-      "title": "Brutal slam becomes knockout of the year contender",
-      "description": "A new knockout of the year contender emerges following a brutal slam.",
-      "url": "https://sports.yahoo.com/articles/brutal-slam-becomes-knockout-contender-192944300.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/brutal-slam-becomes-knockout-of-the-year-contender-1792554653969.jpeg",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-10-19T19:29:44Z",
-      "author": "Joshua Ryan"
-    },
-    {
-      "title": "UFC claims Petr Yan is the promotion’s ‘Greatest Boxer’ in UFC 333 video tribute",
-      "description": "Petr Yan is getting some shine from UFC. The reigning bantamweight titleholder is considered to be “UFC’s Greatest Boxer” in a new video tribute posted on the promotion’s YouTube Channel, featuring highlight-reel performances against Teruto Ishihara, Jose Ald…",
-      "url": "https://www.mmamania.com/ufc-videos/480554/ufc-claims-petr-yan-promotions-greatest-boxer-ufc-333-video-tribute",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-claims-petr-yan-is-the-promotion-s-greatest-boxer-in-ufc-333-video-tribute-1792554653969.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-10-19T14:07:57Z",
-      "author": "Jesse Holland"
     }
   ]
 }
