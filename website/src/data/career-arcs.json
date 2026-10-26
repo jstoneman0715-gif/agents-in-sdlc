@@ -1,15 +1,78 @@
 {
-  "lastUpdated": "2026-10-25T15:34:16.677Z",
+  "lastUpdated": "2026-10-26T03:52:03.815Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
+      "title": "Updated UFC Bantamweight Rankings After Petr Yan & Merab Dvalishvili Put on Classic at UFC 333",
+      "description": "On Saturday night in Abu Dhabi, two of the best UFC bantamweights ever faced off in a highly anticipated trilogy […]",
+      "url": "https://sportsnaut.com/ufc/updated-ufc-bantamweight-rankings-after-ufc-333",
+      "image": "/fightonomics/agents/mma-news-updater/images/updated-ufc-bantamweight-rankings-after-petr-yan-merab-dvalishvili-put-on-classic-at-ufc-333-1792986721296.jpeg",
+      "source": "Sportsnaut",
+      "publishedAt": "2026-10-24T20:40:38Z",
+      "author": "Jason Burgos"
+    },
+    {
+      "title": "UFC's Dominick Reyes continues improbable comeback with KO victory",
+      "description": "UFC's Dominick Reyes continued his comeback with a first-round knockout of Azamat Murzakanov in a lightweight bout at UFC 333 Saturday, Oct. 24.",
+      "url": "https://www.usatoday.com/story/sports/ufc/2026/10/24/ufc-333-dominick-reyes-fight-comeback-win/92418281007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-s-dominick-reyes-continues-improbable-comeback-with-ko-victory-1792986721296.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-10-24T18:57:36Z",
+      "author": "Josh Peter, USA TODAY"
+    },
+    {
+      "title": "UFC 333 results: Aaron Pico scores brutal knockout of Losene Keita, calls out ranked fighters for avoiding him",
+      "description": "The rising American contender took another step forward in his progress toward a title shot on Saturday",
+      "url": "https://www.cbssports.com/ufc/news/ufc-333-results-aaron-pico-losene-keita-knockout/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-333-results-aaron-pico-scores-brutal-knockout-of-losene-keita-calls-out-ranked-fighters-for-avoiding-him-1792986721296.jpeg",
+      "source": "CBS Sports",
+      "publishedAt": "2026-10-24T18:54:11Z",
+      "author": "Brent Brookhouse"
+    },
+    {
+      "title": "UFC 333 odds, predictions, time: Alexander Volkanovski vs. Movsar Evloev picks by elite MMA expert",
+      "description": "SportsLine's Kyle Marley reveals his picks for the UFC 333: Volkanovski vs. Evloev card Saturday at Etihad Arena at Yas Island in Yas West, United Arab Emirates on Paramount+",
+      "url": "https://www.cbssports.com/betting/news/ufc-333-odds-predictions-fight-card-time-alexander-volkanovski-movsar-evloev-picks-best-bets/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-333-odds-predictions-time-alexander-volkanovski-vs-movsar-evloev-picks-by-elite-mma-expert-1792986721297.jpeg",
+      "source": "CBS Sports",
+      "publishedAt": "2026-10-24T17:40:31Z",
+      "author": "Daniel Kohn"
+    },
+    {
+      "title": "How to watch UFC 333: Volkanovski vs Evloev live streams, no PPV, start time, full card",
+      "description": "Follow our guide to live stream UFC 333 online and watch Alexander Volkanovski vs Movsar Evloev from anywhere for the Featherweight Championship.",
+      "url": "https://www.techradar.com/entertainment/sport/watch-ufc-333-volkanovski-vs-evloev",
+      "image": "/fightonomics/agents/mma-news-updater/images/how-to-watch-ufc-333-volkanovski-vs-evloev-live-streams-no-ppv-start-time-full-card-1792986721297.jpeg",
+      "source": "TechRadar",
+      "publishedAt": "2026-10-24T17:00:00Z",
+      "author": "Andy Murray"
+    },
+    {
+      "title": "Where is Joe Rogan? UFC 333 broadcast absence explained",
+      "description": "Paul Felder, a former MMA fighter, is filling in for Joe Rogan on the UFC’s commentary team during UFC 333 Saturday, Oct. 24 in Abu Dhabi.",
+      "url": "https://www.usatoday.com/story/sports/ufc/2026/10/24/joe-rogan-ufc-333-explained-broadcast-absence/92416124007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/where-is-joe-rogan-ufc-333-broadcast-absence-explained-1792986721297.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-10-24T16:18:16Z",
+      "author": "Josh Peter, USA TODAY"
+    },
+    {
+      "title": "Khamzat Chimaev Dominates Robbie Lawler at RAF 14 Before Firing Warning at Colby Covington",
+      "description": "Khamzat Chimaev delivered another dominant performance at RAF 14, making quick work of former UFC welterweight champion Robbie Lawler in the co-main event. While Arman Tsarukyan stole the spotlight with his victory over Dillon Danis, Chimaev also made a state…",
+      "url": "https://sports.yahoo.com/articles/khamzat-chimaev-dominates-robbie-lawler-153534413.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/khamzat-chimaev-dominates-robbie-lawler-at-raf-14-before-firing-warning-at-colby-covington-1792986721298.jpeg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-10-24T15:35:34Z",
+      "author": "Kshitiz Kumar Singh"
+    },
+    {
       "title": "UFC 333 start time: Where to watch, live stream Alexander Volkanovski vs. Movsar Evloev and full fight card",
       "description": "Complete schedule and viewing information you need to watch UFC 333 live in Abu Dhabi on Saturday",
       "url": "https://www.cbssports.com/ufc/news/ufc-333-start-time-where-to-watch-alexander-volkanovski-movsar-evloev-petr-yan-merab-dvalishvili/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-333-start-time-where-to-watch-live-stream-alexander-volkanovski-vs-movsar-evloev-and-full-fight-card-1792942454039.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-333-start-time-where-to-watch-live-stream-alexander-volkanovski-vs-movsar-evloev-and-full-fight-card-1792986721298.jpeg",
       "source": "CBS Sports",
       "publishedAt": "2026-10-24T15:30:48Z",
       "author": "Shakiel Mahjouri"
@@ -18,7 +81,7 @@
       "title": "Arman Tsarukyan Accuses Jordan Burroughs of Seeking an “Easy-Money” Wrestling Match With Islam Makhachev",
       "description": "Arman Tsarukyan believes Jordan Burroughs should call out pure grapplers instead of MMA fighters like Islam Makhachev.",
       "url": "https://sports.yahoo.com/articles/arman-tsarukyan-accuses-jordan-burroughs-134745529.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/arman-tsarukyan-accuses-jordan-burroughs-of-seeking-an-easy-money-wrestling-match-with-islam-makhachev-1792942454039.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/arman-tsarukyan-accuses-jordan-burroughs-of-seeking-an-easy-money-wrestling-match-with-islam-makhachev-1792986721298.jpeg",
       "source": "Yahoo Entertainment",
       "publishedAt": "2026-10-24T13:47:45Z",
       "author": "Kshitiz Kumar Singh"
@@ -27,73 +90,10 @@
       "title": "UFC 333 odds, predictions, time: Alexander Volkanovski vs. Movsar Evloev picks by elite MMA expert",
       "description": "SportsLine's Kyle Marley reveals his picks for the UFC 333: Volkanovski vs. Evloev card Saturday at Etihad Arena at Yas Island in Yas West, United Arab Emirates on Paramount+",
       "url": "https://www.cbssports.com/betting/news/ufc-333-odds-predictions-fight-card-time-alexander-volkanovski-movsar-evloev-picks/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-333-odds-predictions-time-alexander-volkanovski-vs-movsar-evloev-picks-by-elite-mma-expert-1792942454039.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-333-odds-predictions-time-alexander-volkanovski-vs-movsar-evloev-picks-by-elite-mma-expert-1792986721298.jpeg",
       "source": "CBS Sports",
       "publishedAt": "2026-10-24T13:29:05Z",
       "author": "Daniel Kohn"
-    },
-    {
-      "title": "UFC 333 on Paramount+: Where to watch Alexander Volkanovski vs. Movsar Evloev, live stream on Saturday",
-      "description": "Complete schedule and viewing information so you can watch UFC 333 live in Abu Dhabi on Saturday across Paramount+",
-      "url": "https://www.cbssports.com/ufc/news/ufc-333-where-to-watch-free-live-stream-paramount-alexander-volkanovski-movsar-evloev/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-333-on-paramount-where-to-watch-alexander-volkanovski-vs-movsar-evloev-live-stream-on-saturday-1792942454039.jpeg",
-      "source": "CBS Sports",
-      "publishedAt": "2026-10-24T12:30:43Z",
-      "author": "Brent Brookhouse"
-    },
-    {
-      "title": "Some Red States Are Not Red",
-      "description": "Political pundits are surprised that Democratic Senate candidate Adam Hamilton could win a Senate seat in Kansas. If you only look at the Electoral College, Kansas is deep red. But that's not reality.\nIn 2018, The New York Times reported that Kansas wasn't re…",
-      "url": "https://crooksandliars.com/2026/10/kansas-not-red-state",
-      "image": "/fightonomics/agents/mma-news-updater/images/some-red-states-are-not-red-1792942454040.jpeg",
-      "source": "Crooksandliars.com",
-      "publishedAt": "2026-10-24T12:17:02Z",
-      "author": "RedStateRachel"
-    },
-    {
-      "title": "Alexander Volkov believes heavyweight belt lost meaning with Ciryl Gane vs. Josh Hokit at UFC 334",
-      "description": "Alexander Volkov questions Ciryl Gane vs. Josh Hokit championship matchup",
-      "url": "https://www.mmafighting.com/ufc/516778/alexander-volkov-believes-heavyweight-belt-lost-meaning-with-ciryl-gane-vs-josh-hokit-at-ufc-334",
-      "image": "/fightonomics/agents/mma-news-updater/images/alexander-volkov-believes-heavyweight-belt-lost-meaning-with-ciryl-gane-vs-josh-hokit-at-ufc-334-1792942454040.jpeg",
-      "source": "MMA Fighting",
-      "publishedAt": "2026-10-24T12:00:00Z",
-      "author": "Guilherme Cruz"
-    },
-    {
-      "title": "Volkanovski Vs. Evloev Odds, Full Fight Preview & Prediction",
-      "description": "Ultimate Fighting Championship (UFC) Featherweight elites Alexander Volkanovski vs. Movsar Evloev will clash TONIGHT (Sat., Oct. 24, 2026) inside Etihad Arena in Abu Dhabi, United Arab Emirates, for UFC 333. Volkanovski is a rare breed. “The Great” was alread…",
-      "url": "https://www.mmamania.com/ufc-333-fight-card-start-time-live-stream-volkanovski-vs-evloev/480894/alexander-volkanovski-vs-movsar-evloev-odds-full-fight-preview-and-prediction-ufc-333",
-      "image": "/fightonomics/agents/mma-news-updater/images/volkanovski-vs-evloev-odds-full-fight-preview-prediction-1792942454040.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-10-24T11:27:00Z",
-      "author": "Andrew Richardson"
-    },
-    {
-      "title": "UFC 333 -- Alexander Volkanovski vs. Movsar Evloev: Fight card, date, odds, location and more",
-      "description": "All the news, information, complete fight card and more for this weekend's festivities in Abu Dhabi",
-      "url": "https://www.cbssports.com/ufc/news/ufc-333-fight-card-alexander-volkanovski-movsar-evloev-date-odds-location-complete-guide/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-333-alexander-volkanovski-vs-movsar-evloev-fight-card-date-odds-location-and-more-1792942454040.jpeg",
-      "source": "CBS Sports",
-      "publishedAt": "2026-10-24T11:01:08Z",
-      "author": "Brent Brookhouse"
-    },
-    {
-      "title": "Polymarket Promo Code FOX Unlocks a $25 Bonus Ahead of the UFC 333 Card in Abu Dhabi",
-      "description": "Polymarket Promo Code FOX Unlocks a $25 Bonus Ahead of the UFC 333 Card in Abu Dhabi.",
-      "url": "https://www.foxsports.com/stories/betting/polymarket-promo-code-fox-unlocks-25-bonus-ahead-ufc-333-card-abu-dhabi",
-      "image": "/fightonomics/agents/mma-news-updater/images/polymarket-promo-code-fox-unlocks-a-25-bonus-ahead-of-the-ufc-333-card-in-abu-dhabi-1792942454041.jpeg",
-      "source": "Fox Sports",
-      "publishedAt": "2026-10-24T11:00:31Z",
-      "author": null
-    },
-    {
-      "title": "Here’s How to Watch UFC 333 Live Online for Free",
-      "description": "Live from Abu Dhabi on Oct. 24, you can watch the entire MMA event online for free.",
-      "url": "https://www.billboard.com/culture/product-recommendations/ufc-333-oct-2026-watch-mma-live-online-free-1236364114/",
-      "image": "/fightonomics/agents/mma-news-updater/images/here-s-how-to-watch-ufc-333-live-online-for-free-1792942454041.jpeg",
-      "source": "Billboard",
-      "publishedAt": "2026-10-24T11:00:00Z",
-      "author": "Rudie Obias"
     }
   ]
 }
