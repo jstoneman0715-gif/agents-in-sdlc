@@ -1,99 +1,99 @@
 {
-  "lastUpdated": "2026-10-27T17:29:01.730Z",
+  "lastUpdated": "2026-10-28T04:43:35.049Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
-      "title": "5 Things You Must Know About South Korean MMA Star Lee Seung Cheol",
-      "description": "The surging 13-1 South Korean looks to extend his run against Nazareth Lalthazuala on November 6.",
-      "url": "https://www.onefc.com/features/5-things-you-must-know-about-south-korean-mma-star-lee-seung-cheol/",
-      "image": "/fightonomics/agents/mma-news-updater/images/5-things-you-must-know-about-south-korean-mma-star-lee-seung-cheol-1793122139344.jpeg",
+      "title": "Midnight Mania: I Was Still Standing!",
+      "description": "Bringing you the weird and wild from the world of MMA each and every weeknight!",
+      "url": "https://www.mmamania.com/ufc-news/482112/alex-pereira-now-claims-herb-dean-stopped-ciryl-gane-fight-early-i-was-still-standing",
+      "image": "/fightonomics/agents/mma-news-updater/images/midnight-mania-i-was-still-standing-1793162613395.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-10-27T03:59:00Z",
+      "author": "Andrew Richardson"
+    },
+    {
+      "title": "Kade Ruotolo Vs. Ok Rae Yoon, Maurice Abevi Vs. Dzhabir Dzhabrailov Set For ONE Fight Night 50",
+      "description": "These blockbuster bouts are headed to Bangkok’s Lumpinee Stadium on December 18, live in U.S. primetime.",
+      "url": "https://www.onefc.com/news/kade-ruotolo-vs-ok-rae-yoon-maurice-abevi-vs-dzhabir-dzhabrailov-set-for-one-fight-night-50/",
+      "image": "/fightonomics/agents/mma-news-updater/images/kade-ruotolo-vs-ok-rae-yoon-maurice-abevi-vs-dzhabir-dzhabrailov-set-for-one-fight-night-50-1793162613395.jpeg",
       "source": "Onefc.com",
-      "publishedAt": "2026-10-26T17:03:04Z",
-      "author": "Kriel Ibarrola"
+      "publishedAt": "2026-10-27T03:32:04Z",
+      "author": "Chris Mohan"
     },
     {
-      "title": "Kody Steele wants 'sick' names for 'dope' fights after UFC 333",
-      "description": "After his second straight finish at UFC 333, Kody Steele is looking to make some waves at lightweight in 2027.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/26/ufc-333-video-kody-steele-lightweight-prospect-contender-callout/92441121007/",
+      "title": "‘The Most Difficult Period Of My Life’ – How Tragedy And Family Forged Undefeated Phenom Magomed Magomedov",
+      "description": "The undefeated Bahraini reflects on his roots, a family tragedy, and the unwavering support that shaped him.",
+      "url": "https://www.onefc.com/features/the-most-difficult-period-of-my-life-how-tragedy-and-family-forged-undefeated-phenom-magomed-magomedov/",
+      "image": "/fightonomics/agents/mma-news-updater/images/the-most-difficult-period-of-my-life-how-tragedy-and-family-forged-undefeated-phenom-magomed-magomedov-1793162613396.jpeg",
+      "source": "Onefc.com",
+      "publishedAt": "2026-10-27T03:31:17Z",
+      "author": "Vijay Kumar"
+    },
+    {
+      "title": "The Thrill and Agony: UFC 333 winner and loser reactions",
+      "description": "The thrill of victory and agony of defeat was seen in the aftermath of UFC 333 with winning and losing fighter reactions.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/26/ufc-333-winner-loser-reactions-social-media-yan-merab-volkanovski-evolev/92426612007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/the-thrill-and-agony-ufc-333-winner-and-loser-reactions-1793162613396.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-10-27T02:00:53Z",
+      "author": "Mike Bohn, MMA Junkie"
+    },
+    {
+      "title": "Nakisa Bidarian Fires Back At Netflix Rumors About MVP MMA: ‘That’s BS’",
+      "description": "MVP CEO Nakisa Bidarian calls reports that Netflix is done with MVP MMA ‘rubbish,’ talks MVPW-07, Claressa Shields vs. Ronda Rousey and a possible Ki MMA cross-promotion.",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_36afad63-c89b-4f8c-b9b4-4c1a69dcaf4b",
+      "image": null,
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-10-27T01:36:02Z",
+      "author": null
+    },
+    {
+      "title": "King Green involved in car crash caught on livestream",
+      "description": "King Green was involved in a car accident Sunday night while livestreaming from his custom Range Rover, with footage capturing the collision and his immediate reaction.",
+      "url": "https://www.sherdog.com/news/news/King-Green-involved-in-car-crash-caught-on-livestream-203359",
+      "image": "/fightonomics/agents/mma-news-updater/images/king-green-involved-in-car-crash-caught-on-livestream-1793162613398.jpeg",
+      "source": "Sherdog.com",
+      "publishedAt": "2026-10-27T01:34:59Z",
+      "author": "SouravChakraborty@sherdog.com (Sourav Chakraborty)"
+    },
+    {
+      "title": "Former champ says 'not scared' Jean Silva should get next UFC title shot",
+      "description": "Demetrious Johnson thinks Jean Silva would bring \"a more dangerous\" test to Alexander Volkanovski than he got at UFC 333.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/26/ufc-demetrious-johnson-backs-jean-silva-next-alexander-volkanovski-title/92414849007/",
       "image": null,
       "source": "USA Today",
-      "publishedAt": "2026-10-26T16:10:19Z",
-      "author": "Matt Erickson, MMA Junkie"
+      "publishedAt": "2026-10-27T00:30:29Z",
+      "author": "Mike Bohn, MMA Junkie"
     },
     {
-      "title": "Alexander Volkanovski could face a new challenge after UFC 333 - ESPN",
-      "description": "Alexander Volkanovski could face a new challenge after UFC 333ESPN UFC 333 fight fallout: Best options for Alexander Volkanovski, Petr Yan and more after SaturdayCBS Sports Alexander Volkanovski presses for Justin Gaethje retirement fight after UFC 333 win; D…",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186463642",
-      "image": null,
-      "source": "Slashdot.org",
-      "publishedAt": "2026-10-26T15:52:36Z",
-      "author": "feedfeeder"
+      "title": "Fighters exploited & forgotten in failing system - Smith",
+      "description": "Fighters are being \"hurt, exploited or forgotten\" in a failing system, says former boxer Paul Smith, who has criticised a lack of support for athletes.",
+      "url": "https://www.bbc.co.uk/sport/boxing/articles/cwm24xnxv4zdo",
+      "image": "/fightonomics/agents/mma-news-updater/images/fighters-exploited-forgotten-in-failing-system-smith-1793162613399.jpeg",
+      "source": "BBC News",
+      "publishedAt": "2026-10-26T23:59:14Z",
+      "author": "Paul Battison"
     },
     {
-      "title": "While Ireland Deteriorates with Unchecked Migration, Government Lectures Grandparents on Hugging Their Grandchildren ‘Without Consent’",
-      "description": "Like many countries in Europe, the very essence of Irish culture is being destroyed from within as Ireland grapples with the violent consequences of a torrent of migrants flowing into the country without any apparent limit and the financial and social implica…",
-      "url": "https://www.thegatewaypundit.com/2026/10/while-ireland-deteriorates-unchecked-migration-government-lectures-grandparents/",
-      "image": "/fightonomics/agents/mma-news-updater/images/while-ireland-deteriorates-with-unchecked-migration-government-lectures-grandparents-on-hugging-their-grandchildren-without-consent-1793122139345.png",
-      "source": "Thegatewaypundit.com",
-      "publishedAt": "2026-10-26T15:20:33Z",
-      "author": "Margaret Flavin"
-    },
-    {
-      "title": "Jordan Burroughs' upset loss wiped him from Arman Tsarukyan's RAF radar",
-      "description": "Jordan Burroughs, one of the all-time greats in freestyle wrestling, no longer is on the list of people Arman Tsarukyan is interested in at RAF.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/mma/2026/10/26/raf-14-video-arman-tsarukyan-opinion-jordan-burroughs-upset-loss-not-interested-wrestling-match/92442635007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/jordan-burroughs-upset-loss-wiped-him-from-arman-tsarukyan-s-raf-radar-1793122139346.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-10-26T15:20:18Z",
-      "author": "Matt Erickson and Jeronimo Guerra, MMA Junkie"
-    },
-    {
-      "title": "Video: UFC fighter King Green live stream captures his own car accident in Los Angeles after the MMA veteran appeared to run a red light.",
-      "description": "King Green just totaled his Range Rover. The UFC lightweight veteran was behind the wheel during a live stream and appeared to sail through a red light before colliding with another car on Hollywood Blvd. in Los Angeles. Fortunately, it looks as though nobody…",
-      "url": "https://www.mmamania.com/ufc-videos/482060/video-ufc-fighter-live-stream-his-own-car-accident-its-totaled-king-green",
-      "image": "/fightonomics/agents/mma-news-updater/images/video-ufc-fighter-king-green-live-stream-captures-his-own-car-accident-in-los-angeles-after-the-mma-veteran-appeared-to-run-a-red-light-1793122139347.jpeg",
+      "title": "Back from the dead? GFL announces first event on Dec. 18 in Argentina",
+      "description": "Somebody check Global Fight League for a pulse. After several failed launches, canceled events, financial problems and more comeback announcements than the average retired fighter, Global Fight League (GFL) claims it will finally stage its inaugural mixed mar…",
+      "url": "https://www.mmamania.com/gfl-global-fight-league/482115/back-from-the-dead-gfl-announces-first-event-on-dec-18-in-argentina",
+      "image": "/fightonomics/agents/mma-news-updater/images/back-from-the-dead-gfl-announces-first-event-on-dec-18-in-argentina-1793162613399.jpeg",
       "source": "MMA Mania",
-      "publishedAt": "2026-10-26T14:02:30Z",
-      "author": "Jesse Holland"
+      "publishedAt": "2026-10-26T23:51:35Z",
+      "author": "Alexander Behunin"
     },
     {
-      "title": "Video: King Green's custom Range Rover totaled on live stream",
-      "description": "King Green is having the kind of October he'd probably prefer to forget.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/26/video-ufc-king-green-custom-range-rover-totaled-live-stream-car-accident-dashboard-camera-california/92440521007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/video-king-green-s-custom-range-rover-totaled-on-live-stream-1793122139347.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-10-26T13:40:27Z",
-      "author": "MMA Junkie"
-    },
-    {
-      "title": "UFC 333 Report: What’s next for the legendary career of Alexander Volkanovski?",
-      "description": "Alexander Volkanovski added to his legendary career with a stoppage win over Movsar Evloev at UFC 333",
-      "url": "https://www.mmafighting.com/ufc/517649/ufc-333-report-whats-next-for-the-legendary-career-of-alexander-volkanovski",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-333-report-what-s-next-for-the-legendary-career-of-alexander-volkanovski-1793122139347.jpeg",
+      "title": "On To the Next One: Matches to make after UFC 333",
+      "description": "MMA Fighting plays matchmaker after UFC 333",
+      "url": "https://www.mmafighting.com/ufc/517824/on-to-the-next-one-matches-to-make-after-ufc-333",
+      "image": "/fightonomics/agents/mma-news-updater/images/on-to-the-next-one-matches-to-make-after-ufc-333-1793162613399.jpeg",
       "source": "MMA Fighting",
-      "publishedAt": "2026-10-26T13:00:00Z",
-      "author": "Jed Meshew"
-    },
-    {
-      "title": "What’s Next For Evloev?",
-      "description": "UFC 333 blew the roof off Etihad Arena last Saturday (Oct. 24, 2026) in Abud Dhabi, United Arab Emirates (UAE), leaving several fighters feeling the post-fight blues. Among them was Merab Dvalishvili, who was unable to re-claim the UFC bantamweight title afte…",
-      "url": "https://www.mmamania.com/ufc-333-fight-card-start-time-live-stream-volkanovski-vs-evloev/481867/monday-morning-hangover-whats-next-for-movsar-evloev-after-tko-loss-at-ufc-333",
-      "image": "/fightonomics/agents/mma-news-updater/images/what-s-next-for-evloev-1793122139348.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-10-26T13:00:00Z",
-      "author": "Adam Guillen"
-    },
-    {
-      "title": "UFC Fight Night 292: How to watch Renato Moicano vs. Tom Nolan, lineup, odds",
-      "description": "Here's what you need to know to watch UFC Fight Night 292 on Paramount+.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/26/ufc-fight-night-las-vegas-renato-moicano-vs-tom-nolan-start-time-lineup-odds/92436870007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-fight-night-292-how-to-watch-renato-moicano-vs-tom-nolan-lineup-odds-1793122139348.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-10-26T12:02:29Z",
-      "author": "Matt Erickson, MMA Junkie"
+      "publishedAt": "2026-10-26T23:00:00Z",
+      "author": "Alexander K. Lee"
     }
   ],
   "matchups": [
