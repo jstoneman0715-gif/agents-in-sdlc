@@ -1,12 +1,12 @@
 [
   {
     "originalArticle": {
-      "title": "Daniel Cormier clears the air with Sean O’Malley after in-cage snafu at UFC 333",
-      "description": "Bringing you the weird and wild from the world of MMA each and every weeknight!",
-      "source": "MMA Mania",
-      "url": "https://www.mmamania.com/midnight-mmamania-news/482333/daniel-cormier-clears-the-air-with-sean-omalley-after-in-cage-snafu-at-ufc-333",
-      "image": "/fightonomics/agents/mma-news-updater/images/daniel-cormier-clears-the-air-with-sean-o-malley-after-in-cage-snafu-at-ufc-333-1793336143923.jpeg",
-      "publishedAt": "2026-10-29T03:59:00Z"
+      "title": "Why a childhood punch convinced Jacobe Smith he belonged in the UFC: 'It changed me'",
+      "description": "Smith, an undefeated UFC welterweight prospect, recounts how his violent childhood and his mother's near-deadly altercation helped him get to this point",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/ufc/news/jacobe-smith-ufc-fight-night-childhood-born-to-fight/",
+      "image": "/fightonomics/agents/mma-news-updater/images/why-a-childhood-punch-convinced-jacobe-smith-he-belonged-in-the-ufc-it-changed-me-1793382217967.jpeg",
+      "publishedAt": "2026-10-29T17:10:11Z"
     },
     "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
     "grappleFocus": {
@@ -14,254 +14,16 @@
       "keywords": [],
       "isFocused": false
     },
-    "publishedAt": "2026-10-29T03:59:00Z"
+    "publishedAt": "2026-10-29T17:10:11Z"
   },
   {
     "originalArticle": {
-      "title": "Jacobe Smith predicts altercation with Kevin Holland outside UFC cage",
-      "description": "Jacobe Smith is eager to square off against Kevin Holland, inside or outside the Ultimate Fighting Championship Octagon.",
-      "source": "Sherdog.com",
-      "url": "https://www.sherdog.com/news/news/Jacobe-Smith-predicts-altercation-with-Kevin-Holland-outside-UFC-cage-203406",
-      "image": "/fightonomics/agents/mma-news-updater/images/jacobe-smith-predicts-altercation-with-kevin-holland-outside-ufc-cage-1793336143925.jpeg",
-      "publishedAt": "2026-10-29T03:46:14Z"
-    },
-    "ourTake": "Championship-level grappling is non-negotiable. Control time and submission threat determine title runs.",
-    "grappleFocus": {
-      "score": 0,
-      "keywords": [],
-      "isFocused": false
-    },
-    "publishedAt": "2026-10-29T03:46:14Z"
-  },
-  {
-    "originalArticle": {
-      "title": "Sherdog Prospect Watch: Two-division Oktagon champ Lucia Szabova",
-      "description": "The Ultimate Fighting Championship women’s bantamweight division is getting a very interesting addition in Lucia Szabova.",
-      "source": "Sherdog.com",
-      "url": "https://www.sherdog.com/news/articles/Sherdog-Prospect-Watch-Twodivision-Oktagon-champ-Lucia-Szabova-203401",
-      "image": "/fightonomics/agents/mma-news-updater/images/sherdog-prospect-watch-two-division-oktagon-champ-lucia-szabova-1793336143926.jpeg",
-      "publishedAt": "2026-10-29T01:56:04Z"
-    },
-    "ourTake": "Championship-level grappling is non-negotiable. Control time and submission threat determine title runs.",
-    "grappleFocus": {
-      "score": 0,
-      "keywords": [],
-      "isFocused": false
-    },
-    "publishedAt": "2026-10-29T01:56:04Z"
-  },
-  {
-    "originalArticle": {
-      "title": "Joselyne Edwards lands potentially massive role for UFC 334",
-      "description": "Should something go wrong ahead of the UFC 334 co-main event, the promotion has a backup plan ready.",
+      "title": "UFC Vegas 124 main event canceled due to injury",
+      "description": "The UFC card in nine days has lost its main event.",
       "source": "USA Today",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/28/ufc-334-kayla-harrison-vs-amanda-nunes-backup-joselyne-edwards/92489521007/",
-      "image": null,
-      "publishedAt": "2026-10-29T01:54:20Z"
-    },
-    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
-    "grappleFocus": {
-      "score": 0,
-      "keywords": [],
-      "isFocused": false
-    },
-    "publishedAt": "2026-10-29T01:54:20Z"
-  },
-  {
-    "originalArticle": {
-      "title": "mma-dual 0.1.1",
-      "description": "MMA and GCMMA subproblems solved by the dual method (drop-in replacement for mmapy's mmasub/gcmmasub) for problems with few constraints",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/mma-dual/0.1.1/",
-      "image": null,
-      "publishedAt": "2026-10-29T01:31:59Z"
-    },
-    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
-    "grappleFocus": {
-      "score": 0,
-      "keywords": [],
-      "isFocused": false
-    },
-    "publishedAt": "2026-10-29T01:31:59Z"
-  },
-  {
-    "originalArticle": {
-      "title": "mma-dual added to PyPI",
-      "description": "MMA and GCMMA subproblems solved by the dual method (drop-in replacement for mmapy's mmasub/gcmmasub) for problems with few constraints",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/mma-dual/",
-      "image": null,
-      "publishedAt": "2026-10-29T01:31:46Z"
-    },
-    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
-    "grappleFocus": {
-      "score": 0,
-      "keywords": [],
-      "isFocused": false
-    },
-    "publishedAt": "2026-10-29T01:31:46Z"
-  },
-  {
-    "originalArticle": {
-      "title": "Alexander Volkanovski has another target if Justin Gaethje retires",
-      "description": "Alexander Volkanovski wants another chance at the UFC lightweight title with or without Justin Gaethje.",
-      "source": "USA Today",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/28/alexander-volkanovski-title-options-justin-gaethje-arman-tsarukyan/92486148007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/alexander-volkanovski-has-another-target-if-justin-gaethje-retires-1793336143931.jpeg",
-      "publishedAt": "2026-10-29T01:20:28Z"
-    },
-    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
-    "grappleFocus": {
-      "score": 0,
-      "keywords": [],
-      "isFocused": false
-    },
-    "publishedAt": "2026-10-29T01:20:28Z"
-  },
-  {
-    "originalArticle": {
-      "title": "Joselyne Edwards to serve as backup fighter for Kayla Harrison vs. Amanda Nunes at UFC 334",
-      "description": "Joselyne Edwards will weigh in as a plan B for a UFC title bout",
-      "source": "MMA Fighting",
-      "url": "https://www.mmafighting.com/ufc/518223/joselyne-edwards-to-serve-as-backup-fighter-for-kayla-harrison-vs-amanda-nunes-at-ufc-334",
-      "image": "/fightonomics/agents/mma-news-updater/images/joselyne-edwards-to-serve-as-backup-fighter-for-kayla-harrison-vs-amanda-nunes-at-ufc-334-1793336143931.jpeg",
-      "publishedAt": "2026-10-29T01:03:38Z"
-    },
-    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
-    "grappleFocus": {
-      "score": 0,
-      "keywords": [],
-      "isFocused": false
-    },
-    "publishedAt": "2026-10-29T01:03:38Z"
-  },
-  {
-    "originalArticle": {
-      "title": "Tom Nolan explains how he manifested UFC main event vs. 'hero' Renato Moicano",
-      "description": "There's a lot of respect between the UFC Vegas 123 headliners.",
-      "source": "USA Today",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/28/ufc-vegas-123-tom-nolan-renato-moicano-manifest-hero/92483998007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/tom-nolan-explains-how-he-manifested-ufc-main-event-vs-hero-renato-moicano-1793336143932.jpeg",
-      "publishedAt": "2026-10-29T00:30:24Z"
-    },
-    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
-    "grappleFocus": {
-      "score": 0,
-      "keywords": [],
-      "isFocused": false
-    },
-    "publishedAt": "2026-10-29T00:30:24Z"
-  },
-  {
-    "originalArticle": {
-      "title": "UFC Vegas 123, Renato Moicano vs. Tom Nolan, main card predictions",
-      "description": "Preview and predictions for UFC Vegas 123's main card",
-      "source": "The Big Lead",
-      "url": "https://www.thebiglead.com/ufc-vegas-123-renato-moicano-vs-tom-nolan-main-card-predictions/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-vegas-123-renato-moicano-vs-tom-nolan-main-card-predictions-1793336143933.jpeg",
-      "publishedAt": "2026-10-29T00:16:38Z"
-    },
-    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
-    "grappleFocus": {
-      "score": 0,
-      "keywords": [],
-      "isFocused": false
-    },
-    "publishedAt": "2026-10-29T00:16:38Z"
-  },
-  {
-    "originalArticle": {
-      "title": "UFC Vegas 123 betting picks: Moicano vs. Nolan & 5 bets",
-      "description": "Seán Sheehan is back with another UFC betting preview as the Octagon returns to Meta Apex in Las Vegas for UFC Vegas 123 -- also known as UFC Fight Night 292 -- headlined by Renato “Money” Moicano against Tom Nolan.",
-      "source": "Sherdog.com",
-      "url": "https://www.sherdog.com/videos/sherdogradio/UFC-Vegas-123-betting-picks-Moicano-vs-Nolan-5-bets-23908",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-vegas-123-betting-picks-moicano-vs-nolan-5-bets-1793336143934.jpeg",
-      "publishedAt": "2026-10-29T00:05:12Z"
-    },
-    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
-    "grappleFocus": {
-      "score": 0,
-      "keywords": [],
-      "isFocused": false
-    },
-    "publishedAt": "2026-10-29T00:05:12Z"
-  },
-  {
-    "originalArticle": {
-      "title": "Renato Moicano wants to fight out UFC contract and explore options",
-      "description": "Renato Moicano admits, he may not have many fights left after UFC Vegas 123.",
-      "source": "USA Today",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/28/ufc-vegas-123-renato-moicano-contract-tom-nolan/92486388007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/renato-moicano-wants-to-fight-out-ufc-contract-and-explore-options-1793336143934.jpeg",
-      "publishedAt": "2026-10-28T23:40:29Z"
-    },
-    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
-    "grappleFocus": {
-      "score": 0,
-      "keywords": [],
-      "isFocused": false
-    },
-    "publishedAt": "2026-10-28T23:40:29Z"
-  },
-  {
-    "originalArticle": {
-      "title": "Randy Brown: 'The prediction is pain' for Jacobe Smith at UFC Vegas 123",
-      "description": "36-year-old Randy Brown enters UFC Vegas 123 on a two-fight skid and as an underdog vs. hyped Jacobe Smith.",
-      "source": "USA Today",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/28/ufc-vegas-123-video-randy-brown-prediction-pain-jacobe-smith/92485524007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/randy-brown-the-prediction-is-pain-for-jacobe-smith-at-ufc-vegas-123-1793336143934.jpeg",
-      "publishedAt": "2026-10-28T22:50:15Z"
-    },
-    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
-    "grappleFocus": {
-      "score": 0,
-      "keywords": [],
-      "isFocused": false
-    },
-    "publishedAt": "2026-10-28T22:50:15Z"
-  },
-  {
-    "originalArticle": {
-      "title": "Jacobe Smith sets title timeline ahead of UFC Vegas 123 co-main event",
-      "description": "UFC Vegas 123 co-headliner Jacobe Smith says it won't be long until he's in the thick of the welterweight title conversation.",
-      "source": "USA Today",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/28/ufc-vegas-123-jacobe-smith-sets-title-welterweight-timeline/92483764007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/jacobe-smith-sets-title-timeline-ahead-of-ufc-vegas-123-co-main-event-1793336143935.jpeg",
-      "publishedAt": "2026-10-28T22:00:32Z"
-    },
-    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
-    "grappleFocus": {
-      "score": 0,
-      "keywords": [],
-      "isFocused": false
-    },
-    "publishedAt": "2026-10-28T22:00:32Z"
-  },
-  {
-    "originalArticle": {
-      "title": "Alexander Volkov on awkward Dana White moment: 'Of course he didn't recognize me'",
-      "description": "Alexander Volkov remains convinced that Dana White had no idea it was him asking a question at the UFC 333 pre-fight news conference.",
-      "source": "USA Today",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/28/alexander-volkanovski-reaction-dana-white-awkward-ufc-333-press-conference-exchange/92483826007/",
-      "image": null,
-      "publishedAt": "2026-10-28T21:10:23Z"
-    },
-    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
-    "grappleFocus": {
-      "score": 0,
-      "keywords": [],
-      "isFocused": false
-    },
-    "publishedAt": "2026-10-28T21:10:23Z"
-  },
-  {
-    "originalArticle": {
-      "title": "Dakota Ditcheva cleared from hand injury, eyes early 2027 title return",
-      "description": "Dakota Ditcheva gives an update on her hand injuries and return to the MVP MMA cage.",
-      "source": "USA Today",
-      "url": "https://mmajunkie.usatoday.com/story/sports/pfl/2026/10/28/dakota-ditcheva-cleared-hand-injury-eyes-early-2027-title-return/92480521007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/dakota-ditcheva-cleared-from-hand-injury-eyes-early-2027-title-return-1793336143936.jpeg",
-      "publishedAt": "2026-10-28T20:20:27Z"
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/29/ufc-vegas-124-sean-brady-vs-gabriel-bonfim-canceled/92497776007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-vegas-124-main-event-canceled-due-to-injury-1793382217968.jpeg",
+      "publishedAt": "2026-10-29T16:45:06Z"
     },
     "ourTake": "Grappling-heavy fighters often return stronger from injury due to deep positional knowledge.",
     "grappleFocus": {
@@ -269,33 +31,101 @@
       "keywords": [],
       "isFocused": false
     },
-    "publishedAt": "2026-10-28T20:20:27Z"
+    "publishedAt": "2026-10-29T16:45:06Z"
   },
   {
     "originalArticle": {
-      "title": "Tom Nolan makes permanent City Kickboxing move before Moicano fight",
-      "description": "Tom Nolan has moved permanently from Australia to New Zealand to join Eugene Bareman’s City Kickboxing gym in Auckland ahead of the biggest fight of his Ultimate Fighting Championship career.",
-      "source": "Sherdog.com",
-      "url": "https://www.sherdog.com/news/news/Tom-Nolan-makes-permanent-City-Kickboxing-move-before-Moicano-fight-203396",
-      "image": "/fightonomics/agents/mma-news-updater/images/tom-nolan-makes-permanent-city-kickboxing-move-before-moicano-fight-1793336143936.jpeg",
-      "publishedAt": "2026-10-28T19:31:15Z"
+      "title": "Sean Brady out of UFC Vegas 124 main event against Gabriel Bonfim",
+      "description": "Sean Brady has been forced out of his upcoming main event fight due to injury",
+      "source": "MMA Fighting",
+      "url": "https://www.mmafighting.com/ufc/518348/sean-brady-out-of-ufc-vegas-124-main-event-against-gabriel-bonfim",
+      "image": "/fightonomics/agents/mma-news-updater/images/sean-brady-out-of-ufc-vegas-124-main-event-against-gabriel-bonfim-1793382217969.jpeg",
+      "publishedAt": "2026-10-29T16:41:00Z"
     },
-    "ourTake": "Championship-level grappling is non-negotiable. Control time and submission threat determine title runs.",
+    "ourTake": "Grappling-heavy fighters often return stronger from injury due to deep positional knowledge.",
     "grappleFocus": {
       "score": 0,
       "keywords": [],
       "isFocused": false
     },
-    "publishedAt": "2026-10-28T19:31:15Z"
+    "publishedAt": "2026-10-29T16:41:00Z"
   },
   {
     "originalArticle": {
-      "title": "UFC champion expects Quillan Salkilld to 'smoke' Benoit Saint Denis",
-      "description": "Big things could be ahead for Quillan Salkilld if he wins big in his second UFC main event.",
+      "title": "Jean Silva Believes Even Alexander Volkanovski Would Crown Jose Aldo the UFC Featherweight GOAT",
+      "description": "For many fans, Alexander Volkanovski cemented his status as the featherweight GOAT at UFC 333. After all, the Aussie defeated previously undefeated Movsar Evloev at 38 years old, despite battling a nasty flu during fight week. Volkanovski also secured his nin…",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/jean-silva-believes-even-alexander-163545264.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/jean-silva-believes-even-alexander-volkanovski-would-crown-jose-aldo-the-ufc-featherweight-goat-1793382217969.jpeg",
+      "publishedAt": "2026-10-29T16:35:45Z"
+    },
+    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
+    "grappleFocus": {
+      "score": 0,
+      "keywords": [],
+      "isFocused": false
+    },
+    "publishedAt": "2026-10-29T16:35:45Z"
+  },
+  {
+    "originalArticle": {
+      "title": "Diego Demme: From Maradona’s Namesake to Napoli’s Scudetto Winner",
+      "description": "Recently retired from pro football, Diego Demme sits down with us to reflect on his 16-year career. It was the early 1990s, and Fabio Cannavaro was preparing for one of his first training sessions wi...",
+      "source": "Urbanpitch.com",
+      "url": "https://urbanpitch.com/diego-demme-from-maradonas-namesake-to-napolis-scudetto-winner/",
+      "image": "/fightonomics/agents/mma-news-updater/images/diego-demme-from-maradona-s-namesake-to-napoli-s-scudetto-winner-1793382217970.jpeg",
+      "publishedAt": "2026-10-29T16:18:00Z"
+    },
+    "ourTake": "Training camp focus: Wrestling and positional grappling will determine success in this matchup.",
+    "grappleFocus": {
+      "score": 0,
+      "keywords": [],
+      "isFocused": false
+    },
+    "publishedAt": "2026-10-29T16:18:00Z"
+  },
+  {
+    "originalArticle": {
+      "title": "UFC heavyweight legend believes Alex Pereira can win third division title",
+      "description": "Stipe Miocic isn't ruling out Alex Pereira's chances of becoming UFC heavyweight champion.",
       "source": "USA Today",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/28/ufc-fight-night-sydney-quillan-salkilld-backed-by-alexander-volkanovski/92475602007/",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/29/ufc-stipe-miocic-prediction-alex-pereira-heavyweight-future-third-title/92493015007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-heavyweight-legend-believes-alex-pereira-can-win-third-division-title-1793382217971.jpeg",
+      "publishedAt": "2026-10-29T16:10:20Z"
+    },
+    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
+    "grappleFocus": {
+      "score": 0,
+      "keywords": [],
+      "isFocused": false
+    },
+    "publishedAt": "2026-10-29T16:10:20Z"
+  },
+  {
+    "originalArticle": {
+      "title": "Alexander Volkanovski Battled Two Nasty Staph Infections Before UFC 314 Fight Against Diego Lopes",
+      "description": "Cody Thicknesse reveals Alexander Volkanovski has battled far worse health issues than the flu, including two staph infections before UFC 314.",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/alexander-volkanovski-battled-two-nasty-155652496.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/alexander-volkanovski-battled-two-nasty-staph-infections-before-ufc-314-fight-against-diego-lopes-1793382217972.jpeg",
+      "publishedAt": "2026-10-29T15:56:52Z"
+    },
+    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
+    "grappleFocus": {
+      "score": 0,
+      "keywords": [],
+      "isFocused": false
+    },
+    "publishedAt": "2026-10-29T15:56:52Z"
+  },
+  {
+    "originalArticle": {
+      "title": "mma-dual 0.1.2",
+      "description": "MMA and GCMMA subproblems solved by the dual method (drop-in replacement for mmapy's mmasub/gcmmasub) for problems with few constraints",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/mma-dual/0.1.2/",
       "image": null,
-      "publishedAt": "2026-10-28T19:30:26Z"
+      "publishedAt": "2026-10-29T15:54:11Z"
     },
     "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
     "grappleFocus": {
@@ -303,33 +133,35 @@
       "keywords": [],
       "isFocused": false
     },
-    "publishedAt": "2026-10-28T19:30:26Z"
+    "publishedAt": "2026-10-29T15:54:11Z"
   },
   {
     "originalArticle": {
-      "title": "Israel Adesanya signs UFC bout agreement, says his four-fight skid will end",
-      "description": "Israel Adesanya says he has signed the contracts for his next fight and rediscovered his motivation after four consecutive losses.",
+      "title": "Jacobe Smith says MMA taught him wrestling lessons college didn't",
+      "description": "Jacobe Smith believes his striking and understanding of wrestling are reaching a new level.",
       "source": "Sherdog.com",
-      "url": "https://www.sherdog.com/news/news/Israel-Adesanya-signs-UFC-bout-agreement-says-his-fourfight-skid-will-end-203395",
-      "image": "/fightonomics/agents/mma-news-updater/images/israel-adesanya-signs-ufc-bout-agreement-says-his-four-fight-skid-will-end-1793336143937.jpeg",
-      "publishedAt": "2026-10-28T19:22:52Z"
+      "url": "https://www.sherdog.com/news/news/Jacobe-Smith-says-MMA-taught-him-wrestling-lessons-college-didnt-203414",
+      "image": "/fightonomics/agents/mma-news-updater/images/jacobe-smith-says-mma-taught-him-wrestling-lessons-college-didn-t-1793382217974.jpeg",
+      "publishedAt": "2026-10-29T15:42:57Z"
     },
-    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
+    "ourTake": "Striking exchanges mean nothing without solid grappling defense. Ground game is the foundation.",
     "grappleFocus": {
-      "score": 0,
-      "keywords": [],
+      "score": 5,
+      "keywords": [
+        "wrestling"
+      ],
       "isFocused": false
     },
-    "publishedAt": "2026-10-28T19:22:52Z"
+    "publishedAt": "2026-10-29T15:42:57Z"
   },
   {
     "originalArticle": {
-      "title": "Cris Cyborg says Claressa Shields quit MMA because it was 'too hard'",
-      "description": "Cris Cyborg took aim at Claressa Shields, accusing the boxing champion of abandoning mixed martial arts because it was too difficult.",
+      "title": "BKB 63: MMA vets Lorawnt-T Nelson, David Winiarski top double title card",
+      "description": "Lorawnt-T Nelson will defend his BKB super middleweight world title against David “Tartan Titan” Winiarski in the main event of BKB 63 on Dec. 19 at Foxwoods Resort Casino in Mashantucket, Connecticut.",
       "source": "Sherdog.com",
-      "url": "https://www.sherdog.com/news/news/Cris-Cyborg-says-Claressa-Shields-quit-MMA-because-it-was-too-hard-203394",
-      "image": "/fightonomics/agents/mma-news-updater/images/cris-cyborg-says-claressa-shields-quit-mma-because-it-was-too-hard-1793336143939.jpeg",
-      "publishedAt": "2026-10-28T19:08:06Z"
+      "url": "https://www.sherdog.com/news/news/BKB-63-MMA-vets-LorawntT-Nelson-David-Winiarski-top-double-title-card-203410",
+      "image": "/fightonomics/agents/mma-news-updater/images/bkb-63-mma-vets-lorawnt-t-nelson-david-winiarski-top-double-title-card-1793382217975.jpeg",
+      "publishedAt": "2026-10-29T15:42:53Z"
     },
     "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
     "grappleFocus": {
@@ -337,6 +169,178 @@
       "keywords": [],
       "isFocused": false
     },
-    "publishedAt": "2026-10-28T19:08:06Z"
+    "publishedAt": "2026-10-29T15:42:53Z"
+  },
+  {
+    "originalArticle": {
+      "title": "Farman Hasanov promises 'good show' at UFC Vegas 123 after 17-takedown debut win",
+      "description": "Farman Hasanov scored 17 takedowns in his octagon debut. What does he have for an encore at UFC Vegas 123?",
+      "source": "USA Today",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/29/ufc-vegas-123-video-farman-hasanov-promises-show-after-17-takedown-debut-win/92482392007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/farman-hasanov-promises-good-show-at-ufc-vegas-123-after-17-takedown-debut-win-1793382217975.jpeg",
+      "publishedAt": "2026-10-29T15:20:34Z"
+    },
+    "ourTake": "We'll learn a lot about this fighter's grappling fundamentals - the true test of MMA skill.",
+    "grappleFocus": {
+      "score": 5,
+      "keywords": [
+        "takedown"
+      ],
+      "isFocused": false
+    },
+    "publishedAt": "2026-10-29T15:20:34Z"
+  },
+  {
+    "originalArticle": {
+      "title": "Conor McGregor’s coach reveals UFC legend’s stance on retirement and future plan",
+      "description": "Conor McGregor’s long-time coach John Kavanagh has refused to rule out another UFC appearance for the Irishman, although a return to MMA training could still be some way off. Kavanagh believes McGregor remains determined to fight again, despite uncertainty ov…",
+      "source": "HITC - Football, Gaming, Movies, TV, Music",
+      "url": "https://www.hitc.com/conor-mcgregors-coach-reveals-ufc-legends-stance-on-retirement-and-future-plan/",
+      "image": "/fightonomics/agents/mma-news-updater/images/conor-mcgregor-s-coach-reveals-ufc-legend-s-stance-on-retirement-and-future-plan-1793382217976.jpeg",
+      "publishedAt": "2026-10-29T14:36:51Z"
+    },
+    "ourTake": "Training camp focus: Wrestling and positional grappling will determine success in this matchup.",
+    "grappleFocus": {
+      "score": 0,
+      "keywords": [],
+      "isFocused": false
+    },
+    "publishedAt": "2026-10-29T14:36:51Z"
+  },
+  {
+    "originalArticle": {
+      "title": "Why Michael Bisping doesn't want to see Justin Gaethje vs. Alexander Volkanovski",
+      "description": "Michael Bisping says a superfight between Justin Gaethje and Alexander Volkanovski would put two divisions in limbo.",
+      "source": "USA Today",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/29/ufc-michael-bisping-opinion-justin-gaethje-vs-alexander-volkanovski-retirement-fight-not-in-favor/92492800007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/why-michael-bisping-doesn-t-want-to-see-justin-gaethje-vs-alexander-volkanovski-1793382217976.jpeg",
+      "publishedAt": "2026-10-29T14:30:32Z"
+    },
+    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
+    "grappleFocus": {
+      "score": 0,
+      "keywords": [],
+      "isFocused": false
+    },
+    "publishedAt": "2026-10-29T14:30:32Z"
+  },
+  {
+    "originalArticle": {
+      "title": "UFC Vegas 123's Jean-Paul Lebosnoyani not chasing 'unnecessary jumps' in career",
+      "description": "Jean-Paul Lebosnoyani explains why he's not looking for a quick rise at welterweight going into UFC Vegas 123.",
+      "source": "USA Today",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/29/ufc-vegas-123-jean-paul-lebosnoyani-isnt-seeking-unnecessary-jumps/92484461007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-vegas-123-s-jean-paul-lebosnoyani-not-chasing-unnecessary-jumps-in-career-1793382217977.jpeg",
+      "publishedAt": "2026-10-29T13:40:30Z"
+    },
+    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
+    "grappleFocus": {
+      "score": 0,
+      "keywords": [],
+      "isFocused": false
+    },
+    "publishedAt": "2026-10-29T13:40:30Z"
+  },
+  {
+    "originalArticle": {
+      "title": "Jake Paul announces date, location for boxing return: ‘Somebody’s getting knocked out’",
+      "description": "Jake Paul returns a year after a devastating loss to Anthony Joshua",
+      "source": "MMA Fighting",
+      "url": "https://www.mmafighting.com/boxing/518271/jake-paul-announces-date-location-for-boxing-return-somebodys-getting-knocked-out",
+      "image": "/fightonomics/agents/mma-news-updater/images/jake-paul-announces-date-location-for-boxing-return-somebody-s-getting-knocked-out-1793382217977.jpeg",
+      "publishedAt": "2026-10-29T13:30:00Z"
+    },
+    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
+    "grappleFocus": {
+      "score": 0,
+      "keywords": [],
+      "isFocused": false
+    },
+    "publishedAt": "2026-10-29T13:30:00Z"
+  },
+  {
+    "originalArticle": {
+      "title": "Open Thread, Thursday, October 29: Which pro athlete would you like to see in MMA?",
+      "description": "﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿Your daily source for off topic chatter with the MMA Mania faithful.",
+      "source": "MMA Mania",
+      "url": "https://www.mmamania.com/daily_mania_ufc_mma/482334/open-thread-thursday-october-29-which-pro-athlete-would-you-like-to-see-in-mma",
+      "image": "/fightonomics/agents/mma-news-updater/images/open-thread-thursday-october-29-which-pro-athlete-would-you-like-to-see-in-mma-1793382217977.jpeg",
+      "publishedAt": "2026-10-29T13:05:00Z"
+    },
+    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
+    "grappleFocus": {
+      "score": 0,
+      "keywords": [],
+      "isFocused": false
+    },
+    "publishedAt": "2026-10-29T13:05:00Z"
+  },
+  {
+    "originalArticle": {
+      "title": "UFC picks Joselyne Edwards as back-up fighter for Kayla Harrison vs. Amanda Nunes at Madison Square Garden",
+      "description": "No matter what happens in the coming weeks, someone is gonna fight for the UFC women’s bantamweight title at UFC 334 on November 12th. Sources have confirmed that No. 1 ranked women’s 135 pounder Joselyne Edwards will travel to New York City and weigh in as t…",
+      "source": "MMA Mania",
+      "url": "https://www.mmamania.com/ufc-news/482424/ufc-picks-joselyne-edwards-as-back-up-fighter-for-kayla-harrison-vs-amanda-nunes-at-madison-square-garden",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-picks-joselyne-edwards-as-back-up-fighter-for-kayla-harrison-vs-amanda-nunes-at-madison-square-garden-1793382217978.jpeg",
+      "publishedAt": "2026-10-29T11:18:11Z"
+    },
+    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
+    "grappleFocus": {
+      "score": 0,
+      "keywords": [],
+      "isFocused": false
+    },
+    "publishedAt": "2026-10-29T11:18:11Z"
+  },
+  {
+    "originalArticle": {
+      "title": "Jake Paul will make his boxing comeback on Christmas Eve in Dubai - just a year after suffering a double broken jaw in brutal defeat by Anthony Joshua",
+      "description": "Most Valuable Promotions (MVP) have yet to confirm who Paul will face as he prepares to return to action following the most damaging defeat of his professional career.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/sport/boxing/article-16246217/Jake-Paul-make-boxing-comeback-Christmas-Eve-Dubai-just-year-suffering-double-broken-jaw-brutal-defeat-Anthony-Joshua.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/jake-paul-will-make-his-boxing-comeback-on-christmas-eve-in-dubai-just-a-year-after-suffering-a-double-broken-jaw-in-brutal-defeat-by-anthony-joshua-1793382217979.jpeg",
+      "publishedAt": "2026-10-29T11:00:56Z"
+    },
+    "ourTake": "Comebacks are built on grappling maturity and tactical patience. Striking flashiness fades; ring control persists.",
+    "grappleFocus": {
+      "score": 0,
+      "keywords": [],
+      "isFocused": false
+    },
+    "publishedAt": "2026-10-29T11:00:56Z"
+  },
+  {
+    "originalArticle": {
+      "title": "Jake Paul’s boxing return set for Christmas Eve in Dubai, with streaming partner in question",
+      "description": "Jake Paul will return to the ring in Dubai for his first fight since suffering a broken jaw against Anthony Joshua.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/10/29/sports/jake-pauls-boxing-return-set-for-christmas-eve-in-dubai-with-streaming-partner-in-question/",
+      "image": "/fightonomics/agents/mma-news-updater/images/jake-paul-s-boxing-return-set-for-christmas-eve-in-dubai-with-streaming-partner-in-question-1793382217979.jpeg",
+      "publishedAt": "2026-10-29T11:00:00Z"
+    },
+    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
+    "grappleFocus": {
+      "score": 0,
+      "keywords": [],
+      "isFocused": false
+    },
+    "publishedAt": "2026-10-29T11:00:00Z"
+  },
+  {
+    "originalArticle": {
+      "title": "Midnight Sun Appoints Independent Chairman and Nominates Two Senior Mining and Capital Markets Executives to Board",
+      "description": "VANCOUVER, British Columbia, Oct. 29, 2026 (GLOBE NEWSWIRE) — Midnight Sun Mining Corp. (TSXV: MMA / OTCQX: MDNGF) (“Midnight Sun” or the “Company”) is pleased to announce the appointment of a Chairman of the Board, as well as the nomination of two new, highl…",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/midnight-sun-appoints-independent-chairman-and-nominates-two-senior-mining-and-capital-markets-executives-to-board",
+      "image": null,
+      "publishedAt": "2026-10-29T10:39:13Z"
+    },
+    "ourTake": "Grappling mastery is the foundation of MMA success. This story's true significance will be determined by positional excellence and ground control dynamics.",
+    "grappleFocus": {
+      "score": 0,
+      "keywords": [],
+      "isFocused": false
+    },
+    "publishedAt": "2026-10-29T10:39:13Z"
   }
 ]
