@@ -1,90 +1,99 @@
 {
-  "lastUpdated": "2026-10-29T18:01:58.782Z",
+  "lastUpdated": "2026-10-30T04:55:46.481Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
+      "title": "Daniel Cormier clears the air with Sean O’Malley after in-cage snafu at UFC 333",
+      "description": "Bringing you the weird and wild from the world of MMA each and every weeknight!",
+      "url": "https://www.mmamania.com/midnight-mmamania-news/482333/daniel-cormier-clears-the-air-with-sean-omalley-after-in-cage-snafu-at-ufc-333",
+      "image": "/fightonomics/agents/mma-news-updater/images/daniel-cormier-clears-the-air-with-sean-o-malley-after-in-cage-snafu-at-ufc-333-1793336143944.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-10-29T03:59:00Z",
+      "author": "Tim Edwards"
+    },
+    {
+      "title": "Jacobe Smith predicts altercation with Kevin Holland outside UFC cage",
+      "description": "Jacobe Smith is eager to square off against Kevin Holland, inside or outside the Ultimate Fighting Championship Octagon.",
+      "url": "https://www.sherdog.com/news/news/Jacobe-Smith-predicts-altercation-with-Kevin-Holland-outside-UFC-cage-203406",
+      "image": "/fightonomics/agents/mma-news-updater/images/jacobe-smith-predicts-altercation-with-kevin-holland-outside-ufc-cage-1793336143944.jpeg",
+      "source": "Sherdog.com",
+      "publishedAt": "2026-10-29T03:46:14Z",
+      "author": "sayannag88@gmail.com (Sayan Nag)"
+    },
+    {
+      "title": "Joselyne Edwards lands potentially massive role for UFC 334",
+      "description": "Should something go wrong ahead of the UFC 334 co-main event, the promotion has a backup plan ready.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/28/ufc-334-kayla-harrison-vs-amanda-nunes-backup-joselyne-edwards/92489521007/",
+      "image": null,
+      "source": "USA Today",
+      "publishedAt": "2026-10-29T01:54:20Z",
+      "author": "Matthew Wells and Danny Segura, MMA Junkie"
+    },
+    {
+      "title": "Joselyne Edwards to serve as backup fighter for Kayla Harrison vs. Amanda Nunes at UFC 334",
+      "description": "Joselyne Edwards will weigh in as a plan B for a UFC title bout",
+      "url": "https://www.mmafighting.com/ufc/518223/joselyne-edwards-to-serve-as-backup-fighter-for-kayla-harrison-vs-amanda-nunes-at-ufc-334",
+      "image": "/fightonomics/agents/mma-news-updater/images/joselyne-edwards-to-serve-as-backup-fighter-for-kayla-harrison-vs-amanda-nunes-at-ufc-334-1793336143945.jpeg",
+      "source": "MMA Fighting",
+      "publishedAt": "2026-10-29T01:03:38Z",
+      "author": "Guilherme Cruz"
+    },
+    {
+      "title": "Tom Nolan explains how he manifested UFC main event vs. 'hero' Renato Moicano",
+      "description": "There's a lot of respect between the UFC Vegas 123 headliners.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/28/ufc-vegas-123-tom-nolan-renato-moicano-manifest-hero/92483998007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/tom-nolan-explains-how-he-manifested-ufc-main-event-vs-hero-renato-moicano-1793336143946.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-10-29T00:30:24Z",
+      "author": "Nolan King and Ken Hathaway, MMA Junkie"
+    },
+    {
+      "title": "UFC Vegas 123, Renato Moicano vs. Tom Nolan, main card predictions",
+      "description": "Preview and predictions for UFC Vegas 123's main card",
+      "url": "https://www.thebiglead.com/ufc-vegas-123-renato-moicano-vs-tom-nolan-main-card-predictions/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-vegas-123-renato-moicano-vs-tom-nolan-main-card-predictions-1793336143946.jpeg",
+      "source": "The Big Lead",
+      "publishedAt": "2026-10-29T00:16:38Z",
+      "author": "Preston Palm"
+    },
+    {
+      "title": "UFC Vegas 123 betting picks: Moicano vs. Nolan & 5 bets",
+      "description": "Seán Sheehan is back with another UFC betting preview as the Octagon returns to Meta Apex in Las Vegas for UFC Vegas 123 -- also known as UFC Fight Night 292 -- headlined by Renato “Money” Moicano against Tom Nolan.",
+      "url": "https://www.sherdog.com/videos/sherdogradio/UFC-Vegas-123-betting-picks-Moicano-vs-Nolan-5-bets-23908",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-vegas-123-betting-picks-moicano-vs-nolan-5-bets-1793336143946.jpeg",
+      "source": "Sherdog.com",
+      "publishedAt": "2026-10-29T00:05:12Z",
+      "author": "ssheehan@sherdog.com (Sean Sheehan)"
+    },
+    {
+      "title": "Jacobe Smith sets title timeline ahead of UFC Vegas 123 co-main event",
+      "description": "UFC Vegas 123 co-headliner Jacobe Smith says it won't be long until he's in the thick of the welterweight title conversation.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/28/ufc-vegas-123-jacobe-smith-sets-title-welterweight-timeline/92483764007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/jacobe-smith-sets-title-timeline-ahead-of-ufc-vegas-123-co-main-event-1793336143947.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-10-28T22:00:32Z",
+      "author": "Mike Bohn and Ken Hathaway, MMA Junkie"
+    },
+    {
+      "title": "Alexander Volkov on awkward Dana White moment: 'Of course he didn't recognize me'",
+      "description": "Alexander Volkov remains convinced that Dana White had no idea it was him asking a question at the UFC 333 pre-fight news conference.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/28/alexander-volkanovski-reaction-dana-white-awkward-ufc-333-press-conference-exchange/92483826007/",
+      "image": null,
+      "source": "USA Today",
+      "publishedAt": "2026-10-28T21:10:23Z",
+      "author": "Simon Samano, MMA Junkie"
+    },
+    {
       "title": "Alexander Volkanovski Keeps Defying Age at 38: What Other UFC Greats Were Doing at the Time?",
       "description": "With Alexander Volkanovski knocking out Movsar Evloev at 38, what were UFC legends like Jon Jones & Georges St-Pierre doing at the same age?",
       "url": "https://sports.yahoo.com/articles/alexander-volkanovski-keeps-defying-age-161437997.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/alexander-volkanovski-keeps-defying-age-at-38-what-other-ufc-greats-were-doing-at-the-time-1793296917296.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/alexander-volkanovski-keeps-defying-age-at-38-what-other-ufc-greats-were-doing-at-the-time-1793336143948.jpeg",
       "source": "Yahoo Entertainment",
       "publishedAt": "2026-10-28T16:14:37Z",
       "author": "Kshitiz Kumar Singh"
-    },
-    {
-      "title": "Carlos Prates claps back at Islam Makhachev's manager with cold response: 'Mark my words'",
-      "description": "Carlos Prates has made a bold statement after Islam Makhachev decided not to fight him at UFC 336.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/28/ufc-carlos-prates-cold-response-islam-makhachev-manager/92475609007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/carlos-prates-claps-back-at-islam-makhachev-s-manager-with-cold-response-mark-my-words-1793296917296.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-10-28T14:30:42Z",
-      "author": "Farah Hannoun, MMA Junkie"
-    },
-    {
-      "title": "Shumarov Vs. Mammadov Lightweight Kickboxing Bout Added To ONE Fight Night 49, Full Card Revealed",
-      "description": "The Bulgarian knockout artist welcomes the Azerbaijani newcomer on Friday, November 6.",
-      "url": "https://www.onefc.com/news/shumarov-vs-mammadov-lightweight-kickboxing-bout-added-to-one-fight-night-49-full-card-revealed/",
-      "image": "/fightonomics/agents/mma-news-updater/images/shumarov-vs-mammadov-lightweight-kickboxing-bout-added-to-one-fight-night-49-full-card-revealed-1793296917297.jpeg",
-      "source": "Onefc.com",
-      "publishedAt": "2026-10-28T09:47:02Z",
-      "author": "Vijay Kumar"
-    },
-    {
-      "title": "Midnight Mania: ‘UFC Fighters Paid Pennies’",
-      "description": "Bringing you the weird and wild from the world of MMA each and every weeknight!",
-      "url": "https://www.mmamania.com/ufc-news/482261/pfl-champion-reveals-pfl-roster-earn-twice-as-much-as-ufc-fighters-getting-paid-pennies",
-      "image": "/fightonomics/agents/mma-news-updater/images/midnight-mania-ufc-fighters-paid-pennies-1793296917297.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-10-28T03:59:00Z",
-      "author": "Alexander Behunin"
-    },
-    {
-      "title": "Renato Moicano calls Ortega vs. Hooker 'worst fight in the UFC'",
-      "description": "Renato “Money” Moicano is shocked that the Ultimate Fighting Championship matched up Brian Ortega and Dan Hooker.",
-      "url": "https://www.sherdog.com/news/news/Renato-Moicano-calls-Ortega-vs-Hooker-worst-fight-in-the-UFC-203390",
-      "image": "/fightonomics/agents/mma-news-updater/images/renato-moicano-calls-ortega-vs-hooker-worst-fight-in-the-ufc-1793296917298.jpeg",
-      "source": "Sherdog.com",
-      "publishedAt": "2026-10-28T03:29:19Z",
-      "author": "sayannag88@gmail.com (Sayan Nag)"
-    },
-    {
-      "title": "Jin Young, Kim Min Ho, Cha Woo Jin, And More Confirmed To Star In New Action Film",
-      "description": "Actors Jin Young, Kim Min Ho, Cha Woo Jin, and Lee Seol are joining forces for a new film! According to production company Big Punch Entertainment on October 28, the movie “Fighter” (literal title) kicks off filming today. “Fighter” is a youth crime action fi…",
-      "url": "http://www.soompi.com/article/1882083wpp/jin-young-kim-min-ho-cha-woo-jin-and-more-confirmed-to-star-in-new-action-film",
-      "image": "/fightonomics/agents/mma-news-updater/images/jin-young-kim-min-ho-cha-woo-jin-and-more-confirmed-to-star-in-new-action-film-1793296917298.jpeg",
-      "source": "soompi",
-      "publishedAt": "2026-10-28T03:15:53Z",
-      "author": "S Kim"
-    },
-    {
-      "title": "‘The Biggest Joy In My Life’ – Why Lucas Gabriel’s Daughter Is The Heartbeat Behind His Relentless Rise In ONE",
-      "description": "The Brazilian lightweight reveals what keeps him grounded ahead of his return at ONE Fight Night 49 on November 6.",
-      "url": "https://www.onefc.com/features/the-biggest-joy-in-my-life-lucas-gabriels-daughter-is-the-heartbeat-behind-his-relentless-rise-in-one-championship/",
-      "image": "/fightonomics/agents/mma-news-updater/images/the-biggest-joy-in-my-life-why-lucas-gabriel-s-daughter-is-the-heartbeat-behind-his-relentless-rise-in-one-1793296917299.jpeg",
-      "source": "Onefc.com",
-      "publishedAt": "2026-10-28T02:56:04Z",
-      "author": "Chris Mohan"
-    },
-    {
-      "title": "Vadim Nemkov says UFC fighters get 'mere pennies' despite huge revenue",
-      "description": "Vadim Nemkov wants to be financially comfortable after hanging up his gloves.",
-      "url": "https://www.sherdog.com/news/news/Vadim-Nemkov-says-UFC-fighters-get-mere-pennies-despite-huge-revenue-203387",
-      "image": null,
-      "source": "Sherdog.com",
-      "publishedAt": "2026-10-28T02:32:15Z",
-      "author": "Sayan Nag"
-    },
-    {
-      "title": "Malcolm Wellmaker says UFC loss 'hurts' after American Top Team move",
-      "description": "Malcolm Wellmaker lost his last bout despite changing gyms and he’s now on a three-fight losing skid in the Ultimate Fighting Championship.",
-      "url": "https://www.sherdog.com/news/news/Malcolm-Wellmaker-says-UFC-loss-hurts-after-American-Top-Team-move-203385",
-      "image": "/fightonomics/agents/mma-news-updater/images/malcolm-wellmaker-says-ufc-loss-hurts-after-american-top-team-move-1793296917300.jpeg",
-      "source": "Sherdog.com",
-      "publishedAt": "2026-10-28T01:58:00Z",
-      "author": "sayannag88@gmail.com (Sayan Nag)"
     }
   ]
 }
