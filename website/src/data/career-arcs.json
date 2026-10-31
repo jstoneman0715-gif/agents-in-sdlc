@@ -1,15 +1,78 @@
 {
-  "lastUpdated": "2026-10-31T04:41:36.144Z",
+  "lastUpdated": "2026-10-31T16:49:54.224Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
+      "title": "Who is Tom Nolan? Meet the rising Aussie looking to cut up one of his idols at UFC Fight Night",
+      "description": "Learn more about the burgeoning star ahead of his first UFC Fight Night main event against Renato Moicano",
+      "url": "https://www.cbssports.com/ufc/news/who-is-tom-nolan-meet-australian-ufc-fight-night-renato-moicano/",
+      "image": "/fightonomics/agents/mma-news-updater/images/who-is-tom-nolan-meet-the-rising-aussie-looking-to-cut-up-one-of-his-idols-at-ufc-fight-night-1793465392525.jpeg",
+      "source": "CBS Sports",
+      "publishedAt": "2026-10-30T16:13:10Z",
+      "author": "Shakiel Mahjouri"
+    },
+    {
+      "title": "UFC Fight Night 292 weigh-in results, live video stream",
+      "description": "Check out the results from the official UFC Fight Night 292 fighter weigh-ins.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/30/ufc-fight-night-las-vegas-renato-moicano-vs-tom-nolan-weigh-in-results-live-stream/92511900007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-fight-night-292-weigh-in-results-live-video-stream-1793465392525.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-10-30T15:01:01Z",
+      "author": "MMA Junkie"
+    },
+    {
+      "title": "Florida MMA Fighter Rescued An Alligator With His Bare Hands From An Elementary School",
+      "description": "An MMA fighter in Florida who spends his days as an alligator wrangler was called to a local elementary school to remove a juvenile alligator which had gotten trapped near the HVAC units. Mike Dragich who goes by ‘Blue Collar Brawler’ on Instagram proceeded t…",
+      "url": "https://brobible.com/sports/article/mma-fighter-captures-alligator-bare-hands-at-elementary-school-jacksonville/",
+      "image": "/fightonomics/agents/mma-news-updater/images/florida-mma-fighter-rescued-an-alligator-with-his-bare-hands-from-an-elementary-school-1793465392526.jpeg",
+      "source": "BroBible",
+      "publishedAt": "2026-10-30T14:24:30Z",
+      "author": "Cass Anderson"
+    },
+    {
+      "title": "Veteran UFC fighter says Daniel Cormier didn’t want to face Brock Lesnar",
+      "description": "Several years ago, MMA star Daniel Cormier looked eager to throw hands with Brock Lesnar during their UFC 226 face-off. However, veteran fighter Cain Velasquez recently revealed that Cormier held a much different opinion earlier. Daniel Cormier has shown inte…",
+      "url": "https://clutchpoints.com/ufc/ufc-news-veteran-fighter-cain-velasquez-daniel-cormier-didnt-want-brock-lesnar",
+      "image": "/fightonomics/agents/mma-news-updater/images/veteran-ufc-fighter-says-daniel-cormier-didn-t-want-to-face-brock-lesnar-1793465392526.jpeg",
+      "source": "ClutchPoints",
+      "publishedAt": "2026-10-30T14:06:55Z",
+      "author": "Shounak Chakrabarti, ClutchPoints"
+    },
+    {
+      "title": "UFC Vegas 123 preview: ‘Moicano vs. Nolan’ main, co-main event predictions",
+      "description": "Ultimate Fighting Championship (UFC) is just one day away from the upcoming UFC Vegas 123 mixed martial arts (MMA) event, which is set to go down tomorrow night (Sat., Oct. 31, 2026) on Paramount+ from inside Meta Apex in Las Vegas, Nevada. UFC Vegas 123 feat…",
+      "url": "https://www.mmamania.com/ufc-predictions/482126/ufc-vegas-123-preview-moicano-vs-nolan-main-co-main-event-predictions-mma",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-vegas-123-preview-moicano-vs-nolan-main-co-main-event-predictions-1793465392526.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-10-30T13:25:00Z",
+      "author": "Jesse Holland"
+    },
+    {
+      "title": "Paul Heyman reveals what derailed Brock Lesnar’s UFC career",
+      "description": "Regarded as one of the top professional wrestlers in the industry, Brock Lesnar has also experienced a successful sporting career in multiple other industries. A former NFL player as well as a successful UFC fighter , Lesnar has done it all. Done with his NFL…",
+      "url": "https://clutchpoints.com/ufc/ufc-news-paul-heyman-reveals-derailed-brock-lesnars-mma-career",
+      "image": "/fightonomics/agents/mma-news-updater/images/paul-heyman-reveals-what-derailed-brock-lesnar-s-ufc-career-1793465392527.jpeg",
+      "source": "ClutchPoints",
+      "publishedAt": "2026-10-30T12:42:54Z",
+      "author": "Shounak Chakrabarti, ClutchPoints"
+    },
+    {
+      "title": "Cruz and Dillashaw: Don’t blame Ciryl Gane for people getting poked in the eyes!",
+      "description": "Two former UFC champions had an interesting take on Ciryl Gane’s history of fouls in the cage.",
+      "url": "https://www.mmamania.com/ufc-news/482336/cruz-and-dillashaw-dont-blame-ciryl-gane-for-people-getting-poked-in-the-eyes",
+      "image": "/fightonomics/agents/mma-news-updater/images/cruz-and-dillashaw-don-t-blame-ciryl-gane-for-people-getting-poked-in-the-eyes-1793465392527.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-10-30T07:00:00Z",
+      "author": "Tim Edwards"
+    },
+    {
       "title": "UFC Vegas 124 Gets Brand New Heavyweight Headliner",
       "description": "After the news that Sean Brady withdrew due to an injury against Gabriel Bonfim for the main event of UFC Vegas 124, the UFC has put together a last-minute main event for November 7. In the heavyweight division, Waldo Cortes-Acosta takes on Johnny Walker.Mult…",
       "url": "https://heavy.com/sports/ufc/ufc-vegas-124-gets-brand-new-heavyweight-headliner/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-vegas-124-gets-brand-new-heavyweight-headliner-1793421693973.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-vegas-124-gets-brand-new-heavyweight-headliner-1793465392527.jpeg",
       "source": "Heavy.com",
       "publishedAt": "2026-10-30T04:35:42Z",
       "author": "Marcel Dorff"
@@ -18,7 +81,7 @@
       "title": "MMAmania.com’s ‘Prospect of the Month:’ Tyjani Beztati",
       "description": "The common goal among most up-and-coming regional (or international) mixed martial arts (MMA) prospects is to one day compete for Ultimate Fighting Championship (UFC). Other major promotions such as Bellator MMA, Professional Fighter’s Leagues, and ONE Champi…",
       "url": "https://www.mmamania.com/mma-prospects/482521/mmamania-coms-prospect-of-the-month-tyjani-beztati",
-      "image": "/fightonomics/agents/mma-news-updater/images/mmamania-com-s-prospect-of-the-month-tyjani-beztati-1793421693973.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/mmamania-com-s-prospect-of-the-month-tyjani-beztati-1793465392527.jpeg",
       "source": "MMA Mania",
       "publishedAt": "2026-10-30T01:15:00Z",
       "author": "Alexander Behunin"
@@ -27,73 +90,10 @@
       "title": "Why a childhood punch convinced Jacobe Smith he belonged in the UFC: 'It changed me'",
       "description": "Smith, an undefeated UFC welterweight prospect, recounts how his violent childhood and his mother's near-deadly altercation helped him get to this point",
       "url": "https://www.cbssports.com/ufc/news/jacobe-smith-ufc-fight-night-childhood-born-to-fight/",
-      "image": "/fightonomics/agents/mma-news-updater/images/why-a-childhood-punch-convinced-jacobe-smith-he-belonged-in-the-ufc-it-changed-me-1793421693974.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/why-a-childhood-punch-convinced-jacobe-smith-he-belonged-in-the-ufc-it-changed-me-1793465392528.jpeg",
       "source": "CBS Sports",
       "publishedAt": "2026-10-29T17:10:11Z",
       "author": "Shakiel Mahjouri"
-    },
-    {
-      "title": "Jean Silva Believes Even Alexander Volkanovski Would Crown Jose Aldo the UFC Featherweight GOAT",
-      "description": "For many fans, Alexander Volkanovski cemented his status as the featherweight GOAT at UFC 333. After all, the Aussie defeated previously undefeated Movsar Evloev at 38 years old, despite battling a nasty flu during fight week. Volkanovski also secured his nin…",
-      "url": "https://sports.yahoo.com/articles/jean-silva-believes-even-alexander-163545264.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/jean-silva-believes-even-alexander-volkanovski-would-crown-jose-aldo-the-ufc-featherweight-goat-1793421693974.jpeg",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-10-29T16:35:45Z",
-      "author": "Kshitiz Kumar Singh"
-    },
-    {
-      "title": "Alexander Volkanovski Battled Two Nasty Staph Infections Before UFC 314 Fight Against Diego Lopes",
-      "description": "Cody Thicknesse reveals Alexander Volkanovski has battled far worse health issues than the flu, including two staph infections before UFC 314.",
-      "url": "https://sports.yahoo.com/articles/alexander-volkanovski-battled-two-nasty-155652496.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/alexander-volkanovski-battled-two-nasty-staph-infections-before-ufc-314-fight-against-diego-lopes-1793421693975.jpeg",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-10-29T15:56:52Z",
-      "author": "Kshitiz Kumar Singh"
-    },
-    {
-      "title": "UFC Vegas 123's Jean-Paul Lebosnoyani not chasing 'unnecessary jumps' in career",
-      "description": "Jean-Paul Lebosnoyani explains why he's not looking for a quick rise at welterweight going into UFC Vegas 123.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/29/ufc-vegas-123-jean-paul-lebosnoyani-isnt-seeking-unnecessary-jumps/92484461007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-vegas-123-s-jean-paul-lebosnoyani-not-chasing-unnecessary-jumps-in-career-1793421693975.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-10-29T13:40:30Z",
-      "author": "Mike Bohn and Ken Hathaway, MMA Junkie"
-    },
-    {
-      "title": "UFC picks Joselyne Edwards as back-up fighter for Kayla Harrison vs. Amanda Nunes at Madison Square Garden",
-      "description": "No matter what happens in the coming weeks, someone is gonna fight for the UFC women’s bantamweight title at UFC 334 on November 12th. Sources have confirmed that No. 1 ranked women’s 135 pounder Joselyne Edwards will travel to New York City and weigh in as t…",
-      "url": "https://www.mmamania.com/ufc-news/482424/ufc-picks-joselyne-edwards-as-back-up-fighter-for-kayla-harrison-vs-amanda-nunes-at-madison-square-garden",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-picks-joselyne-edwards-as-back-up-fighter-for-kayla-harrison-vs-amanda-nunes-at-madison-square-garden-1793421693976.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-10-29T11:18:11Z",
-      "author": "Ryan Harkness"
-    },
-    {
-      "title": "Jake Paul’s boxing return set for Christmas Eve in Dubai, with streaming partner in question",
-      "description": "Jake Paul will return to the ring in Dubai for his first fight since suffering a broken jaw against Anthony Joshua.",
-      "url": "https://nypost.com/2026/10/29/sports/jake-pauls-boxing-return-set-for-christmas-eve-in-dubai-with-streaming-partner-in-question/",
-      "image": "/fightonomics/agents/mma-news-updater/images/jake-paul-s-boxing-return-set-for-christmas-eve-in-dubai-with-streaming-partner-in-question-1793421693976.jpeg",
-      "source": "New York Post",
-      "publishedAt": "2026-10-29T11:00:00Z",
-      "author": "Erich Richter"
-    },
-    {
-      "title": "Alexander Volkanovski Predicts UFC Sydney Main Event",
-      "description": "UFC featherweight champion Alexander Volkanovski shared his prediction for the upcoming main event at UFC Sydney.The UFC Sydney card takes place on February 7, 2027, at Afterpay Arena in Sydney, Australia. The main event of the card features Australian rising…",
-      "url": "https://heavy.com/sports/ufc/alexander-volkanovski-predicts-sydney-main-event/",
-      "image": "/fightonomics/agents/mma-news-updater/images/alexander-volkanovski-predicts-ufc-sydney-main-event-1793421693977.jpeg",
-      "source": "Heavy.com",
-      "publishedAt": "2026-10-29T05:54:28Z",
-      "author": "Adam Martin"
-    },
-    {
-      "title": "Daniel Cormier clears the air with Sean O’Malley after in-cage snafu at UFC 333",
-      "description": "Bringing you the weird and wild from the world of MMA each and every weeknight!",
-      "url": "https://www.mmamania.com/midnight-mmamania-news/482333/daniel-cormier-clears-the-air-with-sean-omalley-after-in-cage-snafu-at-ufc-333",
-      "image": "/fightonomics/agents/mma-news-updater/images/daniel-cormier-clears-the-air-with-sean-o-malley-after-in-cage-snafu-at-ufc-333-1793421693977.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-10-29T03:59:00Z",
-      "author": "Tim Edwards"
     }
   ]
 }

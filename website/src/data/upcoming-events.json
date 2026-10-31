@@ -1,15 +1,42 @@
 {
-  "lastUpdated": "2026-10-31T04:41:36.144Z",
+  "lastUpdated": "2026-10-31T16:49:54.224Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
+      "title": "LIVE! UFC Vegas 123 Early Weigh Ins Results!",
+      "description": "Ultimate Fighting Championship (UFC) is just over 24 hours away from its upcoming UFC Vegas 123 mixed martial arts (MMA) event, headlined by a 155-pound showdown between lightweight contenders Renato Moicano and Tom Nolan. The action gets underway this Sat. n…",
+      "url": "https://www.mmamania.com/ufc-weigh-in-video/482652/ufc-vegas-123-early-weigh-ins-video-live-results-moicano-vs-nolan-apex",
+      "image": "/fightonomics/agents/mma-news-updater/images/live-ufc-vegas-123-early-weigh-ins-results-1793465392528.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-10-30T15:55:10Z",
+      "author": "Jesse Holland"
+    },
+    {
+      "title": "UFC veterans in combat sports action Oct. 30-31",
+      "description": "Check out which veterans of the UFC are competing around the globe this weekend.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/30/ufc-veterans-fighting-regional-scene-oct-30-31/92492236007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-veterans-in-combat-sports-action-oct-30-31-1793465392528.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-10-30T13:40:28Z",
+      "author": "Matthew Wells, MMA Junkie"
+    },
+    {
+      "title": "UFC Vegas 123 preview: ‘Moicano vs. Nolan’ main, co-main event predictions",
+      "description": "Ultimate Fighting Championship (UFC) is just one day away from the upcoming UFC Vegas 123 mixed martial arts (MMA) event, which is set to go down tomorrow night (Sat., Oct. 31, 2026) on Paramount+ from inside Meta Apex in Las Vegas, Nevada. UFC Vegas 123 feat…",
+      "url": "https://www.mmamania.com/ufc-predictions/482126/ufc-vegas-123-preview-moicano-vs-nolan-main-co-main-event-predictions-mma",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-vegas-123-preview-moicano-vs-nolan-main-co-main-event-predictions-1793465392528.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-10-30T13:25:00Z",
+      "author": "Jesse Holland"
+    },
+    {
       "title": "Sean Brady out of UFC Vegas 124 main event against Gabriel Bonfim",
       "description": "Sean Brady has been forced out of his upcoming main event fight due to injury",
       "url": "https://www.mmafighting.com/ufc/518348/sean-brady-out-of-ufc-vegas-124-main-event-against-gabriel-bonfim",
-      "image": "/fightonomics/agents/mma-news-updater/images/sean-brady-out-of-ufc-vegas-124-main-event-against-gabriel-bonfim-1793421693977.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/sean-brady-out-of-ufc-vegas-124-main-event-against-gabriel-bonfim-1793465392529.jpeg",
       "source": "MMA Fighting",
       "publishedAt": "2026-10-29T16:41:00Z",
       "author": "Damon Martin"
@@ -18,7 +45,7 @@
       "title": "Alexander Volkanovski Predicts UFC Sydney Main Event",
       "description": "UFC featherweight champion Alexander Volkanovski shared his prediction for the upcoming main event at UFC Sydney.The UFC Sydney card takes place on February 7, 2027, at Afterpay Arena in Sydney, Australia. The main event of the card features Australian rising…",
       "url": "https://heavy.com/sports/ufc/alexander-volkanovski-predicts-sydney-main-event/",
-      "image": "/fightonomics/agents/mma-news-updater/images/alexander-volkanovski-predicts-ufc-sydney-main-event-1793421693978.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/alexander-volkanovski-predicts-ufc-sydney-main-event-1793465392529.jpeg",
       "source": "Heavy.com",
       "publishedAt": "2026-10-29T05:54:28Z",
       "author": "Adam Martin"
@@ -27,7 +54,7 @@
       "title": "Why Republicans might beat the polls",
       "description": "Welcome to The Midterms, Actually. Every week I’ll be writing about two things: one big idea or trend I see forming across the 2026 primaries, and one thing I’m hearing from a voice on the ground. And be sure to check your inboxes this coming Wednesday for a …",
       "url": "https://www.vox.com/politics/508270/republican-beat-midterm-polls-blue-wave",
-      "image": "/fightonomics/agents/mma-news-updater/images/why-republicans-might-beat-the-polls-1793421693978.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/why-republicans-might-beat-the-polls-1793465392529.jpeg",
       "source": "Vox",
       "publishedAt": "2026-10-28T22:13:28Z",
       "author": "Astead Herndon"
@@ -36,7 +63,7 @@
       "title": "Jacobe Smith sets title timeline ahead of UFC Vegas 123 co-main event",
       "description": "UFC Vegas 123 co-headliner Jacobe Smith says it won't be long until he's in the thick of the welterweight title conversation.",
       "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/28/ufc-vegas-123-jacobe-smith-sets-title-welterweight-timeline/92483764007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/jacobe-smith-sets-title-timeline-ahead-of-ufc-vegas-123-co-main-event-1793421693979.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/jacobe-smith-sets-title-timeline-ahead-of-ufc-vegas-123-co-main-event-1793465392530.jpeg",
       "source": "USA Today",
       "publishedAt": "2026-10-28T22:00:32Z",
       "author": "Mike Bohn and Ken Hathaway, MMA Junkie"
@@ -45,7 +72,7 @@
       "title": "Quillan Salkilld and Benoit Saint-Denis Set for Five-Round Showdown in Sydney on February 7",
       "description": "Quillan Salkilld is set to return to action on home soil as he fights Benoit Saint-Denis in the main event of UFC Sydney.",
       "url": "https://sports.yahoo.com/articles/quillan-salkilld-benoit-saint-denis-041919424.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/quillan-salkilld-and-benoit-saint-denis-set-for-five-round-showdown-in-sydney-on-february-7-1793421693979.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/quillan-salkilld-and-benoit-saint-denis-set-for-five-round-showdown-in-sydney-on-february-7-1793465392530.jpeg",
       "source": "Yahoo Entertainment",
       "publishedAt": "2026-10-28T04:19:19Z",
       "author": "Kshitiz Kumar Singh"
@@ -54,7 +81,7 @@
       "title": "Renato Moicano calls Ortega vs. Hooker 'worst fight in the UFC'",
       "description": "Renato “Money” Moicano is shocked that the Ultimate Fighting Championship matched up Brian Ortega and Dan Hooker.",
       "url": "https://www.sherdog.com/news/news/Renato-Moicano-calls-Ortega-vs-Hooker-worst-fight-in-the-UFC-203390",
-      "image": "/fightonomics/agents/mma-news-updater/images/renato-moicano-calls-ortega-vs-hooker-worst-fight-in-the-ufc-1793421693979.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/renato-moicano-calls-ortega-vs-hooker-worst-fight-in-the-ufc-1793465392530.jpeg",
       "source": "Sherdog.com",
       "publishedAt": "2026-10-28T03:29:19Z",
       "author": "sayannag88@gmail.com (Sayan Nag)"
@@ -63,37 +90,10 @@
       "title": "PFL Dubai card finalized with 15 fights, heavyweight title bout",
       "description": "Vadim Nemkov defends the heavyweight title in the main event",
       "url": "https://www.mmafighting.com/pfl/518067/pfl-dubai-card-finalized-with-15-fights-heavyweight-title-bout",
-      "image": "/fightonomics/agents/mma-news-updater/images/pfl-dubai-card-finalized-with-15-fights-heavyweight-title-bout-1793421693980.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/pfl-dubai-card-finalized-with-15-fights-heavyweight-title-bout-1793465392531.jpeg",
       "source": "MMA Fighting",
       "publishedAt": "2026-10-28T00:00:00Z",
       "author": "Guilherme Cruz"
-    },
-    {
-      "title": "Quillan Salkilld lands main event on home soil at UFC Sydney",
-      "description": "Bonus machine Quillan Salkilld has landed his first UFC main event, and it will be on home soil.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/27/ufc-sydney-quillan-salkilld-first-main-event-vs-benoit-saint-denis/92468087007/",
-      "image": null,
-      "source": "USA Today",
-      "publishedAt": "2026-10-27T23:25:20Z",
-      "author": "Matthew Wells, MMA Junkie"
-    },
-    {
-      "title": "2026 UFC event schedule: Ciryl Gane vs. Josh Hokit, Charles Oliveira vs. Diego Lopes on tap",
-      "description": "Check out a complete list of UFC pay-per-view and Fight Night events scheduled for 2026",
-      "url": "https://www.cbssports.com/ufc/news/2026-ufc-event-schedule-ciryl-gane-josh-hokit-charles-oliveira-diego-lopes/",
-      "image": "/fightonomics/agents/mma-news-updater/images/2026-ufc-event-schedule-ciryl-gane-vs-josh-hokit-charles-oliveira-vs-diego-lopes-on-tap-1793421693981.jpeg",
-      "source": "CBS Sports",
-      "publishedAt": "2026-10-27T14:19:48Z",
-      "author": "Shakiel Mahjouri"
-    },
-    {
-      "title": "Arman Tsarukyan: Justin Gaethje ‘trying to duck me,’ open to Alexander Volkanovski vacant title fight",
-      "description": "Arman Tsarukyan welcomes a fight with Justin Gaethje or Alexander Volkanovski",
-      "url": "https://www.mmafighting.com/ufc/517941/arman-tsarukyan-justin-gaethje-trying-to-duck-me-open-to-alexander-volkanovski-vacant-title-fight",
-      "image": "/fightonomics/agents/mma-news-updater/images/arman-tsarukyan-justin-gaethje-trying-to-duck-me-open-to-alexander-volkanovski-vacant-title-fight-1793421693981.jpeg",
-      "source": "MMA Fighting",
-      "publishedAt": "2026-10-26T19:00:00Z",
-      "author": "Alexander K. Lee"
     }
   ]
 }
