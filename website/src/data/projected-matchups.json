@@ -1,10 +1,82 @@
 {
-  "lastUpdated": "2026-11-02T21:24:36.110Z",
+  "lastUpdated": "2026-11-03T05:50:45.708Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
+    {
+      "title": "Conor McGregor Fires Shots at Canelo Alvarez, Eyes New Sales Records for UFC Farewell",
+      "description": "After Canelo Alvarez's recent win over Christian Mbilli, Conor McGregor took to social media to remind fans of his enormous drawing power.",
+      "url": "https://sports.yahoo.com/articles/conor-mcgregor-fires-shots-canelo-043250425.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/conor-mcgregor-fires-shots-at-canelo-alvarez-eyes-new-sales-records-for-ufc-farewell-1793685043860.jpeg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-02T04:32:50Z",
+      "author": "Kshitiz Kumar Singh"
+    },
+    {
+      "title": "Former Champion Robert Whittaker Co-Headlines at Home in Sydney",
+      "description": "Former UFC middleweight champion Robert Whittaker returns to the Octagon on February 6. The Australian fighter takes on Bogdan Guskov at the co-main event of UFC Sydney. The fight takes place at the Afterpay Arena in Sydney, New South Wales, Australia. The UF…",
+      "url": "https://heavy.com/sports/ufc/former-champion-robert-whittaker-coheadlines-sydney/",
+      "image": "/fightonomics/agents/mma-news-updater/images/former-champion-robert-whittaker-co-headlines-at-home-in-sydney-1793685043861.jpeg",
+      "source": "Heavy.com",
+      "publishedAt": "2026-11-02T02:00:15Z",
+      "author": "Marcel Dorff"
+    },
+    {
+      "title": "Renato Moicano has a blunt message for referee Dan Miragliotta",
+      "description": "Renato “Money” Moicano takes responsibility for his recent loss but has some choice words for referee Dan Miragliotta.",
+      "url": "https://www.sherdog.com/news/news/Renato-Moicano-has-a-blunt-message-for-referee-Dan-Miragliotta-203448",
+      "image": "/fightonomics/agents/mma-news-updater/images/renato-moicano-has-a-blunt-message-for-referee-dan-miragliotta-1793685043862.jpeg",
+      "source": "Sherdog.com",
+      "publishedAt": "2026-11-02T01:54:21Z",
+      "author": "sayannag88@gmail.com (Sayan Nag)"
+    },
+    {
+      "title": "MMA Junkie's Fight of the Month for October: A trilogy bout for the ages",
+      "description": "October delivered some bangers, but a UFC championship trilogy fight got the nod as Fight of the Month.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/mma/2026/11/01/fight-of-the-month-october-2026-petr-yan-vs-merab-dvalishvili-trilogy-ufc-333/92550111007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/mma-junkie-s-fight-of-the-month-for-october-a-trilogy-bout-for-the-ages-1793685043863.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-11-02T01:30:22Z",
+      "author": "Mike Bohn, MMA Junkie"
+    },
+    {
+      "title": "Cody Durden ready for much-needed time off after UFC Vegas 123 win – or is he?",
+      "description": "To say Cody Durden has been an active UFC fighter for the past year would be an understatement.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/01/ufc-vegas-123-cody-durden-ready-much-needed-time/92551347007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/cody-durden-ready-for-much-needed-time-off-after-ufc-vegas-123-win-or-is-he-1793685043863.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-11-02T00:40:40Z",
+      "author": "Simon Samano and Jeronimo Guerra, MMA Junkie"
+    },
+    {
+      "title": "Julian Erosa was happy to retire on a UFC snoozer until he got hit",
+      "description": "Julian Erosa had one of the better fairytale retirement endings in the UFC in recent memory when he knocked out JeongYeong Lee for a $100,000 bonus.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/01/ufc-fight-night-las-vegas-video-julian-erosa-retirement-knockout-bonus/92551889007/",
+      "image": null,
+      "source": "USA Today",
+      "publishedAt": "2026-11-01T23:50:24Z",
+      "author": "Matt Erickson and Jeronimo Guerra, MMA Junkie"
+    },
+    {
+      "title": "Jean-Paul Lebosnoyani wants Jake Matthews after rearranging Hasanov’s face",
+      "description": "Jean-Paul Lebosnoyani picked up one of the most gruesome wins in recent memory – and on Halloween, no less.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/01/ufc-fight-night-las-vegas-video-jean-paul-lebosnoyani-callout-jake-matthews/92555315007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/jean-paul-lebosnoyani-wants-jake-matthews-after-rearranging-hasanov-s-face-1793685043864.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-11-01T23:01:17Z",
+      "author": "Matt Erickson and Jeronimo Guerra, MMA Junkie"
+    },
+    {
+      "title": "Sean Shelby's Shoes: What's next for Renato Moicano after UFC Vegas 123 loss?",
+      "description": "What does the future hold for Renato Moicano after a UFC Vegas 123 main event loss? We attempt to play matchmaker.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/01/ufc-vegas-123-matchmaker-renato-moicano-next-fight-loss-controversy/92546120007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/sean-shelby-s-shoes-what-s-next-for-renato-moicano-after-ufc-vegas-123-loss-1793685043865.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-11-01T22:10:24Z",
+      "author": "Mike Bohn, MMA Junkie"
+    },
     {
       "title": "Renato Moicano 'not going to blame the referee' after controversial UFC Vegas 123 loss",
       "description": "Renato Moicano admits he was \"frustrated\" when Dan Miragliotta stood him from back control at UFC Vegas 123.",
@@ -18,82 +90,10 @@
       "title": "Humans in The Andes Seem to Have Evolved an Unusual Genetic Ability",
       "description": "An unusual survival advantage.ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
       "url": "https://www.sciencealert.com/humans-in-the-andes-seem-to-have-evolved-an-unusual-genetic-ability",
-      "image": "/fightonomics/agents/mma-news-updater/images/humans-in-the-andes-seem-to-have-evolved-an-unusual-genetic-ability-1793654674503.png",
+      "image": "/fightonomics/agents/mma-news-updater/images/humans-in-the-andes-seem-to-have-evolved-an-unusual-genetic-ability-1793685043866.png",
       "source": "ScienceAlert",
       "publishedAt": "2026-11-01T21:00:00Z",
       "author": "Michelle Starr"
-    },
-    {
-      "title": "Full Card Revealed For The Inner Circle 37 On November 6",
-      "description": "Here's what to expect in The Inner Circle 37, going down live this Friday, November 6!",
-      "url": "https://www.onefc.com/news/full-card-revealed-for-the-inner-circle-37-on-november-6/",
-      "image": "/fightonomics/agents/mma-news-updater/images/full-card-revealed-for-the-inner-circle-37-on-november-6-1793654674503.jpeg",
-      "source": "Onefc.com",
-      "publishedAt": "2026-11-01T20:23:31Z",
-      "author": "John Wolcott"
-    },
-    {
-      "title": "Alexandre Pantoja needs mental rest after Joshua Van loss, coach says",
-      "description": "Alexandre Pantoja has no timetable for his return to competition following his loss to Joshua Van at UFC 331, according to American Top Team coach Marcos “Parrumpa” da Matta.",
-      "url": "https://www.sherdog.com/news/news/Alexandre-Pantoja-needs-mental-rest-after-Joshua-Van-loss-coach-says-203446",
-      "image": "/fightonomics/agents/mma-news-updater/images/alexandre-pantoja-needs-mental-rest-after-joshua-van-loss-coach-says-1793654674505.jpeg",
-      "source": "Sherdog.com",
-      "publishedAt": "2026-11-01T19:05:16Z",
-      "author": "malonso@sherdog.com (Marcelo Alonso) and SouravChakraborty@sherdog.com (Sourav Chakraborty)"
-    },
-    {
-      "title": "Sean Shelby's Shoes: What's next for Tom Nolan after UFC Vegas 123 win?",
-      "description": "What does the future hold for UFC Vegas 123 main event winner Tom Nolan? We attempt to play matchmaker.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/01/ufc-vegas-123-matchmaker-tom-nolan-next-fight-tko-win/92546076007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/sean-shelby-s-shoes-what-s-next-for-tom-nolan-after-ufc-vegas-123-win-1793654674506.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-11-01T18:50:23Z",
-      "author": "Mike Bohn, MMA Junkie"
-    },
-    {
-      "title": "Patriots vs. Dolphins prediction: Injuries a major factor for Mike Vrabel",
-      "description": "The Patriots remain 7-point favorites over the Dolphins despite A.J. Brown's injury status.",
-      "url": "https://nypost.com/2026/11/01/betting/patriots-vs-dolphins-prediction-nfl-week-8-picks-best-bets/",
-      "image": "/fightonomics/agents/mma-news-updater/images/patriots-vs-dolphins-prediction-injuries-a-major-factor-for-mike-vrabel-1793654674506.jpeg",
-      "source": "New York Post",
-      "publishedAt": "2026-11-01T17:25:00Z",
-      "author": "Erich Richter"
-    },
-    {
-      "title": "UFC broadcast team stunned by Dan Miragliotta’s inexplicable standup: ‘A referee error’ - MMA Fighting",
-      "description": "UFC broadcast team stunned by Dan Miragliotta&rsquo;s inexplicable standup: &lsquo;A referee error&rsquo;MMA Fighting See more headlines &amp; perspectives on Google News ...",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186547453",
-      "image": null,
-      "source": "Slashdot.org",
-      "publishedAt": "2026-11-01T17:12:06Z",
-      "author": "feedfeeder"
-    },
-    {
-      "title": "Jacobe Smith lays out three-fight plan to secure title shot after UFC Vegas 123 win",
-      "description": "Jacobe Smith thinks beating these three names in a row would put him in line for a UFC welterweight title shot.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/01/jacobe-smith-three-step-title-plan-ufc-vegas-123-win/92548447007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/jacobe-smith-lays-out-three-fight-plan-to-secure-title-shot-after-ufc-vegas-123-win-1793654674507.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-11-01T17:10:30Z",
-      "author": "Mike Bohn and Jeronimo Guerra, MMA Junkie"
-    },
-    {
-      "title": "Chargers vs. Rams prediction: Jim Harbaugh shocks Sean McVay in Battle for Los Angeles",
-      "description": "Sharp money runs counter to conventional wisdom in this matchup.",
-      "url": "https://nypost.com/2026/11/01/betting/chargers-vs-rams-odds-prediction-nfl-week-8-picks-best-bets/",
-      "image": "/fightonomics/agents/mma-news-updater/images/chargers-vs-rams-prediction-jim-harbaugh-shocks-sean-mcvay-in-battle-for-los-angeles-1793654674508.jpeg",
-      "source": "New York Post",
-      "publishedAt": "2026-11-01T17:00:00Z",
-      "author": "Erich Richter"
-    },
-    {
-      "title": "Video: Every UFC Fight Night 292 finish, including some Halloween horror shows",
-      "description": "Check out the UFC's Halloween finishes – including some truly gory endings.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/01/ufc-las-vegas-halloween-video-every-stoppage-finish-knockout-submission-bloody-mma-highlights/92538908007/",
-      "image": null,
-      "source": "USA Today",
-      "publishedAt": "2026-11-01T16:20:42Z",
-      "author": "MMA Junkie"
     }
   ],
   "matchups": [
