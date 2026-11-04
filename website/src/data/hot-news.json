@@ -1,180 +1,189 @@
 {
-  "lastUpdated": "2026-11-03T19:03:39.322Z",
+  "lastUpdated": "2026-11-04T05:26:18.586Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
-      "title": "Jack Della Maddalena willing to fight Mike Malott – but won't return until spring",
-      "description": "Jack Della Maddalena won't rush his UFC return.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/02/ufc-jack-della-maddalena-develop-skills-before-return-turned-down-sydney-fight/92560117007/",
+      "title": "John McCarthy explains his long absence from UFC officiating",
+      "description": "John McCarthy has addressed why he hasn’t officiated an Ultimate Fighting Championship bout in nearly a decade.",
+      "url": "https://www.sherdog.com/news/news/John-McCarthy-explains-his-long-absence-from-UFC-officiating-203468",
+      "image": "/fightonomics/agents/mma-news-updater/images/john-mccarthy-explains-his-long-absence-from-ufc-officiating-1793769976306.jpeg",
+      "source": "Sherdog.com",
+      "publishedAt": "2026-11-03T02:56:30Z",
+      "author": "sayannag88@gmail.com (Sayan Nag)"
+    },
+    {
+      "title": "Ex-UFC champ breaks down what Merab Dvalishvili should've done to beat Petr Yan",
+      "description": "Merab Dvalishvili might've been too predictable in his approach to the trilogy with Petr Yan, according to one former UFC champ.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/02/ufc-tj-dillahaw-merab-dvalishvili-mistakes-petr-yan/92562026007/",
       "image": null,
       "source": "USA Today",
-      "publishedAt": "2026-11-02T18:50:17Z",
+      "publishedAt": "2026-11-03T02:20:16Z",
       "author": "Farah Hannoun, MMA Junkie"
     },
     {
-      "title": "Giants leap to clear favorite status to win the NFC East after Cowboys collapse",
-      "description": "Even on a bye week, the Giants' outlook has improved dramatically.",
-      "url": "https://nypost.com/2026/11/02/betting/giants-leap-to-clear-favorite-status-to-win-the-nfc-east-after-cowboys-collapse/",
-      "image": "/fightonomics/agents/mma-news-updater/images/giants-leap-to-clear-favorite-status-to-win-the-nfc-east-after-cowboys-collapse-1793732617624.jpeg",
+      "title": "Renato Moicano predicts MMA retirement after three more UFC fights",
+      "description": "Renato “Money” Moicano is eyeing retirement from mixed martial arts after fighting out his current Ultimate Fighting Championship contract.",
+      "url": "https://www.sherdog.com/news/news/Renato-Moicano-predicts-MMA-retirement-after-three-more-UFC-fights-203466",
+      "image": "/fightonomics/agents/mma-news-updater/images/renato-moicano-predicts-mma-retirement-after-three-more-ufc-fights-1793769976310.jpeg",
+      "source": "Sherdog.com",
+      "publishedAt": "2026-11-03T02:19:28Z",
+      "author": "sayannag88@gmail.com (Sayan Nag)"
+    },
+    {
+      "title": "‘End In Second Round’ – Undefeated Magdalena Czaban Predicts Stoppage Of Victoria Souza At ONE Fight Night 49",
+      "description": "“The Powerpuff Girl\" promises to top her amazing ONE debut this Friday.",
+      "url": "https://www.onefc.com/news/end-in-second-round-undefeated-magdalena-czaban-predicts-stoppage-of-victoria-souza-at-one-fight-night-49/",
+      "image": "/fightonomics/agents/mma-news-updater/images/end-in-second-round-undefeated-magdalena-czaban-predicts-stoppage-of-victoria-souza-at-one-fight-night-49-1793769976311.jpeg",
+      "source": "Onefc.com",
+      "publishedAt": "2026-11-03T02:01:02Z",
+      "author": "Kriel Ibarrola"
+    },
+    {
+      "title": "MMA Junkie's Submission of the Month for October: Newcomer scores slick finish",
+      "description": "With another action-packed month of MMA in the books, MMA Junkie votes for the best submission of October 2026.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/mma/2026/11/02/submission-of-the-month-october-2026-joe-kropschot-ufc-fight-night-292/92550342007/",
+      "image": null,
+      "source": "USA Today",
+      "publishedAt": "2026-11-03T01:30:19Z",
+      "author": "Mike Bohn, MMA Junkie"
+    },
+    {
+      "title": "Jackie Cataline predicts BKB 61 TKO despite not studying opponent",
+      "description": "Jackie “The Hybrid” Cataline is preparing to face Hatice Ozyurt at BKB 61 on Nov. 14 in London, England, and the American has no intention of making the trip for a close decision.",
+      "url": "https://www.sherdog.com/news/articles/Jackie-Cataline-predicts-BKB-61-TKO-despite-not-studying-opponent-203463",
+      "image": "/fightonomics/agents/mma-news-updater/images/jackie-cataline-predicts-bkb-61-tko-despite-not-studying-opponent-1793769976313.jpeg",
+      "source": "Sherdog.com",
+      "publishedAt": "2026-11-03T01:15:47Z",
+      "author": "cstein@sherdog.com (Christian Stein) and SouravChakraborty@sherdog.com (Sourav Chakraborty)"
+    },
+    {
+      "title": "November 2026 UFC & PFL fights to watch: The Sheehan Show Top 5",
+      "description": "November is shaping up to be a fantastic month for mixed martial arts, with major fights across the Ultimate Fighting Championship and Professional Fighters League.",
+      "url": "https://www.sherdog.com/videos/sherdogradio/November-2026-UFC-PFL-fights-to-watch-The-Sheehan-Show-Top-5-23921",
+      "image": "/fightonomics/agents/mma-news-updater/images/november-2026-ufc-pfl-fights-to-watch-the-sheehan-show-top-5-1793769976314.jpeg",
+      "source": "Sherdog.com",
+      "publishedAt": "2026-11-03T00:51:40Z",
+      "author": "ssheehan@sherdog.com (Sean Sheehan)"
+    },
+    {
+      "title": "How Sean O'Malley believes Petr Yan's game plan changes just for him",
+      "description": "Sean O'Malley says he's the only fighter who could make Petr Yan change his usual game plan.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/02/ufc-sean-omalley-prediction-petr-yan-wrestling-rematch-bantamweight-title/92564056007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/how-sean-o-malley-believes-petr-yan-s-game-plan-changes-just-for-him-1793769976315.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-11-03T00:40:17Z",
+      "author": "Farah Hannoun, MMA Junkie"
+    },
+    {
+      "title": "Ayana, Ezekiel shine as Akalaka 009 thrill MMA fans",
+      "description": "Jackiel Ayana and David Ezekiel secured impressive wins at the Akalaka 009 MMA event in Abuja, which thrilled fans with knockouts and submissions.\n\nRead More: https://punchng.com/ayana-ezekiel-shine-as-akalaka-009-thrill-mma-fans/",
+      "url": "https://punchng.com/ayana-ezekiel-shine-as-akalaka-009-thrill-mma-fans/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ayana-ezekiel-shine-as-akalaka-009-thrill-mma-fans-1793769976316.webp",
+      "source": "The Punch",
+      "publishedAt": "2026-11-02T23:54:15Z",
+      "author": "Punch Newspapers"
+    },
+    {
+      "title": "Robert Whittaker: Many turned down UFC Sydney fight before Bogdan Guskov accepted",
+      "description": "It wasn't easy for Robert Whittaker to land an opponent for UFC Sydney.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/02/ufc-sydney-robert-whittaker-reveals-bogdan-guskov-only-one-who-accepted-fight/92562969007/",
+      "image": null,
+      "source": "USA Today",
+      "publishedAt": "2026-11-02T23:50:47Z",
+      "author": "Farah Hannoun, MMA Junkie"
+    },
+    {
+      "title": "‘It’s Going To Be A Gnarly Night’ – Tye Ruotolo Ready To Make History Against Christian Lee At The Inner Circle 37",
+      "description": "The California native reflects on the journey to his MMA World Title fight on Friday.",
+      "url": "https://www.onefc.com/news/its-going-to-be-a-gnarly-night-tye-ruotolo-ready-to-make-history-against-christian-lee-at-the-inner-circle-37/",
+      "image": "/fightonomics/agents/mma-news-updater/images/it-s-going-to-be-a-gnarly-night-tye-ruotolo-ready-to-make-history-against-christian-lee-at-the-inner-circle-37-1793769976318.jpeg",
+      "source": "Onefc.com",
+      "publishedAt": "2026-11-02T23:37:32Z",
+      "author": "Chris Mohan"
+    },
+    {
+      "title": "John McCarthy: Dan Miragliotta got Renato Moicano call wrong at UFC Vegas 123 — 'It's not fair'",
+      "description": "\"Big\" John McCarthy doesn't agree with Dan Miragliotta's controversial and fight-changing stand-up from UFC Vegas 123 this past Saturday.",
+      "url": "https://sports.yahoo.com/mma/article/john-mccarthy-dan-miragliotta-got-renato-moicano-call-wrong-at-ufc-vegas-123-its-not-fair-tom-nolan-232047630.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/john-mccarthy-dan-miragliotta-got-renato-moicano-call-wrong-at-ufc-vegas-123-it-s-not-fair-1793769976318.jpeg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-02T23:20:47Z",
+      "author": "Drake Riggs"
+    },
+    {
+      "title": "Spinning Back Clique: Referee controversy dominates UFC Vegas 123, more",
+      "description": "On the latest episode of \"Spinning Back Clique,\" the panel discusses the controversy caused by referee Dan Miragliotta in the UFC Vegas 123 headliner.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/mma/spinning-back-clique/2026/11/02/spinning-back-clique-ufc-vegas-123-referee-controversy-dan-miragliotta-jake-paul-conor-mcgregor/92568826007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/spinning-back-clique-referee-controversy-dominates-ufc-vegas-123-more-1793769976319.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-11-02T23:02:32Z",
+      "author": "Danny Segura, MMA Junkie"
+    },
+    {
+      "title": "Jake Paul got his jaw broken by Anthony Joshua. Now he's going back to what he knows best",
+      "description": "Cédric Doumbé, huh? A kickboxer for Christmas Eve? If all of this feels familiar for Jake Paul, there's probably a reason why.",
+      "url": "https://sports.yahoo.com/boxing/article/jake-paul-got-his-jaw-broken-by-anthony-joshua-now-hes-going-back-to-what-he-knows-best-cedric-doumbe-225157795.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/jake-paul-got-his-jaw-broken-by-anthony-joshua-now-he-s-going-back-to-what-he-knows-best-1793769976320.jpeg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-02T22:51:57Z",
+      "author": "Chuck Mindenhall"
+    },
+    {
+      "title": "Renato Moicano: Dan Miragliotta let UFC Vegas 123 crowd influence standup decision",
+      "description": "Renato Moicano identifies what he believes was a \"huge factor\" in referee Dan Miragliotta taking away his dominant position at UFC Vegas 123.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/02/ufc-renato-moicano-dan-miragliotta-standup-decision-crowd-influence/92569844007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/renato-moicano-dan-miragliotta-let-ufc-vegas-123-crowd-influence-standup-decision-1793769976320.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-11-02T22:10:33Z",
+      "author": "Danny Segura, MMA Junkie"
+    },
+    {
+      "title": "‘That’s Not Truuu!’ Fans Demand 2 Chainz Apologize To Keith Lee After Rapper Rips Restaurant Reviewer Over Seemingly Mistaken Criticism",
+      "description": "2 Chainz confronted Keith Lee over a bad restaurant review, but likely confused him with critic Mr. Chimetime. Fans demand an apology as Lee defends his review approach.\nThe post ‘That’s Not Truuu!’ Fans Demand 2 Chainz Apologize To Keith Lee After Rapper Rip…",
+      "url": "https://bossip.com/4650842/2-chainz-keith-lee-mr-chimetime-mixup/",
+      "image": "/fightonomics/agents/mma-news-updater/images/that-s-not-truuu-fans-demand-2-chainz-apologize-to-keith-lee-after-rapper-rips-restaurant-reviewer-over-seemingly-mistaken-criticism-1793769976321.jpeg",
+      "source": "Bossip",
+      "publishedAt": "2026-11-02T21:48:23Z",
+      "author": "O Mazariego"
+    },
+    {
+      "title": "Khamzat Chimaev vs. Jorge Masvidal grappling match reportedly set",
+      "description": "Khamzat Chimaev and Jorge Masvidal are reportedly scheduled to meet in a submission-only grappling match on Dec. 4 at The Agenda in Dubai, United Arab Emirates. The matchup is expected to headline ALF League’s inaugural event.",
+      "url": "https://www.sherdog.com/news/news/Khamzat-Chimaev-vs-Jorge-Masvidal-grappling-match-reportedly-set-203461",
+      "image": "/fightonomics/agents/mma-news-updater/images/khamzat-chimaev-vs-jorge-masvidal-grappling-match-reportedly-set-1793769976322.jpeg",
+      "source": "Sherdog.com",
+      "publishedAt": "2026-11-02T21:04:02Z",
+      "author": "SouravChakraborty@sherdog.com (Sourav Chakraborty)"
+    },
+    {
+      "title": "NFL Week 9 early predictions, odds, picks: Broncos vs. Panthers, Cowboys vs. Colts",
+      "description": "We know just about everything we need to know about every team in the NFL.",
+      "url": "https://nypost.com/2026/11/02/betting/nfl-week-9-early-predictions-odds-picks-broncos-vs-panthers-cowboys-vs-colts/",
+      "image": "/fightonomics/agents/mma-news-updater/images/nfl-week-9-early-predictions-odds-picks-broncos-vs-panthers-cowboys-vs-colts-1793769976323.jpeg",
       "source": "New York Post",
-      "publishedAt": "2026-11-02T18:33:32Z",
+      "publishedAt": "2026-11-02T20:51:03Z",
       "author": "Erich Richter"
     },
     {
-      "title": "John McCarthy: Dan Miragliotta gave unfair advantage to Tom Nolan vs. Renato Moicano",
-      "description": "\"(Dan Miragliotta) gave a great advantage to Tom Nolan ... People can look at it and say you were unfair, and they're right.\"",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/02/ufc-john-mccarthy-response-dan-miragliotta-gave-unfair-advantage-tom-nolan-vs-renato-moicano-standup/92566689007/",
-      "image": null,
-      "source": "USA Today",
-      "publishedAt": "2026-11-02T18:06:12Z",
-      "author": "Matt Erickson, MMA Junkie"
-    },
-    {
-      "title": "Colby Covington willing to make UFC return for 'big fight that adds to legacy'",
-      "description": "Colby Covington would entertain a UFC return – under one condition.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/02/colby-covington-prediction-ufc-return-conor-mcgregor-nate-diaz-big-paydays-only-mma/92559810007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/colby-covington-willing-to-make-ufc-return-for-big-fight-that-adds-to-legacy-1793732617626.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-11-02T17:10:19Z",
-      "author": "Farah Hannoun, MMA Junkie"
-    },
-    {
-      "title": "Joe Kropschot says bonus-winning submission at UFC Vegas 123 was just 6/10",
-      "description": "Joe Kropschot got a $100,000 bonus for his submission win in his UFC debut. He didn't think he was that great.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/02/ufc-fight-night-las-vegas-video-joe-kropschot-rates-submission-win-debut/92561461007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/joe-kropschot-says-bonus-winning-submission-at-ufc-vegas-123-was-just-6-10-1793732617628.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-11-02T16:20:17Z",
-      "author": "Matt Erickson and Jeronimo Guerra, MMA Junkie"
-    },
-    {
-      "title": "Jake Paul’s next boxing opponent revealed as former kickboxing champ Cedric Doumbé",
-      "description": "Jake Paul has a dance partner.",
-      "url": "https://nypost.com/2026/11/02/sports/jake-pauls-next-boxing-opponent-revealed-as-cedric-doumbe/",
-      "image": "/fightonomics/agents/mma-news-updater/images/jake-paul-s-next-boxing-opponent-revealed-as-former-kickboxing-champ-cedric-doumb-1793732617628.jpeg",
-      "source": "New York Post",
-      "publishedAt": "2026-11-02T16:18:21Z",
-      "author": "Erich Richter"
-    },
-    {
-      "title": "Jake Paul's next opponent revealed",
-      "description": "Jake Paul will face French multi-time kickboxing world champion Cédric Doumbé on Thursday, December 24.",
-      "url": "https://sports.yahoo.com/articles/jake-pauls-next-opponent-revealed-160515049.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/jake-paul-s-next-opponent-revealed-1793732617629.jpeg",
+      "title": "Darren Till blasts Jake Paul, claims he agreed to deal for Christmas Eve fight: 'Everyone's a fraud'",
+      "description": "\"I thought we were all good to go,\" Till told Uncrowned. \"I've been in camp for the past two weeks with my coach. ... And out of nowhere, this f***ing daft fight gets announced with Cédric Doumbé.\"",
+      "url": "https://sports.yahoo.com/boxing/article/darren-till-blasts-jake-paul-claims-he-agreed-to-deal-for-christmas-eve-fight-everyones-a-fraud-cedric-doumbe-203620568.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/darren-till-blasts-jake-paul-claims-he-agreed-to-deal-for-christmas-eve-fight-everyone-s-a-fraud-1793769976323.jpeg",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-02T16:05:15Z",
-      "author": "MMAWeekly.com Staff"
+      "publishedAt": "2026-11-02T20:36:20Z",
+      "author": "Drake Riggs"
     },
     {
-      "title": "Mania Mailbag, November 2: Get your questions in now!",
-      "description": "Send us your questions for the weekly MMA Mania Mailbag.",
-      "url": "https://www.mmamania.com/mma-mailbag-questions-answers-ufc/483609/mania-mailbag-november-2-get-your-questions-in-now",
-      "image": "/fightonomics/agents/mma-news-updater/images/mania-mailbag-november-2-get-your-questions-in-now-1793732617630.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-11-02T16:05:00Z",
-      "author": "Tim Edwards"
-    },
-    {
-      "title": "Who is Cedric Doumbe? 4 things every Jake Paul boxing fan should know about next opponent",
-      "description": "Jake Paul's return to boxing will be against a decorated kickboxer in Cedric Doumbe. Here's what you need to know about the fighter before he faces Paul in the ring.",
-      "url": "https://www.sportingnews.com/us/boxing/news/who-cedric-doumbe-jake-paul-boxing-next-opponent/d764691eaab5a16f95aab136",
-      "image": "/fightonomics/agents/mma-news-updater/images/who-is-cedric-doumbe-4-things-every-jake-paul-boxing-fan-should-know-about-next-opponent-1793732617631.jpeg",
-      "source": "Sporting News",
-      "publishedAt": "2026-11-02T15:40:47Z",
-      "author": "Daniel Yanofsky"
-    },
-    {
-      "title": "2 Chainz sits down with Keith Lee after that review",
-      "description": "2 Chainz and Keith Lee traded views on celebrity perks and restaurant reviews during an appearance on Den of Kings. The conversation turned on one question: should fame change the way a person is treated at the table? The Atlanta rapper also pressed the food …",
-      "url": "https://rollingout.com/2026/11/02/2-chainz-sits-down-with-keith-lee/",
-      "image": "/fightonomics/agents/mma-news-updater/images/2-chainz-sits-down-with-keith-lee-after-that-review-1793732617631.png",
-      "source": "Rolling Out",
-      "publishedAt": "2026-11-02T15:38:41Z",
-      "author": "Jess Sobrevinas"
-    },
-    {
-      "title": "Conor McGregor points to Canelo when raving about UFC sales: 'I outdo all these people'",
-      "description": "Conor McGregor is looking to make his UFC return with a bang.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/02/ufc-conor-mcgregor-promises-promote-final-fight-outsell-canelo-mayweather-boxing-mma/92559974007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/conor-mcgregor-points-to-canelo-when-raving-about-ufc-sales-i-outdo-all-these-people-1793732617632.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-11-02T15:30:24Z",
-      "author": "Farah Hannoun, MMA Junkie"
-    },
-    {
-      "title": "Jake Paul to fight MMA star Cedric Doumbe",
-      "description": "YouTuber-turned-boxer Jake Paul to face mixed martial arts star Cedric Doumbe in boxing bout in Dubai.",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4be23a0b-a6ca-4c2f-a737-f02698414518",
-      "image": null,
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-02T15:13:13Z",
-      "author": null
-    },
-    {
-      "title": "Jake Paul to fight MMA star Cedric Doumbe",
-      "description": "YouTuber-turned-boxer Jake Paul to face mixed martial arts star Cedric Doumbe in boxing bout in Dubai.",
-      "url": "https://www.aljazeera.com/sports/2026/11/2/jake-paul-to-fight-mma-star-cedric-doumbe",
-      "image": "/fightonomics/agents/mma-news-updater/images/jake-paul-to-fight-mma-star-cedric-doumbe-1793732617633.jpeg",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-02T15:13:13Z",
-      "author": null
-    },
-    {
-      "title": "Kenny Florian considers bigger picture of UFC influence on Dan Miragliotta controversy",
-      "description": "\"A referee’s responsibility is to enforce the rules, not manufacture excitement,\" Kenny Florian expressed in a thoughtful post.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/02/ufc-vegas-123-dan-miragliotta-standup-big-picture-kenny-florian-reaction/92553389007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/kenny-florian-considers-bigger-picture-of-ufc-influence-on-dan-miragliotta-controversy-1793732617633.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-11-02T14:40:21Z",
-      "author": "Simon Samano, MMA Junkie"
-    },
-    {
-      "title": "Jake Paul handpicks smaller kickboxer who hasn’t fought in over two years for ‘blockbuster’ return on Christmas Eve",
-      "description": "Still no word on where the fight will stream.",
-      "url": "https://www.mmamania.com/boxing/483586/jake-paul-handpicks-smaller-kickboxer-hasnt-fought-two-years-christmas-eve-return",
-      "image": "/fightonomics/agents/mma-news-updater/images/jake-paul-handpicks-smaller-kickboxer-who-hasn-t-fought-in-over-two-years-for-blockbuster-return-on-christmas-eve-1793732617634.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-11-02T14:38:58Z",
-      "author": "Jesse Holland"
-    },
-    {
-      "title": "UFC Fight Night 293: How to watch Cortes-Acosta vs. Walker, lineup, odds, more",
-      "description": "Here's what you need to know to watch UFC Fight Night 293 on Paramount+.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/02/ufc-fight-night-las-vegas-waldo-cortes-acosta-vs-johnny-walker-start-time-lineup-odds/92553542007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-fight-night-293-how-to-watch-cortes-acosta-vs-walker-lineup-odds-more-1793732617634.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-11-02T13:50:18Z",
-      "author": "Matt Erickson, MMA Junkie"
-    },
-    {
-      "title": "YouTuber-turned-boxer Jake Paul back in the ring for Dec. 24 fight against MMA star Doumbe",
-      "description": "Jake Paul is returning to the ring, a year after the YouTuber-turned-boxer had his jaw broken in two places in a loss to former world heavyweight champion Anthony Joshua.The 29-year-old Paul will face mixed martial arts star Cedric Doumbe on Dec.",
-      "url": "https://sports.yahoo.com/articles/youtuber-turned-boxer-jake-paul-134331938.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/youtuber-turned-boxer-jake-paul-back-in-the-ring-for-dec-24-fight-against-mma-star-doumbe-1793732617635.jpeg",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-02T13:43:31Z",
-      "author": "The Associated Press"
-    },
-    {
-      "title": "Boxing: Jake Paul to fight MMA and kickboxing star Cedric Doumbe on 24 December - BBC",
-      "description": "Boxing: Jake Paul to fight MMA and kickboxing star Cedric Doumbe on 24 DecemberBBC Jake Paul to face former kickboxing champion Cedric Doumbe in return fightESPN Jake Paul reveals opponent for boxing return on Christmas EveMMA Fighting Jake Paul reveals Chris…",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186556343",
-      "image": null,
-      "source": "Slashdot.org",
-      "publishedAt": "2026-11-02T13:33:02Z",
-      "author": "feedfeeder"
-    },
-    {
-      "title": "Jake Paul will fight French kickboxing star Cédric Doumbé Dec. 24 in Dubai",
-      "description": "Jake Paul will fight Cédric Doumbé, a 34-year-old French combat star who is 75-7-1 in kickboxing, 6-1 in MMA and 1-0 in boxing, on Dec. 24 in Dubai.",
-      "url": "https://www.usatoday.com/story/sports/boxing/2026/11/02/jake-paul-new-years-eve-dubai-cedric-doumbe/92560730007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/jake-paul-will-fight-french-kickboxing-star-c-dric-doumb-dec-24-in-dubai-1793732617636.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-11-02T13:32:14Z",
-      "author": "Josh Peter, USA TODAY"
+      "title": "Tye Ruotolo gets MMA title shot in third fight against Christian Lee",
+      "description": "One Championship has finalized the five-fight lineup for “The Inner Circle 37,” headlined by a lightweight mixed martial arts title bout between Christian Lee and Tye Ruotolo on Nov. 6 at Lumpinee Stadium in Bangkok.",
+      "url": "https://www.sherdog.com/news/news/Tye-Ruotolo-gets-MMA-title-shot-in-third-fight-against-Christian-Lee-203459",
+      "image": "/fightonomics/agents/mma-news-updater/images/tye-ruotolo-gets-mma-title-shot-in-third-fight-against-christian-lee-1793769976324.jpeg",
+      "source": "Sherdog.com",
+      "publishedAt": "2026-11-02T20:26:05Z",
+      "author": "SouravChakraborty@sherdog.com (Sourav Chakraborty)"
     }
   ]
 }
