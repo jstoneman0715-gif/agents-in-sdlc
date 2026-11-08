@@ -1,15 +1,42 @@
 {
-  "lastUpdated": "2026-11-07T17:26:32.620Z",
+  "lastUpdated": "2026-11-08T05:07:38.618Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
+      "title": "Perez is '100%' ready for his first title defense",
+      "description": "Albuquerque boxer Abraham Perez’s recovery from a brush with death some 27 months ago, a near-drowning in his family’s swimming pool that briefly stopped his heart, sapped his strength and robbed him of his stamina, has been nothing short of remarkable and li…",
+      "url": "https://www.abqjournal.com/sports/perez-is-100-ready-for-his-first-title-defense/3157881",
+      "image": null,
+      "source": "Albuquerque Journal",
+      "publishedAt": "2026-11-07T04:07:00Z",
+      "author": "Rick Wright, Albuquerque Journal, N.M."
+    },
+    {
+      "title": "Waldo Cortes Acosta believes Johnny Walker is learning to run 'for his life' from Alexander Volkov",
+      "description": "Cortes Acosta questions Walker's heavyweight potential ahead of their UFC Fight Night main event this weekend",
+      "url": "https://www.cbssports.com/ufc/news/waldo-cortes-acosta-johnny-walker-ufc-fight-night-alexander-volkov/",
+      "image": "/fightonomics/agents/mma-news-updater/images/waldo-cortes-acosta-believes-johnny-walker-is-learning-to-run-for-his-life-from-alexander-volkov-1794114456426.jpeg",
+      "source": "CBS Sports",
+      "publishedAt": "2026-11-06T20:01:24Z",
+      "author": "Shakiel Mahjouri"
+    },
+    {
+      "title": "Waldo Cortes-Acosta vs. Johnny Walker prediction, pick: Big-time knockout incoming?",
+      "description": "Johnny Walker's UFC heavyweight debut was stellar, but his next test is a short-notice step up in competition in the big-man class. Is he game?",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/06/ufc-fight-night-293-waldo-cortes-acosta-vs-johnny-walker-expert-prediction-pick/92643067007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/waldo-cortes-acosta-vs-johnny-walker-prediction-pick-big-time-knockout-incoming-1794114456426.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-11-06T18:50:27Z",
+      "author": "Dan Tom, MMA Junkie"
+    },
+    {
       "title": "UFC Vegas 124 preview and predictions: Can Johnny Walker fast-track past Waldo Cortes-Acosta?",
       "description": "Walker has a chance to fast-track himself in his first heavyweight main event against top-five contender Cortes-Acosta.",
       "url": "https://sports.yahoo.com/mma/article/ufc-vegas-124-preview-and-predictions-can-johnny-walker-fast-track-past-waldo-cortes-acosta-171109005.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-vegas-124-preview-and-predictions-can-johnny-walker-fast-track-past-waldo-cortes-acosta-1794072390836.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-vegas-124-preview-and-predictions-can-johnny-walker-fast-track-past-waldo-cortes-acosta-1794114456426.jpeg",
       "source": "Yahoo Entertainment",
       "publishedAt": "2026-11-06T17:11:09Z",
       "author": "Drake Riggs"
@@ -18,7 +45,7 @@
       "title": "Scotcast: Inside the mind of a bare-knuckle boxer",
       "description": "MMA fighter Stevie Ray on making his bare-knuckle debut.",
       "url": "https://www.bbc.co.uk/sounds/play/p0plhkdf?at_campaign=rss",
-      "image": "/fightonomics/agents/mma-news-updater/images/scotcast-inside-the-mind-of-a-bare-knuckle-boxer-1794072390837.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/scotcast-inside-the-mind-of-a-bare-knuckle-boxer-1794114456427.jpeg",
       "source": "BBC News",
       "publishedAt": "2026-11-06T17:00:00Z",
       "author": null
@@ -27,7 +54,7 @@
       "title": "Mania Mailbag: What are we doing with these stand ups?",
       "description": "You asked we answered!",
       "url": "https://www.mmamania.com/mma-mailbag-questions-answers-ufc/483621/mania-mailbag-what-are-we-doing-with-these-stand-ups",
-      "image": "/fightonomics/agents/mma-news-updater/images/mania-mailbag-what-are-we-doing-with-these-stand-ups-1794072390837.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/mania-mailbag-what-are-we-doing-with-these-stand-ups-1794114456427.jpeg",
       "source": "MMA Mania",
       "publishedAt": "2026-11-06T16:05:00Z",
       "author": "Tim Edwards"
@@ -36,7 +63,7 @@
       "title": "UFC Vegas 124 preview: ‘Cortes Acosta vs. Walker’ main, co-main event predictions",
       "description": "Ultimate Fighting Championship (UFC) is just one day away from the upcoming UFC Vegas 124 mixed martial arts (MMA) event, which is set to go down tomorrow night (Sat., Nov. 7, 2026) on Paramount+ from inside Meta Apex in Las Vegas, Nevada. UFC Vegas 124 featu…",
       "url": "https://www.mmamania.com/ufc-predictions/484043/ufc-vegas-124-preview-cortes-acosta-vs-walker-main-co-main-event-predictions",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-vegas-124-preview-cortes-acosta-vs-walker-main-co-main-event-predictions-1794072390838.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-vegas-124-preview-cortes-acosta-vs-walker-main-co-main-event-predictions-1794114456427.jpeg",
       "source": "MMA Mania",
       "publishedAt": "2026-11-06T14:30:00Z",
       "author": "Jesse Holland"
@@ -45,7 +72,7 @@
       "title": "Waldo Cortes-Acosta aims to take all of Josh Hokit’s teeth in future UFC fight",
       "description": "Waldo Cortes-Acosta headlines UFC Vegas 124 on short notice vs. Johnny Walker",
       "url": "https://www.mmafighting.com/ufc/519534/waldo-cortes-acosta-aims-to-take-all-of-josh-hokits-teeth-in-future-ufc-fight",
-      "image": "/fightonomics/agents/mma-news-updater/images/waldo-cortes-acosta-aims-to-take-all-of-josh-hokit-s-teeth-in-future-ufc-fight-1794072390838.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/waldo-cortes-acosta-aims-to-take-all-of-josh-hokit-s-teeth-in-future-ufc-fight-1794114456428.jpeg",
       "source": "MMA Fighting",
       "publishedAt": "2026-11-06T14:00:00Z",
       "author": "Mike Heck"
@@ -63,37 +90,10 @@
       "title": "‘I’ve Experienced The Worst Day Of My Profession’",
       "description": "Ilia Topuria may have lost his UFC lightweight title to Justin Gaethje at UFC’s White House event earlier this year, but “El Matador” appears to be keeping the same confidence he had before the fight. It feels like it’s been an eternity since fight fans last …",
       "url": "https://www.mmamania.com/latest-news/484228/former-ufc-champion-ilia-topuria-reflects-on-first-career-loss-ive-experienced-the-worst-day-of-my-profession",
-      "image": "/fightonomics/agents/mma-news-updater/images/i-ve-experienced-the-worst-day-of-my-profession-1794072390839.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/i-ve-experienced-the-worst-day-of-my-profession-1794114456428.jpeg",
       "source": "MMA Mania",
       "publishedAt": "2026-11-06T08:00:00Z",
       "author": "Dan Hiergesell"
-    },
-    {
-      "title": "Ilia Topuria Opens Up on Psychological Impact of Justin Gaethje Loss in First Interview Since UFC Freedom 250",
-      "description": "In his first exclusive interview since the White House loss, Ilia Topuria has offered a candid explanation about what has happened since June.",
-      "url": "https://sports.yahoo.com/articles/ilia-topuria-opens-psychological-impact-055522743.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/ilia-topuria-opens-up-on-psychological-impact-of-justin-gaethje-loss-in-first-interview-since-ufc-freedom-250-1794072390840.jpeg",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-06T05:55:22Z",
-      "author": "Kshitiz Kumar Singh"
-    },
-    {
-      "title": "Ilia Topuria on Paddy Pimblett: ‘I’ll Eat Him Like a Sausage’",
-      "description": "Former UFC lightweight champion Ilia Topuria talked some trash to rival Paddy Pimblett, saying, “I’ll eat him like a sausage.”Topuria hasn’t fought since a shocking TKO loss to Justin Gaethje at UFC Freedom 250 in June, but he is set to return to the Octagon …",
-      "url": "https://heavy.com/sports/ufc/ilia-topuria-paddy-pimblett-eat-sausage/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ilia-topuria-on-paddy-pimblett-i-ll-eat-him-like-a-sausage-1794072390840.jpeg",
-      "source": "Heavy.com",
-      "publishedAt": "2026-11-06T05:22:32Z",
-      "author": "Adam Martin"
-    },
-    {
-      "title": "Tony Laramie nearly threw away his MMA career. Now he's 1 win from a Rizin championship",
-      "description": "After a childhood marked by tragedy and years of self-destructive behavior, the 27-year-old fighter has found purpose in the sport that helped save him.",
-      "url": "https://sports.yahoo.com/mma/article/tony-laramie-nearly-threw-away-his-mma-career-now-hes-1-win-from-a-rizin-championship-040357072.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/tony-laramie-nearly-threw-away-his-mma-career-now-he-s-1-win-from-a-rizin-championship-1794072390841.jpeg",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-06T04:03:57Z",
-      "author": "Chuck Mindenhall"
     }
   ]
 }
