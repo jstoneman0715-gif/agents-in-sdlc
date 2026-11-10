@@ -1,15 +1,69 @@
 {
-  "lastUpdated": "2026-11-10T06:31:52.235Z",
+  "lastUpdated": "2026-11-10T19:19:16.470Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
+      "title": "UFC 334 fight card -- Ciryl Gane vs. Josh Hokit: Five biggest storylines to follow in New York",
+      "description": "The heavyweight and women's bantamweight titles are on the line on Saturday night",
+      "url": "https://www.cbssports.com/ufc/news/ufc-334-fight-card-ciryl-gane-vs-josh-hokit-five-biggest-storylines-new-york/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-334-fight-card-ciryl-gane-vs-josh-hokit-five-biggest-storylines-to-follow-in-new-york-1794338352704.jpeg",
+      "source": "CBS Sports",
+      "publishedAt": "2026-11-09T18:14:01Z",
+      "author": "Brian Campbell"
+    },
+    {
+      "title": "Hydro unlikely to host more bare-knuckle boxing after mass brawl, BBC understands",
+      "description": "Three police officers were injured and two men arrested after the large disturbance broke out following the Ovo Hydro show.",
+      "url": "https://www.bbc.com/news/articles/c6rryrdex252o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "image": "/fightonomics/agents/mma-news-updater/images/hydro-unlikely-to-host-more-bare-knuckle-boxing-after-mass-brawl-bbc-understands-1794338352704.jpeg",
+      "source": "BBC News",
+      "publishedAt": "2026-11-09T16:28:44Z",
+      "author": "Jonathan Geddes - Glasgow and west reporter"
+    },
+    {
+      "title": "Hydro defends bare-knuckle boxing event after mass brawl outside",
+      "description": "Three police officers were injured and two men arrested after the large disturbance broke out following the Ovo Hydro show.",
+      "url": "https://www.bbc.co.uk/news/articles/c6rryrdex252o",
+      "image": "/fightonomics/agents/mma-news-updater/images/hydro-defends-bare-knuckle-boxing-event-after-mass-brawl-outside-1794338352705.jpeg",
+      "source": "BBC News",
+      "publishedAt": "2026-11-09T14:28:18Z",
+      "author": "https://www.facebook.com/bbcnews"
+    },
+    {
+      "title": "UFC 334 roundtable: Is Josh Hokit about to be the one true heavyweight king?",
+      "description": "Heavyweight might never be the same after UFC 334",
+      "url": "https://www.mmafighting.com/ufc/519486/ufc-334-roundtable-is-josh-hokit-about-to-be-the-one-true-heavyweight-king",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-334-roundtable-is-josh-hokit-about-to-be-the-one-true-heavyweight-king-1794338352705.jpeg",
+      "source": "MMA Fighting",
+      "publishedAt": "2026-11-09T14:00:00Z",
+      "author": "Alexander K. Lee"
+    },
+    {
+      "title": "How to watch PFL Dubai: Fighter profiles, lineup, start time, odds, more",
+      "description": "Here's everything you need to know ahead of PFL Dubai, where the heavyweight title is on the line between a pair of teammates.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/pfl/2026/11/09/pfl-dubai-vadim-nemkov-vs-sergey-bilostenniy-heavyweight-title-tv-odds-how-watch-fedor/92680260007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/how-to-watch-pfl-dubai-fighter-profiles-lineup-start-time-odds-more-1794338352705.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-11-09T13:01:10Z",
+      "author": "Matt Erickson, MMA Junkie"
+    },
+    {
+      "title": "Couple in McGregor perjury case refuse book of evidence",
+      "description": "The Director of Public Prosecutions has completed books of evidence for the perjury trial of a Dublin couple who were witnesses in Conor McGregor's failed civil court rape appeal.",
+      "url": "https://www.rte.ie/news/2026/1109/1598538-mcgregor-perjury-case/",
+      "image": "/fightonomics/agents/mma-news-updater/images/couple-in-mcgregor-perjury-case-refuse-book-of-evidence-1794338352706.jpeg",
+      "source": "RTE",
+      "publishedAt": "2026-11-09T12:59:26Z",
+      "author": "RTÉ News"
+    },
+    {
       "title": "‘I’m Ready’ – Magomed Magomedov Eyes Lightweight MMA Gold After Hard-Fought Win At ONE Fight Night 49",
       "description": "The undefeated phenom reflects on his victory over Lucas Gabriel and sets his sights on new king Tye Ruotolo.",
       "url": "https://www.onefc.com/news/im-ready-magomed-magomedov-eyes-lightweight-mma-gold-after-hard-fought-win-at-one-fight-night-49/",
-      "image": "/fightonomics/agents/mma-news-updater/images/i-m-ready-magomed-magomedov-eyes-lightweight-mma-gold-after-hard-fought-win-at-one-fight-night-49-1794292310062.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/i-m-ready-magomed-magomedov-eyes-lightweight-mma-gold-after-hard-fought-win-at-one-fight-night-49-1794338352706.jpeg",
       "source": "Onefc.com",
       "publishedAt": "2026-11-09T03:54:01Z",
       "author": "Chris Mohan"
@@ -18,7 +72,7 @@
       "title": "Trump says he was 'only kidding' about naming UFC CEO Dana White as White House press secretary amid hunt for Karoline Leavitt's replacement",
       "description": "President Donald Trump admitted he was 'only kidding' when he suggested UFC boss Dana White could become his next White House press secretary.",
       "url": "https://www.dailymail.com/news/article-16276963/Trump-kidding-naming-UFC-CEO-Dana-White-White-House-press-secretary.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/trump-says-he-was-only-kidding-about-naming-ufc-ceo-dana-white-as-white-house-press-secretary-amid-hunt-for-karoline-leavitt-s-replacement-1794292310063.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/trump-says-he-was-only-kidding-about-naming-ufc-ceo-dana-white-as-white-house-press-secretary-amid-hunt-for-karoline-leavitt-s-replacement-1794338352707.jpeg",
       "source": "Dailymail.com",
       "publishedAt": "2026-11-09T00:26:34Z",
       "author": "James Gordon"
@@ -27,73 +81,10 @@
       "title": "The other Dana White responds to Trump’s surprise White House press secretary announcement",
       "description": "“So what are the chances someone suggested this Dana White and Trump pulled a Four Seasons Total Landscaping?” an X user joked.",
       "url": "https://nypost.com/2026/11/08/us-news/other-dana-white-responds-to-trumps-surprise-white-house-press-secretary-announcement/",
-      "image": "/fightonomics/agents/mma-news-updater/images/the-other-dana-white-responds-to-trump-s-surprise-white-house-press-secretary-announcement-1794292310063.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/the-other-dana-white-responds-to-trump-s-surprise-white-house-press-secretary-announcement-1794338352707.jpeg",
       "source": "New York Post",
       "publishedAt": "2026-11-08T23:37:53Z",
       "author": "Ally Goelz"
-    },
-    {
-      "title": "Nina Milosevic wants UFC Sydney spot with teammate after latest TKO",
-      "description": "Nina Milosevic got her second straight finish in the UFC. Now the Sydney-based fighter wants a home bout.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/08/ufc-fight-night-las-vegas-video-nina-milosevic-callout-sydney-card/92681993007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/nina-milosevic-wants-ufc-sydney-spot-with-teammate-after-latest-tko-1794292310064.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-11-08T22:10:35Z",
-      "author": "Matt Erickson and Ken Hathaway, MMA Junkie"
-    },
-    {
-      "title": "Dana White Seriously Considering Accepting President Trump’s Offer To Become White House Press Secretary, According To Report",
-      "description": "Could Dana White become the next White House Press Secretary of the United States? For the past month, the White House has struggled to replace Karoline Leavitt as its press secretary after she stepped down. On Saturday, Trump announced that UFC CEO Dana Whit…",
-      "url": "https://brobible.com/sports/article/dana-white-seriously-considering-accepting-president-trumps-offer-to-become-white-house-press-secretary-according-to-report/",
-      "image": "/fightonomics/agents/mma-news-updater/images/dana-white-seriously-considering-accepting-president-trump-s-offer-to-become-white-house-press-secretary-according-to-report-1794292310064.jpeg",
-      "source": "BroBible",
-      "publishedAt": "2026-11-08T19:39:14Z",
-      "author": "Jorge Alonso"
-    },
-    {
-      "title": "Mick Maynard's Shoes: What's next for Johnny Walker after UFC Vegas 124 win?",
-      "description": "How far can Johnny Walker go at heavyweight after his UFC Vegas 124 win? We attempt to navigate his future.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/08/ufc-vegas-124-matchmaker-johnny-walker-next-fight-win-heavyweight/92674322007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/mick-maynard-s-shoes-what-s-next-for-johnny-walker-after-ufc-vegas-124-win-1794292310065.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-11-08T18:50:28Z",
-      "author": "Mike Bohn, MMA Junkie"
-    },
-    {
-      "title": "Johnny Walker annoyed fans questioned his chin ahead of UFC Vegas 124: 'Stop talking sh*t'",
-      "description": "With a win at UFC Vegas 124, Johnny Walker was happy to prove to his haters that he can take a punch.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/08/ufc-vegas-124-video-johnny-walker-annoyed-fans-questioned-chin-before-waldo-cortes-acosta-knockout/92677492007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/johnny-walker-annoyed-fans-questioned-his-chin-ahead-of-ufc-vegas-124-stop-talking-sh-t-1794292310065.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-11-08T18:00:50Z",
-      "author": "Danny Segura, MMA Junkie"
-    },
-    {
-      "title": "Tony Laramie makes Rizin history in bloody split decision at Rizin 55",
-      "description": "Canadian Tony Laramie became the first non-Japanese flyweight champion in Rizin Fighting Federation history with a split decision victory over Makoto Takahashi at Rizin 55 on Sunday in Chiba, Japan.",
-      "url": "https://www.sherdog.com/news/news/Tony-Laramie-makes-Rizin-history-in-bloody-split-decision-at-Rizin-55-203536",
-      "image": "/fightonomics/agents/mma-news-updater/images/tony-laramie-makes-rizin-history-in-bloody-split-decision-at-rizin-55-1794292310066.jpeg",
-      "source": "Sherdog.com",
-      "publishedAt": "2026-11-08T17:22:30Z",
-      "author": "gyamamoto@sherdog.com (Go Yamamoto) and robs@mmarising.com (Robert Sargent)"
-    },
-    {
-      "title": "4 Virtua Fighter Characters Who Should Be Revealed Next For Crossroads, & 1 Who Should Stay Off The Roster",
-      "description": "Courtesy of Sega\n\nThe newest character for Virtua Fighter Crossroads, Lionel Rafale, shows that the game isn’t afraid to re-invent itself, calling into question what legacy fighters will actually show up on the final roster. Some characters could return as ol…",
-      "url": "http://comicbook.com/gaming/list/4-virtua-fighter-characters-who-should-be-revealed-next-for-crossroads-1-who-should-stay-off-the-roster/",
-      "image": "/fightonomics/agents/mma-news-updater/images/4-virtua-fighter-characters-who-should-be-revealed-next-for-crossroads-1-who-should-stay-off-the-roster-1794292310066.jpeg",
-      "source": "ComicBook.com",
-      "publishedAt": "2026-11-08T16:00:00Z",
-      "author": "Matthew Danielson"
-    },
-    {
-      "title": "‘I’m A Free Agent… Talk To Me’ UFC Prospect Calls Out Dana White’s Top Matchmakers After 60-Second KO",
-      "description": "Elijah Smith knocked out Davey Grant in 60 seconds at UFC Vegas 124, extended his win streak to five and told the UFC he is a free agent. Watch the KO.",
-      "url": "https://www.forbes.com/sites/brianmazique/2026/11/08/im-a-free-agent-talk-to-me-ufc-prospect-calls-out-dana-whites-top-matchmakers-after-60-second-ko/",
-      "image": "/fightonomics/agents/mma-news-updater/images/i-m-a-free-agent-talk-to-me-ufc-prospect-calls-out-dana-white-s-top-matchmakers-after-60-second-ko-1794292310067.jpeg",
-      "source": "Forbes",
-      "publishedAt": "2026-11-08T14:00:35Z",
-      "author": "Brian Mazique, Contributor"
     }
   ]
 }
