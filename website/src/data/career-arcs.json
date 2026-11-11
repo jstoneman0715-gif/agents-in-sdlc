@@ -1,15 +1,78 @@
 {
-  "lastUpdated": "2026-11-11T05:18:22.383Z",
+  "lastUpdated": "2026-11-11T19:15:14.455Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
+      "title": "UFC 334: Stephen Thompson's retirement, Bilal Hasan's return among top fights to watch this weekend",
+      "description": "'Wonderboy' returns to the site of his most famous fight for one last showdown",
+      "url": "https://www.cbssports.com/ufc/news/ufc-334-fight-card-stephen-thompson-bilal-hasan/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-334-stephen-thompson-s-retirement-bilal-hasan-s-return-among-top-fights-to-watch-this-weekend-1794424512762.jpeg",
+      "source": "CBS Sports",
+      "publishedAt": "2026-11-10T17:55:29Z",
+      "author": "Shakiel Mahjouri"
+    },
+    {
+      "title": "Ollie Schmid employs Hooker mentality after UFC Fight Night 293 war",
+      "description": "Ollie Schmid was a little worse for the wear Saturday, but left Las Vegas with his first win in the UFC – and some ideas about the future.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/10/ufc-fight-night-las-vegas-video-ollie-schmid-tough-dan-hooker-mentality-just-scratch/92701873007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ollie-schmid-employs-hooker-mentality-after-ufc-fight-night-293-war-1794424512763.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-11-10T16:20:21Z",
+      "author": "Matt Erickson and Ken Hathaway, MMA Junkie"
+    },
+    {
+      "title": "UFC 334 broadcast team set: Joe Rogan calls Josh Hokit's first title fight",
+      "description": "Joe Rogan, Daniel Cormier and Jon Anik will lead the cageside call at UFC 334 from New York.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/10/ufc-334-broadcast-team-set-joe-rogan-daniel-cormier-jon-anik/92676934007/",
+      "image": null,
+      "source": "USA Today",
+      "publishedAt": "2026-11-10T14:40:17Z",
+      "author": "Mike Bohn, MMA Junkie"
+    },
+    {
+      "title": "UFC power rankings following Fight Night 293 in Las Vegas, NV",
+      "description": "Ranking the top men's fighters in the UFC after Fight Night 293.",
+      "url": "https://www.thebiglead.com/ufc-power-rankings-following-fight-night-293-in-las-vegas-nv/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-power-rankings-following-fight-night-293-in-las-vegas-nv-1794424512764.jpeg",
+      "source": "The Big Lead",
+      "publishedAt": "2026-11-10T12:48:00Z",
+      "author": "Robert Pasky"
+    },
+    {
+      "title": "UFC 334: Gane v Hokit - all you need to know",
+      "description": "All you need to know as Ciryl Gane defends his heavyweight title against Josh Hokit and Kayla Harrison puts her women's bantamweight belt on the line against Amanda Nunes.",
+      "url": "https://www.bbc.com/sport/mixed-martial-arts/articles/c6n494my0g32o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-334-gane-v-hokit-all-you-need-to-know-1794424512764.jpeg",
+      "source": "BBC News",
+      "publishedAt": "2026-11-10T09:06:44Z",
+      "author": "BBC"
+    },
+    {
+      "title": "Ex-UFC Champion Calls for Major Rule Changes in MMA",
+      "description": "Former UFC heavyweight champion Josh Barnett proposed major rule changes, saying today's fighters have outgrown the current rules. The post Ex-UFC Champion Calls for Major Rule Changes in MMA appeared first on HEAVY.",
+      "url": "https://heavy.com/sports/ufc/ufc-champion-proposes-major-rule-changes/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ex-ufc-champion-calls-for-major-rule-changes-in-mma-1794424512765.jpeg",
+      "source": "Heavy.com",
+      "publishedAt": "2026-11-10T06:46:29Z",
+      "author": "Giancarlo Aulino"
+    },
+    {
+      "title": "Ciryl Gane Exposes the Intelligence Behind Josh Hokit’s Comedic Gimmick Ahead of UFC 334",
+      "description": "Despite his atomic mouth and controversial personality, Ciryl Gane refuses to underestimate Josh Hokit ahead of UFC 334 title fight.",
+      "url": "https://sports.yahoo.com/articles/ciryl-gane-exposes-intelligence-behind-061305044.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/ciryl-gane-exposes-the-intelligence-behind-josh-hokit-s-comedic-gimmick-ahead-of-ufc-334-1794424512765.jpeg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-10T06:13:05Z",
+      "author": "Kshitiz Kumar Singh"
+    },
+    {
       "title": "Midnight Mania: Brotherly Love? ‘I Miss Him’",
       "description": "Bringing you the weird and wild from the world of MMA each and every weeknight!",
       "url": "https://www.mmamania.com/ufc-news/479610/johnny-walker-opens-up-on-drama-with-idiot-brother-valter-i-miss-him",
-      "image": "/fightonomics/agents/mma-news-updater/images/midnight-mania-brotherly-love-i-miss-him-1794374299975.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/midnight-mania-brotherly-love-i-miss-him-1794424512766.jpeg",
       "source": "MMA Mania",
       "publishedAt": "2026-11-10T04:59:00Z",
       "author": "Andrew Richardson"
@@ -18,7 +81,7 @@
       "title": "Stipe Miocic Backs Ciryl Gane’s Heavyweight Reign Despite Tom Aspinall and Alex Pereira Controversies",
       "description": "Despite eye-poking Tom Aspinall into potential retirement, Stipe Miocic still believes Ciryl Gane's tactics inside the UFC cage are not intentional.",
       "url": "https://sports.yahoo.com/articles/stipe-miocic-backs-ciryl-gane-045838509.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/stipe-miocic-backs-ciryl-gane-s-heavyweight-reign-despite-tom-aspinall-and-alex-pereira-controversies-1794374299976.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/stipe-miocic-backs-ciryl-gane-s-heavyweight-reign-despite-tom-aspinall-and-alex-pereira-controversies-1794424512766.jpeg",
       "source": "Yahoo Entertainment",
       "publishedAt": "2026-11-10T04:58:38Z",
       "author": "Kshitiz Kumar Singh"
@@ -27,73 +90,10 @@
       "title": "Umar Nurmagomedov refuses to let Yadong Song KO loss end his UFC dream",
       "description": "Umar Nurmagomedov’s goal of becoming a Ultimate Fighting Championship titleholder remains unshaken.",
       "url": "https://www.sherdog.com/news/news/Umar-Nurmagomedov-refuses-to-let-Yadong-Song-KO-loss-end-his-UFC-dream-203568",
-      "image": "/fightonomics/agents/mma-news-updater/images/umar-nurmagomedov-refuses-to-let-yadong-song-ko-loss-end-his-ufc-dream-1794374299976.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/umar-nurmagomedov-refuses-to-let-yadong-song-ko-loss-end-his-ufc-dream-1794424512767.jpeg",
       "source": "Sherdog.com",
       "publishedAt": "2026-11-10T02:47:19Z",
       "author": "sayannag88@gmail.com (Sayan Nag)"
-    },
-    {
-      "title": "Ilia Topuria: Paddy Pimblett is 'someone you can dominate,' unlike Justin Gaethje",
-      "description": "As far as Ilia Topuria is concerned, Paddy Pimblett is just a \"sausage body\" who can be dominated with ease.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/09/ufc-ilia-topuria-paddy-pimblett-sausage-body-dominate/92689203007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ilia-topuria-paddy-pimblett-is-someone-you-can-dominate-unlike-justin-gaethje-1794374299977.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-11-09T23:50:28Z",
-      "author": "Farah Hannoun, MMA Junkie"
-    },
-    {
-      "title": "'I've got no regrets. Zero': Stephen Thompson on retirement, coming up short and life after UFC 334",
-      "description": "After a 22-fight UFC run spanning more than a decade, Stephen \"Wonderboy\" Thompson is calling it a career this Saturday at UFC 334.",
-      "url": "https://sports.yahoo.com/mma/article/ufc-334-ive-got-no-regrets-zero-stephen-thompson-on-retirement-coming-up-short-220821662.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/i-ve-got-no-regrets-zero-stephen-thompson-on-retirement-coming-up-short-and-life-after-ufc-334-1794374299977.jpeg",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-09T22:08:21Z",
-      "author": "Drake Riggs"
-    },
-    {
-      "title": "Israel Adesanya, Ian Machado Garry enter must-win territory at UFC Saudi Arabia",
-      "description": "UFC Saudi Arabia headliners face major stakes, but for very dfiferent reasons",
-      "url": "https://www.thebiglead.com/israel-adesanya-ian-machado-garry-enter-must-win-territory-at-ufc-saudi-arabia/",
-      "image": "/fightonomics/agents/mma-news-updater/images/israel-adesanya-ian-machado-garry-enter-must-win-territory-at-ufc-saudi-arabia-1794374299978.jpeg",
-      "source": "The Big Lead",
-      "publishedAt": "2026-11-09T21:32:18Z",
-      "author": "Preston Palm"
-    },
-    {
-      "title": "WWE, AEW power rankings: Roman Reigns and Tiffany Stratton's Crown Jewel coups shake up the top 10",
-      "description": "A dramatic weekend at Crown Jewel reshuffled the WWE pecking order, while over in AEW, the fallout from a brutal Blood and Guts has set the stage for Full Gear.",
-      "url": "https://sports.yahoo.com/wrestling/article/wwe-aew-power-rankings-roman-reigns-and-tiffany-strattons-crown-jewel-coups-shake-up-the-top-10-aew-full-gear-211237146.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/wwe-aew-power-rankings-roman-reigns-and-tiffany-stratton-s-crown-jewel-coups-shake-up-the-top-10-1794374299978.jpeg",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-09T21:12:37Z",
-      "author": "Robert Jackman"
-    },
-    {
-      "title": "Josh Hokit says Jon Jones' win gives him blueprint to beat Ciryl Gane",
-      "description": "Josh Hokit believes his coaches already know how to beat Ciryl Gane, pointing to Jon Jones’ submission victory over the Frenchman as a blueprint for their UFC 334 heavyweight title fight.",
-      "url": "https://www.sherdog.com/news/news/Josh-Hokit-says-Jon-Jones-win-gives-him-blueprint-to-beat-Ciryl-Gane-203563",
-      "image": "/fightonomics/agents/mma-news-updater/images/josh-hokit-says-jon-jones-win-gives-him-blueprint-to-beat-ciryl-gane-1794374299979.jpeg",
-      "source": "Sherdog.com",
-      "publishedAt": "2026-11-09T20:17:24Z",
-      "author": "SouravChakraborty@sherdog.com (Sourav Chakraborty)"
-    },
-    {
-      "title": "UFC 334 fight card -- Ciryl Gane vs. Josh Hokit: Five biggest storylines to follow in New York",
-      "description": "The heavyweight and women's bantamweight titles are on the line on Saturday night",
-      "url": "https://www.cbssports.com/ufc/news/ufc-334-fight-card-ciryl-gane-vs-josh-hokit-five-biggest-storylines-new-york/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-334-fight-card-ciryl-gane-vs-josh-hokit-five-biggest-storylines-to-follow-in-new-york-1794374299979.jpeg",
-      "source": "CBS Sports",
-      "publishedAt": "2026-11-09T18:14:01Z",
-      "author": "Brian Campbell"
-    },
-    {
-      "title": "Hydro unlikely to host more bare-knuckle boxing after mass brawl, BBC understands",
-      "description": "Three police officers were injured and two men arrested after the large disturbance broke out following the Ovo Hydro show.",
-      "url": "https://www.bbc.com/news/articles/c6rryrdex252o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "image": "/fightonomics/agents/mma-news-updater/images/hydro-unlikely-to-host-more-bare-knuckle-boxing-after-mass-brawl-bbc-understands-1794374299980.jpeg",
-      "source": "BBC News",
-      "publishedAt": "2026-11-09T16:28:44Z",
-      "author": "Jonathan Geddes - Glasgow and west reporter"
     }
   ]
 }
