@@ -1,99 +1,90 @@
 {
-  "lastUpdated": "2026-11-13T05:42:43.695Z",
+  "lastUpdated": "2026-11-13T19:13:36.860Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
-      "title": "Conor McGregor Imagines Ilia Topuria Recreating His Infamous UFC 223 Dolly Attack After Merab Dvalishvili Incident",
-      "description": "Conor McGregor revisits his infamous UFC 223 bus attack on Khabib Nurmagomedov’s camp with a morphed image of Ilia Topuria.",
-      "url": "https://sports.yahoo.com/articles/conor-mcgregor-imagines-ilia-topuria-054107811.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/conor-mcgregor-imagines-ilia-topuria-recreating-his-infamous-ufc-223-dolly-attack-after-merab-dvalishvili-incident-1794548560707.jpeg",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-12T05:41:07Z",
-      "author": "Kshitiz Kumar Singh"
-    },
-    {
-      "title": "Brandon Royval Announces He Will Be Backup Fighter For UFC 336",
-      "description": "Former title challenger Brandon Royval is officially the backup fighter for the main event of UFC 336 in Toronto, Ontario, Canada, on January 30. The fighter out of Denver, Colorado, will weigh in on January 29 as the official backup for the flyweight headlin…",
-      "url": "https://heavy.com/sports/ufc/brandon-royval-backup-fighter-ufc-336/",
-      "image": "/fightonomics/agents/mma-news-updater/images/brandon-royval-announces-he-will-be-backup-fighter-for-ufc-336-1794548560707.jpeg",
-      "source": "Heavy.com",
-      "publishedAt": "2026-11-12T05:17:56Z",
-      "author": "Marcel Dorff"
-    },
-    {
-      "title": "MMA Community Reacts as Usman Nurmagomedov and His Entourage Attack Merab Dvalishvili and Saba Lazishvili",
-      "description": "Merab Dvalishvili gets bloodied up by Usman Nurmagomedov and several Dagestani fighters, sparking outrage across the MMA community.",
-      "url": "https://sports.yahoo.com/articles/mma-community-reacts-usman-nurmagomedov-040432642.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/mma-community-reacts-as-usman-nurmagomedov-and-his-entourage-attack-merab-dvalishvili-and-saba-lazishvili-1794548560708.jpeg",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-12T04:04:32Z",
-      "author": "Kshitiz Kumar Singh"
-    },
-    {
-      "title": "UFC 334: Kayla Harrison Vs. Amanda Nunes Odds, Pick, And Prediction",
-      "description": "Everything you need to know about the UFC 334 fight between Kayla Harrison and Amanda Nunes, including betting odds, picks and predictions",
-      "url": "https://www.forbes.com/sites/trentreinsmith/2026/11/11/ufc-334-kayla-harrison-vs-amanda-nunes-odds-pick-and-prediction/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-334-kayla-harrison-vs-amanda-nunes-odds-pick-and-prediction-1794548560708.jpeg",
-      "source": "Forbes",
-      "publishedAt": "2026-11-12T02:56:42Z",
-      "author": "Trent Reinsmith, Contributor"
-    },
-    {
-      "title": "Kayla Harrison denies Amanda Nunes bad blood at UFC 334",
-      "description": "Kayla Harrison insists her long-awaited showdown with Amanda Nunes is about competition, not hatred. The former American Top Team (ATT) stablemates will collide in the UFC 334 co-main event this weekend (Sat., Nov. 14, 2026) from inside Madison Square Garden …",
-      "url": "https://www.mmamania.com/ufc-334-live-stream-fight-card-start-time-gane-vs-hokit/485561/they-hate-each-other-ufc-334s-kayla-harrison-squashes-amanda-nunes-bad-blood-att-gym-drama-rumors-i-just-want-to-be-the-best",
-      "image": "/fightonomics/agents/mma-news-updater/images/kayla-harrison-denies-amanda-nunes-bad-blood-at-ufc-334-1794548560709.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-11-12T01:39:54Z",
-      "author": "Alexander Behunin"
-    },
-    {
-      "title": "Norma Dumont leaves UFC with two fights left on her contract",
-      "description": "Norma Dumont has parted ways with the Ultimate Fighting Championship despite having two bouts left on her contract.",
-      "url": "https://www.sherdog.com/news/news/Norma-Dumont-leaves-UFC-with-two-fights-left-on-her-contract-203591",
-      "image": "/fightonomics/agents/mma-news-updater/images/norma-dumont-leaves-ufc-with-two-fights-left-on-her-contract-1794548560709.jpeg",
-      "source": "Sherdog.com",
-      "publishedAt": "2026-11-12T01:29:08Z",
-      "author": "malonso@sherdog.com (Marcelo Alonso) and sayannag88@gmail.com (Sayan Nag)"
-    },
-    {
-      "title": "Ciryl Gane brushes off foul criticism as he enters first UFC title defense with question to answer",
-      "description": "Ciryl Gane defends his UFC heavyweight title against unbeaten Josh Hokit while dismissing foul criticism and testing his takedown defense. Read more.",
-      "url": "https://nypost.com/2026/11/11/sports/ciryl-gane-brushes-off-foul-criticism-as-he-enters-ufc-334-title-defense-with-question-to-answer/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ciryl-gane-brushes-off-foul-criticism-as-he-enters-first-ufc-title-defense-with-question-to-answer-1794548560710.jpeg",
-      "source": "New York Post",
-      "publishedAt": "2026-11-12T00:52:32Z",
-      "author": "Scott Fontana"
-    },
-    {
-      "title": "MMA fighter Jindrich Janecka resuscitated after cardiac arrest in cage",
-      "description": "Jindrich Janecka went into cardiac arrest during his bout against Tomas Skalicky at Cage Game 2, according to Oktagon MMA chief medic Norbert Bidrman.",
-      "url": "https://www.sherdog.com/news/news/MMA-fighter-Jindrich-Janecka-resuscitated-after-cardiac-arrest-in-cage-203589",
-      "image": "/fightonomics/agents/mma-news-updater/images/mma-fighter-jindrich-janecka-resuscitated-after-cardiac-arrest-in-cage-1794548560710.jpeg",
-      "source": "Sherdog.com",
-      "publishedAt": "2026-11-12T00:36:42Z",
-      "author": "sayannag88@gmail.com (Sayan Nag)"
-    },
-    {
-      "title": "Astonishing moment UFC star is brutally 'attacked' while filming an interview at a hotel - just days before his next fight",
-      "description": "Georgian-American Dvalishvili claimed footage showing him getting jumped portrayed Nurmagomedov and his brother, Umar, alongside their friends, attacking him.",
-      "url": "https://www.dailymail.com/sport/mma/article-16285563/UFC-star-attacked-hotel.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/astonishing-moment-ufc-star-is-brutally-attacked-while-filming-an-interview-at-a-hotel-just-days-before-his-next-fight-1794548560711.jpeg",
+      "title": "Undefeated UFC star 'rushed to hospital after being found unresponsive in nightclub near white substance'",
+      "description": "Following the terrifying medical emergency, the UFC star was transported to a local medical facility where he was successfully stabilized by healthcare professionals.",
+      "url": "https://www.dailymail.com/sport/mma/article-16288271/tommy-mcmillen-ufc-hospital-arizona-nightclub.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/undefeated-ufc-star-rushed-to-hospital-after-being-found-unresponsive-in-nightclub-near-white-substance-1794597214172.jpeg",
       "source": "Dailymail.com",
-      "publishedAt": "2026-11-11T22:44:42Z",
-      "author": "Lewis Browning"
+      "publishedAt": "2026-11-12T18:40:44Z",
+      "author": "James Cohen"
     },
     {
-      "title": "Islam Makhachev defends Usman Nurmagomedov's brutal attack on Merab Dvalishvili in Abu Dhabi",
-      "description": "UFC star Islam Makhachev came out in defense of Usman Nurmagomedov on Wednesday following the bloody attack of Merab Dvalishvili in Abu Dhabi.",
-      "url": "https://sports.yahoo.com/mma/article/islam-makhachev-defends-usman-nurmagomedovs-brutal-attack-on-merab-dvalishvili-in-abu-dhabi-222801103.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/islam-makhachev-defends-usman-nurmagomedov-s-brutal-attack-on-merab-dvalishvili-in-abu-dhabi-1794548560711.jpeg",
+      "title": "8 people arrested after Abu Dhabi hotel brawl; Usman Nurmagomedov barred from RAF event",
+      "description": "Abu Dhabi police say they have arrested eight people following a hotel brawl involving Merab Dvalishvili and Usman Nurmagomedov.",
+      "url": "https://sports.yahoo.com/mma/article/8-people-arrested-after-abu-dhabi-hotel-brawl-usman-nurmagomedov-barred-from-raf-event-183120222.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/8-people-arrested-after-abu-dhabi-hotel-brawl-usman-nurmagomedov-barred-from-raf-event-1794597214172.jpeg",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-11T22:28:01Z",
-      "author": "Uncrowned Staff"
+      "publishedAt": "2026-11-12T18:15:25Z",
+      "author": "Ben Fowlkes"
+    },
+    {
+      "title": "UFC 334 predictions, best bets: Top picks to consider for Gane vs. Hokit, Harrison vs. Nunes on loaded card",
+      "description": "The action heats up on Saturday night in New York and there's plenty of ways to get in on it",
+      "url": "https://www.cbssports.com/ufc/news/ufc-334-predictions-best-bets-odds-ciryl-gane-josh-hokit-amanda-nunes-kayla-harrison/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-334-predictions-best-bets-top-picks-to-consider-for-gane-vs-hokit-harrison-vs-nunes-on-loaded-card-1794597214173.jpeg",
+      "source": "CBS Sports",
+      "publishedAt": "2026-11-12T18:12:19Z",
+      "author": "Brent Brookhouse"
+    },
+    {
+      "title": "Jake Paul vs. Cédric Doumbé fight card: Alistair Overeem to make boxing debut against Jimi Manuwa",
+      "description": "Overeem, 46, compiled a 47-19 record in MMA, which included 20 fights in the UFC and winning Strikeforce and DREAM heavyweight titles.",
+      "url": "https://sports.yahoo.com/boxing/article/jake-paul-vs-cedric-doumbe-fight-card-alistair-overeem-to-make-boxing-debut-against-jimi-manuwa-171539353.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/jake-paul-vs-c-dric-doumb-fight-card-alistair-overeem-to-make-boxing-debut-against-jimi-manuwa-1794597214173.jpeg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-12T17:15:39Z",
+      "author": "Darshan Desai"
+    },
+    {
+      "title": "UFC 334: An inside look at Josh Hokit's incredible rise to title challenger in just one year",
+      "description": "Hokit could make himself a superstar on Saturday night against Ciryl Gane with a historic run to the heavyweight title",
+      "url": "https://www.cbssports.com/ufc/news/ufc-334-josh-hokit-incredible-rise-from-early-prelims-to-title-challenger/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-334-an-inside-look-at-josh-hokit-s-incredible-rise-to-title-challenger-in-just-one-year-1794597214174.jpeg",
+      "source": "CBS Sports",
+      "publishedAt": "2026-11-12T17:00:56Z",
+      "author": "Brian Campbell"
+    },
+    {
+      "title": "Police confirm arrests after Usman Nurmagomedov attack on Merab Dvalishvili",
+      "description": "Abu Dhabi Police issued a statement containing more details about what happened after the Usman Nurmagomedov-Merab Dvalishvili brawl in a hotel lobby.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/12/abu-dhabi-police-usman-nurmagomedov-merab-dvalishvili-brawl-arrests-made/92741846007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/police-confirm-arrests-after-usman-nurmagomedov-attack-on-merab-dvalishvili-1794597214174.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-11-12T16:55:37Z",
+      "author": "Nolan King, MMA Junkie"
+    },
+    {
+      "title": "Cain Velasquez compares Josh Hokit to Conor McGregor, predicts UFC 334 main event - MMA Fighting",
+      "description": "Cain Velasquez compares Josh Hokit to Conor McGregor, predicts UFC 334 main eventMMA Fighting B/R Staff Predictions for UFC 334 Main CardBleacher Report Between the Links: UFC 334, Gane vs. Hokit, Usman Nurmagomedov attacks Merab DvalishviliYahoo Sports Josh …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186699857",
+      "image": null,
+      "source": "Slashdot.org",
+      "publishedAt": "2026-11-12T16:52:29Z",
+      "author": "feedfeeder"
+    },
+    {
+      "title": "Kayla Harrison feared her neck surgery could end her career. She's still fighting for her UFC title",
+      "description": "NEW YORK (AP) — Kayla Harrison rubbed her hands down her shoulders as she described the lightning bolts of pain — so random and severe that they would shoot through her arms and jolt her awake in agony.She detailed the numbness in her fingers.",
+      "url": "https://sports.yahoo.com/articles/kayla-harrison-feared-her-neck-162044409.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/kayla-harrison-feared-her-neck-surgery-could-end-her-career-she-s-still-fighting-for-her-ufc-title-1794597214175.jpeg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-12T16:20:44Z",
+      "author": "DAN GELSTON"
+    },
+    {
+      "title": "Middletown’s Harrison hopes to take next step toward GOAT title",
+      "description": "The fight that has been discussed and anticipated for years is only days away after one competitor came out of retirement, the other recovered from serious neck surgery. On Saturday, Nov. 14, Middletown’s Kayla Harrison (19-1) will face UFC Hall of Famer Aman…",
+      "url": "https://www.journal-news.com/community/butler-county/middletown-s-harrison-hopes-to-take-next-step-toward-goat-title/article_63939ac1-4b68-529b-bbe4-cac4a2d98ac0.html",
+      "image": null,
+      "source": "Hamilton Journal News",
+      "publishedAt": "2026-11-12T15:05:00Z",
+      "author": "Rick Mccrabb, Journal-News, Hamilton, Ohio"
     }
   ]
 }
