@@ -1,15 +1,51 @@
 {
-  "lastUpdated": "2026-11-16T21:38:59.135Z",
+  "lastUpdated": "2026-11-17T07:07:45.269Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
+      "title": "Dana White Reacts to Stephen Thompson’s UFC Retirement",
+      "description": "UFC president Dana White shared his reaction after long-time welterweight fighter Stephen Thompson retired following his big win at UFC 334.Thompson announced before the event that his fight against Charles Radtke at UFC 334 would be the final fight of his MM…",
+      "url": "https://heavy.com/sports/ufc/dana-white-reacts-stephen-thompson-retirement/",
+      "image": "/fightonomics/agents/mma-news-updater/images/dana-white-reacts-to-stephen-thompson-s-ufc-retirement-1794899264303.jpeg",
+      "source": "Heavy.com",
+      "publishedAt": "2026-11-16T05:23:47Z",
+      "author": "Adam Martin"
+    },
+    {
+      "title": "5 Blockbuster Reasons To Watch ONE SAMURAI 5 On November 18",
+      "description": "Fans are in for another unforgettable night of world-class action in Tokyo’s EBARA WAVE Arena Ota.",
+      "url": "https://www.onefc.com/features/5-blockbuster-reasons-to-watch-one-samurai-5-on-november-18/",
+      "image": "/fightonomics/agents/mma-news-updater/images/5-blockbuster-reasons-to-watch-one-samurai-5-on-november-18-1794899264303.jpeg",
+      "source": "Onefc.com",
+      "publishedAt": "2026-11-16T04:47:03Z",
+      "author": "Chris Mohan"
+    },
+    {
+      "title": "Dana White reacts to Tommy McMillen overdose reports: 'Hopefully that was a huge wakeup call'",
+      "description": "UFC fighter Tommy McMillen was reportedly administered Narcan at an Arizona bar on Sunday.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/15/ufc-news-dana-white-tommy-mcmillen-overdose-reaction/92797375007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/dana-white-reacts-to-tommy-mcmillen-overdose-reports-hopefully-that-was-a-huge-wakeup-call-1794899264304.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-11-16T02:20:16Z",
+      "author": "Nolan King and Jeronimo Guerra, MMA Junkie"
+    },
+    {
+      "title": "Kayla Harrison says future uncertain, but Amanda Nunes rematch or 'easy money' Ronda Rousey appealing",
+      "description": "Have fight fans seen the last UFC fight of Kayla Harrison's career?",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/15/ufc-334-kayla-harrison-future-next-fight-amanda-nunes-ronda-rousey/92798720007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/kayla-harrison-says-future-uncertain-but-amanda-nunes-rematch-or-easy-money-ronda-rousey-appealing-1794899264304.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-11-15T22:10:27Z",
+      "author": "Nolan King and Jeronimo Guerra, MMA Junkie"
+    },
+    {
       "title": "UFC 334 matchmaker: Is Kayla Harrison vs. Amanda Nunes rematch a must?",
       "description": "Kayla Harrison and Amanda Nunes have few better options than a rematch after UFC 334.",
       "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/15/ufc-334-matchmaker-is-kayla-harrison-vs-amanda-nunes-rematch-title/92797108007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-334-matchmaker-is-kayla-harrison-vs-amanda-nunes-rematch-a-must-1794865136808.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-334-matchmaker-is-kayla-harrison-vs-amanda-nunes-rematch-a-must-1794899264305.jpeg",
       "source": "USA Today",
       "publishedAt": "2026-11-15T21:20:22Z",
       "author": "Mike Bohn, MMA Junkie"
@@ -18,7 +54,7 @@
       "title": "Josh Hokit gets final word despite loss in UFC heavyweight title fight",
       "description": "Josh Hokit lost to Ciryl Gane by unanimious decision in their five-round heavyweight title fight in New York, but he still got the final word.",
       "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/15/josh-hokit-loses-ufc-heavyweight-title-fight-still-gets-final-word/92781425007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/josh-hokit-gets-final-word-despite-loss-in-ufc-heavyweight-title-fight-1794865136808.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/josh-hokit-gets-final-word-despite-loss-in-ufc-heavyweight-title-fight-1794899264305.jpeg",
       "source": "USA Today",
       "publishedAt": "2026-11-15T15:35:35Z",
       "author": "Josh Peter, MMA Junkie"
@@ -27,7 +63,7 @@
       "title": "UFC 334 fight fallout: Best options for Ciryl Gane, Josh Hokit, Kayla Harrison and Amanda Nunes after Saturday",
       "description": "Gane should keep a close eye on UFC 335 next month when Sergei Pavlovich takes on Alex Pereira",
       "url": "https://www.cbssports.com/ufc/news/ufc-334-fights-to-make-ciryl-gane-josh-hokit-kayla-harrison-whats-next/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-334-fight-fallout-best-options-for-ciryl-gane-josh-hokit-kayla-harrison-and-amanda-nunes-after-saturday-1794865136808.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-334-fight-fallout-best-options-for-ciryl-gane-josh-hokit-kayla-harrison-and-amanda-nunes-after-saturday-1794899264305.jpeg",
       "source": "CBS Sports",
       "publishedAt": "2026-11-15T14:30:47Z",
       "author": "Shakiel Mahjouri"
@@ -36,7 +72,7 @@
       "title": "Kaya Harrison is a winner, a UFC champion, and has a major career decision ahead after beating Nunes",
       "description": "NEW YORK (AP) — Kayla Harrison draped her left arm around a member of her team and gingerly walked out of the octagon a winner, a champion — but with a major career decision ahead.Harrison, a former MMA champion at 155 pounds, endured the arduous, often unhea…",
       "url": "https://sports.yahoo.com/articles/kaya-harrison-winner-ufc-champion-142042388.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/kaya-harrison-is-a-winner-a-ufc-champion-and-has-a-major-career-decision-ahead-after-beating-nunes-1794865136809.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/kaya-harrison-is-a-winner-a-ufc-champion-and-has-a-major-career-decision-ahead-after-beating-nunes-1794899264306.jpeg",
       "source": "Yahoo Entertainment",
       "publishedAt": "2026-11-15T14:20:42Z",
       "author": "DAN GELSTON"
@@ -45,7 +81,7 @@
       "title": "Kayla Harrison crowns herself the ‘greatest female fighter’ of all time after beating Amanda Nunes",
       "description": "She doesn’t expect to hold on to it forever, but Kayla Harrison thinks she attained GOAT status at UFC 334. The women’s bantamweight champion made her first successful defense on Saturday night at Madison Square Garden.",
       "url": "https://www.hitc.com/kayla-harrison-crowns-herself-the-greatest-female-fighter-of-all-time-after-beating-amanda-nunes/",
-      "image": "/fightonomics/agents/mma-news-updater/images/kayla-harrison-crowns-herself-the-greatest-female-fighter-of-all-time-after-beating-amanda-nunes-1794865136809.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/kayla-harrison-crowns-herself-the-greatest-female-fighter-of-all-time-after-beating-amanda-nunes-1794899264306.jpeg",
       "source": "HITC - Football, Gaming, Movies, TV, Music",
       "publishedAt": "2026-11-15T13:30:00Z",
       "author": "Harvey Leonard"
@@ -58,42 +94,6 @@
       "source": "USA Today",
       "publishedAt": "2026-11-15T13:01:16Z",
       "author": "Mike Bohn, MMA Junkie"
-    },
-    {
-      "title": "Kayla ⁠⁠Harrison defeats Amanda Nunes to retain UFC bantamweight belt",
-      "description": "Harrison won by a fourth-round submission against MMA legend Nunes, who made a comeback after a three-year absence.",
-      "url": "https://www.aljazeera.com/sports/2026/11/15/kayla-%e2%81%a0%e2%81%a0harrison-defeats-amanda-nunes-to-retain-ufc-bantamweight-belt",
-      "image": "/fightonomics/agents/mma-news-updater/images/kayla-harrison-defeats-amanda-nunes-to-retain-ufc-bantamweight-belt-1794865136810.jpeg",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-15T12:50:50Z",
-      "author": null
-    },
-    {
-      "title": "Jon Jones and Alex Pereira Deliver Contrasting Reactions to Josh Hokit’s UFC 334 Defeat",
-      "description": "Alex Pereira congratulated Josh Hokit after his UFC 334 outing while Jon Jones trolled the American after he failed to the win gold.",
-      "url": "https://sports.yahoo.com/articles/jon-jones-alex-pereira-deliver-124021372.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/jon-jones-and-alex-pereira-deliver-contrasting-reactions-to-josh-hokit-s-ufc-334-defeat-1794865136810.jpeg",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-15T12:40:21Z",
-      "author": "Kshitiz Kumar Singh"
-    },
-    {
-      "title": "‘A Title I Have To Win’ – Keito Yamakita Ready To Bring Gold Back To Japan At ONE SAMURAI 5",
-      "description": "The surging Japanese star looks to dethrone Joshua Pacio on home soil this Wednesday, November 18.",
-      "url": "https://www.onefc.com/news/a-title-i-have-to-win-keito-yamakita-ready-to-bring-gold-back-to-japan-at-one-samurai-5/",
-      "image": "/fightonomics/agents/mma-news-updater/images/a-title-i-have-to-win-keito-yamakita-ready-to-bring-gold-back-to-japan-at-one-samurai-5-1794865136811.jpeg",
-      "source": "Onefc.com",
-      "publishedAt": "2026-11-15T12:23:48Z",
-      "author": "Kriel Ibarrola"
-    },
-    {
-      "title": "Kayla Harrison Calls Out Ronda Rousey After UFC 334 Win",
-      "description": "UFC women’s bantamweight champion Kayla Harrison called out women’s MMA pioneer Ronda Rousey following her big win at UFC 334.Harrison submitted Amanda Nunes in the fourth round of their UFC 334 co-main event bout to successfully defend the UFC women’s bantam…",
-      "url": "https://heavy.com/sports/ufc/kayla-harrison-ronda-rousey-ufc-334/",
-      "image": "/fightonomics/agents/mma-news-updater/images/kayla-harrison-calls-out-ronda-rousey-after-ufc-334-win-1794865136811.jpeg",
-      "source": "Heavy.com",
-      "publishedAt": "2026-11-15T10:20:31Z",
-      "author": "Adam Martin"
     }
   ]
 }
