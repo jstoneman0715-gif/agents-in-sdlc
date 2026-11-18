@@ -1,180 +1,189 @@
 {
-  "lastUpdated": "2026-11-17T20:28:41.534Z",
+  "lastUpdated": "2026-11-18T06:32:18.194Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
-      "title": "Cain Velasquez named Sacramento State Combat U's first MMA GM",
-      "description": "Former Ultimate Fighting Championship heavyweight champion Cain Velasquez is joining Sacramento State’s Combat U program as its first general manager for mixed martial arts.",
-      "url": "https://www.sherdog.com/news/news/Cain-Velasquez-named-Sacramento-State-Combat-Us-first-MMA-GM-203657",
-      "image": "/fightonomics/agents/mma-news-updater/images/cain-velasquez-named-sacramento-state-combat-u-s-first-mma-gm-1794947318140.jpeg",
+      "title": "Bia Mesquita Calls Out Ailin Perez After UFC 334 Win",
+      "description": "UFC women’s bantamweight contender Bia Mesquita called out Ailin Perez following her submission win over Macy Chiasson at UFC 334.Mesquita submitted Chiasson in the first round with a rear-naked choke to improve to 9-0 in her MMA career including a 4-0 UFC re…",
+      "url": "https://heavy.com/sports/ufc/bia-mesquita-ailin-perez-ufc-334/",
+      "image": "/fightonomics/agents/mma-news-updater/images/bia-mesquita-calls-out-ailin-perez-after-ufc-334-win-1794983537081.jpeg",
+      "source": "Heavy.com",
+      "publishedAt": "2026-11-17T05:04:19Z",
+      "author": "Adam Martin"
+    },
+    {
+      "title": "Midnight Mania! Nunes Accepts Harrison Rematch At 145",
+      "description": "Bringing you the weird and wild from the world of MMA each and every weeknight!",
+      "url": "https://www.mmamania.com/ufc-news/487059/amanda-nunes-accepts-featherweight-rematch-with-kayla-harrison-lfg",
+      "image": "/fightonomics/agents/mma-news-updater/images/midnight-mania-nunes-accepts-harrison-rematch-at-145-1794983537082.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-11-17T04:59:00Z",
+      "author": "Andrew Richardson"
+    },
+    {
+      "title": "‘I was shocked’: Joshua Van was certain Josh Hokit had beaten Ciryl Gane",
+      "description": "Joshua Van had Josh Hokit clearly beating Ciryl Gane and recently opened up about his reaction to the judges’ decision.",
+      "url": "https://www.sherdog.com/news/news/I-was-shocked-Joshua-Van-was-certain-Josh-Hokit-had-beaten-Ciryl-Gane-203667",
+      "image": "/fightonomics/agents/mma-news-updater/images/i-was-shocked-joshua-van-was-certain-josh-hokit-had-beaten-ciryl-gane-1794983537083.jpeg",
       "source": "Sherdog.com",
-      "publishedAt": "2026-11-16T20:13:49Z",
-      "author": "SouravChakraborty@sherdog.com (Sourav Chakraborty)"
+      "publishedAt": "2026-11-17T04:08:05Z",
+      "author": "Sayan Nag"
     },
     {
-      "title": "Reports: Gable Steveson expected back at UFC 336 after 12-second KO loss",
-      "description": "Gable Steveson is expected to face Terrance Chatman in a heavyweight bout at UFC 336 on Jan. 30, 2027, at Scotiabank Arena in Toronto.",
-      "url": "https://www.sherdog.com/news/articles/Reports-Gable-Steveson-expected-back-at-UFC-336-after-12second-KO-loss-203656",
-      "image": "/fightonomics/agents/mma-news-updater/images/reports-gable-steveson-expected-back-at-ufc-336-after-12-second-ko-loss-1794947318141.jpeg",
-      "source": "Sherdog.com",
-      "publishedAt": "2026-11-16T20:06:28Z",
-      "author": "SouravChakraborty@sherdog.com (Sourav Chakraborty)"
+      "title": "Alexander Volkov: Ciryl Gane 'disgraced the whole MMA community' with Josh Hokit fight",
+      "description": "\"[Gane] has better athleticism, better striker, better knowledge on ground game and stand-up game. He just didn't show it,\" Volkov told Uncrowned. \"He was lost in the fight.\"",
+      "url": "https://sports.yahoo.com/mma/article/alexander-volkov-ciryl-gane-disgraced-the-whole-mma-community-with-josh-hokit-fight-032133949.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/alexander-volkov-ciryl-gane-disgraced-the-whole-mma-community-with-josh-hokit-fight-1794983537084.jpeg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-17T03:21:33Z",
+      "author": "Drake Riggs"
     },
     {
-      "title": "‘World’s most wanted’ OnlyFans model busted by ICE — as she sobs about conditions in lockup",
-      "description": "Vera Dijkmans' family said they don't understand why she was nabbed by the feds — though her social media feeds, where she boasts 6 million Instagram followers and 875,000 more on the porn platform OnlyFans, offer a clue.",
-      "url": "https://nypost.com/2026/11/16/us-news/onlyfans-model-vera-dijkmans-locked-up-by-ice-after-bosting-she-was-worlds-most-wanted/",
-      "image": "/fightonomics/agents/mma-news-updater/images/world-s-most-wanted-onlyfans-model-busted-by-ice-as-she-sobs-about-conditions-in-lockup-1794947318142.jpeg",
-      "source": "New York Post",
-      "publishedAt": "2026-11-16T19:22:07Z",
-      "author": "Alex Diaz"
-    },
-    {
-      "title": "Shara Bullet says he rejected 100 million rubles to throw UFC fight",
-      "description": "Sharabutdin Magomedov says he turned down an offer of 100 million rubles ($1.2 million) to deliberately lose his Ultimate Fighting Championship bout against Michal Oleksiejczuk.",
-      "url": "https://www.sherdog.com/news/news/Shara-Bullet-says-he-rejected-100-million-rubles-to-throw-UFC-fight-203652",
-      "image": "/fightonomics/agents/mma-news-updater/images/shara-bullet-says-he-rejected-100-million-rubles-to-throw-ufc-fight-1794947318143.jpeg",
-      "source": "Sherdog.com",
-      "publishedAt": "2026-11-16T19:19:06Z",
-      "author": "SouravChakraborty@sherdog.com (Sourav Chakraborty)"
-    },
-    {
-      "title": "UFC Qatar: Make predictions for Jiri Prochazka vs. Navajo Stirling",
-      "description": "We want your predictions for UFC Fight Night 294 at ABHA Arena in Doha, Qatar.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/16/ufc-fight-night-qatar-jiri-prochazka-vs-navajo-stirling-reader-predictions-picks/92811946007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-qatar-make-predictions-for-jiri-prochazka-vs-navajo-stirling-1794947318144.jpeg",
+      "title": "The Thrill and Agony: UFC 334 winner and loser reactions",
+      "description": "The thrill of victory and agony of defeat was seen in the aftermath of UFC 334 with winning and losing fighter reactions.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/mma/blue-corner/2026/11/16/ufc-334-winner-loser-reactions-thrill-agony-gane-hokit-harrison-nunes/92815895007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/the-thrill-and-agony-ufc-334-winner-and-loser-reactions-1794983537085.jpeg",
       "source": "USA Today",
-      "publishedAt": "2026-11-16T18:50:16Z",
-      "author": "Matt Erickson, MMA Junkie"
+      "publishedAt": "2026-11-17T03:00:38Z",
+      "author": "Mike Bohn"
     },
     {
-      "title": "Alex Pereira thought Josh Hokit was robbed vs. Ciryl Gane at UFC 334",
-      "description": "Alex Pereira did not agree with the UFC 334 main event outcome.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/16/ufc-334-alex-pereira-reaction-josh-hokit-loss-ciryl-gane-heavyweight-title-bad-judging-decision/92805901007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/alex-pereira-thought-josh-hokit-was-robbed-vs-ciryl-gane-at-ufc-334-1794947318145.jpeg",
+      "title": "55歲長這樣！大咖女星同框aespa「看不出年紀差2輪」　超凍齡近照曝",
+      "description": "韓國凍齡女神李英愛現年55歲卻保養得宜，近日她出席MMA頒獎典禮，身穿綠色露肩禮服展現優雅氣質。事後她曬出與人氣女團aespa的同框合照，站在團員中間比出俏皮手勢，毫無違和感的逆齡美貌驚艷全網。事實上，她大20歲的企業家老公鄭浩英同樣駐顏有術，夫妻倆同步凍齡的驚人狀態引發熱烈討論。",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1edf58c8-bb75-4a8e-8c68-0b778e5a3651",
+      "image": null,
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-17T02:24:00Z",
+      "author": null
+    },
+    {
+      "title": "Dana White blames Barclays Center for no UFC return to Brooklyn post-COVID",
+      "description": "Don't expect a UFC event in Brooklyn anytime soon.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/16/ufc-dana-white-blames-barclays-center-covid-no-return-brooklyn-new-york-revisionist-history-florida/92808074007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/dana-white-blames-barclays-center-for-no-ufc-return-to-brooklyn-post-covid-1794983537087.jpeg",
       "source": "USA Today",
-      "publishedAt": "2026-11-16T18:00:29Z",
-      "author": "Farah Hannoun, MMA Junkie"
+      "publishedAt": "2026-11-17T02:20:15Z",
+      "author": "Farah Hannoun, Jeronimo Guerra"
     },
     {
-      "title": "Chase DeMoor faces former UFC champion in Misfits Boxing ‘New Blood’ main event",
-      "description": "Chase DeMoor faces big test on Dec. 18",
-      "url": "https://www.mmafighting.com/boxing/521707/chase-demoor-faces-former-ufc-champion-in-misfits-boxing-new-blood-main-event",
-      "image": "/fightonomics/agents/mma-news-updater/images/chase-demoor-faces-former-ufc-champion-in-misfits-boxing-new-blood-main-event-1794947318146.jpeg",
+      "title": "Jim Miller regrets accepting Terrance McKinney fight after weight miss",
+      "description": "Jim Miller regrets going ahead with the Terrance McKinney fight after the latter missed weight.",
+      "url": "https://www.sherdog.com/news/news/Jim-Miller-regrets-accepting-Terrance-McKinney-fight-after-weight-miss-203660",
+      "image": "/fightonomics/agents/mma-news-updater/images/jim-miller-regrets-accepting-terrance-mckinney-fight-after-weight-miss-1794983537087.jpeg",
+      "source": "Sherdog.com",
+      "publishedAt": "2026-11-17T02:14:56Z",
+      "author": "Sayan Nag"
+    },
+    {
+      "title": "SVG’s Pit Crew Member Just Made His MMA Debut & Took Home the Belt",
+      "description": "JP Kealey usually has about 12 seconds to make his presence felt on a NASCAR pit road. This weekend, he had a different kind of opponent to deal with, and thankfully, nobody was asking him to change four tires.",
+      "url": "https://www.essentiallysports.com/nascar-news-svgs-pit-crew-member-just-made-his-mma-debut-took-home-the-belt/",
+      "image": "/fightonomics/agents/mma-news-updater/images/svg-s-pit-crew-member-just-made-his-mma-debut-took-home-the-belt-1794983537088.jpeg",
+      "source": "Essentially Sports",
+      "publishedAt": "2026-11-17T02:06:57Z",
+      "author": "Dipti Sood"
+    },
+    {
+      "title": "ARLnow Daily Debrief for Nov 16, 2026",
+      "description": "Good Monday evening, Arlington. Here’s a look back at today’s most-read stories and a look ahead to tomorrow.  Today’s most-read stories Melting Pot closing in Ballston area after 26 years (4,361 views) Yorktown grad Grant Wilson throws two touchdowns in fi…",
+      "url": "https://www.arlnow.com/2026/11/16/debrief-11162026/",
+      "image": "/fightonomics/agents/mma-news-updater/images/arlnow-daily-debrief-for-nov-16-2026-1794983537089.jpeg",
+      "source": "ARLnow",
+      "publishedAt": "2026-11-17T02:00:00Z",
+      "author": null
+    },
+    {
+      "title": "He’s back! Merab Dvalishvili vs. Kenzo Biyong added to RAF 16 in Long Island",
+      "description": "“The Machine” is heading home. Former Ultimate Fighting Championship (UFC) Bantamweight champion Merab Dvalishvili will make a quick return to the wrestling mat when he collides with Kenzo Biyong in a Lightweight crossover match at RAF 16 on Dec. 19, 2026. RA…",
+      "url": "https://www.mmamania.com/raf-wrestling-schedule-cards-live-results/487076/hes-back-merab-dvalishvili-vs-kenzo-biyong-added-to-raf-16-in-long-island",
+      "image": "/fightonomics/agents/mma-news-updater/images/he-s-back-merab-dvalishvili-vs-kenzo-biyong-added-to-raf-16-in-long-island-1794983537090.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-11-17T02:00:00Z",
+      "author": "Alexander Behunin"
+    },
+    {
+      "title": "Bia Mesquita keeps up Ailin Perez callout after taking Rousey’s record at UFC 334",
+      "description": "Her American Top Team teammate Kayla Harrison holds the belt in her division, but Bia Mesquita plans to fight for it by around this time next year.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/16/ufc-334-video-bia-mesquita-callout-ailin-perez-breaks-ronda-rousey-record-submissions/92816804007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/bia-mesquita-keeps-up-ailin-perez-callout-after-taking-rousey-s-record-at-ufc-334-1794983537090.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-11-17T01:30:35Z",
+      "author": "Matt Erickson, Jeronimo Guerra"
+    },
+    {
+      "title": "LIVE! Mike Perry talks UFC move, BKFC past, and more",
+      "description": "Perry explains why he’s back in the UFC",
+      "url": "https://www.mmafighting.com/ufc/521857/mike-perry-talks-ufc-move-bkfc-past-and-more",
+      "image": "/fightonomics/agents/mma-news-updater/images/live-mike-perry-talks-ufc-move-bkfc-past-and-more-1794983537091.jpeg",
       "source": "MMA Fighting",
-      "publishedAt": "2026-11-16T18:00:00Z",
-      "author": "Alexander K. Lee"
+      "publishedAt": "2026-11-17T01:12:08Z",
+      "author": "Mike Heck"
     },
     {
-      "title": "Joshua Van explains viral reaction to Josh Hokit's UFC 334 loss: 'I was shocked'",
-      "description": "Joshua Van had Josh Hokit up 4-0 going into the fifth round at UFC 334 and was in disbelief when Ciryl Gane's hand was raised.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/16/joshua-van-explains-viral-reaction-josh-hokit-ufc-334-loss-ciryl-gane/92810431007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/joshua-van-explains-viral-reaction-to-josh-hokit-s-ufc-334-loss-i-was-shocked-1794947318147.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-11-16T17:12:34Z",
-      "author": "Mike Bohn, MMA Junkie"
-    },
-    {
-      "title": "UFC 6 Has Revealed The Official PRIDE FC Expansion",
-      "description": "EA Sports unveiled a new expansion for UFC 6, celebrating the legacy of the Japanese MMA promotion PRIDE FC. As you can see here, they have marked the occasion with special artwork featuring Kazushi Sakuraba and Royce Gracie, two of the most recognized names …",
-      "url": "https://bleedingcool.com/games/ufc-6-has-revealed-the-official-pride-fc-expansion/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-6-has-revealed-the-official-pride-fc-expansion-1794947318148.jpeg",
-      "source": "Bleeding Cool News",
-      "publishedAt": "2026-11-16T16:42:09Z",
-      "author": "Gavin Sheehan"
-    },
-    {
-      "title": "Stephen Thompson reflects on rare fairy-tale ending at UFC 334",
-      "description": "Retirement fights aren't supposed to go down the way it went for \"Wonderboy\" at UFC 334.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/16/ufc-334-stephen-thompson-video-fairy-tale-ending-retirement-head-kick-nice-guy/92808815007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/stephen-thompson-reflects-on-rare-fairy-tale-ending-at-ufc-334-1794947318149.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-11-16T15:30:43Z",
-      "author": "Matt Erickson and Jeronimo Guerra, MMA Junkie"
-    },
-    {
-      "title": "MMA Mania Mailbag, November 16: Get your questions in now!",
-      "description": "Hey everyone, happy Monday. Wow there’s a lot to talk about when it comes to this weekend’s UFC 334. So I’m expecting plenty of questions about that in this week’s mailbag. This is your opportunity to ask about something that went down on Saturday (or anythin…",
-      "url": "https://www.mmamania.com/mma-mailbag-questions-answers-ufc/484764/mma-mania-mailbag-november-16-get-your-questions-in-now",
-      "image": "/fightonomics/agents/mma-news-updater/images/mma-mania-mailbag-november-16-get-your-questions-in-now-1794947318149.jpeg",
+      "title": "Fraud check? Hyped prospect Bilal Hasan reacts to UFC 334 upset loss — ‘Back to work’",
+      "description": "“The IndoNinja” is ready to start rebuilding. Top Ultimate Fighting Championship (UFC) Flyweight prospect Bilal Hasan suffered his first professional loss when Luis Gurule stunned him via split decision in the UFC 334 main card opener this past weekend (Sat.,…",
+      "url": "https://www.mmamania.com/ufc-334-live-stream-fight-card-start-time-gane-vs-hokit/487072/fraud-check-hyped-prospect-bilal-hasan-reacts-to-ufc-334-upset-loss-back-to-work",
+      "image": "/fightonomics/agents/mma-news-updater/images/fraud-check-hyped-prospect-bilal-hasan-reacts-to-ufc-334-upset-loss-back-to-work-1794983537091.jpeg",
       "source": "MMA Mania",
-      "publishedAt": "2026-11-16T15:05:00Z",
-      "author": "Tim Edwards"
+      "publishedAt": "2026-11-17T01:00:00Z",
+      "author": "Alexander Behunin"
     },
     {
-      "title": "Daniel Cormier: 'Josh Hokit belongs with the elite heavyweights in the world'",
-      "description": "Daniel Cormier says Josh Hokit's stock rose despite UFC 334 loss.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/16/ufc-334-daniel-cormier-response-josh-hokit-superstar-despite-heavyweight-title-loss-ciryl-gane/92806042007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/daniel-cormier-josh-hokit-belongs-with-the-elite-heavyweights-in-the-world-1794947318150.jpeg",
+      "title": "Alexander Volkanovski credits Ciryl Gane for getting composure back at UFC 334",
+      "description": "Alexander Volkanovski explained how forward aggression doesn't always win you a fight.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/16/ufc-334-alexander-volkanovski-response-ciryl-gane-composure-beat-josh-hokit-heavyweight-title/92807158007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/alexander-volkanovski-credits-ciryl-gane-for-getting-composure-back-at-ufc-334-1794983537091.jpeg",
       "source": "USA Today",
-      "publishedAt": "2026-11-16T14:40:14Z",
-      "author": "Farah Hannoun, MMA Junkie"
+      "publishedAt": "2026-11-17T00:40:20Z",
+      "author": "Farah Hannoun"
     },
     {
-      "title": "Andrei Arlovski to challenge Chase DeMoor for Misfits heavyweight title",
-      "description": "Former Ultimate Fighting Championship heavyweight champion Andrei Arlovski will challenge Chase DeMoor for the Misfits Boxing heavyweight title on Dec. 18 at Municipal Auditorium in Nashville, Tennessee.",
-      "url": "https://www.sherdog.com/news/news/Andrei-Arlovski-to-challenge-Chase-DeMoor-for-Misfits-heavyweight-title-203659",
-      "image": "/fightonomics/agents/mma-news-updater/images/andrei-arlovski-to-challenge-chase-demoor-for-misfits-heavyweight-title-1794947318150.jpeg",
-      "source": "Sherdog.com",
-      "publishedAt": "2026-11-16T14:29:08Z",
-      "author": "SouravChakraborty@sherdog.com (Sourav Chakraborty)"
-    },
-    {
-      "title": "Joe Burrow strengthens MVP case with four more TDs; college football rankings projections",
-      "description": "Plus why Kayla Harrison should retire after UFC 334",
-      "url": "https://www.cbssports.com/nfl/news/joe-burrow-strengthens-mvp-case-with-four-more-tds-college-football-rankings-projections/",
-      "image": "/fightonomics/agents/mma-news-updater/images/joe-burrow-strengthens-mvp-case-with-four-more-tds-college-football-rankings-projections-1794947318151.jpeg",
-      "source": "CBS Sports",
-      "publishedAt": "2026-11-16T14:08:38Z",
-      "author": "Carter Bahns"
-    },
-    {
-      "title": "Open Thread, Monday, November 16: Documentary recommendations please",
-      "description": "﻿﻿﻿﻿﻿Your daily source for off topic chatter with the MMA Mania faithful.",
-      "url": "https://www.mmamania.com/daily_mania_ufc_mma/486950/open-thread-monday-november-16-documentary-recommendations-please",
-      "image": "/fightonomics/agents/mma-news-updater/images/open-thread-monday-november-16-documentary-recommendations-please-1794947318151.jpeg",
+      "title": "Rankings justice! Kevin Holland leapfrogs Uros Medic, Bia Mesquita soars after UFC 334",
+      "description": "“Trailblazer” may have lost half of his paycheck, but he gained a high ranking. In the main event of UFC 334, Ultimate Fighting Championship (UFC) Ciryl Gane retained his Heavyweight title with a narrow unanimous decision over Josh Hokit. The champion swept t…",
+      "url": "https://www.mmamania.com/ufc-mma-rankings/487067/rankings-justice-kevin-holland-leapfrogs-uros-medic-bia-mesquita-soars-after-ufc-334",
+      "image": "/fightonomics/agents/mma-news-updater/images/rankings-justice-kevin-holland-leapfrogs-uros-medic-bia-mesquita-soars-after-ufc-334-1794983537092.jpeg",
       "source": "MMA Mania",
-      "publishedAt": "2026-11-16T14:05:00Z",
-      "author": "Tim Edwards"
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "author": "Alexander Behunin"
     },
     {
-      "title": "UFC Qatar: How to watch Jiri Prochazka vs. Navajo Stirling, lineup, odds",
-      "description": "Here's what you need to know to watch UFC Fight Night 294 on Paramount+ from Qatar.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/16/ufc-fight-night-qatar-jiri-prochazka-vs-navajo-stirling-start-time-lineup-odds/92807003007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-qatar-how-to-watch-jiri-prochazka-vs-navajo-stirling-lineup-odds-1794947318152.jpeg",
+      "title": "Terrance McKinney explains welterweight move after UFC 334 weight miss",
+      "description": "Terrance McKinney was not eligible for a UFC 334 bonus because of his botched weigh-in.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/16/ufc-334-terrance-mckinney-weight-shift-miss-explained/92790514007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/terrance-mckinney-explains-welterweight-move-after-ufc-334-weight-miss-1794983537092.jpeg",
       "source": "USA Today",
-      "publishedAt": "2026-11-16T13:50:25Z",
-      "author": "Matt Erickson, MMA Junkie"
+      "publishedAt": "2026-11-16T23:50:15Z",
+      "author": "Nolan King, Jeronimo Guerra"
     },
     {
-      "title": "Vintage Photos of 60s and 70s Meals That Bring Back “Mom, What’s for Dinner?”",
-      "description": "Food has trends, just like clothes, furniture, and whatever we're currently doing to our eyebrows. It's just easier to feel superior to somebody's wallpaper when you're not eating cottage cheese straight from the tub because a digital woman on your phone said…",
-      "url": "https://cheezburger.com/47396357/vintage-photos-of-60s-and-70s-meals-that-bring-back-mom-whats-for-dinner",
-      "image": "/fightonomics/agents/mma-news-updater/images/vintage-photos-of-60s-and-70s-meals-that-bring-back-mom-what-s-for-dinner-1794947318152.jpeg",
-      "source": "Cheezburger.com",
-      "publishedAt": "2026-11-16T13:30:00Z",
-      "author": "Etai Eshet, Etai Eshet"
+      "title": "Saba Lazishvili says he had 'serious concussion' after Usman Nurmagomedov attack, nearly blacked out at RAF Abu Dhabi",
+      "description": "Lazishvili, who's become an overnight sensation after a chaotic week in Abu Dhabi, said he used to look up to the Nurmagomedov brothers before their hotel attack on Merab Dvalishvili.",
+      "url": "https://sports.yahoo.com/mma/article/saba-lazishvili-says-he-had-serious-concussion-after-usman-nurmagomedov-attack-nearly-blacked-out-at-raf-abu-dhabi-232835258.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/saba-lazishvili-says-he-had-serious-concussion-after-usman-nurmagomedov-attack-nearly-blacked-out-at-raf-abu-dhabi-1794983537093.jpeg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-16T23:28:35Z",
+      "author": "Drake Riggs"
     },
     {
-      "title": "UFC star Tom Aspinall eye injury return update provided",
-      "description": "A few months ago, British UFC star Tom Aspinall finally vacated his UFC Heavyweight Championship. The decision came after months of speculation. Aspinall suffered a concerning injury during his fight against Ciryl Gane at UFC 321. The injury has turned out to…",
-      "url": "https://clutchpoints.com/ufc/ufc-news-tom-aspinall-eye-injury-return-update",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-star-tom-aspinall-eye-injury-return-update-provided-1794947318154.jpeg",
-      "source": "ClutchPoints",
-      "publishedAt": "2026-11-16T13:07:19Z",
-      "author": "Shounak Chakrabarti, ClutchPoints"
-    },
-    {
-      "title": "Buffer predicted Hokit's UFC 334 middle finger, changed mind about slap response",
-      "description": "Bruce Buffer was expecting a hostile reception from Josh Hokit at UFC 334.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/16/ufc-334-bruce-buffer-response-josh-hokit-middle-finger-heavyweight-title-ciryl-gane-role-model/92806711007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/buffer-predicted-hokit-s-ufc-334-middle-finger-changed-mind-about-slap-response-1794947318154.jpeg",
+      "title": "Spinning Back Clique: Kayla Harrison's GOAT status, Gane-Hokit, RAF Abu Dhabi chaos",
+      "description": "On the latest episode of \"Spinning Back Clique,\" the panel discusses UFC 334, the crazy brawl before RAF Abu Dhabi, and much more.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/mma/spinning-back-clique/2026/11/16/spinning-back-clique-ufc-334-kayla-harrison-gane-hokit-raf-abu-dhabi-chaos/92817894007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/spinning-back-clique-kayla-harrison-s-goat-status-gane-hokit-raf-abu-dhabi-chaos-1794983537094.jpeg",
       "source": "USA Today",
-      "publishedAt": "2026-11-16T13:07:13Z",
-      "author": "Farah Hannoun, MMA Junkie"
+      "publishedAt": "2026-11-16T23:16:03Z",
+      "author": "MMA Junkie"
+    },
+    {
+      "title": "Orlando MMA fighter opens Breakaway Martial Arts with beginners in mind",
+      "description": "Breakaway Martial Arts celebrates its grand opening tomorrow, Nov. 17, with free classes and community activities.",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a2e53ad4-9123-45a1-8ce6-b34e0a4a148d",
+      "image": null,
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-16T23:02:03Z",
+      "author": null
     }
   ]
 }
