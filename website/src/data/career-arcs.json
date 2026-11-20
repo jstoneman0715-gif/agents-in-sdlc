@@ -1,15 +1,87 @@
 {
-  "lastUpdated": "2026-11-20T06:20:44.892Z",
+  "lastUpdated": "2026-11-20T19:37:22.686Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
+      "title": "After the UFC 334 headliner, we need to talk about the difference between a good fight and a fun fight",
+      "description": "Was Ciryl Gane vs. Josh Hokit a sloppy heavyweight title fight or a good time for fans? Maybe it could be both.",
+      "url": "https://sports.yahoo.com/mma/article/after-the-ufc-334-headliner-we-need-to-talk-about-the-difference-between-a-good-fight-and-a-fun-fight-184302230.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/after-the-ufc-334-headliner-we-need-to-talk-about-the-difference-between-a-good-fight-and-a-fun-fight-1795203440516.jpeg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-19T18:43:02Z",
+      "author": "Ben Fowlkes"
+    },
+    {
+      "title": "Everything We Know About Manni L. Perez, ‘GTA 6’ Female Lead Lucia Caminos",
+      "description": "One of the buzziest aspects of the newly released “Grand Theft Auto VI” video game is its introduction of a major playable female character — the first in the “GTA” franchise, which has previously been criticized for its misogynistic content. While developer …",
+      "url": "https://www.today.com/popculture/news/manni-l-perez-gta-6-lucia-caminos-everything-to-know-rcna610095",
+      "image": "/fightonomics/agents/mma-news-updater/images/everything-we-know-about-manni-l-perez-gta-6-female-lead-lucia-caminos-1795203440517.jpeg",
+      "source": "TODAY",
+      "publishedAt": "2026-11-19T17:35:53Z",
+      "author": "Kimmy Yam"
+    },
+    {
+      "title": "Teammates Navajo Stirling, Carlos Ulberg rapidly approach an awkward dilemma atop light heavyweight division",
+      "description": "Stirling could catapult himself into the 205-pound title picture with a win over former champ Jiri Prochazka in Qatar this weekend",
+      "url": "https://www.cbssports.com/ufc/news/navajo-stirling-carlos-ulberg-light-heavyweight-title-ufc-fight-night/",
+      "image": "/fightonomics/agents/mma-news-updater/images/teammates-navajo-stirling-carlos-ulberg-rapidly-approach-an-awkward-dilemma-atop-light-heavyweight-division-1795203440517.jpeg",
+      "source": "CBS Sports",
+      "publishedAt": "2026-11-19T16:33:07Z",
+      "author": "Shakiel Mahjouri"
+    },
+    {
+      "title": "Sergei Pavlovich confident technique will top Alex Pereira's at UFC 335",
+      "description": "Sergei Pavlovich is confident his hand will be raised at UFC 335.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/19/ufc-335-sergei-pavlovich-interview-alex-pereira-fight-preview/92847049007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/sergei-pavlovich-confident-technique-will-top-alex-pereira-s-at-ufc-335-1795203440517.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-11-19T14:40:19Z",
+      "author": "Nolan King, Mike Bohn"
+    },
+    {
+      "title": "Michael Morales says career patience vindicated by UFC 336 title shot",
+      "description": "Michael Morales weighs in on his upcoming title shot at UFC 336 in January.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/19/ufc-336-michael-morales-interview-vindicated/92833701007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/michael-morales-says-career-patience-vindicated-by-ufc-336-title-shot-1795203440518.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-11-19T13:00:45Z",
+      "author": "Nolan King, Mike Bohn, Jeronimo Guerra"
+    },
+    {
+      "title": "Former UFC champion claims Nurmagomedov camp launched vicious second attack on Merab after cameras stopped rolling",
+      "description": "Aljamain Sterling has made fresh allegations about the Abu Dhabi hotel confrontation, claiming Umar Nurmagomedov punched Merab Dvalishvili after appearing to make peace, while members of his group allegedly restrained and kicked Saba Lazishvili. Ariel Helwani…",
+      "url": "https://timesofindia.indiatimes.com/sports/mma/news/former-ufc-champion-claims-nurmagomedov-camp-launched-vicious-second-attack-on-merab-after-cameras-stopped-rolling/articleshow/135991227.cms",
+      "image": "/fightonomics/agents/mma-news-updater/images/former-ufc-champion-claims-nurmagomedov-camp-launched-vicious-second-attack-on-merab-after-cameras-stopped-rolling-1795203440518.jpeg",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-19T12:59:35Z",
+      "author": "Soror Shaiza"
+    },
+    {
+      "title": "Khabib Nurmagomedov rejects Jake Paul’s $200M comeback offer",
+      "description": "Is Jake Paul vs. Khabib Nurmagomedov on the charts? The latest conversation doesn’t suggest so. Paul is all set to come back to boxing after a gap of almost one year. Last year, in Dec. 2025, Paul faced off against Anthony Joshua in Miami and suffered a nasty…",
+      "url": "https://clutchpoints.com/celebrity/khabib-nurmagomedov-rejects-jake-paul-200m-comeback-offer",
+      "image": "/fightonomics/agents/mma-news-updater/images/khabib-nurmagomedov-rejects-jake-paul-s-200m-comeback-offer-1795203440518.jpeg",
+      "source": "ClutchPoints",
+      "publishedAt": "2026-11-19T11:10:22Z",
+      "author": "ClutchPoints Shounak Chakrabarti"
+    },
+    {
+      "title": "The state school boy set to become AI mega-billionaire: Anthropic co-founder Jack Clark who was born and bred in Brighton will be worth $19.7BN as AI giant makes stock market debut",
+      "description": "Today, Brighton-born Jack is on the verge of becoming one of the richest men on the planet as his AI giant Anthropic prepares for its hotly anticipated stock market debut.",
+      "url": "https://www.dailymail.com/news/article-16305175/The-state-school-boy-set-AI-mega-billionaire-Anthropic-founder-Jack-Clark-born-bred-Brighton-worth-19-7BN-AI-giant-makes-stock-market-debut.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/the-state-school-boy-set-to-become-ai-mega-billionaire-anthropic-co-founder-jack-clark-who-was-born-and-bred-in-brighton-will-be-worth-19-7bn-as-ai-giant-makes-stock-market-debut-1795203440519.jpeg",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-19T10:42:01Z",
+      "author": "Martin Robinson"
+    },
+    {
       "title": "Josh Hokit Takes Aim at ‘Professionalism’ After Disrespecting Bruce Buffer at UFC 334",
       "description": "After showing the middle finger to Bruce Buffer as an act of defiance at UFC 334, Josh Hokit gives his reasoning behind the move.",
       "url": "https://sports.yahoo.com/articles/josh-hokit-takes-aim-professionalism-061623511.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/josh-hokit-takes-aim-at-professionalism-after-disrespecting-bruce-buffer-at-ufc-334-1795155642306.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/josh-hokit-takes-aim-at-professionalism-after-disrespecting-bruce-buffer-at-ufc-334-1795203440519.jpeg",
       "source": "Yahoo Entertainment",
       "publishedAt": "2026-11-19T06:16:23Z",
       "author": "Kshitiz Kumar Singh"
@@ -22,78 +94,6 @@
       "source": "Lifesciencesworld.com",
       "publishedAt": "2026-11-19T05:56:19Z",
       "author": "Ava Reynolds"
-    },
-    {
-      "title": "Hecher Sosa carrying Canary Islands with him through UFC, Guanches Warriors Championships",
-      "description": "Hecher Sosa remembers not having options as a young fighter on the regional scene – and he doesn't want that to happen again.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/18/ufc-qatar-hecher-sosa-spain-guanches-warriors-championship/92714567007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/hecher-sosa-carrying-canary-islands-with-him-through-ufc-guanches-warriors-championships-1795155642307.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-11-19T02:20:28Z",
-      "author": "Nolan King"
-    },
-    {
-      "title": "Dan Hooker desperate for win at UFC Fight Night 294: 'The ship is sinking'",
-      "description": "Dan Hooker is confident he'll right the ship at UFC Qatar.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/18/dan-hooker-desperate-for-win-at-ufc-qatar-the-ship-is-sinking/92852662007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/dan-hooker-desperate-for-win-at-ufc-fight-night-294-the-ship-is-sinking-1795155642308.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-11-19T01:30:37Z",
-      "author": "Matthew Wells, Mike Bohn"
-    },
-    {
-      "title": "UFC Cuts Its No. 3-Ranked Strawweight, And She Says She Never Saw It Coming",
-      "description": "The UFC released No. 3 strawweight Virna Jandiroba, 38, days after her loss to Tatiana Suarez. She says she was caught off guard. Here’s what it means and what’s next.",
-      "url": "https://www.forbes.com/sites/brianmazique/2026/11/18/ufc-cuts-its-no-3-ranked-strawweight-and-she-says-she-never-saw-it-coming/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-cuts-its-no-3-ranked-strawweight-and-she-says-she-never-saw-it-coming-1795155642308.jpeg",
-      "source": "Forbes",
-      "publishedAt": "2026-11-19T01:14:33Z",
-      "author": "Brian Mazique"
-    },
-    {
-      "title": "One last goodbye: Stephen Thompson pens emotional farewell after perfect UFC ending – ‘Heck of a ride’",
-      "description": "Four days ago, Stephen Thompson received the storybook ending that almost no fighter gets. Competing for the final time at UFC 334 inside Madison Square Garden in New York City, “Wonderboy” knocked out Charles Radtke with a spectacular spinning wheel kick mid…",
-      "url": "https://www.mmamania.com/ufc-334-live-stream-fight-card-start-time-gane-vs-hokit/487324/one-last-goodbye-stephen-thompson-pens-emotional-farewell-after-perfect-ufc-ending-heck-of-a-ride",
-      "image": "/fightonomics/agents/mma-news-updater/images/one-last-goodbye-stephen-thompson-pens-emotional-farewell-after-perfect-ufc-ending-heck-of-a-ride-1795155642309.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-11-19T00:30:00Z",
-      "author": "Alexander Behunin"
-    },
-    {
-      "title": "Cedric Doumbe feeling the pressure for December's Jake Paul fight: 'I can't lose against Justin Bieber'",
-      "description": "\"He's not a good fighter. He's not even a fighter,\" said France's Doumbe ahead of Dec. 24. \"I can't lose against a YouTuber.\"",
-      "url": "https://sports.yahoo.com/boxing/article/cedric-doumbe-feeling-the-pressure-for-jake-paul-fight-christmas-eve-i-cant-lose-against-justin-bieber-002907613.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/cedric-doumbe-feeling-the-pressure-for-december-s-jake-paul-fight-i-can-t-lose-against-justin-bieber-1795155642309.jpeg",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-19T00:28:15Z",
-      "author": "Drake Riggs"
-    },
-    {
-      "title": "UFC releases the ‘most ducked’ Featherweight after five years of inactivity",
-      "description": "Ryan Hall is no longer an Ultimate Fighting Championship (UFC) fighter. Indeed, “The Wizard,” who repeatedly claimed the Featherweight division’s ranked contenders refused to fight him, has been removed from UFC’s active roster after nearly five years of inac…",
-      "url": "https://www.mmamania.com/ufc-roster-watch-cuts-tracker-free-agent-aquisitions-mma/487317/ufc-releases-the-most-ducked-featherweight-after-five-years-of-inactivity",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-releases-the-most-ducked-featherweight-after-five-years-of-inactivity-1795155642310.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-11-18T23:30:00Z",
-      "author": "Alexander Behunin"
-    },
-    {
-      "title": "Send In My Champion",
-      "description": "When flights home from the CHIME Fall Forum were repeatedly delayed and then cancelled, Claude handled the rebooking, the hotel search and the airline chatbots on Anthony’s behalf. The experience convinced him that people will increasingly want their AI assis…",
-      "url": "https://healthsystemcio.com/2026/11/18/ai-personal-assistant/",
-      "image": "/fightonomics/agents/mma-news-updater/images/send-in-my-champion-1795155642310.jpeg",
-      "source": "Healthsystemcio.com",
-      "publishedAt": "2026-11-18T22:52:05Z",
-      "author": "Anthony Guerra"
-    },
-    {
-      "title": "UFC Qatar full card predictions: Can Navajo Stirling actually beat Jiri Prochazka?",
-      "description": "UFC Qatar feels like a throwback to the types of fight nights we used to get during the FOX era. If you know, you know.",
-      "url": "https://sports.yahoo.com/mma/article/ufc-qatar-full-card-predictions-can-navajo-stirling-actually-beat-jiri-prochazka-221054685.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-qatar-full-card-predictions-can-navajo-stirling-actually-beat-jiri-prochazka-1795155642311.jpeg",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-18T22:10:54Z",
-      "author": "Drake Riggs"
     }
   ]
 }
