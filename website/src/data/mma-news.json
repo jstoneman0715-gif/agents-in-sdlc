@@ -1,189 +1,180 @@
 {
-  "lastUpdated": "2026-11-20T19:37:22.686Z",
+  "lastUpdated": "2026-11-21T06:10:34.689Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
-      "title": "UFC contract winner Igor Cavalcanti suspended after positive drug test",
-      "description": "Igor Cavalcanti has been temporarily suspended after testing positive for a banned substance in connection with his September victory over Oscar Ravello on Dana White’s Contender Series.",
-      "url": "https://www.sherdog.com/news/news/UFC-contract-winner-Igor-Cavalcanti-suspended-after-positive-drug-test-203694",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-contract-winner-igor-cavalcanti-suspended-after-positive-drug-test-1795203440500.jpeg",
-      "source": "Sherdog.com",
-      "publishedAt": "2026-11-19T19:21:48Z",
-      "author": "Sourav Chakraborty"
-    },
-    {
-      "title": "On To the Next One: What’s next for Ciryl Gane, Josh Hokit after Fight of the Year contender at UFC 334?",
-      "description": "MMA Fighting plays matchmaker after UFC 334",
-      "url": "https://www.mmafighting.com/ufc/521654/on-to-the-next-one-whats-next-for-ciryl-gane-josh-hokit-after-fight-of-the-year-contender-at-ufc-334",
-      "image": "/fightonomics/agents/mma-news-updater/images/on-to-the-next-one-what-s-next-for-ciryl-gane-josh-hokit-after-fight-of-the-year-contender-at-ufc-334-1795203440501.jpeg",
-      "source": "MMA Fighting",
-      "publishedAt": "2026-11-19T19:00:00Z",
-      "author": "Mike Heck"
-    },
-    {
-      "title": "Brian Ortega reveals crazy coincidence about famous Tracy Cortez lip tattoo - MMA Fighting",
-      "description": "Brian Ortega reveals crazy coincidence about famous Tracy Cortez lip tattooMMA Fighting See more headlines &amp; perspectives on Google News ...",
-      "url": "https://slashdot.org/firehose.pl?op=view&id=186796436",
-      "image": null,
-      "source": "Slashdot.org",
-      "publishedAt": "2026-11-19T18:52:15Z",
-      "author": "feedfeeder"
-    },
-    {
-      "title": "After the UFC 334 headliner, we need to talk about the difference between a good fight and a fun fight",
-      "description": "Was Ciryl Gane vs. Josh Hokit a sloppy heavyweight title fight or a good time for fans? Maybe it could be both.",
-      "url": "https://sports.yahoo.com/mma/article/after-the-ufc-334-headliner-we-need-to-talk-about-the-difference-between-a-good-fight-and-a-fun-fight-184302230.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/after-the-ufc-334-headliner-we-need-to-talk-about-the-difference-between-a-good-fight-and-a-fun-fight-1795203440503.jpeg",
+      "title": "Daniel Cormier Accuses Jon Jones of Using Josh Hokit Feud to Put Himself in the Spotlight",
+      "description": "Following Jon Jones and Josh Hokit's heated social media feud after UFC 334, Daniel Cormier has called out the former two-division champion.",
+      "url": "https://sports.yahoo.com/articles/daniel-cormier-accuses-jon-jones-055040341.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/daniel-cormier-accuses-jon-jones-of-using-josh-hokit-feud-to-put-himself-in-the-spotlight-1795241431421.jpeg",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-19T18:43:02Z",
-      "author": "Ben Fowlkes"
+      "publishedAt": "2026-11-20T05:50:40Z",
+      "author": "Kshitiz Kumar Singh"
     },
     {
-      "title": "One Championship vacates Christian Lee's welterweight title",
-      "description": "One Championship has declared its welterweight MMA title vacant, ending Christian Lee’s four-year reign.",
-      "url": "https://www.sherdog.com/news/news/One-Championship-vacates-Christian-Lees-welterweight-title-203697",
-      "image": "/fightonomics/agents/mma-news-updater/images/one-championship-vacates-christian-lee-s-welterweight-title-1795203440504.jpeg",
+      "title": "UFC Fight Night 294 official weigh-in results from Qatar",
+      "description": "Get the official weigh-in results for Saturday's UFC Fight Night 294 event in Qatar.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/20/ufc-fight-night-294-qatar-official-weigh-in-results/92873860007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-fight-night-294-official-weigh-in-results-from-qatar-1795241431422.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-11-20T05:47:46Z",
+      "author": "Mike Bohn"
+    },
+    {
+      "title": "UFC Qatar early weigh ins results | Prochazka vs. Stirling",
+      "description": "Ultimate Fighting Championship (UFC) will stage its early and official weigh-ins at 9 a.m. local time for this weekend’s UFC Qatar mixed martial arts (MMA) event on Paramount+. Unfortunately for stateside fight fans, Qatar is eight hours ahead of Eastern Stan…",
+      "url": "https://www.mmamania.com/ufc-weigh-in-video/487496/ufc-qatar-early-weigh-ins-results-prochazka-vs-stirling",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-qatar-early-weigh-ins-results-prochazka-vs-stirling-1795241431424.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-11-20T05:30:00Z",
+      "author": "Alexander Behunin"
+    },
+    {
+      "title": "Andrea Gilligan has learned to mask her singular talent",
+      "description": "On Newstalk, the Lunchtime Live host sweats the small stuff but speaks plainly about big issues. On Today FM, Matt Cooper is happy with dystopian topics",
+      "url": "https://www.irishtimes.com/culture/tv-radio/2026/11/20/andrea-gilligan-has-learned-to-mask-her-singular-talent/",
+      "image": "/fightonomics/agents/mma-news-updater/images/andrea-gilligan-has-learned-to-mask-her-singular-talent-1795241431425.jpeg",
+      "source": "The Irish Times",
+      "publishedAt": "2026-11-20T05:15:00Z",
+      "author": "Mick Heaney"
+    },
+    {
+      "title": "Midnight Mania: ‘I Would Have Stopped It In The First’",
+      "description": "Bringing you the weird and wild from the world of MMA each and every weeknight!",
+      "url": "https://www.mmamania.com/ufc-news/487461/alexandre-topuria-weighs-in-on-ilia-topurias-damaged-eye-i-would-have-stopped-it-in-the-first",
+      "image": "/fightonomics/agents/mma-news-updater/images/midnight-mania-i-would-have-stopped-it-in-the-first-1795241431426.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-11-20T04:59:00Z",
+      "author": "Andrew Richardson"
+    },
+    {
+      "title": "The Inner Circle 39 And ONE Friday Fights 179 – Results And Highlights For Every Match",
+      "description": "We're reporting to you live from the world-famous Lumpinee Stadium. Join us!",
+      "url": "https://www.onefc.com/news/the-inner-circle-39-and-one-friday-fights-179-results-and-highlights-for-every-match/",
+      "image": "/fightonomics/agents/mma-news-updater/images/the-inner-circle-39-and-one-friday-fights-179-results-and-highlights-for-every-match-1795241431428.jpeg",
+      "source": "Onefc.com",
+      "publishedAt": "2026-11-20T04:18:34Z",
+      "author": "Bear Frazer"
+    },
+    {
+      "title": "Jon Anik Breaks Silence on Daniel Cormier Backlash as Petition to Remove UFC Hall of Famer Crosses 8,000 Signatures",
+      "description": "Jon Anik defends Daniel Cormier after his UFC 334 commentary sparks backlash, with MMA fans calling for the former champion's removal.",
+      "url": "https://sports.yahoo.com/articles/jon-anik-breaks-silence-daniel-041653225.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/jon-anik-breaks-silence-on-daniel-cormier-backlash-as-petition-to-remove-ufc-hall-of-famer-crosses-8-000-signatures-1795241431429.jpeg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-20T04:16:53Z",
+      "author": "Kshitiz Kumar Singh"
+    },
+    {
+      "title": "For Brown, fights and wins have been hard to come by",
+      "description": "Saturday What: FightWorld 47 Where: Revel ABQ When: 7 p.m. Who: Amber Brown vs. Ariana Melendez, Alan Corral vs. Sergio Gutierrez, several other fights Tickets: fightworldmma.simpletix.com A three-fight losing streak is one thing; a nine-year winless streak i…",
+      "url": "https://www.abqjournal.com/sports/for-brown-fights-and-wins-have-been-hard-to-come-by/3166129",
+      "image": "/fightonomics/agents/mma-news-updater/images/for-brown-fights-and-wins-have-been-hard-to-come-by-1795241431429.jpeg",
+      "source": "Albuquerque Journal",
+      "publishedAt": "2026-11-20T04:08:00Z",
+      "author": "Rick Wright"
+    },
+    {
+      "title": "Opinion: Why Aljamain Sterling could deserve UFC title shot over Jean Silva",
+      "description": "A closer look at UFC Qatar reveals a bout with major title implications, writes Dayne Fox.",
+      "url": "https://www.sherdog.com/news/articles/Opinion-Why-Aljamain-Sterling-could-deserve-UFC-title-shot-over-Jean-Silva-203701",
+      "image": "/fightonomics/agents/mma-news-updater/images/opinion-why-aljamain-sterling-could-deserve-ufc-title-shot-over-jean-silva-1795241431431.jpeg",
       "source": "Sherdog.com",
-      "publishedAt": "2026-11-19T17:47:38Z",
-      "author": "Sourav Chakraborty"
+      "publishedAt": "2026-11-20T03:08:35Z",
+      "author": "x Dayne Fox"
     },
     {
-      "title": "Everything We Know About Manni L. Perez, ‘GTA 6’ Female Lead Lucia Caminos",
-      "description": "One of the buzziest aspects of the newly released “Grand Theft Auto VI” video game is its introduction of a major playable female character — the first in the “GTA” franchise, which has previously been criticized for its misogynistic content. While developer …",
-      "url": "https://www.today.com/popculture/news/manni-l-perez-gta-6-lucia-caminos-everything-to-know-rcna610095",
-      "image": "/fightonomics/agents/mma-news-updater/images/everything-we-know-about-manni-l-perez-gta-6-female-lead-lucia-caminos-1795203440505.jpeg",
-      "source": "TODAY",
-      "publishedAt": "2026-11-19T17:35:53Z",
-      "author": "Kimmy Yam"
-    },
-    {
-      "title": "UFC 335 headliner Charles Oliveira shares bonus-chasing philosophy",
-      "description": "\"I don't sit around thinking about bonuses. The bonuses think about me.\"",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/19/ufc-335-video-charles-oliveira-bonus-chasing-bmf-diego-lopes-question-answer-qa/92839682007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-335-headliner-charles-oliveira-shares-bonus-chasing-philosophy-1795203440505.jpeg",
+      "title": "MMA Junkie Radio #3721: Jones-Hokit beef, UFC Qatar preview, more",
+      "description": "Check out the latest episode of MMA Junkie Radio with \"Gorgeous\" George and \"Goze.\"",
+      "url": "https://mmajunkie.usatoday.com/story/sports/mma/radio/2026/11/19/mma-junkie-radio-3721-jon-jones-josh-hokit-beef-ufc-qatar-preview-more/92868251007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/mma-junkie-radio-3721-jones-hokit-beef-ufc-qatar-preview-more-1795241431432.jpeg",
       "source": "USA Today",
-      "publishedAt": "2026-11-19T17:10:47Z",
-      "author": "Matt Erickson, Mike Bohn"
+      "publishedAt": "2026-11-20T02:00:47Z",
+      "author": "George Garcia, Brian Garcia"
     },
     {
-      "title": "Teammates Navajo Stirling, Carlos Ulberg rapidly approach an awkward dilemma atop light heavyweight division",
-      "description": "Stirling could catapult himself into the 205-pound title picture with a win over former champ Jiri Prochazka in Qatar this weekend",
-      "url": "https://www.cbssports.com/ufc/news/navajo-stirling-carlos-ulberg-light-heavyweight-title-ufc-fight-night/",
-      "image": "/fightonomics/agents/mma-news-updater/images/teammates-navajo-stirling-carlos-ulberg-rapidly-approach-an-awkward-dilemma-atop-light-heavyweight-division-1795203440506.jpeg",
-      "source": "CBS Sports",
-      "publishedAt": "2026-11-19T16:33:07Z",
-      "author": "Shakiel Mahjouri"
+      "title": "Floyd Mayweather gets relief as Las Vegas prosecutors drop two felony charges in $200,000 watch case",
+      "description": "Floyd Mayweather’s two felony charges over an alleged $200,000 watch payment have been dismissed in Las Vegas. Prosecutors requested the move after the watch was returned and both sides said they were satisfied. The decision ends this criminal case, but Maywe…",
+      "url": "https://timesofindia.indiatimes.com/sports/international-sports/floyd-mayweather-gets-relief-as-las-vegas-prosecutors-drop-two-felony-charges-in-200000-watch-case/articleshow/136009219.cms",
+      "image": "/fightonomics/agents/mma-news-updater/images/floyd-mayweather-gets-relief-as-las-vegas-prosecutors-drop-two-felony-charges-in-200-000-watch-case-1795241431433.jpeg",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-20T00:53:57Z",
+      "author": "Global Sports Desk"
     },
     {
-      "title": "Joe Rogan has 'much better weight class' in mind for Ilia Topuria",
-      "description": "Joe Rogan wonders if Ilia Topuria has the size to compete at 155 pounds.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/19/ufc-joe-rogan-concerned-ilia-topuria-lightweight/92856711007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/joe-rogan-has-much-better-weight-class-in-mind-for-ilia-topuria-1795203440506.jpeg",
+      "title": "Ex-UFC champ says it's 'a little premature' for Navajo Stirling to fight Jiri Prochazka",
+      "description": "Kamaru Usman thinks Jiri Prochazka may prove to be too stern of a test for Navajo Stirling at UFC Qatar.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/19/ufc-qatar-kamaru-usman-unsure-navajo-stirling-ready-jiri-prochazka/92858884007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ex-ufc-champ-says-it-s-a-little-premature-for-navajo-stirling-to-fight-jiri-prochazka-1795241431434.jpeg",
       "source": "USA Today",
-      "publishedAt": "2026-11-19T16:20:26Z",
-      "author": "MMA Junkie"
-    },
-    {
-      "title": "Daniel Cormier: Jon Jones should stop feuding with Josh Hokit if he won't fight",
-      "description": "Daniel Cormier isn't a fan of Jon Jones kicking Josh Hokit while he's down.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/19/daniel-cormier-reaction-jon-jones-vs-josh-hokit-public-feud-twitter/92856601007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/daniel-cormier-jon-jones-should-stop-feuding-with-josh-hokit-if-he-won-t-fight-1795203440507.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-11-19T15:31:00Z",
+      "publishedAt": "2026-11-20T00:30:42Z",
       "author": "Farah Hannoun"
     },
     {
-      "title": "I’m Glad People Are Out There Asking Rumored Bond Girls How They'd Feel About Joining Robert Pattinson",
-      "description": "Bond 26's casting is officially underway.",
-      "url": "https://www.cinemablend.com/movies/im-glad-people-asking-rumored-bond-girls-joining-robert-pattinson-gemma-chan-sydney-sweeney",
-      "image": "/fightonomics/agents/mma-news-updater/images/i-m-glad-people-are-out-there-asking-rumored-bond-girls-how-they-d-feel-about-joining-robert-pattinson-1795203440507.jpeg",
-      "source": "CinemaBlend",
-      "publishedAt": "2026-11-19T15:29:45Z",
-      "author": "Corey Chichizola"
-    },
-    {
-      "title": "ufcalendar 0.10.1",
-      "description": "MMA Fight Data API client for Python — UFC, PFL, OKTAGON, BKFC, RIZIN events, fight stats, results, rankings history, judges' scorecards and consensus odds.",
-      "url": "https://pypi.org/project/ufcalendar/0.10.1/",
-      "image": null,
-      "source": "Pypi.org",
-      "publishedAt": "2026-11-19T15:03:09Z",
-      "author": null
-    },
-    {
-      "title": "Sergei Pavlovich confident technique will top Alex Pereira's at UFC 335",
-      "description": "Sergei Pavlovich is confident his hand will be raised at UFC 335.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/19/ufc-335-sergei-pavlovich-interview-alex-pereira-fight-preview/92847049007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/sergei-pavlovich-confident-technique-will-top-alex-pereira-s-at-ufc-335-1795203440508.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-11-19T14:40:19Z",
-      "author": "Nolan King, Mike Bohn"
-    },
-    {
-      "title": "Former ESPN personality accused of abandoning 14 dogs in Happy Tails lawsuit",
-      "description": "A former ESPN \"Cold Pizza\" commentator is coming under fire after following claims of her animal rescue business abandoning dogs.",
-      "url": "https://nypost.com/2026/11/19/sports/former-espn-personality-accused-of-abandoning-14-dogs-in-happy-tails-lawsuit/",
-      "image": "/fightonomics/agents/mma-news-updater/images/former-espn-personality-accused-of-abandoning-14-dogs-in-happy-tails-lawsuit-1795203440509.jpeg",
-      "source": "New York Post",
-      "publishedAt": "2026-11-19T14:23:49Z",
-      "author": "Bridget Reilly"
-    },
-    {
-      "title": "Open Thread, Thursday, November 19: Open house",
-      "description": "﻿﻿﻿﻿﻿﻿﻿﻿Your daily source for off topic chatter with the MMA Mania faithful.",
-      "url": "https://www.mmamania.com/daily_mania_ufc_mma/487420/open-thread-thursday-november-19-open-house",
-      "image": "/fightonomics/agents/mma-news-updater/images/open-thread-thursday-november-19-open-house-1795203440509.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-11-19T14:05:00Z",
-      "author": "Tim Edwards"
-    },
-    {
-      "title": "Khabib passes on Jake Paul’s $200 million fight offer: ‘There is no opponent, only money’",
-      "description": "Khabib Nurmagomedov isn’t interested in returning to mixed martial arts (MMA), not even for a $200 million dollar payday. That’s how much money Jake Paul just suggested Khabib would make if he agreed to fight the YouTuber-turned-boxer under the new MVP MMA ba…",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_984928fd-0b7b-4b26-bb11-51aaffd51a4e",
-      "image": null,
+      "title": "Controversial TKO-backed Muhammad Ali Boxing Revival Act unanimously passes U.S. Senate",
+      "description": "The amended legislation now returns to the House of Representatives, which must approve the Senate's changes before the bill can reach the desk of President Donald Trump, who can sign it into law.",
+      "url": "https://sports.yahoo.com/boxing/article/controversial-tko-backed-muhammad-ali-boxing-revival-act-unanimously-passes-us-senate-231617412.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/controversial-tko-backed-muhammad-ali-boxing-revival-act-unanimously-passes-u-s-senate-1795241431434.jpeg",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-19T13:40:43Z",
-      "author": null
+      "publishedAt": "2026-11-19T23:16:17Z",
+      "author": "Darshan Desai"
     },
     {
-      "title": "UFC champion Sean Strickland goes off on ’embarrassing’ young men over playing GTA 6",
-      "description": "Sean Strickland thinks that people should find a better way to spend their time. For a lot of people, it has been a long 13-year wait for the next instalment of the Grand Theft Auto series to finally arrive.",
-      "url": "https://www.hitc.com/ufc-champion-sean-strickland-goes-off-on-embarrassing-young-men-over-playing-gta-6/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-champion-sean-strickland-goes-off-on-embarrassing-young-men-over-playing-gta-6-1795203440511.jpeg",
-      "source": "HITC - Football, Gaming, Movies, TV, Music",
-      "publishedAt": "2026-11-19T13:38:42Z",
-      "author": "Kyle Dimond"
+      "title": "Naruto, ninjas and Netflix: Dominic Di Tommaso’s journey from figure skater to parkour pinnacle",
+      "description": "'It does, until you get to a certain stage, have a little bit of goofiness attached to it'",
+      "url": "https://www.nzherald.co.nz/sport/naruto-ninjas-and-netflix-dominic-di-tommasos-journey-from-figure-skater-to-parkour-pinnacle/ITMA7QKP5RG5VIHFN5LD7THHGM/",
+      "image": "/fightonomics/agents/mma-news-updater/images/naruto-ninjas-and-netflix-dominic-di-tommaso-s-journey-from-figure-skater-to-parkour-pinnacle-1795241431435.jpeg",
+      "source": "New Zealand Herald",
+      "publishedAt": "2026-11-19T23:12:00Z",
+      "author": "Christopher Reive"
     },
     {
-      "title": "Michael Morales says career patience vindicated by UFC 336 title shot",
-      "description": "Michael Morales weighs in on his upcoming title shot at UFC 336 in January.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/19/ufc-336-michael-morales-interview-vindicated/92833701007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/michael-morales-says-career-patience-vindicated-by-ufc-336-title-shot-1795203440511.jpeg",
+      "title": "Naruto, ninjas and Physical: Asia: Dominic Di Tommaso’s journey from figure skater to parkour pinnacle",
+      "description": "'It does, until you get to a certain stage, have a little bit of goofiness attached to it'",
+      "url": "https://www.nzherald.co.nz/sport/naruto-ninjas-and-physical-asia-dominic-di-tommasos-journey-from-former-figure-skater-to-parkour-pinnacle/ITMA7QKP5RG5VIHFN5LD7THHGM/",
+      "image": "/fightonomics/agents/mma-news-updater/images/naruto-ninjas-and-physical-asia-dominic-di-tommaso-s-journey-from-figure-skater-to-parkour-pinnacle-1795241431436.jpeg",
+      "source": "New Zealand Herald",
+      "publishedAt": "2026-11-19T23:12:00Z",
+      "author": "Christopher Reive"
+    },
+    {
+      "title": "Judge warns it is 'decision time' for MMA fighter Joshua Allen accused of garda assault",
+      "description": "Joshua Allen needs to plead guilty or contest nine charges which include assaulting two gardaí, driving at a garda at speed, dangerous driving and driving intoxicated.",
+      "url": "https://www.thejournal.ie/joshua-allen-7231956-Nov2026/",
+      "image": "/fightonomics/agents/mma-news-updater/images/judge-warns-it-is-decision-time-for-mma-fighter-joshua-allen-accused-of-garda-assault-1795241431436.png",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-11-19T22:06:00Z",
+      "author": "Olivia Kelleher"
+    },
+    {
+      "title": "Kevin Vallejos hopes highlight UFC Qatar KO gets Alexander Volkanovski's attention",
+      "description": "Kevin Vallejos has one goal at UFC Fight Night 294: Lure Alexander Volkanovski into a title fight.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/19/ufc-qatar-kevin-vallejos-aims-alex-volkanovski-attention/92857393007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/kevin-vallejos-hopes-highlight-ufc-qatar-ko-gets-alexander-volkanovski-s-attention-1795241431438.jpeg",
       "source": "USA Today",
-      "publishedAt": "2026-11-19T13:00:45Z",
-      "author": "Nolan King, Mike Bohn, Jeronimo Guerra"
+      "publishedAt": "2026-11-19T22:01:09Z",
+      "author": "Farah Hannoun, Mike Bohn"
     },
     {
-      "title": "Former UFC champion claims Nurmagomedov camp launched vicious second attack on Merab after cameras stopped rolling",
-      "description": "Aljamain Sterling has made fresh allegations about the Abu Dhabi hotel confrontation, claiming Umar Nurmagomedov punched Merab Dvalishvili after appearing to make peace, while members of his group allegedly restrained and kicked Saba Lazishvili. Ariel Helwani…",
-      "url": "https://timesofindia.indiatimes.com/sports/mma/news/former-ufc-champion-claims-nurmagomedov-camp-launched-vicious-second-attack-on-merab-after-cameras-stopped-rolling/articleshow/135991227.cms",
-      "image": "/fightonomics/agents/mma-news-updater/images/former-ufc-champion-claims-nurmagomedov-camp-launched-vicious-second-attack-on-merab-after-cameras-stopped-rolling-1795203440512.jpeg",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-19T12:59:35Z",
-      "author": "Soror Shaiza"
+      "title": "U.S. Holds Historic Deep-Sea Mining Lease Sale",
+      "description": "The Trump administration on Thursday completed the first-ever U.S. offshore critical minerals lease auction, drawing $6 million in high bids for more than 31.5 million acres of seabed off American Samoa despite mounting environmental opposition and a federal …",
+      "url": "https://gcaptain.com/u-s-holds-historic-deep-sea-mining-lease-sale/",
+      "image": "/fightonomics/agents/mma-news-updater/images/u-s-holds-historic-deep-sea-mining-lease-sale-1795241431439.jpeg",
+      "source": "gcaptain.com",
+      "publishedAt": "2026-11-19T20:24:21Z",
+      "author": "Mike Schuler"
     },
     {
-      "title": "Jake Paul gets unexpected answer from Islam Makhachev on potential fight against Nate Diaz",
-      "description": "Islam Makhachev recently revealed his prediction for a potential MMA fight between Jake Paul and Nate Diaz. He initially chose Diaz but later mentioned Paul's superior current shape for MMA. Paul's boxing match against Cedric Doumbe is scheduled for December …",
-      "url": "https://timesofindia.indiatimes.com/sports/mma/news/jake-paul-gets-unexpected-answer-from-islam-makhachev-on-potential-fight-against-nate-diaz/articleshow/135992123.cms",
-      "image": "/fightonomics/agents/mma-news-updater/images/jake-paul-gets-unexpected-answer-from-islam-makhachev-on-potential-fight-against-nate-diaz-1795203440512.jpeg",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-19T12:54:13Z",
-      "author": "Global Sports Desk"
+      "title": "Jon Anik: Claims of Daniel Cormier bias as UFC commentator are 'just straight lunacy'",
+      "description": "Lead UFC play-by-play announcer Jon Anik believes Daniel Cormier has received unfair criticism for his UFC 334 commentary.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/19/jon-anik-defends-daniel-cormier-ufc-334-commentary-backlash/92857109007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/jon-anik-claims-of-daniel-cormier-bias-as-ufc-commentator-are-just-straight-lunacy-1795241431439.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-11-19T20:00:38Z",
+      "author": "Farah Hannoun"
     }
   ]
 }

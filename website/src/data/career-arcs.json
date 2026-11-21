@@ -1,15 +1,78 @@
 {
-  "lastUpdated": "2026-11-20T19:37:22.686Z",
+  "lastUpdated": "2026-11-21T06:10:34.689Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
+      "title": "UFC Qatar early weigh ins results | Prochazka vs. Stirling",
+      "description": "Ultimate Fighting Championship (UFC) will stage its early and official weigh-ins at 9 a.m. local time for this weekend’s UFC Qatar mixed martial arts (MMA) event on Paramount+. Unfortunately for stateside fight fans, Qatar is eight hours ahead of Eastern Stan…",
+      "url": "https://www.mmamania.com/ufc-weigh-in-video/487496/ufc-qatar-early-weigh-ins-results-prochazka-vs-stirling",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-qatar-early-weigh-ins-results-prochazka-vs-stirling-1795241431448.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-11-20T05:30:00Z",
+      "author": "Alexander Behunin"
+    },
+    {
+      "title": "Andrea Gilligan has learned to mask her singular talent",
+      "description": "On Newstalk, the Lunchtime Live host sweats the small stuff but speaks plainly about big issues. On Today FM, Matt Cooper is happy with dystopian topics",
+      "url": "https://www.irishtimes.com/culture/tv-radio/2026/11/20/andrea-gilligan-has-learned-to-mask-her-singular-talent/",
+      "image": "/fightonomics/agents/mma-news-updater/images/andrea-gilligan-has-learned-to-mask-her-singular-talent-1795241431449.jpeg",
+      "source": "The Irish Times",
+      "publishedAt": "2026-11-20T05:15:00Z",
+      "author": "Mick Heaney"
+    },
+    {
+      "title": "Jon Anik Breaks Silence on Daniel Cormier Backlash as Petition to Remove UFC Hall of Famer Crosses 8,000 Signatures",
+      "description": "Jon Anik defends Daniel Cormier after his UFC 334 commentary sparks backlash, with MMA fans calling for the former champion's removal.",
+      "url": "https://sports.yahoo.com/articles/jon-anik-breaks-silence-daniel-041653225.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/jon-anik-breaks-silence-on-daniel-cormier-backlash-as-petition-to-remove-ufc-hall-of-famer-crosses-8-000-signatures-1795241431449.jpeg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-20T04:16:53Z",
+      "author": "Kshitiz Kumar Singh"
+    },
+    {
+      "title": "For Brown, fights and wins have been hard to come by",
+      "description": "Saturday What: FightWorld 47 Where: Revel ABQ When: 7 p.m. Who: Amber Brown vs. Ariana Melendez, Alan Corral vs. Sergio Gutierrez, several other fights Tickets: fightworldmma.simpletix.com A three-fight losing streak is one thing; a nine-year winless streak i…",
+      "url": "https://www.abqjournal.com/sports/for-brown-fights-and-wins-have-been-hard-to-come-by/3166129",
+      "image": "/fightonomics/agents/mma-news-updater/images/for-brown-fights-and-wins-have-been-hard-to-come-by-1795241431450.jpeg",
+      "source": "Albuquerque Journal",
+      "publishedAt": "2026-11-20T04:08:00Z",
+      "author": "Rick Wright"
+    },
+    {
+      "title": "Opinion: Why Aljamain Sterling could deserve UFC title shot over Jean Silva",
+      "description": "A closer look at UFC Qatar reveals a bout with major title implications, writes Dayne Fox.",
+      "url": "https://www.sherdog.com/news/articles/Opinion-Why-Aljamain-Sterling-could-deserve-UFC-title-shot-over-Jean-Silva-203701",
+      "image": "/fightonomics/agents/mma-news-updater/images/opinion-why-aljamain-sterling-could-deserve-ufc-title-shot-over-jean-silva-1795241431450.jpeg",
+      "source": "Sherdog.com",
+      "publishedAt": "2026-11-20T03:08:35Z",
+      "author": "x Dayne Fox"
+    },
+    {
+      "title": "Judge warns it is 'decision time' for MMA fighter Joshua Allen accused of garda assault",
+      "description": "Joshua Allen needs to plead guilty or contest nine charges which include assaulting two gardaí, driving at a garda at speed, dangerous driving and driving intoxicated.",
+      "url": "https://www.thejournal.ie/joshua-allen-7231956-Nov2026/",
+      "image": "/fightonomics/agents/mma-news-updater/images/judge-warns-it-is-decision-time-for-mma-fighter-joshua-allen-accused-of-garda-assault-1795241431451.png",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-11-19T22:06:00Z",
+      "author": "Olivia Kelleher"
+    },
+    {
+      "title": "Kevin Vallejos hopes highlight UFC Qatar KO gets Alexander Volkanovski's attention",
+      "description": "Kevin Vallejos has one goal at UFC Fight Night 294: Lure Alexander Volkanovski into a title fight.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/19/ufc-qatar-kevin-vallejos-aims-alex-volkanovski-attention/92857393007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/kevin-vallejos-hopes-highlight-ufc-qatar-ko-gets-alexander-volkanovski-s-attention-1795241431451.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-11-19T22:01:09Z",
+      "author": "Farah Hannoun, Mike Bohn"
+    },
+    {
       "title": "After the UFC 334 headliner, we need to talk about the difference between a good fight and a fun fight",
       "description": "Was Ciryl Gane vs. Josh Hokit a sloppy heavyweight title fight or a good time for fans? Maybe it could be both.",
       "url": "https://sports.yahoo.com/mma/article/after-the-ufc-334-headliner-we-need-to-talk-about-the-difference-between-a-good-fight-and-a-fun-fight-184302230.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/after-the-ufc-334-headliner-we-need-to-talk-about-the-difference-between-a-good-fight-and-a-fun-fight-1795203440516.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/after-the-ufc-334-headliner-we-need-to-talk-about-the-difference-between-a-good-fight-and-a-fun-fight-1795241431452.jpeg",
       "source": "Yahoo Entertainment",
       "publishedAt": "2026-11-19T18:43:02Z",
       "author": "Ben Fowlkes"
@@ -18,82 +81,10 @@
       "title": "Everything We Know About Manni L. Perez, ‘GTA 6’ Female Lead Lucia Caminos",
       "description": "One of the buzziest aspects of the newly released “Grand Theft Auto VI” video game is its introduction of a major playable female character — the first in the “GTA” franchise, which has previously been criticized for its misogynistic content. While developer …",
       "url": "https://www.today.com/popculture/news/manni-l-perez-gta-6-lucia-caminos-everything-to-know-rcna610095",
-      "image": "/fightonomics/agents/mma-news-updater/images/everything-we-know-about-manni-l-perez-gta-6-female-lead-lucia-caminos-1795203440517.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/everything-we-know-about-manni-l-perez-gta-6-female-lead-lucia-caminos-1795241431452.jpeg",
       "source": "TODAY",
       "publishedAt": "2026-11-19T17:35:53Z",
       "author": "Kimmy Yam"
-    },
-    {
-      "title": "Teammates Navajo Stirling, Carlos Ulberg rapidly approach an awkward dilemma atop light heavyweight division",
-      "description": "Stirling could catapult himself into the 205-pound title picture with a win over former champ Jiri Prochazka in Qatar this weekend",
-      "url": "https://www.cbssports.com/ufc/news/navajo-stirling-carlos-ulberg-light-heavyweight-title-ufc-fight-night/",
-      "image": "/fightonomics/agents/mma-news-updater/images/teammates-navajo-stirling-carlos-ulberg-rapidly-approach-an-awkward-dilemma-atop-light-heavyweight-division-1795203440517.jpeg",
-      "source": "CBS Sports",
-      "publishedAt": "2026-11-19T16:33:07Z",
-      "author": "Shakiel Mahjouri"
-    },
-    {
-      "title": "Sergei Pavlovich confident technique will top Alex Pereira's at UFC 335",
-      "description": "Sergei Pavlovich is confident his hand will be raised at UFC 335.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/19/ufc-335-sergei-pavlovich-interview-alex-pereira-fight-preview/92847049007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/sergei-pavlovich-confident-technique-will-top-alex-pereira-s-at-ufc-335-1795203440517.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-11-19T14:40:19Z",
-      "author": "Nolan King, Mike Bohn"
-    },
-    {
-      "title": "Michael Morales says career patience vindicated by UFC 336 title shot",
-      "description": "Michael Morales weighs in on his upcoming title shot at UFC 336 in January.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/19/ufc-336-michael-morales-interview-vindicated/92833701007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/michael-morales-says-career-patience-vindicated-by-ufc-336-title-shot-1795203440518.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-11-19T13:00:45Z",
-      "author": "Nolan King, Mike Bohn, Jeronimo Guerra"
-    },
-    {
-      "title": "Former UFC champion claims Nurmagomedov camp launched vicious second attack on Merab after cameras stopped rolling",
-      "description": "Aljamain Sterling has made fresh allegations about the Abu Dhabi hotel confrontation, claiming Umar Nurmagomedov punched Merab Dvalishvili after appearing to make peace, while members of his group allegedly restrained and kicked Saba Lazishvili. Ariel Helwani…",
-      "url": "https://timesofindia.indiatimes.com/sports/mma/news/former-ufc-champion-claims-nurmagomedov-camp-launched-vicious-second-attack-on-merab-after-cameras-stopped-rolling/articleshow/135991227.cms",
-      "image": "/fightonomics/agents/mma-news-updater/images/former-ufc-champion-claims-nurmagomedov-camp-launched-vicious-second-attack-on-merab-after-cameras-stopped-rolling-1795203440518.jpeg",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-19T12:59:35Z",
-      "author": "Soror Shaiza"
-    },
-    {
-      "title": "Khabib Nurmagomedov rejects Jake Paul’s $200M comeback offer",
-      "description": "Is Jake Paul vs. Khabib Nurmagomedov on the charts? The latest conversation doesn’t suggest so. Paul is all set to come back to boxing after a gap of almost one year. Last year, in Dec. 2025, Paul faced off against Anthony Joshua in Miami and suffered a nasty…",
-      "url": "https://clutchpoints.com/celebrity/khabib-nurmagomedov-rejects-jake-paul-200m-comeback-offer",
-      "image": "/fightonomics/agents/mma-news-updater/images/khabib-nurmagomedov-rejects-jake-paul-s-200m-comeback-offer-1795203440518.jpeg",
-      "source": "ClutchPoints",
-      "publishedAt": "2026-11-19T11:10:22Z",
-      "author": "ClutchPoints Shounak Chakrabarti"
-    },
-    {
-      "title": "The state school boy set to become AI mega-billionaire: Anthropic co-founder Jack Clark who was born and bred in Brighton will be worth $19.7BN as AI giant makes stock market debut",
-      "description": "Today, Brighton-born Jack is on the verge of becoming one of the richest men on the planet as his AI giant Anthropic prepares for its hotly anticipated stock market debut.",
-      "url": "https://www.dailymail.com/news/article-16305175/The-state-school-boy-set-AI-mega-billionaire-Anthropic-founder-Jack-Clark-born-bred-Brighton-worth-19-7BN-AI-giant-makes-stock-market-debut.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/the-state-school-boy-set-to-become-ai-mega-billionaire-anthropic-co-founder-jack-clark-who-was-born-and-bred-in-brighton-will-be-worth-19-7bn-as-ai-giant-makes-stock-market-debut-1795203440519.jpeg",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-19T10:42:01Z",
-      "author": "Martin Robinson"
-    },
-    {
-      "title": "Josh Hokit Takes Aim at ‘Professionalism’ After Disrespecting Bruce Buffer at UFC 334",
-      "description": "After showing the middle finger to Bruce Buffer as an act of defiance at UFC 334, Josh Hokit gives his reasoning behind the move.",
-      "url": "https://sports.yahoo.com/articles/josh-hokit-takes-aim-professionalism-061623511.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/josh-hokit-takes-aim-at-professionalism-after-disrespecting-bruce-buffer-at-ufc-334-1795203440519.jpeg",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-19T06:16:23Z",
-      "author": "Kshitiz Kumar Singh"
-    },
-    {
-      "title": "Can a human defeat a hyena?",
-      "description": "Can a Human Triumph Against a Hyena? The Grim Reality of a Deadly Encounter The answer to “Can a human defeat a hyena?” is a resounding unlikely, especially a spotted hyena in a one-on-one, unarmed confrontation. While theoretically possible under extremely s…",
-      "url": "https://www.lifesciencesworld.com/can-a-human-defeat-a-hyena/",
-      "image": null,
-      "source": "Lifesciencesworld.com",
-      "publishedAt": "2026-11-19T05:56:19Z",
-      "author": "Ava Reynolds"
     }
   ]
 }
