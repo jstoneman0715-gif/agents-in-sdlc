@@ -1,99 +1,99 @@
 {
-  "lastUpdated": "2026-11-21T18:43:02.146Z",
+  "lastUpdated": "2026-11-22T05:44:40.033Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
-      "title": "UFC Fight Night 294 official weigh-in results: One fighter misses mark - MMA Junkie",
-      "description": "UFC Fight Night 294 official weigh-in results: One fighter misses markMMA Junkie Official Weigh-In Results | UFC QatarUFC.com UFC Qatar full card predictions: Can Navajo Stirling beat Jií Procházka?Yahoo Sports ‘I don’t want no f*cking soft, sorry ass motherf…",
-      "url": "https://slashdot.org/firehose.pl?op=view&id=186809752",
+      "title": "UFC Qatar Results: Prochazka vs. Stirling",
+      "description": "Jiri Prochazka, Navajo Stirling clash in UFC Qatar main event",
+      "url": "https://www.mmafighting.com/ufc/522605/ufc-qatar-results-prochazka-vs-stirling",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-qatar-results-prochazka-vs-stirling-1795326276887.jpeg",
+      "source": "MMA Fighting",
+      "publishedAt": "2026-11-21T05:00:00Z",
+      "author": "Bryan Tucker"
+    },
+    {
+      "title": "Midnight Mania! Tommy Gun Sits FOUR DAYS For Gigantic New Tattoo …",
+      "description": "Bringing you the weird and wild from the world of MMA each and every weeknight!",
+      "url": "https://www.mmamania.com/latest-news/487545/giga-chikadze-among-three-fighters-released-in-latest-wave-of-ufc-roster-cuts",
+      "image": "/fightonomics/agents/mma-news-updater/images/midnight-mania-tommy-gun-sits-four-days-for-gigantic-new-tattoo-1795326276887.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-11-21T04:59:00Z",
+      "author": "Andrew Richardson"
+    },
+    {
+      "title": "ufcalendar 0.11.0",
+      "description": "MMA Fight Data API client for Python — UFC, PFL, OKTAGON, BKFC, RIZIN events, fight stats, results, rankings history, judges' scorecards and consensus odds.",
+      "url": "https://pypi.org/project/ufcalendar/0.11.0/",
+      "image": null,
+      "source": "Pypi.org",
+      "publishedAt": "2026-11-21T04:54:02Z",
+      "author": null
+    },
+    {
+      "title": "UFC Qatar ‘Prochazka vs. Stirling’ play-by-play, results & round scoring - Sherdog",
+      "description": "UFC Qatar ‘Prochazka vs. Stirling’ play-by-play, results & round scoringSherdog Fight By Fight Preview | UFC QatarUFC.com UFC Qatar weigh-in results: Jiri Prochazka returns; 1 fighter heavySherdog UFC Qatar predictions: Who are our two unanimous picks?MMA Jun…",
+      "url": "https://slashdot.org/firehose.pl?op=view&id=186814288",
       "image": null,
       "source": "Slashdot.org",
-      "publishedAt": "2026-11-20T17:53:17Z",
+      "publishedAt": "2026-11-21T04:12:07Z",
       "author": "feedfeeder"
     },
     {
-      "title": "Brandon Royval sees two ways Joshua Van vs. Manel Kape plays out at UFC 336",
-      "description": "Brandon Royval breaks down the UFC 336 main event from first-hand knowledge after fighting both Joshua Van and Manel Kape.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/20/brandon-royval-breaks-down-joshua-van-vs-manel-kape-ufc-336/92858226007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/brandon-royval-sees-two-ways-joshua-van-vs-manel-kape-plays-out-at-ufc-336-1795286580143.jpeg",
+      "title": "Jared Cannonier vs. Ikram Aliskerov prediction, pick, start time, odds for UFC Qatar",
+      "description": "Can former title challenger Jared Cannonier get back on track against Ikram Aliskerov?",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/20/jared-cannonier-vs-ikram-aliskerov-ufc-qatar-prediction-expert-pick/92883661007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/jared-cannonier-vs-ikram-aliskerov-prediction-pick-start-time-odds-for-ufc-qatar-1795326276889.jpeg",
       "source": "USA Today",
-      "publishedAt": "2026-11-20T17:10:16Z",
-      "author": "Farah Hannoun, George Garcia, Brian Garcia"
+      "publishedAt": "2026-11-21T04:00:18Z",
+      "author": "Dan Tom"
     },
     {
-      "title": "Divisional Rankings: Ciryl Gane is UFC’s defending champion, but is he MMA’s true No. 1 heavyweight?",
-      "description": "Is Ciryl Gane the best heavyweight in the world?",
-      "url": "https://www.mmafighting.com/rankings/521827/divisional-rankings-ciryl-gane-is-ufcs-defending-champion-but-is-he-mmas-true-no-1-heavyweight",
-      "image": "/fightonomics/agents/mma-news-updater/images/divisional-rankings-ciryl-gane-is-ufc-s-defending-champion-but-is-he-mma-s-true-no-1-heavyweight-1795286580143.jpeg",
-      "source": "MMA Fighting",
-      "publishedAt": "2026-11-20T17:00:00Z",
-      "author": "Alexander K. Lee"
-    },
-    {
-      "title": "ONE Friday Fights 179 Co-Main Event Result: Superjeng’s Fists Of Fury End Wuttikrai’s Night In Round Two",
-      "description": "The 21-year-old made it three wins in succession in Lumpinee Stadium thanks to his fiery fists.",
-      "url": "https://www.onefc.com/news/one-friday-fights-179-co-main-event-result-superjengs-fists-of-fury-end-wuttikrais-night-in-round-two/",
-      "image": "/fightonomics/agents/mma-news-updater/images/one-friday-fights-179-co-main-event-result-superjeng-s-fists-of-fury-end-wuttikrai-s-night-in-round-two-1795286580144.jpeg",
-      "source": "Onefc.com",
-      "publishedAt": "2026-11-20T16:31:10Z",
-      "author": "Kriel Ibarrola"
-    },
-    {
-      "title": "LIVE! UFC Qatar Ceremonial Weigh Ins Video!",
-      "description": "With the UFC Qatar early (and official) weigh ins already in the books (get complete results and updates here), the promotion will trot all 24 fighters back onto the stage for the ceremonial festivities, taking place LIVE at 10 a.m. ET today (Fri., Nov. 20, 2…",
-      "url": "https://www.mmamania.com/ufc-weigh-in-video/487571/ufc-qatar-ceremonial-weigh-ins-video-live-results-stream-jiri-vs-stirling",
-      "image": "/fightonomics/agents/mma-news-updater/images/live-ufc-qatar-ceremonial-weigh-ins-video-1795286580144.jpeg",
+      "title": "Machine Gun Shooting Mitchell Details Wild Hangout With Strickland",
+      "description": "Bryce Mitchell has proven to be one of the wildest and most outspoken fighters on the Ultimate Fighting Championship (UFC) roster, but even “Thug Nasty” had a tough time keeping up with UFC middleweight champion Sean Strickland during a recent hangout. It’s n…",
+      "url": "https://www.mmamania.com/latest-news/487578/machine-gun-shooting-bryce-mitchell-details-wild-hangout-with-ufc-champion-sean-strickland-i-had-the-time-of-my-life",
+      "image": "/fightonomics/agents/mma-news-updater/images/machine-gun-shooting-mitchell-details-wild-hangout-with-strickland-1795326276889.jpeg",
       "source": "MMA Mania",
-      "publishedAt": "2026-11-20T14:55:00Z",
-      "author": "Jesse Holland"
+      "publishedAt": "2026-11-21T03:00:00Z",
+      "author": "Dan Hiergesell"
     },
     {
-      "title": "Open Thread, Friday, November 20: How was your week?",
-      "description": "﻿﻿﻿﻿﻿﻿﻿﻿﻿Your daily source for off topic chatter with the MMA Mania faithful.",
-      "url": "https://www.mmamania.com/daily_mania_ufc_mma/487511/open-thread-friday-november-20-how-was-your-week",
-      "image": "/fightonomics/agents/mma-news-updater/images/open-thread-friday-november-20-how-was-your-week-1795286580145.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-11-20T14:05:00Z",
-      "author": "Tim Edwards"
+      "title": "MMA fighter arrested for murdering dog, kicked out of The Fighting Nerds - MMA Fighting",
+      "description": "MMA fighter arrested for murdering dog, kicked out of The Fighting NerdsMMA Fighting  MMA Fighter Arrested Over Alleged Dog Killing as Fighting Nerds RespondEssentiallySports  MMA fighter arrested over alleged dog killing prompts response from Fighting NerdsM…",
+      "url": "https://slashdot.org/firehose.pl?op=view&id=186813798",
+      "image": null,
+      "source": "Slashdot.org",
+      "publishedAt": "2026-11-21T02:33:01Z",
+      "author": "feedfeeder"
     },
     {
-      "title": "UFC veterans in combat sports action Nov. 20-21",
-      "description": "Check out which veterans of the UFC are competing around the globe this weekend.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/20/ufc-veterans-fighting-regional-mma-bareknuckle-boxing-nov-20-21/92870606007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-veterans-in-combat-sports-action-nov-20-21-1795286580145.jpeg",
+      "title": "Usman Nurmagomedov Shares 1st Comments Afer Recent Arrest",
+      "description": "Top-ranked MMA lightweight fighter Usman Nurmagomedov shared his first comments following his recent arrest in Abu Dhabi.Nurmagomedov and his cronies cowardly attacked UFC bantamweight Merab Dvalishvili and a friend last week at an RAF event in Abu Dhabi in a…",
+      "url": "https://heavy.com/sports/ufc/usman-nurmagomedov-comments-after-recent-arrest/",
+      "image": "/fightonomics/agents/mma-news-updater/images/usman-nurmagomedov-shares-1st-comments-afer-recent-arrest-1795326276890.jpeg",
+      "source": "Heavy.com",
+      "publishedAt": "2026-11-21T02:30:02Z",
+      "author": "Adam Martin"
+    },
+    {
+      "title": "O’Malley Books RAF Debut Against ‘Magic’ For Long Island Showdown",
+      "description": "Sean O’Malley is widely regarded as one of the best strikers in mixed martial arts (MMA) today, but the former UFC bantamweight champion will be hitting the wrestling mats next month under the Real American Freestyle (RAF) banner. Much like some of his fellow…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_432d3220-d374-427e-9a95-64c2983c221a",
+      "image": null,
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-21T01:30:00Z",
+      "author": null
+    },
+    {
+      "title": "Aljamain Sterling vs. Kevin Vallejos prediction, pick, start time, odds for UFC Qatar",
+      "description": "A big featherweight fight serves as the co-main event of UFC Qatar. Will Aljamain Sterling punch his ticket to a title shot?",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/20/aljamain-sterling-vs-kevin-vallejos-ufc-qatar-prediction-expert-pick/92884601007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/aljamain-sterling-vs-kevin-vallejos-prediction-pick-start-time-odds-for-ufc-qatar-1795326276890.jpeg",
       "source": "USA Today",
-      "publishedAt": "2026-11-20T13:50:22Z",
-      "author": "Matthew Wells"
-    },
-    {
-      "title": "‘We need to know’ – Charles Oliveira tells Justin Gaethje to speed up his UFC retirement decision",
-      "description": "Charles Oliveira wants to enter his UFC 335 main event with some more clarity. The former lightweight champion is still looking to regain the title, which is now in the hands of his former opponent, Justin Gaethje.",
-      "url": "https://www.hitc.com/we-need-to-know-charles-oliveira-tells-justin-gaethje-to-speed-up-his-ufc-retirement-decision/",
-      "image": "/fightonomics/agents/mma-news-updater/images/we-need-to-know-charles-oliveira-tells-justin-gaethje-to-speed-up-his-ufc-retirement-decision-1795286580146.jpeg",
-      "source": "HITC - Football, Gaming, Movies, TV, Music",
-      "publishedAt": "2026-11-20T13:34:44Z",
-      "author": "Harvey Leonard"
-    },
-    {
-      "title": "MMA rankings November 2026: Harrison-Nunes was epic last gasp of their UFC division",
-      "description": "True superfights are few and far between in MMA, so you’ve gotta appreciate them when they come along. Kayla Harrison’s long-delayed showdown against ex-training partner and everlasting legend Amanda Nunes was, for my money, the most super of fights on the MM…",
-      "url": "https://nypost.com/2026/11/20/sports/kayla-harrison-vs-amanda-nunes-was-epic-last-gasp-of-ufc-division/",
-      "image": "/fightonomics/agents/mma-news-updater/images/mma-rankings-november-2026-harrison-nunes-was-epic-last-gasp-of-their-ufc-division-1795286580146.jpeg",
-      "source": "New York Post",
-      "publishedAt": "2026-11-20T13:30:00Z",
-      "author": "Scott Fontana"
-    },
-    {
-      "title": "Where does this Jiri Prochazka KO rank in UFC's all-time comebacks?",
-      "description": "It may not be the best in-fight comeback in UFC history, but Jiri Prochazka pulled off a two-bonus rally against Khalil Rountree Jr.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/20/ufc-full-fight-video-jiri-prochazka-vs-khalil-rountree-jr-knockout-all-time-comeback-rally/92875435007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/where-does-this-jiri-prochazka-ko-rank-in-ufc-s-all-time-comebacks-1795286580146.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-11-20T13:00:21Z",
-      "author": "MMA Junkie"
+      "publishedAt": "2026-11-21T01:01:13Z",
+      "author": "Dan Tom"
     }
   ],
   "matchups": [

@@ -1,10 +1,19 @@
 {
-  "lastUpdated": "2026-11-21T18:43:02.146Z",
+  "lastUpdated": "2026-11-22T05:44:40.033Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
+    {
+      "title": "O’Malley Books RAF Debut Against ‘Magic’ For Long Island Showdown",
+      "description": "Sean O’Malley is widely regarded as one of the best strikers in mixed martial arts (MMA) today, but the former UFC bantamweight champion will be hitting the wrestling mats next month under the Real American Freestyle (RAF) banner. Much like some of his fellow…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_432d3220-d374-427e-9a95-64c2983c221a",
+      "image": null,
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-21T01:30:00Z",
+      "author": null
+    },
     {
       "title": "Khabib passes on Jake Paul’s $200 million fight offer: ‘There is no opponent, only money’",
       "description": "Khabib Nurmagomedov isn’t interested in returning to mixed martial arts (MMA), not even for a $200 million dollar payday. That’s how much money Jake Paul just suggested Khabib would make if he agreed to fight the YouTuber-turned-boxer under the new MVP MMA ba…",
@@ -81,19 +90,10 @@
       "title": "UFC Fight Night 293: Do we give Walker a heavyweight shot vs. WCA?",
       "description": "UFC Fight Night 293 pick results, fight analytics from our 10 editors, writers, radio hosts and videographers",
       "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/07/ufc-fight-night-las-vegas-waldo-cortes-acosta-vs-johnny-walker-reader-predictions-picks-mma-betting/92659452007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-fight-night-293-do-we-give-walker-a-heavyweight-shot-vs-wca-1795286580130.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-fight-night-293-do-we-give-walker-a-heavyweight-shot-vs-wca-1795326276881.jpeg",
       "source": "USA Today",
       "publishedAt": "2026-11-07T13:02:55Z",
       "author": "Matt Erickson, MMA Junkie"
-    },
-    {
-      "title": "Tye Ruotolo even surprised himself with brevity of ONE Championship title win",
-      "description": "ONE Championship has been relatively quiet on the MMA side, but Tye Ruotolo is making folks pay attention.",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e1cb6b00-1669-42c0-8c2e-c425282dade1",
-      "image": null,
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-06T23:50:33Z",
-      "author": null
     }
   ]
 }
