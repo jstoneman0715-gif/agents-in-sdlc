@@ -1,15 +1,78 @@
 {
-  "lastUpdated": "2026-11-23T06:31:03.610Z",
+  "lastUpdated": "2026-11-23T23:24:02.190Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
+      "title": "Rookie Report Card: Grading all Octagon newcomers UFC Qatar post-mortem",
+      "description": "You only get one Ultimate Fighting Championship (UFC) debut! Three rookies made their first walks to the Octagon this weekend (Sat., Nov. 21, 2026) at UFC Qatar inside Ali Bin Hamad al-Attiyah Arena in Al Rayyan, Qatar. The newcomers went 1-2 overall, with tw…",
+      "url": "https://www.mmamania.com/ufc-results/487865/rookie-report-card-grading-all-octagon-newcomers-ufc-qatar-post-mortem",
+      "image": "/fightonomics/agents/mma-news-updater/images/rookie-report-card-grading-all-octagon-newcomers-ufc-qatar-post-mortem-1795476238882.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-11-22T22:00:00Z",
+      "author": "Alexander Behunin"
+    },
+    {
+      "title": "Video: Fighter earns submission with airtight leg scissor choke",
+      "description": "Perttu-Veli Paatola used his legs to create an inescapable trap",
+      "url": "https://www.mmafighting.com/latest-news/522870/video-fighter-earns-submission-with-airtight-leg-scissor-choke",
+      "image": "/fightonomics/agents/mma-news-updater/images/video-fighter-earns-submission-with-airtight-leg-scissor-choke-1795476238882.jpeg",
+      "source": "MMA Fighting",
+      "publishedAt": "2026-11-22T22:00:00Z",
+      "author": "Alexander K. Lee"
+    },
+    {
+      "title": "Kyoji Horiguchi wants title shot next despite ‘boring fight’ at UFC Qatar",
+      "description": "He didn't love the way his win over Asu Almabayev looked at UFC Qatar, but Kyoji Horiguchi thinks it's enough to warrant being next in line.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/22/ufc-fight-night-qatar-video-kyoji-horiguchi-callout-flyweight-title-shot/92913229007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/kyoji-horiguchi-wants-title-shot-next-despite-boring-fight-at-ufc-qatar-1795476238883.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-11-22T18:50:23Z",
+      "author": "Matt Erickson"
+    },
+    {
+      "title": "Awful: American Dies After Picking Fight With MMA Fighter At Bangkok Hotel",
+      "description": "A 46-year-old American tourist died at a Bangkok hotel after reportedly grabbing an Italian guest, a reported MMA fighter, who put him in a chokehold. Here's what police say.",
+      "url": "https://onemileatatime.com/news/american-dies-picking-fight-mma-fighter-bangkok-hotel/",
+      "image": "/fightonomics/agents/mma-news-updater/images/awful-american-dies-after-picking-fight-with-mma-fighter-at-bangkok-hotel-1795476238883.jpeg",
+      "source": "One Mile at a Time",
+      "publishedAt": "2026-11-22T18:23:37Z",
+      "author": "Ben Schlappig"
+    },
+    {
+      "title": "Alex Pereira emerges as a potential target for unbeaten Navajo Stirling",
+      "description": "Navajo Stirling wants to add another former champion to his résumé after knocking out Jiri Prochazka.",
+      "url": "https://www.sherdog.com/news/news/Alex-Pereira-emerges-as-a-potential-target-for-unbeaten-Navajo-Stirling-203723",
+      "image": "/fightonomics/agents/mma-news-updater/images/alex-pereira-emerges-as-a-potential-target-for-unbeaten-navajo-stirling-1795476238883.jpeg",
+      "source": "Sherdog.com",
+      "publishedAt": "2026-11-22T15:55:14Z",
+      "author": "Sourav Chakraborty"
+    },
+    {
+      "title": "Open Thread, Sunday, November 22: Chill out, watch a movie, do a quiz",
+      "description": "﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿Your daily source for off topic chatter with the MMA Mania faithful.",
+      "url": "https://www.mmamania.com/daily_mania_ufc_mma/488158/open-thread-sunday-november-22-chill-out-watch-a-movie-do-a-quiz",
+      "image": "/fightonomics/agents/mma-news-updater/images/open-thread-sunday-november-22-chill-out-watch-a-movie-do-a-quiz-1795476238884.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-11-22T14:05:00Z",
+      "author": "Tim Edwards"
+    },
+    {
+      "title": "UFC Fight Night 294 Promotional Guidelines Compliance pay: Program total passes $48 million",
+      "description": "The UFC Promotional Guidelines Compliance program has now paid out $48 million to athletes since its deal began with Venum.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/22/ufc-qatar-promotional-guidelines-compliance-pay-program-total-passes-48-million/92879514007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-fight-night-294-promotional-guidelines-compliance-pay-program-total-passes-48-million-1795476238884.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-11-22T13:01:27Z",
+      "author": "Mike Bohn"
+    },
+    {
       "title": "Navajo Stirling Wants to Fight Magomed Ankalaev Next",
       "description": "UFC light heavyweight contender Navajo Stirling said that he wants to fight Magomed Ankalaev in his next bout.Stirling knocked out former UFC light heavyweight champion Jiri Prochazka in the second round of their UFC Qatar main event fight. Next, he wants to …",
       "url": "https://heavy.com/sports/ufc/navajo-stirling-wants-magomed-ankalaev-next/",
-      "image": "/fightonomics/agents/mma-news-updater/images/navajo-stirling-wants-to-fight-magomed-ankalaev-next-1795415459413.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/navajo-stirling-wants-to-fight-magomed-ankalaev-next-1795476238885.jpeg",
       "source": "Heavy.com",
       "publishedAt": "2026-11-22T02:42:37Z",
       "author": "Adam Martin"
@@ -18,82 +81,10 @@
       "title": "Navajo Stirling vs. Carlos Ulberg? 'I need to go back and have a talk with my team'",
       "description": "Navajo Stirling emerged as a potential No. 1 contender after UFC Fight Night 294.",
       "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/21/navajo-stirling-addresses-possibility-of-facing-teammate-carlos-ulberg/92903531007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/navajo-stirling-vs-carlos-ulberg-i-need-to-go-back-and-have-a-talk-with-my-team-1795415459413.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/navajo-stirling-vs-carlos-ulberg-i-need-to-go-back-and-have-a-talk-with-my-team-1795476238885.jpeg",
       "source": "USA Today",
       "publishedAt": "2026-11-21T23:10:18Z",
       "author": "Farah Hannoun"
-    },
-    {
-      "title": "UFC Fight Night takeaways: Navajo Stirling emerging as a star, Kevin Vallejos closing in on title shot",
-      "description": "Saturday's action in Doha provided plenty of interesting talking points heading toward the end of the year",
-      "url": "https://www.cbssports.com/ufc/news/ufc-fight-night-qatar-results-takeaways-navajo-stirling-kevin-vallejos-brian-ortega/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-fight-night-takeaways-navajo-stirling-emerging-as-a-star-kevin-vallejos-closing-in-on-title-shot-1795415459414.jpeg",
-      "source": "CBS Sports",
-      "publishedAt": "2026-11-21T21:39:01Z",
-      "author": "Brian Campbell"
-    },
-    {
-      "title": "Navajo Stirling knocks out Jiri Prochazka in UFC Qatar main event",
-      "description": "Navajo Stirling is making it a habit of knocking out former champions.",
-      "url": "https://www.sherdog.com/news/news/Navajo-Stirling-knocks-out-Jiri-Prochazka-in-UFC-Qatar-main-event-203710",
-      "image": "/fightonomics/agents/mma-news-updater/images/navajo-stirling-knocks-out-jiri-prochazka-in-ufc-qatar-main-event-1795415459414.jpeg",
-      "source": "Sherdog.com",
-      "publishedAt": "2026-11-21T21:24:40Z",
-      "author": "Mike Sloan"
-    },
-    {
-      "title": "Matches to make after UFC Qatar",
-      "description": "The latest Ultimate Fighting Championship event offered several technical fights and ended on a high note for the fans at the Abha Arena in Doha, Qatar.",
-      "url": "https://www.sherdog.com/news/articles/Matches-to-make-after-UFC-Qatar-203712",
-      "image": "/fightonomics/agents/mma-news-updater/images/matches-to-make-after-ufc-qatar-1795415459415.jpeg",
-      "source": "Sherdog.com",
-      "publishedAt": "2026-11-21T21:23:07Z",
-      "author": "Tudor Leonte"
-    },
-    {
-      "title": "UFC Qatar results: Navajo Stirling starches Jiri Prochazka in Round 2",
-      "description": "Navajo Stirling made a big statement by finishing Jiri Prochazka in the UFC Qatar main event.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/21/ufc-qatar-results-navajo-stirling-knockout-jiri-prochazka/92900704007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-qatar-results-navajo-stirling-starches-jiri-prochazka-in-round-2-1795415459415.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-11-21T21:08:46Z",
-      "author": "Matthew Wells"
-    },
-    {
-      "title": "'The only one': Orlando Brown Jr. claims one Cincinnati Bengals player could become a UFC fighter",
-      "description": "We have seen over two dozen NFL players switch careers to become MMA fighters over the years. Brock Lesnar, who was once a defensive tackle for the Minnesota Vikings in pre-season, is probably the most famous of them all, while former San Francisco 49ers prac…",
-      "url": "https://www.hitc.com/the-only-one-orlando-brown-jr-claims-one-cincinnati-bengals-player-could-become-a-ufc-fighter/",
-      "image": "/fightonomics/agents/mma-news-updater/images/the-only-one-orlando-brown-jr-claims-one-cincinnati-bengals-player-could-become-a-ufc-fighter-1795415459416.jpeg",
-      "source": "HITC - Football, Gaming, Movies, TV, Music",
-      "publishedAt": "2026-11-21T18:00:00Z",
-      "author": "Shamanth Jayaram"
-    },
-    {
-      "title": "UFC Qatar video: John Mitchell blasts Shoaib Yousaf with knee",
-      "description": "John Mitchell timed the knee perfectly to take out Shoaib Yousaf at UFC Fight Night 294.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/21/ufc-qatar-video-john-mitchell-knockout-shoaib-yousaf-flying-knee-ko-highlight/92897366007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-qatar-video-john-mitchell-blasts-shoaib-yousaf-with-knee-1795415459416.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-11-21T15:32:59Z",
-      "author": "Farah Hannoun"
-    },
-    {
-      "title": "UFC Fight Night: Prochazka vs. Stirling betting guide, preview, predictions, picks",
-      "description": "Fresh off a big Madison Square Garden card where two title fights were won by the champions, the UFC heads to the Middle East again. The UFC’s insane travel schedule continues, as the promotion heads into its second of three Middle East cards in the fourth qu…",
-      "url": "https://nypost.com/2026/11/21/betting/ufc-fight-night-prochazka-vs-stirling-betting-guide-preview-predictions-picks/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-fight-night-prochazka-vs-stirling-betting-guide-preview-predictions-picks-1795415459417.jpeg",
-      "source": "New York Post",
-      "publishedAt": "2026-11-21T11:00:00Z",
-      "author": "Erich Richter"
-    },
-    {
-      "title": "UFC Qatar ‘Prochazka vs. Stirling’ play-by-play, results & round scoring - Sherdog",
-      "description": "UFC Qatar ‘Prochazka vs. Stirling’ play-by-play, results & round scoringSherdog Fight By Fight Preview | UFC QatarUFC.com UFC Qatar weigh-in results: Jiri Prochazka returns; 1 fighter heavySherdog UFC Qatar predictions: Who are our two unanimous picks?MMA Jun…",
-      "url": "https://slashdot.org/firehose.pl?op=view&id=186814288",
-      "image": null,
-      "source": "Slashdot.org",
-      "publishedAt": "2026-11-21T04:12:07Z",
-      "author": "feedfeeder"
     }
   ]
 }
