@@ -1,15 +1,78 @@
 {
-  "lastUpdated": "2026-11-23T23:24:02.190Z",
+  "lastUpdated": "2026-11-24T08:59:32.672Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
+      "title": "What’s Next for Navajo Stirling After Knocking Out Jiri Prochazka at UFC Qatar?",
+      "description": "Navajo Stirling faced his greatest challenge yet in Jiri Prochazka at UFC Fight in Qatar. However, the New Zealand native made the challenge look simple. He walked into the cage cold, calculated, and ready to conquer. Stirling had the perfect game plan, staye…",
+      "url": "https://sports.yahoo.com/articles/next-navajo-stirling-knocking-jiri-061904241.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/what-s-next-for-navajo-stirling-after-knocking-out-jiri-prochazka-at-ufc-qatar-1795510769842.jpeg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-23T06:19:04Z",
+      "author": "Bishop Lister"
+    },
+    {
+      "title": "Navajo Stirling Names Two Former UFC Champions as Potential Next Opponents Amid Carlos Ulberg Dilemma",
+      "description": "After knocking out Jiri Prochazka at UFC Qatar, Navajo Stirling would love to face Magomed Ankalaev or Alex Pereira in his next outing.",
+      "url": "https://sports.yahoo.com/articles/navajo-stirling-names-two-former-060650210.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/navajo-stirling-names-two-former-ufc-champions-as-potential-next-opponents-amid-carlos-ulberg-dilemma-1795510769842.jpeg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-23T06:06:50Z",
+      "author": "Kshitiz Kumar Singh"
+    },
+    {
+      "title": "3 Major Takeaways From ONE SAMURAI 5 In Tokyo",
+      "description": "A night of finishes, comebacks, and breakout stars delivered plenty of storylines.",
+      "url": "https://www.onefc.com/features/3-major-takeaways-from-one-samurai-5-in-tokyo/",
+      "image": "/fightonomics/agents/mma-news-updater/images/3-major-takeaways-from-one-samurai-5-in-tokyo-1795510769843.jpeg",
+      "source": "Onefc.com",
+      "publishedAt": "2026-11-23T04:54:40Z",
+      "author": "Chris Mohan"
+    },
+    {
+      "title": "Full Card Revealed For ONE Friday Fights 180 On November 27",
+      "description": "Here's what ONE's global fan base can expect from this week's martial arts action at the legendary Lumpinee Stadium.",
+      "url": "https://www.onefc.com/news/full-card-revealed-for-one-friday-fights-180-on-november-27/",
+      "image": "/fightonomics/agents/mma-news-updater/images/full-card-revealed-for-one-friday-fights-180-on-november-27-1795510769843.jpeg",
+      "source": "Onefc.com",
+      "publishedAt": "2026-11-23T02:46:06Z",
+      "author": "John Wolcott"
+    },
+    {
+      "title": "Umar Nurmagomedov issues first statement since UAE hotel brawl",
+      "description": "Umar Nurmagomedov gives his first comments since his arrest and release in Abu Dhabi.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/22/ufc-umar-nurmagomedov-usman-merab-dvalishvili-brawl-statement/92918310007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/umar-nurmagomedov-issues-first-statement-since-uae-hotel-brawl-1795510769843.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-11-23T01:30:31Z",
+      "author": "Nolan King"
+    },
+    {
+      "title": "ufcalendar 0.11.1",
+      "description": "MMA Fight Data API client for Python — UFC, PFL, OKTAGON, BKFC, RIZIN, KSW events, fight stats, results, rankings history, judges' scorecards and consensus odds.",
+      "url": "https://pypi.org/project/ufcalendar/0.11.1/",
+      "image": null,
+      "source": "Pypi.org",
+      "publishedAt": "2026-11-23T00:02:30Z",
+      "author": null
+    },
+    {
+      "title": "James Gallagher announces MMA retirement at 30",
+      "description": "Former Bellator poster boy James Gallagher announced his retirement Sunday, saying it comes due to reasons outside his control.",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c68177e9-a49f-4060-b631-0b6953bb3e32",
+      "image": null,
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-22T23:50:26Z",
+      "author": null
+    },
+    {
       "title": "UFC books rising welterweight clash for Sydney",
       "description": "UFC Sydney continues to fill.",
       "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/22/ufc-sydney-jonathan-micallef-vs-sam-patterson/92916624007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-books-rising-welterweight-clash-for-sydney-1795476238889.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/ufc-books-rising-welterweight-clash-for-sydney-1795510769845.jpeg",
       "source": "USA Today",
       "publishedAt": "2026-11-22T23:00:47Z",
       "author": "Nolan King"
@@ -18,7 +81,7 @@
       "title": "Rookie Report Card: Grading all Octagon newcomers UFC Qatar post-mortem",
       "description": "You only get one Ultimate Fighting Championship (UFC) debut! Three rookies made their first walks to the Octagon this weekend (Sat., Nov. 21, 2026) at UFC Qatar inside Ali Bin Hamad al-Attiyah Arena in Al Rayyan, Qatar. The newcomers went 1-2 overall, with tw…",
       "url": "https://www.mmamania.com/ufc-results/487865/rookie-report-card-grading-all-octagon-newcomers-ufc-qatar-post-mortem",
-      "image": "/fightonomics/agents/mma-news-updater/images/rookie-report-card-grading-all-octagon-newcomers-ufc-qatar-post-mortem-1795476238890.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/rookie-report-card-grading-all-octagon-newcomers-ufc-qatar-post-mortem-1795510769845.jpeg",
       "source": "MMA Mania",
       "publishedAt": "2026-11-22T22:00:00Z",
       "author": "Alexander Behunin"
@@ -27,73 +90,10 @@
       "title": "Video: Fighter earns submission with airtight leg scissor choke",
       "description": "Perttu-Veli Paatola used his legs to create an inescapable trap",
       "url": "https://www.mmafighting.com/latest-news/522870/video-fighter-earns-submission-with-airtight-leg-scissor-choke",
-      "image": "/fightonomics/agents/mma-news-updater/images/video-fighter-earns-submission-with-airtight-leg-scissor-choke-1795476238890.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/video-fighter-earns-submission-with-airtight-leg-scissor-choke-1795510769845.jpeg",
       "source": "MMA Fighting",
       "publishedAt": "2026-11-22T22:00:00Z",
       "author": "Alexander K. Lee"
-    },
-    {
-      "title": "Islam Makhachev Doubles Down on Merab Dvalishvili Assault",
-      "description": "UFC welterweight champion Islam Makhachev doubled down on his acceptance of Merab Dvalishvili being assaulted in Abu Dhabi.Dvalishvili and his friend were assaulted by Makhachev’s teammates, brothers Usman Nurmagomedov and Umar Nurmagomedov, plus six other me…",
-      "url": "https://heavy.com/sports/ufc/islam-makhachev-doubles-down-merab-dvalishvili/",
-      "image": "/fightonomics/agents/mma-news-updater/images/islam-makhachev-doubles-down-on-merab-dvalishvili-assault-1795476238891.jpeg",
-      "source": "Heavy.com",
-      "publishedAt": "2026-11-22T21:54:12Z",
-      "author": "Adam Martin"
-    },
-    {
-      "title": "Jiri Prochazka releases statement following UFC Qatar loss - MMA Fighting",
-      "description": "Jiri Prochazka releases statement following UFC Qatar lossMMA Fighting Main Card Results | UFC QatarUFC.com Video: Israel Adesanya, Dan Hooker go wild for Navajo Stirling's UFC Qatar KOYahoo Sports Here’s How to Watch UFC Fight Night: Procházka vs. Stirling L…",
-      "url": "https://slashdot.org/firehose.pl?op=view&id=186833805",
-      "image": null,
-      "source": "Slashdot.org",
-      "publishedAt": "2026-11-22T21:32:19Z",
-      "author": "feedfeeder"
-    },
-    {
-      "title": "Video: Chris Leben eats soccer kick from Yoshihiro Akiyama, wins split decision in return to MMA",
-      "description": "Chris Leben got soccer kicked by Yoshihiro Akiyama in his return to MMA, but still won a split decision.",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6a562bf4-c10c-45b2-81a7-232fba124088",
-      "image": null,
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-22T20:00:00Z",
-      "author": null
-    },
-    {
-      "title": "Mick Maynard's Shoes: What's next for Navajo Stirling after UFC Qatar win?",
-      "description": "What does the future hold for Navajo Stirling after his UFC Qatar knockout? We attempt to play matchmaker.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/22/ufc-qatar-matchmaker-navajo-stirling-reaction-next-fight-analysis-knockout/92905734007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/mick-maynard-s-shoes-what-s-next-for-navajo-stirling-after-ufc-qatar-win-1795476238893.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-11-22T19:40:37Z",
-      "author": "Mike Bohn"
-    },
-    {
-      "title": "UFC Qatar, The Morning After: Stirling’s Star-Making KO Wasted - MMA Mania",
-      "description": "UFC Qatar, The Morning After: Stirling’s Star-Making KO WastedMMA Mania Main Card Results | UFC QatarUFC.com Navajo Stirling knocks out another ex-champ in Jirí Procházka to cap Fight NightESPN Here’s How to Watch UFC Fight Night: Procházka vs. Stirling Live …",
-      "url": "https://slashdot.org/firehose.pl?op=view&id=186833137",
-      "image": null,
-      "source": "Slashdot.org",
-      "publishedAt": "2026-11-22T19:32:54Z",
-      "author": "feedfeeder"
-    },
-    {
-      "title": "Top UFC prospect announces new contract, teases fight date",
-      "description": "Elijah Smith is back in the UFC with a new deal",
-      "url": "https://www.mmafighting.com/ufc/522682/elijah-smith-announces-new-ufc-contract-teases-fight-date",
-      "image": "/fightonomics/agents/mma-news-updater/images/top-ufc-prospect-announces-new-contract-teases-fight-date-1795476238893.jpeg",
-      "source": "MMA Fighting",
-      "publishedAt": "2026-11-22T19:00:00Z",
-      "author": "Alexander K. Lee"
-    },
-    {
-      "title": "Kyoji Horiguchi wants title shot next despite ‘boring fight’ at UFC Qatar",
-      "description": "He didn't love the way his win over Asu Almabayev looked at UFC Qatar, but Kyoji Horiguchi thinks it's enough to warrant being next in line.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/22/ufc-fight-night-qatar-video-kyoji-horiguchi-callout-flyweight-title-shot/92913229007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/kyoji-horiguchi-wants-title-shot-next-despite-boring-fight-at-ufc-qatar-1795476238894.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-11-22T18:50:23Z",
-      "author": "Matt Erickson"
     }
   ],
   "matchups": [

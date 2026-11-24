@@ -1,10 +1,19 @@
 {
-  "lastUpdated": "2026-11-23T23:24:02.190Z",
+  "lastUpdated": "2026-11-24T08:59:32.672Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
+    {
+      "title": "James Gallagher announces MMA retirement at 30",
+      "description": "Former Bellator poster boy James Gallagher announced his retirement Sunday, saying it comes due to reasons outside his control.",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c68177e9-a49f-4060-b631-0b6953bb3e32",
+      "image": null,
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-22T23:50:26Z",
+      "author": null
+    },
     {
       "title": "Video: Chris Leben eats soccer kick from Yoshihiro Akiyama, wins split decision in return to MMA",
       "description": "Chris Leben got soccer kicked by Yoshihiro Akiyama in his return to MMA, but still won a split decision.",
@@ -84,15 +93,6 @@
       "image": null,
       "source": "Yahoo Entertainment",
       "publishedAt": "2026-11-17T02:24:00Z",
-      "author": null
-    },
-    {
-      "title": "Orlando MMA fighter opens Breakaway Martial Arts with beginners in mind",
-      "description": "Breakaway Martial Arts celebrates its grand opening tomorrow, Nov. 17, with free classes and community activities.",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a2e53ad4-9123-45a1-8ce6-b34e0a4a148d",
-      "image": null,
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-16T23:02:03Z",
       "author": null
     }
   ]
