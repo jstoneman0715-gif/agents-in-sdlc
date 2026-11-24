@@ -1,15 +1,69 @@
 {
-  "lastUpdated": "2026-11-24T08:59:32.672Z",
+  "lastUpdated": "2026-11-24T21:55:40.531Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
+      "title": "American tourist beaten to death in Thailand by MMA fighter called ‘Frank the Tank’",
+      "description": "American tourist Kalif Edward Harper was killed in Bangkok after attacking former MMA fighter Frank Eric Marques in a hotel lobby.",
+      "url": "https://nypost.com/2026/11/23/world-news/american-tourist-beaten-to-death-in-thailand-by-mma-fighter/",
+      "image": "/fightonomics/agents/mma-news-updater/images/american-tourist-beaten-to-death-in-thailand-by-mma-fighter-called-frank-the-tank-1795557337314.jpeg",
+      "source": "New York Post",
+      "publishedAt": "2026-11-23T21:29:56Z",
+      "author": "Jesse O’Neill"
+    },
+    {
+      "title": "Magomed Ankalaev Accepts Navajo Stirling’s Challenge as UFC 337 Emerges as Potential Landing Spot",
+      "description": "Magomed Ankalaev has welcomed the prospect of facing Navajo Stirling after the New Zealander knocked out Jiri Prochazka at UFC Qatar.",
+      "url": "https://sports.yahoo.com/articles/magomed-ankalaev-accepts-navajo-stirling-202642170.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/magomed-ankalaev-accepts-navajo-stirling-s-challenge-as-ufc-337-emerges-as-potential-landing-spot-1795557337314.jpeg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-23T20:26:42Z",
+      "author": "Kshitiz Kumar Singh"
+    },
+    {
+      "title": "Islam Makhachev says Usman Nurmagomedov did nothing wrong in Abu Dhabi attack: 'Merab behaved disgracefully'",
+      "description": "Nearly two weeks removed from the chaos in Abu Dhabi, Makhachev believes Nurmagomedov’s attack on Dvalishvili was much ado about nothing.",
+      "url": "https://sports.yahoo.com/mma/article/islam-makhachev-says-usman-nurmagomedov-did-nothing-wrong-in-abu-dhabi-attack-merab-behaved-disgracefully-185814093.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/islam-makhachev-says-usman-nurmagomedov-did-nothing-wrong-in-abu-dhabi-attack-merab-behaved-disgracefully-1795557337314.jpeg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-23T18:58:14Z",
+      "author": "Uncrowned Staff"
+    },
+    {
+      "title": "Former UFC champ accepts Qatar callout from Navajo Stirling — even offers home-field advantage",
+      "description": "Navajo Stirling announced himself as a legitimate title contender by taking out former light heavyweight champion Jiri Prochazka atop the UFC Qatar MMA event last weekend in Doha. Following his twelfth straight victory, the 29-year-old kiwi called for a showd…",
+      "url": "https://www.mmamania.com/ufc-news/488245/former-ufc-champ-accepts-qatar-callout-navajo-stirling-offers-home-field-advantage",
+      "image": "/fightonomics/agents/mma-news-updater/images/former-ufc-champ-accepts-qatar-callout-from-navajo-stirling-even-offers-home-field-advantage-1795557337315.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-11-23T17:26:47Z",
+      "author": "Jesse Holland"
+    },
+    {
+      "title": "'A forced decision' - Gallagher retires from MMA",
+      "description": "Northern Ireland fighter James Gallagher says circumstances outside his control have \"forced\" him to retire from MMA aged 30.",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_26161e41-83f2-4b4c-8b7b-85a4bf77527f",
+      "image": null,
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-23T17:04:38Z",
+      "author": null
+    },
+    {
+      "title": "'A forced decision' - Gallagher retires from MMA",
+      "description": "Northern Ireland fighter James Gallagher says circumstances outside his control have \"forced\" him to retire from MMA aged 30.",
+      "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckp80denz7qyo",
+      "image": "/fightonomics/agents/mma-news-updater/images/a-forced-decision-gallagher-retires-from-mma-1795557337316.jpeg",
+      "source": "BBC News",
+      "publishedAt": "2026-11-23T16:51:48Z",
+      "author": "Coral Barry"
+    },
+    {
       "title": "Navajo Stirling Names Two Former UFC Champions as Potential Next Opponents Amid Carlos Ulberg Dilemma",
       "description": "After knocking out Jiri Prochazka at UFC Qatar, Navajo Stirling would love to face Magomed Ankalaev or Alex Pereira in his next outing.",
       "url": "https://sports.yahoo.com/articles/navajo-stirling-names-two-former-060650210.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/navajo-stirling-names-two-former-ufc-champions-as-potential-next-opponents-amid-carlos-ulberg-dilemma-1795510769836.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/navajo-stirling-names-two-former-ufc-champions-as-potential-next-opponents-amid-carlos-ulberg-dilemma-1795557337317.jpeg",
       "source": "Yahoo Entertainment",
       "publishedAt": "2026-11-23T06:06:50Z",
       "author": "Kshitiz Kumar Singh"
@@ -18,7 +72,7 @@
       "title": "3 Major Takeaways From ONE SAMURAI 5 In Tokyo",
       "description": "A night of finishes, comebacks, and breakout stars delivered plenty of storylines.",
       "url": "https://www.onefc.com/features/3-major-takeaways-from-one-samurai-5-in-tokyo/",
-      "image": "/fightonomics/agents/mma-news-updater/images/3-major-takeaways-from-one-samurai-5-in-tokyo-1795510769837.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/3-major-takeaways-from-one-samurai-5-in-tokyo-1795557337317.jpeg",
       "source": "Onefc.com",
       "publishedAt": "2026-11-23T04:54:40Z",
       "author": "Chris Mohan"
@@ -27,7 +81,7 @@
       "title": "Rookie Report Card: Grading all Octagon newcomers UFC Qatar post-mortem",
       "description": "You only get one Ultimate Fighting Championship (UFC) debut! Three rookies made their first walks to the Octagon this weekend (Sat., Nov. 21, 2026) at UFC Qatar inside Ali Bin Hamad al-Attiyah Arena in Al Rayyan, Qatar. The newcomers went 1-2 overall, with tw…",
       "url": "https://www.mmamania.com/ufc-results/487865/rookie-report-card-grading-all-octagon-newcomers-ufc-qatar-post-mortem",
-      "image": "/fightonomics/agents/mma-news-updater/images/rookie-report-card-grading-all-octagon-newcomers-ufc-qatar-post-mortem-1795510769837.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/rookie-report-card-grading-all-octagon-newcomers-ufc-qatar-post-mortem-1795557337318.jpeg",
       "source": "MMA Mania",
       "publishedAt": "2026-11-22T22:00:00Z",
       "author": "Alexander Behunin"
@@ -36,55 +90,10 @@
       "title": "Video: Fighter earns submission with airtight leg scissor choke",
       "description": "Perttu-Veli Paatola used his legs to create an inescapable trap",
       "url": "https://www.mmafighting.com/latest-news/522870/video-fighter-earns-submission-with-airtight-leg-scissor-choke",
-      "image": "/fightonomics/agents/mma-news-updater/images/video-fighter-earns-submission-with-airtight-leg-scissor-choke-1795510769837.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/video-fighter-earns-submission-with-airtight-leg-scissor-choke-1795557337318.jpeg",
       "source": "MMA Fighting",
       "publishedAt": "2026-11-22T22:00:00Z",
       "author": "Alexander K. Lee"
-    },
-    {
-      "title": "Kyoji Horiguchi wants title shot next despite ‘boring fight’ at UFC Qatar",
-      "description": "He didn't love the way his win over Asu Almabayev looked at UFC Qatar, but Kyoji Horiguchi thinks it's enough to warrant being next in line.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/22/ufc-fight-night-qatar-video-kyoji-horiguchi-callout-flyweight-title-shot/92913229007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/kyoji-horiguchi-wants-title-shot-next-despite-boring-fight-at-ufc-qatar-1795510769837.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-11-22T18:50:23Z",
-      "author": "Matt Erickson"
-    },
-    {
-      "title": "Awful: American Dies After Picking Fight With MMA Fighter At Bangkok Hotel",
-      "description": "A 46-year-old American tourist died at a Bangkok hotel after reportedly grabbing an Italian guest, a reported MMA fighter, who put him in a chokehold. Here's what police say.",
-      "url": "https://onemileatatime.com/news/american-dies-picking-fight-mma-fighter-bangkok-hotel/",
-      "image": "/fightonomics/agents/mma-news-updater/images/awful-american-dies-after-picking-fight-with-mma-fighter-at-bangkok-hotel-1795510769838.jpeg",
-      "source": "One Mile at a Time",
-      "publishedAt": "2026-11-22T18:23:37Z",
-      "author": "Ben Schlappig"
-    },
-    {
-      "title": "Alex Pereira emerges as a potential target for unbeaten Navajo Stirling",
-      "description": "Navajo Stirling wants to add another former champion to his résumé after knocking out Jiri Prochazka.",
-      "url": "https://www.sherdog.com/news/news/Alex-Pereira-emerges-as-a-potential-target-for-unbeaten-Navajo-Stirling-203723",
-      "image": "/fightonomics/agents/mma-news-updater/images/alex-pereira-emerges-as-a-potential-target-for-unbeaten-navajo-stirling-1795510769838.jpeg",
-      "source": "Sherdog.com",
-      "publishedAt": "2026-11-22T15:55:14Z",
-      "author": "Sourav Chakraborty"
-    },
-    {
-      "title": "Open Thread, Sunday, November 22: Chill out, watch a movie, do a quiz",
-      "description": "﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿Your daily source for off topic chatter with the MMA Mania faithful.",
-      "url": "https://www.mmamania.com/daily_mania_ufc_mma/488158/open-thread-sunday-november-22-chill-out-watch-a-movie-do-a-quiz",
-      "image": "/fightonomics/agents/mma-news-updater/images/open-thread-sunday-november-22-chill-out-watch-a-movie-do-a-quiz-1795510769838.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-11-22T14:05:00Z",
-      "author": "Tim Edwards"
-    },
-    {
-      "title": "UFC Fight Night 294 Promotional Guidelines Compliance pay: Program total passes $48 million",
-      "description": "The UFC Promotional Guidelines Compliance program has now paid out $48 million to athletes since its deal began with Venum.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/22/ufc-qatar-promotional-guidelines-compliance-pay-program-total-passes-48-million/92879514007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-fight-night-294-promotional-guidelines-compliance-pay-program-total-passes-48-million-1795510769839.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-11-22T13:01:27Z",
-      "author": "Mike Bohn"
     }
   ]
 }
