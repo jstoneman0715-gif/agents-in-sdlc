@@ -1,15 +1,114 @@
 {
-  "lastUpdated": "2026-11-24T21:55:40.531Z",
+  "lastUpdated": "2026-11-25T07:38:10.386Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
+      "title": "Neil Magny books UFC fight No. 39 vs. Daniil Donchenko",
+      "description": "Neil Magny will shift into third all-time in appearances when this UFC fight starts.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/24/ufc-neil-magny-vs-daniil-donchenko-vegas/92936891007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/neil-magny-books-ufc-fight-no-39-vs-daniil-donchenko-1795592287345.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-11-24T05:01:03Z",
+      "author": "Nolan King"
+    },
+    {
+      "title": "Midnight Mania: Grease? Steroids? Cope?",
+      "description": "Bringing you the weird and wild from the world of MMA each and every weeknight!",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_81904ea3-18a9-42dc-89a3-03cd4d6a2e66",
+      "image": null,
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-24T04:59:00Z",
+      "author": null
+    },
+    {
+      "title": "The Thrill and Agony: UFC Fight Night 294 winner and loser reactions",
+      "description": "The thrill of victory and agony of defeat was seen in the aftermath of UFC Qatar from the winning and losing athletes.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/mma/blue-corner/2026/11/23/ufc-qatar-winner-loser-reactions-thrill-agony/92927544007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/the-thrill-and-agony-ufc-fight-night-294-winner-and-loser-reactions-1795592287347.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-11-24T03:00:23Z",
+      "author": "Mike Bohn"
+    },
+    {
+      "title": "Don’t fence in Amir Albazi after UFC Qatar comeback submission",
+      "description": "See if you can grab onto this: Amir Albazi rallied from a point deduction against Alessandro Costa to pull of a submission – and won a bonus for it.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/23/ufc-fight-night-qatar-video-amir-albazi-fence-grab-submission-return-injury-surgery/92926356007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/don-t-fence-in-amir-albazi-after-ufc-qatar-comeback-submission-1795592287348.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-11-24T02:45:18Z",
+      "author": "Matt Erickson"
+    },
+    {
+      "title": "MMA Junkie Radio #3722: UFC Qatar results, Ortega retires, Ethyn Ewing interview",
+      "description": "Check out the latest episode of MMA Junkie Radio with \"Gorgeous\" George and \"Goze.\"",
+      "url": "https://mmajunkie.usatoday.com/story/sports/mma/radio/2026/11/23/mma-junkie-radio-3722-ufc-qatar-results-ortega-retires-ethyn-ewing-interview/92934780007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/mma-junkie-radio-3722-ufc-qatar-results-ortega-retires-ethyn-ewing-interview-1795592287349.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-11-24T01:50:27Z",
+      "author": "George Garcia, Brian Garcia"
+    },
+    {
+      "title": "Dustin Poirier critical of Dan Hooker's lack of killer instinct at UFC Qatar",
+      "description": "Dustin Poirier thinks ex-opponent Dan Hooker could've done more against Brian Ortega at UFC Qatar.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/23/ufc-qatar-dustin-poirier-critical-dan-hooker-killer-instinct-brian-ortega-win/92929349007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/dustin-poirier-critical-of-dan-hooker-s-lack-of-killer-instinct-at-ufc-qatar-1795592287350.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-11-24T00:00:17Z",
+      "author": "Mike Bohn"
+    },
+    {
+      "title": "14 fights official for PFL’s last card before MVP MMA transition in 2027",
+      "description": "Taylor Lapilus takes on Mitch McKee for the inaugural PFL title",
+      "url": "https://www.mmafighting.com/pfl/523032/14-fights-official-for-pfls-last-card-before-mvp-mma-transition-in-2027",
+      "image": "/fightonomics/agents/mma-news-updater/images/14-fights-official-for-pfl-s-last-card-before-mvp-mma-transition-in-2027-1795592287351.jpeg",
+      "source": "MMA Fighting",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "author": "Guilherme Cruz"
+    },
+    {
+      "title": "Jorge Masvidal: 'Total package' Kevin Vallejos should get next UFC title shot",
+      "description": "Jorge Masvidal sees 24-year-old Kevin Vallejos as the biggest threat to 38-year-old Alexander Volkanovski's UFC belt.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/23/jorge-masvidal-kevin-vallejos-next-ufc-title-shot-alexander-volkanovski/92928907007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/jorge-masvidal-total-package-kevin-vallejos-should-get-next-ufc-title-shot-1795592287351.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-11-23T23:15:27Z",
+      "author": "Mike Bohn"
+    },
+    {
+      "title": "Aljamain Sterling livid at the hypocrisy of Islam Makhachev and Team Khabib: 'Super phony, super fake'",
+      "description": "\"They think they're better than everybody else and they can do whatever they want, and the rules don't apply to them,\" Sterling told Uncrowned, \"and that's what's not right.\"",
+      "url": "https://sports.yahoo.com/mma/article/aljamain-sterling-livid-at-the-hypocrisy-of-islam-makhachev-and-team-khabib-super-phony-super-fake-223425693.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/aljamain-sterling-livid-at-the-hypocrisy-of-islam-makhachev-and-team-khabib-super-phony-super-fake-1795592287352.jpeg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-23T22:34:25Z",
+      "author": "Drake Riggs"
+    },
+    {
+      "title": "Josh Hokit responds to Jon Jones' insinuation of dating underage girls",
+      "description": "Josh Hokit hopes his beef with Jon Jones doesn't escalate to a dark place.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/23/josh-hokit-responds-to-jon-jones-insinuation-dating-underage-girls/92931864007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/josh-hokit-responds-to-jon-jones-insinuation-of-dating-underage-girls-1795592287353.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-11-23T22:10:44Z",
+      "author": "Matthew Wells"
+    },
+    {
+      "title": "‘World’s most wanted’ OnlyFans model Vera Dijkmans claims ‘mistreatment’ in ICE custody",
+      "description": "A Dutch OnlyFans model who was deported to her homeland after being detained for 11 days by ICE claims she endured unimaginable “mistreatment” in a New Jersey immigrant detention facility. Vera Dijkmans, 29, who once dubbed herself the “world’s most wanted gi…",
+      "url": "https://nypost.com/2026/11/23/world-news/onlyfans-model-vera-dijkmans-claims-mistreatment-in-ice-custody/",
+      "image": "/fightonomics/agents/mma-news-updater/images/world-s-most-wanted-onlyfans-model-vera-dijkmans-claims-mistreatment-in-ice-custody-1795592287353.jpeg",
+      "source": "New York Post",
+      "publishedAt": "2026-11-23T21:55:47Z",
+      "author": "Jesse O’Neill"
+    },
+    {
       "title": "American tourist beaten to death in Thailand by MMA fighter called ‘Frank the Tank’",
       "description": "American tourist Kalif Edward Harper was killed in Bangkok after attacking former MMA fighter Frank Eric Marques in a hotel lobby.",
       "url": "https://nypost.com/2026/11/23/world-news/american-tourist-beaten-to-death-in-thailand-by-mma-fighter/",
-      "image": "/fightonomics/agents/mma-news-updater/images/american-tourist-beaten-to-death-in-thailand-by-mma-fighter-called-frank-the-tank-1795557337290.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/american-tourist-beaten-to-death-in-thailand-by-mma-fighter-called-frank-the-tank-1795592287354.jpeg",
       "source": "New York Post",
       "publishedAt": "2026-11-23T21:29:56Z",
       "author": "Jesse O’Neill"
@@ -18,7 +117,7 @@
       "title": "Gable Steveson's return from shocking KO among new UFC 336 additions",
       "description": "Gable Steveson will try to get back on track at UFC 336 just four months after an all-time betting upset loss.",
       "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/23/ufc-336-gable-steveson-vs-terance-chatman-announced/92932280007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/gable-steveson-s-return-from-shocking-ko-among-new-ufc-336-additions-1795557337291.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/gable-steveson-s-return-from-shocking-ko-among-new-ufc-336-additions-1795592287354.jpeg",
       "source": "USA Today",
       "publishedAt": "2026-11-23T21:28:05Z",
       "author": "Mike Bohn"
@@ -27,7 +126,7 @@
       "title": "Disgraced NFL star Shawne Merriman sued over $3.5 million in debts... weeks after being told to pay $4m for Playboy model's overdose death",
       "description": "Former NFL star Shawne Merriman is facing another lawsuit after he and three co-defendants were ordered to pay $4 million for the wrongful death of an ex-Playboy model.",
       "url": "https://www.dailymail.com/sport/nfl/article-16316115/NFL-Shawne-Merriman-sued-3-5-million-debts-weeks-told-pay-4m-Playboy-models-overdose-death.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/disgraced-nfl-star-shawne-merriman-sued-over-3-5-million-in-debts-weeks-after-being-told-to-pay-4m-for-playboy-model-s-overdose-death-1795557337292.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/disgraced-nfl-star-shawne-merriman-sued-over-3-5-million-in-debts-weeks-after-being-told-to-pay-4m-for-playboy-model-s-overdose-death-1795592287354.jpeg",
       "source": "Dailymail.com",
       "publishedAt": "2026-11-23T21:14:14Z",
       "author": "Alex Raskin"
@@ -36,7 +135,7 @@
       "title": "Magomed Ankalaev Accepts Navajo Stirling’s Challenge as UFC 337 Emerges as Potential Landing Spot",
       "description": "Magomed Ankalaev has welcomed the prospect of facing Navajo Stirling after the New Zealander knocked out Jiri Prochazka at UFC Qatar.",
       "url": "https://sports.yahoo.com/articles/magomed-ankalaev-accepts-navajo-stirling-202642170.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/magomed-ankalaev-accepts-navajo-stirling-s-challenge-as-ufc-337-emerges-as-potential-landing-spot-1795557337293.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/magomed-ankalaev-accepts-navajo-stirling-s-challenge-as-ufc-337-emerges-as-potential-landing-spot-1795592287355.jpeg",
       "source": "Yahoo Entertainment",
       "publishedAt": "2026-11-23T20:26:42Z",
       "author": "Kshitiz Kumar Singh"
@@ -45,7 +144,7 @@
       "title": "Sean O'Malley: Jones vs. Hokit would be 'one of the biggest fights in UFC history'",
       "description": "Sean O'Malley wants Jon Jones to come out of retirement to fight Josh Hokit.",
       "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/23/ufc-334-sean-omalley-prediction-jon-jones-out-retirement-josh-hokit-biggest-rivalry-heavyweight/92921830007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/sean-o-malley-jones-vs-hokit-would-be-one-of-the-biggest-fights-in-ufc-history-1795557337295.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/sean-o-malley-jones-vs-hokit-would-be-one-of-the-biggest-fights-in-ufc-history-1795592287355.jpeg",
       "source": "USA Today",
       "publishedAt": "2026-11-23T19:25:27Z",
       "author": "Farah Hannoun"
@@ -54,7 +153,7 @@
       "title": "NFL Week 12 early predictions, odds, picks: Falcons vs. Vikings, 49ers vs. Seahawks",
       "description": "Perhaps the best football week of the year is on tap.",
       "url": "https://nypost.com/2026/11/23/betting/nfl-week-12-early-predictions-odds-picks-falcons-vs-vikings-49ers-vs-seahawks/",
-      "image": "/fightonomics/agents/mma-news-updater/images/nfl-week-12-early-predictions-odds-picks-falcons-vs-vikings-49ers-vs-seahawks-1795557337296.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/nfl-week-12-early-predictions-odds-picks-falcons-vs-vikings-49ers-vs-seahawks-1795592287356.jpeg",
       "source": "New York Post",
       "publishedAt": "2026-11-23T19:18:01Z",
       "author": "Erich Richter"
@@ -63,7 +162,7 @@
       "title": "Islam Makhachev says Usman Nurmagomedov did nothing wrong in Abu Dhabi attack: 'Merab behaved disgracefully'",
       "description": "Nearly two weeks removed from the chaos in Abu Dhabi, Makhachev believes Nurmagomedov’s attack on Dvalishvili was much ado about nothing.",
       "url": "https://sports.yahoo.com/mma/article/islam-makhachev-says-usman-nurmagomedov-did-nothing-wrong-in-abu-dhabi-attack-merab-behaved-disgracefully-185814093.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/islam-makhachev-says-usman-nurmagomedov-did-nothing-wrong-in-abu-dhabi-attack-merab-behaved-disgracefully-1795557337296.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/islam-makhachev-says-usman-nurmagomedov-did-nothing-wrong-in-abu-dhabi-attack-merab-behaved-disgracefully-1795592287356.jpeg",
       "source": "Yahoo Entertainment",
       "publishedAt": "2026-11-23T18:58:14Z",
       "author": "Uncrowned Staff"
@@ -72,7 +171,7 @@
       "title": "James Gallagher’s MMA career was so much more than the Ricky Bandejas loss",
       "description": "Gallagher may never have reached the heights many expected of him, but his career is still one of the most successful in Irish MMA history.",
       "url": "https://sports.yahoo.com/mma/article/james-gallaghers-mma-career-was-so-much-more-than-the-ricky-bandejas-loss-175509689.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/james-gallagher-s-mma-career-was-so-much-more-than-the-ricky-bandejas-loss-1795557337297.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/james-gallagher-s-mma-career-was-so-much-more-than-the-ricky-bandejas-loss-1795592287357.jpeg",
       "source": "Yahoo Entertainment",
       "publishedAt": "2026-11-23T17:55:09Z",
       "author": "Petesy Carroll"
@@ -81,109 +180,10 @@
       "title": "GTA 6 radio mocks Jake Paul for boxing geezers, Paul responds",
       "description": "Jake Paul built his boxing career on the (bad) backs of boxing legends. When he’s not fighting geezers who s—t tar and use a wheelchair to get around, “El Gallo” is knocking around smaller MMA fighters who can’t box. Occasionally, Paul will venture outside hi…",
       "url": "https://www.mmamania.com/boxing/488262/gta-6-radio-mocks-jake-paul-boxing-geezers-paul-responds",
-      "image": "/fightonomics/agents/mma-news-updater/images/gta-6-radio-mocks-jake-paul-for-boxing-geezers-paul-responds-1795557337298.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/gta-6-radio-mocks-jake-paul-for-boxing-geezers-paul-responds-1795592287358.jpeg",
       "source": "MMA Mania",
       "publishedAt": "2026-11-23T17:53:21Z",
       "author": "Jesse Holland"
-    },
-    {
-      "title": "Former UFC champ accepts Qatar callout from Navajo Stirling — even offers home-field advantage",
-      "description": "Navajo Stirling announced himself as a legitimate title contender by taking out former light heavyweight champion Jiri Prochazka atop the UFC Qatar MMA event last weekend in Doha. Following his twelfth straight victory, the 29-year-old kiwi called for a showd…",
-      "url": "https://www.mmamania.com/ufc-news/488245/former-ufc-champ-accepts-qatar-callout-navajo-stirling-offers-home-field-advantage",
-      "image": "/fightonomics/agents/mma-news-updater/images/former-ufc-champ-accepts-qatar-callout-from-navajo-stirling-even-offers-home-field-advantage-1795557337299.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-11-23T17:26:47Z",
-      "author": "Jesse Holland"
-    },
-    {
-      "title": "'A forced decision' - Gallagher retires from MMA",
-      "description": "Northern Ireland fighter James Gallagher says circumstances outside his control have \"forced\" him to retire from MMA aged 30.",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_26161e41-83f2-4b4c-8b7b-85a4bf77527f",
-      "image": null,
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-23T17:04:38Z",
-      "author": null
-    },
-    {
-      "title": "Gallagher retires due to issues 'out of my control'",
-      "description": "James Gallagher says \"circumstances and stipulations outside of my control\" are behind his decision to retire from mixed martial arts.",
-      "url": "https://www.bbc.com/sport/mixed-martial-arts/articles/c6lykzlyw1ddo",
-      "image": "/fightonomics/agents/mma-news-updater/images/gallagher-retires-due-to-issues-out-of-my-control-1795557337301.jpeg",
-      "source": "BBC News",
-      "publishedAt": "2026-11-23T16:57:51Z",
-      "author": "David Mohan"
-    },
-    {
-      "title": "'A forced decision' - Gallagher retires from MMA",
-      "description": "Northern Ireland fighter James Gallagher says circumstances outside his control have \"forced\" him to retire from MMA aged 30.",
-      "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckp80denz7qyo",
-      "image": "/fightonomics/agents/mma-news-updater/images/a-forced-decision-gallagher-retires-from-mma-1795557337302.jpeg",
-      "source": "BBC News",
-      "publishedAt": "2026-11-23T16:51:48Z",
-      "author": "Coral Barry"
-    },
-    {
-      "title": "Jon Jones hints at UFC return with deleted social media post",
-      "description": "Jon Jones has sparked speculation about a potential Octagon return in a now-deleted social media post.",
-      "url": "https://www.sherdog.com/news/news/Jon-Jones-hints-at-UFC-return-with-deleted-social-media-post-203727",
-      "image": "/fightonomics/agents/mma-news-updater/images/jon-jones-hints-at-ufc-return-with-deleted-social-media-post-1795557337302.jpeg",
-      "source": "Sherdog.com",
-      "publishedAt": "2026-11-23T15:10:15Z",
-      "author": "Sourav Chakraborty"
-    },
-    {
-      "title": "Mercedes-Benz GLA Electric driven: a CLA on stilts",
-      "description": "After the CLA and GLB, Mercedes' compact SUV is the latest car to adopt electric and hybrid power\n\nThe new Mercedes-Benz GLA could be the Goldilocks option in the brand’s growing range of powertrain-agnostic compact cars.We like the CLA saloon a lot for its e…",
-      "url": "https://www.autocar.co.uk/car-review/mercedes-benz/gla-electric",
-      "image": "/fightonomics/agents/mma-news-updater/images/mercedes-benz-gla-electric-driven-a-cla-on-stilts-1795557337303.jpeg",
-      "source": "Autocar",
-      "publishedAt": "2026-11-23T15:00:30Z",
-      "author": "Illya Verpraet"
-    },
-    {
-      "title": "Open Thread: Monday, November 23",
-      "description": "﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿Your daily source for off topic chatter with the MMA Mania faithful.",
-      "url": "https://www.mmamania.com/daily_mania_ufc_mma/488213/open-thread-monday-november-23",
-      "image": "/fightonomics/agents/mma-news-updater/images/open-thread-monday-november-23-1795557337304.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-11-23T14:05:00Z",
-      "author": "Tim Edwards"
-    },
-    {
-      "title": "Josh Hokit: 'My eye is still blurry' from Ciryl Gane poke at UFC 334",
-      "description": "Josh Hokit claims he still can't see properly after an eye poke from Ciryl Gane in their heavyweight title fight – and there needs to be consequences.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/23/ufc-334-josh-hokit-vision-blurry-ciryl-gane-eye-poke-threats-stab-or-shoot-consequences-heavyweight/92921798007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/josh-hokit-my-eye-is-still-blurry-from-ciryl-gane-poke-at-ufc-334-1795557337305.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-11-23T13:54:45Z",
-      "author": "Farah Hannoun"
-    },
-    {
-      "title": "UFC 335: Alex Pereira, Sergei Pavlovich full fight marathon",
-      "description": "Check out nearly an hour's worth of some of the best finishes from the UFC 335 heavyweight co-headliners: Alex Pereira and Sergei Pavlovich.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/23/ufc-335-alex-pereira-sergei-pavlovich-full-fight-video-marathon-knockouts/92916180007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/ufc-335-alex-pereira-sergei-pavlovich-full-fight-marathon-1795557337305.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-11-23T13:01:05Z",
-      "author": "MMA Junkie"
-    },
-    {
-      "title": "‘World’s most wanted’ OnlyFans model Vera Dijkmans back home after 11 days in ICE detention",
-      "description": "A Dutch OnlyFans model who once boasted she’s the \"world's most wanted girlfriend” is now back in her native Netherlands after spending 11 days holed up in ICE custody.",
-      "url": "https://nypost.com/2026/11/23/us-news/worlds-most-wanted-onlyfans-model-vera-dijkmans-back-home-after-11-days-in-ice-detention/",
-      "image": "/fightonomics/agents/mma-news-updater/images/world-s-most-wanted-onlyfans-model-vera-dijkmans-back-home-after-11-days-in-ice-detention-1795557337306.jpeg",
-      "source": "New York Post",
-      "publishedAt": "2026-11-23T12:31:37Z",
-      "author": "Chris Bradford"
-    },
-    {
-      "title": "Conor McGregor returns to MMA training for final UFC fight",
-      "description": "Conor McGregor is currently out of action, recovering from his ACL injury surgery . Earlier this year, McGregor made his five-year-long MMA comeback against Max Holloway at UFC 329. However, his return did not go according to plan, as he suffered an ACL injur…",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_89e2a74b-2b29-45d2-b073-85b408cd6054",
-      "image": null,
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-23T12:28:48Z",
-      "author": null
     }
   ]
 }

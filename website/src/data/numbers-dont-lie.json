@@ -1,10 +1,19 @@
 {
-  "lastUpdated": "2026-11-24T21:55:40.531Z",
+  "lastUpdated": "2026-11-25T07:38:10.386Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
+    {
+      "title": "Midnight Mania: Grease? Steroids? Cope?",
+      "description": "Bringing you the weird and wild from the world of MMA each and every weeknight!",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_81904ea3-18a9-42dc-89a3-03cd4d6a2e66",
+      "image": null,
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-24T04:59:00Z",
+      "author": null
+    },
     {
       "title": "'A forced decision' - Gallagher retires from MMA",
       "description": "Northern Ireland fighter James Gallagher says circumstances outside his control have \"forced\" him to retire from MMA aged 30.",
@@ -84,15 +93,6 @@
       "image": null,
       "source": "Yahoo Entertainment",
       "publishedAt": "2026-11-19T13:40:43Z",
-      "author": null
-    },
-    {
-      "title": "Locked in! ‘Platinum’ Mike Perry reveals he signed 8 fight contract with UFC",
-      "description": "Mike Perry won’t be fighting anywhere other than the UFC for a long time. That’s the core message we got listening to his new interview with MMA Fighting where “Platinum” revealed he’d signed an 8-fight deal with the fight promotion. That’s a whole lot of fig…",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_756bd423-25f8-4802-bd5a-21284196d794",
-      "image": null,
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-17T12:51:05Z",
       "author": null
     }
   ]
