@@ -1,99 +1,99 @@
 {
-  "lastUpdated": "2026-11-25T21:03:50.056Z",
+  "lastUpdated": "2026-11-26T07:27:43.715Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
-      "title": "NFL Thanksgiving Week Survivor picks: Who to target in a slim week",
-      "description": "Thanksgiving is a strange week for Survivor players.",
-      "url": "https://nypost.com/2026/11/24/betting/nfl-thanksgiving-week-survivor-picks-who-to-target-in-a-slim-week/",
-      "image": "/fightonomics/agents/mma-news-updater/images/nfl-thanksgiving-week-survivor-picks-who-to-target-in-a-slim-week-1795640628443.jpeg",
-      "source": "New York Post",
-      "publishedAt": "2026-11-24T20:30:58Z",
-      "author": "Erich Richter"
+      "title": "ufcalendar 0.11.2",
+      "description": "MMA Fight Data API client for Python — UFC, PFL, OKTAGON, BKFC, RIZIN, KSW events, fight stats, results, rankings history, judges' scorecards and consensus odds.",
+      "url": "https://pypi.org/project/ufcalendar/0.11.2/",
+      "image": null,
+      "source": "Pypi.org",
+      "publishedAt": "2026-11-25T07:11:22Z",
+      "author": null
     },
     {
-      "title": "Raoni Barcelos confident he will fight again after scary collapse: ‘I really want to come back’",
-      "description": "Raoni Barcelos vows to do anything necessary to resume his UFC career",
-      "url": "https://www.mmafighting.com/ufc/523149/raoni-barcelos-confident-he-will-fight-again-after-scary-collapse-i-really-want-to-come-back",
-      "image": "/fightonomics/agents/mma-news-updater/images/raoni-barcelos-confident-he-will-fight-again-after-scary-collapse-i-really-want-to-come-back-1795640628444.jpeg",
-      "source": "MMA Fighting",
-      "publishedAt": "2026-11-24T18:00:00Z",
-      "author": "Guilherme Cruz"
+      "title": "Renowned trainer who coached UFC champions died suddenly at 53",
+      "description": "Renowned MMA coach Eddie Cha has died at 53 years of age. On Tuesday, multiple fighters honored Cha with tribute posts online as the community mourned his loss. Cha was best-known for his coaching at Fight Ready MMA in Glendale, Arizona, where he served as a …",
+      "url": "https://www.mmamania.com/latest-news/488410/renowned-trainer-who-coached-ufc-champions-died-suddenly-at-53",
+      "image": "/fightonomics/agents/mma-news-updater/images/renowned-trainer-who-coached-ufc-champions-died-suddenly-at-53-1795678061556.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-11-25T06:00:00Z",
+      "author": "Andrew Richardson"
     },
     {
-      "title": "Raoni Barcelos reveals his UFC collapse remains a medical mystery nearly 2 months later",
-      "description": "Barcelos collapsed without resistance and went inexplicably unconscious late in his UFC Vegas 121 main event against Raul Rosas Jr. this past September.",
-      "url": "https://sports.yahoo.com/mma/article/raoni-barcelos-reveals-his-ufc-collapse-remains-a-medical-mystery-nearly-2-months-later-165648827.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/raoni-barcelos-reveals-his-ufc-collapse-remains-a-medical-mystery-nearly-2-months-later-1795640628444.jpeg",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-24T16:56:48Z",
-      "author": "Drake Riggs"
+      "title": "Midnight Mania: The Rachel Dolezal Of MMA?!?",
+      "description": "Bringing you the weird and wild from the world of MMA each and every weeknight!",
+      "url": "https://www.mmamania.com/ufc-news/488343/joaquin-buckley-explains-beef-with-rachel-dolezal-dustin-poirier-he-thinks-hes-one-of-us",
+      "image": "/fightonomics/agents/mma-news-updater/images/midnight-mania-the-rachel-dolezal-of-mma-1795678061557.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-11-25T04:59:00Z",
+      "author": "Andrew Richardson"
     },
     {
-      "title": "Daniel Cormier questions Navajo Stirling's refusal to acknowledge he's No. 1 contender",
-      "description": "Daniel Cormier wanted Navajo Stirling to declare himself as No. 1 contender after UFC Fight NIght 294.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/24/ufc-qatar-daniel-cormier-questions-navajo-stirling-mindset-fight-teammate-title-carlos-ulberg/92938383007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/daniel-cormier-questions-navajo-stirling-s-refusal-to-acknowledge-he-s-no-1-contender-1795640628444.jpeg",
+      "title": "Athletes to win Dancing with the Stars: Here's a full list of sports stars on DWTS, from Emmitt Smith to Shawn Johnson",
+      "description": "Here are a list of all of the professional athletes that have won the Mirrorball Trophy.",
+      "url": "https://www.sportingnews.com/us/tsn/news/dancing-stars-athletes-winners-list/1638003eb1a81df1e01c4a1b",
+      "image": "/fightonomics/agents/mma-news-updater/images/athletes-to-win-dancing-with-the-stars-here-s-a-full-list-of-sports-stars-on-dwts-from-emmitt-smith-to-shawn-johnson-1795678061558.jpeg",
+      "source": "Sporting News",
+      "publishedAt": "2026-11-25T04:10:00Z",
+      "author": "Teddy Ricketson"
+    },
+    {
+      "title": "Renowned MMA coach Eddie Cha dead at 53",
+      "description": "Eddie Cha, who served as the striking coach for multiple UFC champions and contenders has died.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/24/ufc-eddie-cha-death-obituary/92950190007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/renowned-mma-coach-eddie-cha-dead-at-53-1795678061558.jpeg",
       "source": "USA Today",
-      "publishedAt": "2026-11-24T14:50:28Z",
+      "publishedAt": "2026-11-25T03:55:11Z",
+      "author": "Nolan King"
+    },
+    {
+      "title": "MMA Junkie rankings, Nov. 24: Navajo Stirling nears top spot",
+      "description": "Check out the latest MMA Junkie rankings update coming out of UFC Fight Night 294 in Doha, Qatar.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/24/mma-junkie-rankings-nov-24-navajo-stirling-nears-top-spot/92952357007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/mma-junkie-rankings-nov-24-navajo-stirling-nears-top-spot-1795678061558.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-11-25T03:00:20Z",
+      "author": "George Garcia"
+    },
+    {
+      "title": "Stephen Thompson wants to wrestle after UFC retirement, but needs time to prepare",
+      "description": "Stephen Thompson is open to competing in wrestling after retiring from mixed martial arts.",
+      "url": "https://www.sherdog.com/news/news/Stephen-Thompson-wants-to-wrestle-after-UFC-retirement-but-needs-time-to-prepare-203737",
+      "image": "/fightonomics/agents/mma-news-updater/images/stephen-thompson-wants-to-wrestle-after-ufc-retirement-but-needs-time-to-prepare-1795678061558.jpeg",
+      "source": "Sherdog.com",
+      "publishedAt": "2026-11-25T02:27:14Z",
+      "author": "Sayan Nag"
+    },
+    {
+      "title": "Ethyn Ewing understands why several opponents turned him down before UFC 335 booking",
+      "description": "Ethyn Ewing claims several opponents declined to fight him before Kyler Phillips said yes.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/24/ufc-335-ethyn-ewing-interview-kyler-phillips/92917457007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/ethyn-ewing-understands-why-several-opponents-turned-him-down-before-ufc-335-booking-1795678061559.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-11-25T01:50:28Z",
+      "author": "Nolan King, Brian Garcia, George Garcia"
+    },
+    {
+      "title": "Michael Bisping: Jiri Prochazka has to address defensive flaws after UFC Qatar KO loss",
+      "description": "Michael Bisping thinks Jiri Prochazka's defensive tendencies need to change.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/24/ufc-qatar-michael-bisping-analyzes-flaws-jiri-prochazka-knockout-loss-navajo-stirling/92938800007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/michael-bisping-jiri-prochazka-has-to-address-defensive-flaws-after-ufc-qatar-ko-loss-1795678061559.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-11-25T00:55:25Z",
       "author": "Farah Hannoun"
     },
     {
-      "title": "Open Thread: Tuesday, November 24",
-      "description": "﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿Your daily source for off topic chatter with the MMA Mania faithful.",
-      "url": "https://www.mmamania.com/daily_mania_ufc_mma/488253/open-thread-tuesday-november-24",
-      "image": "/fightonomics/agents/mma-news-updater/images/open-thread-tuesday-november-24-1795640628446.jpeg",
-      "source": "MMA Mania",
-      "publishedAt": "2026-11-24T14:05:00Z",
-      "author": "Tim Edwards"
-    },
-    {
-      "title": "ACS (health) orders rectification of new 500-bed Dumka hospital flaws in 30 days",
-      "description": "ACS Dr Ajoy Kumar Singh inspects Dumka’s new 500-bed PJMCH hospital, flags flaws, orders fixes in 30 days; capacity to rise to 800 beds.",
-      "url": "https://timesofindia.indiatimes.com/city/ranchi/acs-health-orders-rectification-of-new-500-bed-dumka-hospital-flaws-in-30-days/articleshow/136133240.cms",
-      "image": "/fightonomics/agents/mma-news-updater/images/acs-health-orders-rectification-of-new-500-bed-dumka-hospital-flaws-in-30-days-1795640628446.jpeg",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-24T14:02:44Z",
-      "author": "Rajesh Kumar Pandey"
-    },
-    {
-      "title": "Tallison Teixeira wants to sync schedule with Valter Walker after UFC Qatar",
-      "description": "Brazil's Tallison Teixeira trained primarily in Russia alongside Valter Walker for UFC Qatar. He hopes his next fight will be on Walker's timeline.",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/24/ufc-fight-night-qatar-video-tallison-teixeira-training-valter-walker-russia/92939068007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/tallison-teixeira-wants-to-sync-schedule-with-valter-walker-after-ufc-qatar-1795640628447.jpeg",
-      "source": "USA Today",
-      "publishedAt": "2026-11-24T13:55:36Z",
-      "author": "Matt Erickson"
-    },
-    {
-      "title": "Man pulls blade from hair, slashes himself inside Mumbai local after being asked to vacate seat",
-      "description": "On a local train journey from Virar to Churchgate, a commuter named Praful Jhade caused a stir by injuring himself with a blade following a request to vacate his seat. Fellow passengers, concerned for his safety, pulled the emergency chain upon reaching Andhe…",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/man-pulls-blade-from-hair-slashes-himself-inside-mumbai-local-after-being-asked-to-vacate-seat/articleshow/136132972.cms",
-      "image": "/fightonomics/agents/mma-news-updater/images/man-pulls-blade-from-hair-slashes-himself-inside-mumbai-local-after-being-asked-to-vacate-seat-1795640628447.jpeg",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-24T13:53:14Z",
-      "author": "Manthan K Mehta"
-    },
-    {
-      "title": "Maharashtra's Neral railway station gets IGBC Gold rating for green initiatives",
-      "description": "Neral railway station has been awarded the IGBC Gold Rating for its energy-efficient and sustainable features. This rating recognizes the efforts in upgrading passenger amenities while focusing on environmental sustainability. A rooftop solar power system, en…",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/maharashtras-neral-railway-station-gets-igbc-gold-rating-for-green-initiatives/articleshow/136132890.cms",
-      "image": "/fightonomics/agents/mma-news-updater/images/maharashtra-s-neral-railway-station-gets-igbc-gold-rating-for-green-initiatives-1795640628448.png",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-24T13:51:49Z",
-      "author": "Manthan K Mehta"
-    },
-    {
-      "title": "Students assault English lecturer over alleged obscene messages on WhatsApp to classmate in Sangareddy; Cops book Pocso case",
-      "description": "Students in Sangareddy assaulted a polytechnic English lecturer over alleged obscene WhatsApp messages to a first-year student; police booked a POCSO case.",
-      "url": "https://timesofindia.indiatimes.com/city/hyderabad/students-assault-english-lecturer-over-alleged-obscene-messages-on-whatsapp-to-classmate-in-sangareddy-cops-book-pocso-case/articleshow/136132827.cms",
-      "image": "/fightonomics/agents/mma-news-updater/images/students-assault-english-lecturer-over-alleged-obscene-messages-on-whatsapp-to-classmate-in-sangareddy-cops-book-pocso-case-1795640628448.jpeg",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-24T13:46:08Z",
-      "author": "Madhu Rasala"
+      "title": "Brazil launches MMA reality show to select its first military team",
+      "description": "The Fighting for the Troops (Lutando pela Tropa) project aims to select Brazil’s first military amateur MMA team through a reality show featuring 24 athletes.",
+      "url": "https://www.sherdog.com/news/news/Brazil-launches-MMA-reality-show-to-select-its-first-military-team-203734",
+      "image": "/fightonomics/agents/mma-news-updater/images/brazil-launches-mma-reality-show-to-select-its-first-military-team-1795678061559.jpeg",
+      "source": "Sherdog.com",
+      "publishedAt": "2026-11-25T00:40:35Z",
+      "author": "Joao Baptista"
     }
   ],
   "matchups": [
