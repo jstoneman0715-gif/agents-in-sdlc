@@ -1,15 +1,78 @@
 {
-  "lastUpdated": "2026-11-27T20:41:39.997Z",
+  "lastUpdated": "2026-11-28T06:55:09.110Z",
   "heroImages": {
     "fighters": [],
     "analytics": null
   },
   "articles": [
     {
+      "title": "Ilia Topuria’s Ex-Coach Holds New Management Team Responsible for Justin Gaethje Loss",
+      "description": "Ilia Topuria’s first career defeat against Justin Gaethje at UFC Freedom 250 came with a brutal physical toll. The Spaniard sustained multiple facial fractures and a broken foot in their June 14 showdown, injuries that have kept him from returning to full-con…",
+      "url": "https://sports.yahoo.com/mma/articles/ilia-topuria-ex-coach-holds-041441171.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/ilia-topuria-s-ex-coach-holds-new-management-team-responsible-for-justin-gaethje-loss-1795848906307.jpeg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-27T04:14:41Z",
+      "author": "Kshitiz Kumar Singh"
+    },
+    {
+      "title": "Josh Hokit Volunteers to Face Navajo Stirling as New Zealander Accepts 205lbs Showdown",
+      "description": "Josh Hokit’s heroics against Ciryl Gane at UFC 334 have given fans hope that the heavyweight division may not be doomed after all. The outspoken American delivered what was arguably the Fight of the Year in their 265-pound title clash at Madison Square Garden…",
+      "url": "https://sports.yahoo.com/mma/articles/josh-hokit-volunteers-face-navajo-033221509.html",
+      "image": "/fightonomics/agents/mma-news-updater/images/josh-hokit-volunteers-to-face-navajo-stirling-as-new-zealander-accepts-205lbs-showdown-1795848906307.jpeg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-27T03:32:21Z",
+      "author": "Kshitiz Kumar Singh"
+    },
+    {
+      "title": "Opinion: MMA fans have plenty of reasons to be thankful for the UFC",
+      "description": "In the spirit of Thanksgiving, fans should offer praise to the things the Ultimate Fighting Championship provides to the MMA world, writes Dayne Fox.",
+      "url": "https://www.sherdog.com/news/articles/Opinion-MMA-fans-have-plenty-of-reasons-to-be-thankful-for-the-UFC-203753",
+      "image": "/fightonomics/agents/mma-news-updater/images/opinion-mma-fans-have-plenty-of-reasons-to-be-thankful-for-the-ufc-1795848906308.jpeg",
+      "source": "Sherdog.com",
+      "publishedAt": "2026-11-27T02:47:32Z",
+      "author": "x Dayne Fox"
+    },
+    {
+      "title": "Meet the ‘Bash Brothers’ of the Utah Mammoth",
+      "description": "Liam O’Brien and Jack McBain have combined for eight fights already this year. But there’s more to them than knuckles and scars.",
+      "url": "https://www.deseret.com/sports/2026/11/26/utah-mammoth-bash-bros-liam-obrien-jack-mcbain/",
+      "image": "/fightonomics/agents/mma-news-updater/images/meet-the-bash-brothers-of-the-utah-mammoth-1795848906308.jpeg",
+      "source": "Deseret News",
+      "publishedAt": "2026-11-27T02:00:00Z",
+      "author": "Brogan Houston"
+    },
+    {
+      "title": "Joshua Van OK being 2026 Fighter of the Year runner-up",
+      "description": "If it's a two-man race for 2026 Fighter of the Year, Joshua Van is content with being second.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/26/joshua-van-picks-justin-gaethje-2026-ufc-fighter-of-the-year/92971405007/",
+      "image": "/fightonomics/agents/mma-news-updater/images/joshua-van-ok-being-2026-fighter-of-the-year-runner-up-1795848906308.jpeg",
+      "source": "USA Today",
+      "publishedAt": "2026-11-26T23:00:55Z",
+      "author": "Mike Bohn"
+    },
+    {
+      "title": "Time To Smash! TAM Japan Crosses Globe To Italia, Captures Gold — Part Two",
+      "description": "The preparation, travel, and weight cutting is done (read all there here) — fight day has arrived for Namiki Kawahara and Teruto Ishihara. The lead up to the fights is largely uneventful. For the second time in as many mornings, I wake up at 3AM for absolutel…",
+      "url": "https://www.mmamania.com/regional-mma-news-results/488515/time-to-smash-team-alpha-male-japan-crash-lands-in-italy-captures-bmk-championship-part-two",
+      "image": "/fightonomics/agents/mma-news-updater/images/time-to-smash-tam-japan-crosses-globe-to-italia-captures-gold-part-two-1795848906309.jpeg",
+      "source": "MMA Mania",
+      "publishedAt": "2026-11-26T22:00:00Z",
+      "author": "Andrew Richardson"
+    },
+    {
+      "title": "Two companies behind McGregor's stout record €2.43 losses",
+      "description": "Two companies behind Conor McGregor's Forged Stout brand recorded combined losses of €2.43m last year.",
+      "url": "https://www.rte.ie/news/business/2026/1126/1600839-mcgregor-stout-losses/",
+      "image": "/fightonomics/agents/mma-news-updater/images/two-companies-behind-mcgregor-s-stout-record-2-43-losses-1795848906309.jpeg",
+      "source": "RTE",
+      "publishedAt": "2026-11-26T21:19:59Z",
+      "author": "RTÉ News"
+    },
+    {
       "title": "Time To Smash! TAM Japan Crosses Globe To Italia, Captures Gold — Part One",
       "description": "One week ago, Team Alpha Male (TAM) Japan and I arrived at the Sacramento airport with international tickets on hand. Two years prior, I joined Namiki Kawahara on his quest for global Strawweight greatness as he traveled to the United Kingdom to capture the 1…",
       "url": "https://www.mmamania.com/regional-mma-news-results/488421/time-to-smash-team-alpha-male-japan-crash-lands-in-italy-captures-bmk-championship",
-      "image": "/fightonomics/agents/mma-news-updater/images/time-to-smash-tam-japan-crosses-globe-to-italia-captures-gold-part-one-1795812097448.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/time-to-smash-tam-japan-crosses-globe-to-italia-captures-gold-part-one-1795848906310.jpeg",
       "source": "MMA Mania",
       "publishedAt": "2026-11-26T20:14:00Z",
       "author": "Andrew Richardson"
@@ -18,7 +81,7 @@
       "title": "From Jim Miller's immortality to Josh Hokit's absurdity: 11 things to be thankful for in MMA's 2026",
       "description": "Justin Gaethje is still writing his poems in blood, the Apex finally has a pulse and fight fans are getting an extra hour of sleep. Even in this ridiculous sport of ours, there's plenty to give thanks for.",
       "url": "https://sports.yahoo.com/mma/article/from-jim-millers-immortality-to-josh-hokits-absurdity-11-things-to-be-thankful-for-in-mmas-2026-191015523.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/from-jim-miller-s-immortality-to-josh-hokit-s-absurdity-11-things-to-be-thankful-for-in-mma-s-2026-1795812097449.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/from-jim-miller-s-immortality-to-josh-hokit-s-absurdity-11-things-to-be-thankful-for-in-mma-s-2026-1795848906310.jpeg",
       "source": "Yahoo Entertainment",
       "publishedAt": "2026-11-26T19:10:15Z",
       "author": "Chuck Mindenhall"
@@ -27,64 +90,10 @@
       "title": "Video: Which 10 UFC fighters are we thankful for in 2026?",
       "description": "On Thanksgiving 2026, these are 10 fighters we should be thankful for carrying the UFC through this year.",
       "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/26/video-top-10-ufc-fighters-thanksgiving-2026/92964377007/",
-      "image": "/fightonomics/agents/mma-news-updater/images/video-which-10-ufc-fighters-are-we-thankful-for-in-2026-1795812097449.jpeg",
+      "image": "/fightonomics/agents/mma-news-updater/images/video-which-10-ufc-fighters-are-we-thankful-for-in-2026-1795848906310.jpeg",
       "source": "USA Today",
       "publishedAt": "2026-11-26T18:01:00Z",
       "author": "Mike Bohn"
-    },
-    {
-      "title": "Ex-UFC star breaks silence after criminal charges against him are dropped",
-      "description": "Earlier this year, former UFC fighter Anthony Smith was arrested on multiple felony charges in Jul. 2026. In a report by TMZ, it was noted that the 38-year-old Smith was arrested in the state of Nebraska on three felony charges. TMZ further added that Smith a…",
-      "url": "https://clutchpoints.com/celebrity/ex-ufc-star-anthony-smith-breaks-silence-criminal-charges-dropped",
-      "image": "/fightonomics/agents/mma-news-updater/images/ex-ufc-star-breaks-silence-after-criminal-charges-against-him-are-dropped-1795812097449.jpeg",
-      "source": "ClutchPoints",
-      "publishedAt": "2026-11-26T14:36:55Z",
-      "author": "ClutchPoints Shounak Chakrabarti"
-    },
-    {
-      "title": "100th Sundays on Cycle: From Fit India to Olympic India",
-      "description": "“Sabse bada sukh swasth sharir hai” — the greatest happiness lies in a healthy body.",
-      "url": "https://timesofindia.indiatimes.com/life-style/spotlight/100th-sundays-on-cycle-from-fit-india-to-olympic-india/articleshow/136193726.cms",
-      "image": "/fightonomics/agents/mma-news-updater/images/100th-sundays-on-cycle-from-fit-india-to-olympic-india-1795812097450.jpeg",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-26T13:31:21Z",
-      "author": "TNN"
-    },
-    {
-      "title": "RAF has done what so many others couldn't: Make wrestling an attraction. Now can it do the same for wrestlers?",
-      "description": "Fifteen months into its existence, RAF has already defied decades of conventional wisdom about freestyle wrestling's commercial appeal. Now comes the hard part.",
-      "url": "https://sports.yahoo.com/wrestling/article/raf-has-done-what-so-many-others-couldnt-make-wrestling-an-attraction-now-can-it-do-the-same-for-wrestlers-130000525.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/raf-has-done-what-so-many-others-couldn-t-make-wrestling-an-attraction-now-can-it-do-the-same-for-wrestlers-1795812097450.jpeg",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-26T13:00:00Z",
-      "author": "Chuck Mindenhall"
-    },
-    {
-      "title": "'When you're in it, it's chaos': Inside the high-wire act behind RAF's unlikely success",
-      "description": "RAF has found a winning formula by selling a family-friendly wrestling product that routinely finds itself at the center of viral controversies. But how do you keep a lid on the very chaos that's helping your business grow?",
-      "url": "https://sports.yahoo.com/wrestling/article/raf-real-america-freestyle-inside-the-high-wire-act-behind-wrestlings-unlikely-success-120000566.html",
-      "image": "/fightonomics/agents/mma-news-updater/images/when-you-re-in-it-it-s-chaos-inside-the-high-wire-act-behind-raf-s-unlikely-success-1795812097450.jpeg",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-26T12:00:00Z",
-      "author": "Ben Fowlkes"
-    },
-    {
-      "title": "Charges dismissed against UFC veteran Anthony Smith after July arrest - MMA Junkie",
-      "description": "Charges dismissed against UFC veteran Anthony Smith after July arrestMMA Junkie Felony charges dropped against ex-UFC fighter Anthony SmithESPN Charges dismissed against Anthony Smith after July arrest; Smith releases statementMMA Fighting Charges dismissed a…",
-      "url": "https://slashdot.org/firehose.pl?op=view&id=186873677",
-      "image": null,
-      "source": "Slashdot.org",
-      "publishedAt": "2026-11-26T07:12:17Z",
-      "author": "feedfeeder"
-    },
-    {
-      "title": "Navajo Stirling & Carlos Ulberg Make Decision on Future UFC Fight",
-      "description": "UFC light heavyweight teammates Navajo Stirling and Carlos Ulberg have made a decision about a future fight against each other.Ulberg is the current UFC light heavyweight champion, while Stirling is one of the top contenders in the weight class following his …",
-      "url": "https://heavy.com/sports/ufc/navajo-stirling-carlos-ulberg-make-decision/",
-      "image": "/fightonomics/agents/mma-news-updater/images/navajo-stirling-carlos-ulberg-make-decision-on-future-ufc-fight-1795812097451.jpeg",
-      "source": "Heavy.com",
-      "publishedAt": "2026-11-26T07:00:36Z",
-      "author": "Adam Martin"
     }
   ]
 }
